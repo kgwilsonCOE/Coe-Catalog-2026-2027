@@ -139,7 +139,7 @@ In this catalog, writing emphasis courses are designated by a (WE) after the cou
 - CRW-107 Exploring Creative Writing: United States Pluralism
 - CRW-125 Introduction to Creative Writing
 - CRW-135 Writer’s Colony 
-- 	CRW-225 Creative Nonfiction Workshop 1
+- CRW-225 Creative Nonfiction Workshop 1
 - CRW-255 Playwriting Workshop 1
 - CRW-280 Poetry Workshop
 - CRW-290 Fiction Workshop
