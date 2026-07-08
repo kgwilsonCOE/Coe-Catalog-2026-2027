@@ -10,3 +10,5 @@
 Coe College is a national, residential liberal arts college offering a broad array of programs in the arts, sciences and professions.  Our mission is to prepare students for meaningful lives and fulfilling careers in a diverse, interconnected world.  Coe’s success will be judged by the success of our graduates.  
 
 *Coe College admits students without regard to sex, race, creed, color, handicap, sexual orientation, national, or ethnic origin.  All students have equal access to the facilities, financial aid, and programs of the College.*
+
+Date of publication: 7-6-2026
