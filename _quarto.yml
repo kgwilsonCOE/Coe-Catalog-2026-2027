@@ -9,10 +9,10 @@ execute:
   freeze: true
 
 book:
-  title: "Course Catalog 2025-2026"
-  date: "8/1/2025"
+  title: "Course Catalog 2026-2027"
+  date: "8/1/2026"
   cover-image: 2023 Catalog cover.png
-  page-footer: "*Coe College Catalog (2025-2026)*"
+  page-footer: "*Coe College Catalog (2026-2027)*"
   sidebar:
     search: true
     collapse-level: 1
@@ -102,6 +102,7 @@ format:
               \lfoot{\textit{Coe College (2022-2023)}}
               \renewcommand{\part}[1]{\addcontentsline{toc}{part}{#1}}
               \newcommand{\pandocbounded}[1]{#1}
+              \newcounter{none}
     
     include-after-body: 
       text: |
