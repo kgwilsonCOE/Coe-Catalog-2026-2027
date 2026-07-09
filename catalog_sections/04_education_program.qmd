@@ -632,3 +632,25 @@ The following list includes acceptable practicum experiences:
   - THE-442 Advanced Projects in Design and Technical Production
   - THE-452 Advanced Projects in Acting
   - THE-462 Advanced Projects in Directing 
+
+## **AREAS OF STUDY**
+
+The four undergraduate degrees have areas of study associated with them.  The Bachelor of Science in Nursing’s area of study is nursing; the Bachelor of Science in Engineering’s area of study is engineering physics.  The Bachelor of Arts’ areas of study (residential or online), commonly referred to as majors, are listed below. The Bachelor of Arts degree has two options for completion—the traditional program and the reduced-credit program (online only), with each requiring an area of study, commonly referred to as a major. A student earning an RC-B.A. must complete an area of study approved for this particular degree. A student earning a traditional B.A. must complete at least one area of study approved for the traditional degree, but may also complete an area of study approved for a RC-B.A., earning the traditional B.A.  Students may matriculate from a residential to online program or vice versa but cannot be simultaneously in both degree programs.
+
+All students are required to complete at least one area of study associated with their degree. Students should declare a major by the end of their sophomore year.  All students must earn at least a 2.00 GPA in courses required to complete their areas of study, as well as meet specific requirements set forth for the area of study.
+
+### **Areas of Study (Majors) for B.A. (Residential Only) 32 Credit Program**
+
+Accounting, Managerial | Data Science | Music
+Accounting, Public | Economics | Philosophy
+African American Studies | Elementary Education | Physics
+Art | English | Political Science
+Asian Studies | History | Psychology
+Biology | Interdisciplinary Science | Social & Criminal Justice
+Business Administration | Interdisciplinary Studies [^1] | Sociology
+Chemistry | International Economics | Spanish
+Communication Studies | International Studies | Spanish Studies
+Computer Science | Kinesiology | Theatre Arts
+Creative Writing | Mathematics | 
+
+[^1] A coherent interdisciplinary sequence of courses devised by the student, in consultation with faculty, suited to the student’s individual goals and approved by the Academic Policies Committee.
