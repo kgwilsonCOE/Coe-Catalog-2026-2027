@@ -2,7 +2,7 @@
 
 **COE COLLEGE** is a private, four-year co-educational liberal arts college that was founded in 1851 and is historically affiliated with the Presbyterian Church (U.S.A.), yet is ecumenical in practice and outlook. 
 
-### LOCATION
+## LOCATION
 
 Coe is located just 225 miles west of Chicago in Iowa’s second largest city, Cedar Rapids (metropolitan population 140,000). The city is easily accessible by the interstate highway system, bus services and several airlines.    
 
