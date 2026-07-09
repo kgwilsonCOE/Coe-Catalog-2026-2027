@@ -80,8 +80,8 @@ In this catalog, writing emphasis courses are designated by a (WE) after the cou
 
 #### Writing Emphasis Course Listing
 
-|                         |                                |                          |                         |
-|:---                     |:---                            |:---                      |:---                     |
+|        |                           |        |                           |
+|:---    |:---                       |:---    |:---                       |
 |AAM-137 |African American Literature|HIS-248 |The French Revolution|
 |AAM-367 |Studies in African American Literature|HIS-256 |History of Modern Japan|
 |ACC-313 |Fraud Examination|HIS-257 |Native American History|
