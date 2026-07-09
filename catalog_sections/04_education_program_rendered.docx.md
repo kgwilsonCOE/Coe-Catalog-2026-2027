@@ -641,8 +641,8 @@ All students are required to complete at least one area of study associated with
 
 ### **Areas of Study (Majors) for B.A. (Residential Only) 32 Credit Program**
 
-|Majors                   |             Majors             |                    Majors|
-|:---                     |              :---:             |                      ---:|
+|                         |                                |                          |
+|:---                     |:---                            |:---                      |
 |Accounting, Managerial   |           Data Science         |                     Music|
 |Accounting, Public       |            Economics           |                Philosophy|
 |African American Studies |       Elementary Education     |                   Physics|
