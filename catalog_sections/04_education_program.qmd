@@ -80,320 +80,316 @@ In this catalog, writing emphasis courses are designated by a (WE) after the cou
 
 #### Writing Emphasis Course Listing
 
-|         |                                |         |                                |
-|:---     |:--- &nbsp; &nbsp; &nbsp; &nbsp;|:---     |:--- &nbsp; &nbsp; &nbsp; &nbsp;|
-|AAM-137 |African American Literature|HIS-248 |The French Revolution|
-|AAM-367 |Studies in African American Literature|HIS-256 |History of Modern Japan|
-|ACC-313 |Fraud Examination|HIS-257 |Native American History|
-|ACC-413 |Auditing|HIS-268 |Latin America|
-|ARH-307 Modern and Contemporary Art
-|ART-464 Seminar in Art and Visual Studies I
-|ASC-216 History of Modern Korea
-|AVS-401 Aviation Seminar
-|AVS-403 Aviation Safety
-|BIO-145L Introduction to Biology Laboratory
-|BIO-155L Organismal and Ecological Biology Laboratory
-|BIO-205L General Botany Laboratory
-|BIO-235L Genetics Laboratory
-|BIO-295L Spatial Ecology Laboratory
-|BIO-325 Microbiology
-|BIO-415L Developmental Biology Laboratory
-|BIO-425L Ecology Lab
-|BUS-190 Statistical Analysis
-|BUS-330 Principles of Marketing
-|BUS-375 Business Ethics
-|BUS-387 Advanced Topics in Human Resource Management
-|BUS-460 Advertising 
-|BUS-461 Marketing Decision-Making & Strategy
-|BUS-464 Seminar in Management
-|BUS-470 Strategic Management
-|CHM-211L Analytical Chemistry Lab
-|CHM-341 Physical Chemistry I
-|CHM-422 Synthesis Laboratory
-|CHM-451L Inorganic Chemistry Lab
-|COM-137 Interpersonal Communication 
-|COM-141 Introduction to Journalism
-|COM-151 Introduction to New Media Studies
-|COM-157 Introduction to Media Analysis
-|COM-231 Communication in Teams
-|COM-236 Intercultural Communication
-|COM-241 Multimedia Journalism
-|COM-257 Sex, Race, and Gender in the Media
-|COM-267 Environmental Rhetoric 
-|COM-281 Introduction to Research Methods
-|COM-322 Professional Communication and Writing
-|COM-323 Relational Communication: Theory and Application
-|COM-327 Organizational Comm
-|COM-332 Health Communication
-|COM-341 Digital Storytelling
-|COM-377 Language, Power, and Social Change
-|COM-381 Research Methods in Communication Studies
-|COM-394 Directed Learning in Communication
-|COM-435 Advanced Topics in Human Communication
-|COM-437 Advanced Topics in Human Communication
-|COM-444 Independent Study in Communication Studies
-|COM-455 Special Topics in Media Analysis
-|COM-457 Special Topics in Media Analysis
-|COM-465 Advanced Topics in Cultural and Critical Communication
-|COM-467 Advanced Topics in Cultural and Critical Communication
-|CRW-105 Exploring Creative Writing
-|CRW-106 Exploring Creative Writing: Non-Western Perspectives
-|CRW-107 Exploring Creative Writing: United States Pluralism
-|CRW-125 Introduction to Creative Writing
-|CRW-135 Writer’s Colony 
-|CRW-225 Creative Nonfiction Workshop 1
-|CRW-255 Playwriting Workshop 1
-|CRW-280 Poetry Workshop
-|CRW-290 Fiction Workshop
-|CRW-325 Creative Nonfiction Workshop 2
-|CRW-345 Writing Wilderness
-|CRW-350 Screenwriting
-|CRW-355 Playwriting Workshop 2
-|CRW-380 Poetry Workshop
-|CRW-390 Fiction Workshop
-|CRW-394 Directed Learning in Creative Writing
-|CRW-455 Playwriting Workshop 3
-|CRW-480 Poetry Workshop
-|CRW-484 Advanced Topics in Creative Writing
-|CRW-490 Fiction Workshop
-|CRW-492 Manuscript Workshop
-|CS-480 Software Engineering Capstone
-|CS-280 Algorithms in Society
-|ECC-112 Introduction to Writing Center Theory & Practice
-|ECC-312 Writing Center Theory & Practice
-|ECC-345 Writing Process
-|ECO-375 Econometrics
-|ECO-395 History of Economic Thought
-|ECO-424 Political Economy
-|ECO-445 Econometrics II
-|EDU-105 Foundations of Education
-|EDU-187 Human Relations
-|EDU-215 Practicum in Education
-|EDU-220 Professional Writing for Teachers
-|EDU-237 English Language Learners
-|EDU-260 Content Area Language and Literacy
-|EDU-270 Literature K-12
-|EDU-305 Methods of Elementary Science
-|EDU-310 Methods of Secondary Business Education
-|EDU-311 Methods of Secondary Language Arts
-|EDU-312 Methods of Secondary Social Studies
-|EDU-313 Methods of Secondary Mathematics
-|EDU-320 Methods of Secondary Science
-|EDU-321 Methods of World Language K-12
-|EDU-335 Methods of Elementary Mathematics
-|EDU-345 Methods of Elementary Language Arts
-|EDU-355 Methods of Elementary Reading
-|EDU-365 Methods of Elementary Social Studies
-|EDU-395 Diagnostic Reading and Tutorial
-|EDU-481 Student Teaching in Art at the Secondary School 
-|EDU-482 Student Teaching in Physical Education at the Secondary School 
-|EDU-483 Student Teaching in Art at the Elementary School 
-|EDU-485 Student Teaching in Physical Education at the Elementary School 
-|EDU-489 Student Teaching in the Senior High School  
-|EDU-490 Student Teaching in Middle School or Junior High School  
-|EDU-491 Student Teaching in the Upper Elementary Grades: Grades 3-6 
-|EDU-492 Student Teaching in the Primary Grades: Grades K-3 
-|ENG-111 Introduction to Literary Studies: The Art of Reading and Writing
-|ENG-117 Asian American Literature
-|ENG-127 Social Justice and Literature
-|ENG-137 African American Literature
-|ENG-146 Introduction to Postcolonial Literature
-|ENG-157 Latinx/Chicanx Literature
-|ENG-206 Gender and Literature: NWP
-|ENG-207 Gender and Literature: USP
-|ENG-208 Gender and Literature: DWP
-|ENG-281 Literatures in English 1800
-|ENG-291 Literatures in English after 1800
-|ENG-301 The Art of Literary Research
-|ENG-312 Studies in Environmental Humanities
-|ENG-327 Literature of the American Renaissance
-|ENG-328 Dante’s Divine Comedy
-|ENG-337 American Realism and Naturalism
-|ENG-347 Studies in Modern or Contemporary American Literature
-|ENG-357 Studies in Latinx/Chicanx Literature
-|ENG-367 Studies in African American Literature
-|ENG-375 Studies in European Literature
-|ENG-378 Studies in Transatlantic Literature
-|ENG-380 The Age of Chaucer
-|ENG-382 Shakespeare: Comedies and Romances
-|ENG-383 Shakespeare: Tragedies and Histories
-|ENG-384 British Renaissance Literature
-|ENG-385 Restoration and Eighteenth-Century British Literature
-|ENG-388 Romantic Literature
-|ENG-390 Victorian Literature
-|ENG-392 The Nineteenth-Century British Novel
-|ENG-393 Studies in Modern or Contemporary British Literature
-|ENG-394 Directed Learning in English
-|ENG-454 Honors Research
-|ENG-464 Seminar in Literature
-|ENG-467 Seminar in Literature: USP
-|GS-107 Introduction to Gender and Sexuality
-|GS-327 Theory and Methods in Gender and Sexuality Studies
-|GS-387 Topics in Gender and Sexuality Studies
-|HIS-205 The Historian’s Craft
-|HIS-208 The First World War
-|HIS-216 History of Modern Korea
-|HIS-217 The American War in Vietnam
-|HIS-218 The Second World War
-|HIS-227 The American Civil War
-|HIS-238 Modern France
-|HIS-246 History of Modern China
+|                               |                                | 
+|:---                           |:---                            |
+|AAM-137 African American Literature|HIS-248 The French Revolution|
+|AAM-367 Studies in African American Literature|HIS-256 History of Modern Japan|
+|ACC-313 Fraud Examination|HIS-257 Native American History|
+|ACC-413 Auditing|HIS-268 Latin America|
+|ARH-307 Modern and Contemporary Art| HIS-272 History of Medieval Europe| 
+|ART-464 Seminar in Art and Visual Studies I| HIS-275 Ancient Greek History| 
+|ASC-216 History of Modern Korea| HIS-276 The “Discovery” of America: Clash of Cultures and Alterities| 
+|AVS-401 Aviation Seminar| HIS-278 History of the Holocaust| 
+|AVS-403 Aviation Safety| HIS-285 History of Ancient Rome| 
+|BIO-145L Introduction to Biology Laboratory| HIS-286 Modern Middle East| 
+|BIO-155L Organismal and Ecological Biology Laboratory| HIS-288 Renaissance and Reformation| 
+|BIO-205L General Botany Laboratory| HIS-292 History of Modern England| 
+|BIO-235L Genetics Laboratory| HIS-297 Woman in America| 
+|BIO-295L Spatial Ecology Laboratory| 
+|BIO-325 Microbiology| 
+|BIO-415L Developmental Biology Laboratory| 
+|BIO-425L Ecology Lab| 
+|BUS-190 Statistical Analysis| 
+|BUS-330 Principles of Marketing| 
+|BUS-375 Business Ethics| 
+|BUS-387 Advanced Topics in Human Resource Management| 
+|BUS-460 Advertising | 
+|BUS-461 Marketing Decision-Making & Strategy| 
+|BUS-464 Seminar in Management| 
+|BUS-470 Strategic Management| 
+|CHM-211L Analytical Chemistry Lab| 
+|CHM-341 Physical Chemistry I| 
+|CHM-422 Synthesis Laboratory| 
+|CHM-451L Inorganic Chemistry Lab| 
+|COM-137 Interpersonal Communication | 
+|COM-141 Introduction to Journalism| 
+|COM-151 Introduction to New Media Studies| 
+|COM-157 Introduction to Media Analysis| 
+|COM-231 Communication in Teams| 
+|COM-236 Intercultural Communication| 
+|COM-241 Multimedia Journalism| 
+|COM-257 Sex, Race, and Gender in the Media| 
+|COM-267 Environmental Rhetoric | 
+|COM-281 Introduction to Research Methods| 
+|COM-322 Professional Communication and Writing| 
+|COM-323 Relational Communication: Theory and Application| 
+|COM-327 Organizational Comm| 
+|COM-332 Health Communication| 
+|COM-341 Digital Storytelling| 
+|COM-377 Language, Power, and Social Change| 
+|COM-381 Research Methods in Communication Studies| 
+|COM-394 Directed Learning in Communication| 
+|COM-435 Advanced Topics in Human Communication| 
+|COM-437 Advanced Topics in Human Communication| 
+|COM-444 Independent Study in Communication Studies| 
+|COM-455 Special Topics in Media Analysis| 
+|COM-457 Special Topics in Media Analysis| 
+|COM-465 Advanced Topics in Cultural and Critical Communication| 
+|COM-467 Advanced Topics in Cultural and Critical Communication| 
+|CRW-105 Exploring Creative Writing| 
+|CRW-106 Exploring Creative Writing: Non-Western Perspectives| 
+|CRW-107 Exploring Creative Writing: United States Pluralism| 
+|CRW-125 Introduction to Creative Writing| 
+|CRW-135 Writer’s Colony | 
+|CRW-225 Creative Nonfiction Workshop 1| 
+|CRW-255 Playwriting Workshop 1| 
+|CRW-280 Poetry Workshop| 
+|CRW-290 Fiction Workshop| 
+|CRW-325 Creative Nonfiction Workshop 2| 
+|CRW-345 Writing Wilderness| 
+|CRW-350 Screenwriting| 
+|CRW-355 Playwriting Workshop 2| 
+|CRW-380 Poetry Workshop| 
+|CRW-390 Fiction Workshop| 
+|CRW-394 Directed Learning in Creative Writing| 
+|CRW-455 Playwriting Workshop 3| 
+|CRW-480 Poetry Workshop| 
+|CRW-484 Advanced Topics in Creative Writing| 
+|CRW-490 Fiction Workshop| 
+|CRW-492 Manuscript Workshop| 
+|CS-480 Software Engineering Capstone| 
+|CS-280 Algorithms in Society| 
+|ECC-112 Introduction to Writing Center Theory & Practice| 
+|ECC-312 Writing Center Theory & Practice| 
+|ECC-345 Writing Process| 
+|ECO-375 Econometrics| 
+|ECO-395 History of Economic Thought| 
+|ECO-424 Political Economy| 
+|ECO-445 Econometrics II| 
+|EDU-105 Foundations of Education| 
+|EDU-187 Human Relations| 
+|EDU-215 Practicum in Education| 
+|EDU-220 Professional Writing for Teachers| 
+|EDU-237 English Language Learners| 
+|EDU-260 Content Area Language and Literacy| 
+|EDU-270 Literature K-12| 
+|EDU-305 Methods of Elementary Science| 
+|EDU-310 Methods of Secondary Business Education| 
+|EDU-311 Methods of Secondary Language Arts| 
+|EDU-312 Methods of Secondary Social Studies| 
+|EDU-313 Methods of Secondary Mathematics| 
+|EDU-320 Methods of Secondary Science| 
+|EDU-321 Methods of World Language K-12| 
+|EDU-335 Methods of Elementary Mathematics| 
+|EDU-345 Methods of Elementary Language Arts| 
+|EDU-355 Methods of Elementary Reading| 
+|EDU-365 Methods of Elementary Social Studies| 
+|EDU-395 Diagnostic Reading and Tutorial| 
+|EDU-481 Student Teaching in Art at the Secondary School | 
+|EDU-482 Student Teaching in Physical Education at the Secondary School | 
+|EDU-483 Student Teaching in Art at the Elementary School | 
+|EDU-485 Student Teaching in Physical Education at the Elementary School | 
+|EDU-489 Student Teaching in the Senior High School  | 
+|EDU-490 Student Teaching in Middle School or Junior High School  | 
+|EDU-491 Student Teaching in the Upper Elementary Grades: Grades 3-6 | 
+|EDU-492 Student Teaching in the Primary Grades: Grades K-3 | 
+|ENG-111 Introduction to Literary Studies: The Art of Reading and Writing| 
+|ENG-117 Asian American Literature| 
+|ENG-127 Social Justice and Literature| 
+|ENG-137 African American Literature| 
+|ENG-146 Introduction to Postcolonial Literature| 
+|ENG-157 Latinx/Chicanx Literature| 
+|ENG-206 Gender and Literature: NWP| 
+|ENG-207 Gender and Literature: USP| 
+|ENG-208 Gender and Literature: DWP| 
+|ENG-281 Literatures in English 1800| 
+|ENG-291 Literatures in English after 1800| 
+|ENG-301 The Art of Literary Research| 
+|ENG-312 Studies in Environmental Humanities| 
+|ENG-327 Literature of the American Renaissance| 
+|ENG-328 Dante’s Divine Comedy| 
+|ENG-337 American Realism and Naturalism| 
+|ENG-347 Studies in Modern or Contemporary American Literature| 
+|ENG-357 Studies in Latinx/Chicanx Literature| 
+|ENG-367 Studies in African American Literature| 
+|ENG-375 Studies in European Literature| 
+|ENG-378 Studies in Transatlantic Literature| 
+|ENG-380 The Age of Chaucer| 
+|ENG-382 Shakespeare: Comedies and Romances| 
+|ENG-383 Shakespeare: Tragedies and Histories| 
+|ENG-384 British Renaissance Literature| 
+|ENG-385 Restoration and Eighteenth-Century British Literature| 
+|ENG-388 Romantic Literature| 
+|ENG-390 Victorian Literature| 
+|ENG-392 The Nineteenth-Century British Novel| 
+|ENG-393 Studies in Modern or Contemporary British Literature| 
+|ENG-394 Directed Learning in English| 
+|ENG-454 Honors Research| 
+|ENG-464 Seminar in Literature| 
+|ENG-467 Seminar in Literature: USP| 
+|GS-107 Introduction to Gender and Sexuality| 
+|GS-327 Theory and Methods in Gender and Sexuality Studies| 
+|GS-387 Topics in Gender and Sexuality Studies| 
+|HIS-205 The Historian’s Craft| 
+|HIS-208 The First World War| 
+|HIS-216 History of Modern Korea| 
+|HIS-217 The American War in Vietnam| 
+|HIS-218 The Second World War| 
+|HIS-227 The American Civil War| 
+|HIS-238 Modern France| 
+|HIS-246 History of Modern China| 
 
 
 
 
-|HIS-272 History of Medieval Europe
-|HIS-275 Ancient Greek History
-|HIS-276 The “Discovery” of America: Clash of Cultures and Alterities
-|HIS-278 History of the Holocaust
-|HIS-285 History of Ancient Rome
-|HIS-286 Modern Middle East
-|HIS-288 Renaissance and Reformation
-|HIS-292 History of Modern England
-|HIS-297 Woman in America
-|HIS-300 Public History
-|HIS-306 Revolution, Social Struggle, and Testimonio in Latin America 20th Century
-|HIS-308 Legacies of the Cold War in Argentina, Peru, Columbia, and Chile
-|HIS-316 Topics in History: NWP
-|HIS-317 Topics in History: USP
-|HIS-318 Topics in History: DWP
-|HIS-325 Recent American History I
-|HIS-328 Sport and Spectacle in Ancient Greece and Rome
-|HIS-335 Recent American History II
-|HIS-347 African American History
-|HIS-355 19th Century Europe
-|HIS-365 20th Century Europe
-|HIS-372 Early Modern Europe
-|HIS-387 American Colonial History
-|HIS-395 United States Diplomatic History
-|HIS-444 Independent Study
-|HIS-465 Seminar in Ancient History
-|HIS-466 Seminar in Modern East Asian History
-|HIS-472 Seminar in American History I
-|HIS-473 Seminar in American History II
-|HIS-474 Seminar in Modern European
-|KIN-347 Adapted Physical Education
-|KIN-440 Organization and Admin of Physical Education and Athletics
-|MTH-215 Foundations of Advanced Mathematics
-|MTH-305 Advanced Geometry
-|MTH-325 Differential Equations
-|MTH-445 Complex Analysis
-|MTH-455 Mathematical Modeling
-|MTH-484 History of Mathematics
-|MU-107 American Music
-|MU-384 Conducting I
-|MU-385 Conducting II
-|NUR-305 Information Literature and Management
-|NUR-375 Legal and Ethical Issues in Nursing
-|NUR-425 Nursing Research
-|NUR-455 Leadership and Contemporary Issues in Nursing
-|PHL-105 Introduction to Philosophy
-|PHL-128 Morality and Moral Controversies
-|PHL-200 Bio-medical Ethics
-|PHL-205 Environmental Ethics
-|PHL-210 Topics in Philosophy
-|PHL-220 Ancient Greek Philosophy
-|PHL-265 Political Philosophy
-|PHL-285 Law, Morality, and Punishment
-|PHL-300 Early Modern Philosophy
-|PHL-315 Advanced Topics in Philosophy
-|PHL-320 Seminar in Ethics
-|PHL-355 Seminar in Metaphysics and Epistemology
-|PHL-394 Directed Learning in Philosophy
-|PHL-444 Independent Study in Philosophy
-|PHL-490 Philosophy in Colloquium
-|PHL-494 Internship in Philosophy
-|PHY-105 Physics: An Historical Approach
-|PHY-236 Advanced Laboratory 1
-|PHY-246 Advanced Laboratory 2
-|PHY-311 Renewable Energy
-|PHY-444 Independent Study
-|PHY-454 Summer Research
-|POL-210 Environmental Politics
-|POL-258 World Politics
-|POL-266 Latin American Politics
-|POL-276 African Politics
-|POL-277 Women and Politics in the United States
-|POL-286 Asian Politics
-|POL-298 European Politics
-|POL-305 Terrorism
-|POL-310 International Organization
-|POL-325 The American Congress
-|POL-345 The American Presidency
-|POL-350 US Social Policy Process
-|POL-365 American Foreign Policy
-|POL-405 Contemporary Political Theory
-|POL-435 Ancient and Medieval Political Theory
-|POL-445 Modern Political Theory
-|PR-205 Public Relations
-|PSY-200 Research Methods
-|PSY-295 Applied Career Development in Psychology
-|PSY-325L Health Psychology Laboratory
-|PSY-335L Sensation and Perception Laboratory
-|PSY-355L Personality Laboratory
-|PSY-464 Seminar in Psychology
-|REL-101 Introduction to Religion
-|REL-103 Belief and Unbelief
-|REL-105 Introduction to Hebrew Bible
-|REL-108 Western Religions
-|REL-115 Introduction to New Testament
-|REL-128 Judaism
-|REL-136 Religions of China
-|REL-138 Modern Judaism 
-|REL-148 Islam
-|REL-206 Buddhist Thought
-|REL-215 The Rise of Christianity
-|REL-217 Religion in America
-|REL-226 Religions of China: Daoism 
-|REL-236 Zen Buddhism
-|REL-310 Early Christian Gospels
-|REL-328 Dante’s Divine Comedy
-|REL-330 Topics in Hebrew Bible
-|REL-336 Tibetan Buddhist Culture
-|REL-338 Modern Religious thought
-|REL-365 The Letters of Paul
-|REL-385 Advanced Topics in Religion
-|REL-394 Directed Learning in Religion
-|REL-396 Advanced Topics in Religion: NWP
-|REL-444 Independent Study in Religion
-|REL-494 Internship in Religion
-|SOC-235 Methods of Sociological Research
-|SOC-450 Sociological Theory
-|SOC-464 Sociology Capstone
-|SPA-315 Spanish Composition and Conversation
-|SPA-325 Spanish Language and Literature
-|SPA-330 Spanish for Heritage Speakers
-|SPA-345 Introduction to Hispanic Literature
-|SPA-394 Directed Learning
-|SPA-412 Ecologies: Latin American Environmental Literature and Cultural Works
-|SPA-418 Gender and Sexuality in the Hispanic World
-|SPA-421 Nation, History and Literature
-|SPA-428 Indigeneity, Blackness, and Ethnic Literatures in the Hispanic World
-|SPA-431 Hispanic Graphic Novel: Theory and Practice
-|SPA-432 Representations of Violence in Hispanic Cultural Productions
-|SPA-442 Pop Culture, Media, and Cultural Studies
-|SPA-443 Cinema and the Politics of Representation
-|SPA-444 Independent Study
-|SPA-446 Latin American and Spanish Short Stories
-|SPA-451 Hispanic Cross-Over Literature: Theory and Practice
-|SPA-455 Hispanic Drama and Performance: Theory and Practice
-|SPA-457 Latinx Literature
-|SPA-458 Travel Writing and Transatlantic Literature
-|SPA-475 Topics in Hispanic Literature
-|SPA-476 Topics in Hispanic Society and Culture
-|SPA-485 Topics in Hispanic Literature
-|SPA-486 Topics in Hispanic Society and Culture
-|THE-228 Theatre History I
-|THE-238 Theatre History II
-|THE-255 Playwriting Workshop 1
-|THE-288 History of Dress
-|THE-290 Directing I
-|THE-355 Playwriting Workshop 2
-|THE-390 Directing II
-|THE-455 Playwriting Workshop 3
-|THE-464 Senior Seminar
-|THE-494 Internship in Theatre Arts
-|WLC-108 Cultural Studies and Literature in Translation
+
+
+
+
+
+HIS-300 Public History| 
+HIS-306 Revolution, Social Struggle, and Testimonio in Latin America 20th Century| 
+HIS-308 Legacies of the Cold War in Argentina, Peru, Columbia, and Chile| 
+HIS-316 Topics in History: NWP| 
+HIS-317 Topics in History: USP| 
+HIS-318 Topics in History: DWP| 
+HIS-325 Recent American History I| 
+HIS-328 Sport and Spectacle in Ancient Greece and Rome| 
+HIS-335 Recent American History II| 
+HIS-347 African American History| 
+HIS-355 19th Century Europe| 
+HIS-365 20th Century Europe| 
+HIS-372 Early Modern Europe| 
+HIS-387 American Colonial History| 
+HIS-395 United States Diplomatic History| 
+HIS-444 Independent Study| 
+HIS-465 Seminar in Ancient History| 
+HIS-466 Seminar in Modern East Asian History| 
+HIS-472 Seminar in American History I| 
+HIS-473 Seminar in American History II| 
+HIS-474 Seminar in Modern European| 
+KIN-347 Adapted Physical Education| 
+KIN-440 Organization and Admin of Physical Education and Athletics| 
+MTH-215 Foundations of Advanced Mathematics| 
+MTH-305 Advanced Geometry| 
+MTH-325 Differential Equations| 
+MTH-445 Complex Analysis| 
+MTH-455 Mathematical Modeling| 
+MTH-484 History of Mathematics| 
+MU-107 American Music| 
+MU-384 Conducting I| 
+MU-385 Conducting II| 
+NUR-305 Information Literature and Management| 
+NUR-375 Legal and Ethical Issues in Nursing| 
+NUR-425 Nursing Research| 
+NUR-455 Leadership and Contemporary Issues in Nursing| 
+PHL-105 Introduction to Philosophy| 
+PHL-128 Morality and Moral Controversies| 
+PHL-200 Bio-medical Ethics| 
+PHL-205 Environmental Ethics| 
+PHL-210 Topics in Philosophy| 
+PHL-220 Ancient Greek Philosophy| 
+PHL-265 Political Philosophy| 
+PHL-285 Law, Morality, and Punishment| 
+PHL-300 Early Modern Philosophy| 
+PHL-315 Advanced Topics in Philosophy| 
+PHL-320 Seminar in Ethics| 
+PHL-355 Seminar in Metaphysics and Epistemology| 
+PHL-394 Directed Learning in Philosophy| 
+PHL-444 Independent Study in Philosophy| 
+PHL-490 Philosophy in Colloquium| 
+PHL-494 Internship in Philosophy| 
+PHY-105 Physics: An Historical Approach| 
+PHY-236 Advanced Laboratory 1| 
+PHY-246 Advanced Laboratory 2| 
+PHY-311 Renewable Energy| 
+PHY-444 Independent Study| 
+PHY-454 Summer Research| 
+POL-210 Environmental Politics| 
+POL-258 World Politics| 
+POL-266 Latin American Politics| 
+POL-276 African Politics| 
+POL-277 Women and Politics in the United States| 
+POL-286 Asian Politics| 
+POL-298 European Politics| 
+POL-305 Terrorism| 
+POL-310 International Organization| 
+POL-325 The American Congress| 
+POL-345 The American Presidency| 
+POL-350 US Social Policy Process| 
+POL-365 American Foreign Policy| 
+POL-405 Contemporary Political Theory| 
+POL-435 Ancient and Medieval Political Theory| 
+POL-445 Modern Political Theory| 
+PR-205 Public Relations| 
+PSY-200 Research Methods| 
+PSY-295 Applied Career Development in Psychology| 
+PSY-325L Health Psychology Laboratory| 
+PSY-335L Sensation and Perception Laboratory| 
+PSY-355L Personality Laboratory| 
+PSY-464 Seminar in Psychology| 
+REL-101 Introduction to Religion| 
+REL-103 Belief and Unbelief| 
+REL-105 Introduction to Hebrew Bible| 
+REL-108 Western Religions| 
+REL-115 Introduction to New Testament| 
+REL-128 Judaism| 
+REL-136 Religions of China| 
+REL-138 Modern Judaism | 
+REL-148 Islam| 
+REL-206 Buddhist Thought| 
+REL-215 The Rise of Christianity| 
+REL-217 Religion in America| 
+REL-226 Religions of China: Daoism | 
+REL-236 Zen Buddhism| 
+REL-310 Early Christian Gospels| 
+REL-328 Dante’s Divine Comedy| 
+REL-330 Topics in Hebrew Bible| 
+REL-336 Tibetan Buddhist Culture| 
+REL-338 Modern Religious thought| 
+REL-365 The Letters of Paul| 
+REL-385 Advanced Topics in Religion| 
+REL-394 Directed Learning in Religion| 
+REL-396 Advanced Topics in Religion: NWP| 
+REL-444 Independent Study in Religion| 
+REL-494 Internship in Religion| 
+SOC-235 Methods of Sociological Research| 
+SOC-450 Sociological Theory| 
+SOC-464 Sociology Capstone| 
+SPA-315 Spanish Composition and Conversation| 
+SPA-325 Spanish Language and Literature| 
+SPA-330 Spanish for Heritage Speakers| 
+SPA-345 Introduction to Hispanic Literature| 
+SPA-394 Directed Learning| 
+SPA-412 Ecologies: Latin American Environmental Literature and Cultural Works| 
+SPA-418 Gender and Sexuality in the Hispanic World| 
+SPA-421 Nation, History and Literature| 
+SPA-428 Indigeneity, Blackness, and Ethnic Literatures in the Hispanic World| 
+SPA-431 Hispanic Graphic Novel: Theory and Practice| 
+SPA-432 Representations of Violence in Hispanic Cultural Productions| 
+SPA-442 Pop Culture, Media, and Cultural Studies| 
+SPA-443 Cinema and the Politics of Representation| 
+SPA-444 Independent Study| 
+SPA-446 Latin American and Spanish Short Stories| 
+SPA-451 Hispanic Cross-Over Literature: Theory and Practice| 
+SPA-455 Hispanic Drama and Performance: Theory and Practice| 
+SPA-457 Latinx Literature| 
+SPA-458 Travel Writing and Transatlantic Literature| 
+SPA-475 Topics in Hispanic Literature| 
+SPA-476 Topics in Hispanic Society and Culture| 
+SPA-485 Topics in Hispanic Literature| 
+SPA-486 Topics in Hispanic Society and Culture| 
+THE-228 Theatre History I| 
+THE-238 Theatre History II| 
+THE-255 Playwriting Workshop 1| 
+THE-288 History of Dress| 
+THE-290 Directing I| 
+THE-355 Playwriting Workshop 2| 
+THE-390 Directing II| 
+THE-455 Playwriting Workshop 3| 
+THE-464 Senior Seminar| 
+THE-494 Internship in Theatre Arts| 
+WLC-108 Cultural Studies and Literature in Translation| 
 
 ### **Diversity Across the Curriculum**
 
