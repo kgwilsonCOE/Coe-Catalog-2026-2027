@@ -641,27 +641,17 @@ All students are required to complete at least one area of study associated with
 
 ### **Areas of Study (Majors) for B.A. (Residential Only) 32 Credit Program**
 
-|:--- | :---: | ---:|
-|Accounting, Managerial | Data Science | Music|
-
-|Accounting, Public | Economics | Philosophy|
-
-|African American Studies | Elementary Education | Physics|
-
-|Art | English | Political Science|
-
-|Asian Studies | History | Psychology|
-
-|Biology | Interdisciplinary Science | Social & Criminal Justice|
-
-|Business Administration | Interdisciplinary Studies [^1] | Sociology|
-
-|Chemistry | International Economics | Spanish|
-
-|Communication Studies | International Studies | Spanish Studies|
-
-|Computer Science | Kinesiology | Theatre Arts|
-
-|Creative Writing | Mathematics |   |
+|:---                     |              :---:             |                      ---:|
+|Accounting, Managerial   |           Data Science         |                     Music|
+|Accounting, Public       |            Economics           |                Philosophy|
+|African American Studies |       Elementary Education     |                   Physics|
+|Art                      |             English            |         Political Science|
+|Asian Studies            |             History            |                Psychology|
+|Biology                  |    Interdisciplinary Science   | Social & Criminal Justice|
+|Business Administration  | Interdisciplinary Studies [^1] |                 Sociology|
+|Chemistry                |     International Economics    |                   Spanish|
+|Communication Studies    |      International Studies     |           Spanish Studies|
+|Computer Science         |           Kinesiology          |              Theatre Arts|
+|Creative Writing         |           Mathematics          |                          |
 
 ^1 A coherent interdisciplinary sequence of courses devised by the student, in consultation with faculty, suited to the student’s individual goals and approved by the Academic Policies Committee.
