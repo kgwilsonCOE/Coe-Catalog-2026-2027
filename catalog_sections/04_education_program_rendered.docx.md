@@ -95,62 +95,62 @@ In this catalog, writing emphasis courses are designated by a (WE) after the cou
 |BIO-155L Organismal and Ecological Biology Laboratory| HIS-288 Renaissance and Reformation| 
 |BIO-205L General Botany Laboratory| HIS-292 History of Modern England| 
 |BIO-235L Genetics Laboratory| HIS-297 Woman in America| 
-|BIO-295L Spatial Ecology Laboratory| 
-|BIO-325 Microbiology| 
-|BIO-415L Developmental Biology Laboratory| 
-|BIO-425L Ecology Lab| 
-|BUS-190 Statistical Analysis| 
-|BUS-330 Principles of Marketing| 
-|BUS-375 Business Ethics| 
-|BUS-387 Advanced Topics in Human Resource Management| 
-|BUS-460 Advertising | 
-|BUS-461 Marketing Decision-Making & Strategy| 
-|BUS-464 Seminar in Management| 
-|BUS-470 Strategic Management| 
-|CHM-211L Analytical Chemistry Lab| 
-|CHM-341 Physical Chemistry I| 
-|CHM-422 Synthesis Laboratory| 
-|CHM-451L Inorganic Chemistry Lab| 
-|COM-137 Interpersonal Communication | 
-|COM-141 Introduction to Journalism| 
-|COM-151 Introduction to New Media Studies| 
-|COM-157 Introduction to Media Analysis| 
-|COM-231 Communication in Teams| 
-|COM-236 Intercultural Communication| 
-|COM-241 Multimedia Journalism| 
-|COM-257 Sex, Race, and Gender in the Media| 
-|COM-267 Environmental Rhetoric | 
-|COM-281 Introduction to Research Methods| 
-|COM-322 Professional Communication and Writing| 
-|COM-323 Relational Communication: Theory and Application| 
-|COM-327 Organizational Comm| 
-|COM-332 Health Communication| 
-|COM-341 Digital Storytelling| 
-|COM-377 Language, Power, and Social Change| 
-|COM-381 Research Methods in Communication Studies| 
-|COM-394 Directed Learning in Communication| 
-|COM-435 Advanced Topics in Human Communication| 
-|COM-437 Advanced Topics in Human Communication| 
-|COM-444 Independent Study in Communication Studies| 
-|COM-455 Special Topics in Media Analysis| 
-|COM-457 Special Topics in Media Analysis| 
-|COM-465 Advanced Topics in Cultural and Critical Communication| 
-|COM-467 Advanced Topics in Cultural and Critical Communication| 
-|CRW-105 Exploring Creative Writing| 
-|CRW-106 Exploring Creative Writing: Non-Western Perspectives| 
-|CRW-107 Exploring Creative Writing: United States Pluralism| 
-|CRW-125 Introduction to Creative Writing| 
-|CRW-135 Writer’s Colony | 
-|CRW-225 Creative Nonfiction Workshop 1| 
-|CRW-255 Playwriting Workshop 1| 
-|CRW-280 Poetry Workshop| 
-|CRW-290 Fiction Workshop| 
-|CRW-325 Creative Nonfiction Workshop 2| 
-|CRW-345 Writing Wilderness| 
-|CRW-350 Screenwriting| 
-|CRW-355 Playwriting Workshop 2| 
-|CRW-380 Poetry Workshop| 
-|CRW-390 Fiction Workshop| 
+|BIO-295L Spatial Ecology Laboratory| HIS-300 Public History| 
+|BIO-325 Microbiology| HIS-306 Revolution, Social Struggle, and Testimonio in Latin America 20th Century| 
+|BIO-415L Developmental Biology Laboratory| HIS-308 Legacies of the Cold War in Argentina, Peru, Columbia, and Chile| 
+|BIO-425L Ecology Lab| HIS-316 Topics in History: NWP| 
+|BUS-190 Statistical Analysis| HIS-317 Topics in History: USP| 
+|BUS-330 Principles of Marketing| HIS-318 Topics in History: DWP| 
+|BUS-375 Business Ethics| HIS-325 Recent American History I| 
+|BUS-387 Advanced Topics in Human Resource Management| HIS-328 Sport and Spectacle in Ancient Greece and Rome| 
+|BUS-460 Advertising | HIS-335 Recent American History II| 
+|BUS-461 Marketing Decision-Making & Strategy| HIS-347 African American History| 
+|BUS-464 Seminar in Management| HIS-355 19th Century Europe| 
+|BUS-470 Strategic Management| HIS-365 20th Century Europe| 
+|CHM-211L Analytical Chemistry Lab| HIS-372 Early Modern Europe| 
+|CHM-341 Physical Chemistry I| HIS-387 American Colonial History| 
+|CHM-422 Synthesis Laboratory| HIS-395 United States Diplomatic History| 
+|CHM-451L Inorganic Chemistry Lab| HIS-444 Independent Study| 
+|COM-137 Interpersonal Communication | HIS-465 Seminar in Ancient History| 
+|COM-141 Introduction to Journalism| HIS-466 Seminar in Modern East Asian History| 
+|COM-151 Introduction to New Media Studies| HIS-472 Seminar in American History I| 
+|COM-157 Introduction to Media Analysis| HIS-473 Seminar in American History II| 
+|COM-231 Communication in Teams| HIS-474 Seminar in Modern European| 
+|COM-236 Intercultural Communication| KIN-347 Adapted Physical Education| 
+|COM-241 Multimedia Journalism| KIN-440 Organization and Admin of Physical Education and Athletics| 
+|COM-257 Sex, Race, and Gender in the Media| MTH-215 Foundations of Advanced Mathematics| 
+|COM-267 Environmental Rhetoric | MTH-305 Advanced Geometry| 
+|COM-281 Introduction to Research Methods| MTH-325 Differential Equations| 
+|COM-322 Professional Communication and Writing| MTH-445 Complex Analysis| 
+|COM-323 Relational Communication: Theory and Application| MTH-455 Mathematical Modeling| 
+|COM-327 Organizational Comm| MTH-484 History of Mathematics| 
+|COM-332 Health Communication| MU-107 American Music| 
+|COM-341 Digital Storytelling| MU-384 Conducting I| 
+|COM-377 Language, Power, and Social Change| MU-385 Conducting II| 
+|COM-381 Research Methods in Communication Studies| NUR-305 Information Literature and Management| 
+|COM-394 Directed Learning in Communication| NUR-375 Legal and Ethical Issues in Nursing| 
+|COM-435 Advanced Topics in Human Communication| NUR-425 Nursing Research| 
+|COM-437 Advanced Topics in Human Communication| NUR-455 Leadership and Contemporary Issues in Nursing| 
+|COM-444 Independent Study in Communication Studies| PHL-105 Introduction to Philosophy| 
+|COM-455 Special Topics in Media Analysis| PHL-128 Morality and Moral Controversies
+|COM-457 Special Topics in Media Analysis| PHL-200 Bio-medical Ethics| 
+|COM-465 Advanced Topics in Cultural and Critical Communication| PHL-205 Environmental Ethics| 
+|COM-467 Advanced Topics in Cultural and Critical Communication| PHL-210 Topics in Philosophy| 
+|CRW-105 Exploring Creative Writing| PHL-220 Ancient Greek Philosophy| 
+|CRW-106 Exploring Creative Writing: Non-Western Perspectives| PHL-265 Political Philosophy| 
+|CRW-107 Exploring Creative Writing: United States Pluralism| PHL-285 Law, Morality, and Punishment| 
+|CRW-125 Introduction to Creative Writing| PHL-300 Early Modern Philosophy| 
+|CRW-135 Writer’s Colony | PHL-315 Advanced Topics in Philosophy| 
+|CRW-225 Creative Nonfiction Workshop 1| PHL-320 Seminar in Ethics| 
+|CRW-255 Playwriting Workshop 1| PHL-355 Seminar in Metaphysics and Epistemology| 
+|CRW-280 Poetry Workshop| PHL-394 Directed Learning in Philosophy| 
+|CRW-290 Fiction Workshop| PHL-444 Independent Study in Philosophy| 
+|CRW-325 Creative Nonfiction Workshop 2| PHL-490 Philosophy in Colloquium| 
+|CRW-345 Writing Wilderness| PHL-494 Internship in Philosophy| 
+|CRW-350 Screenwriting| PHY-105 Physics: An Historical Approach| 
+|CRW-355 Playwriting Workshop 2| PHY-236 Advanced Laboratory 1| 
+|CRW-380 Poetry Workshop| PHY-246 Advanced Laboratory 2| 
+|CRW-390 Fiction Workshop| PHY-311 Renewable Energy| 
 |CRW-394 Directed Learning in Creative Writing| 
 |CRW-455 Playwriting Workshop 3| 
 |CRW-480 Poetry Workshop| 
@@ -247,62 +247,6 @@ In this catalog, writing emphasis courses are designated by a (WE) after the cou
 
 
 
-HIS-300 Public History| 
-HIS-306 Revolution, Social Struggle, and Testimonio in Latin America 20th Century| 
-HIS-308 Legacies of the Cold War in Argentina, Peru, Columbia, and Chile| 
-HIS-316 Topics in History: NWP| 
-HIS-317 Topics in History: USP| 
-HIS-318 Topics in History: DWP| 
-HIS-325 Recent American History I| 
-HIS-328 Sport and Spectacle in Ancient Greece and Rome| 
-HIS-335 Recent American History II| 
-HIS-347 African American History| 
-HIS-355 19th Century Europe| 
-HIS-365 20th Century Europe| 
-HIS-372 Early Modern Europe| 
-HIS-387 American Colonial History| 
-HIS-395 United States Diplomatic History| 
-HIS-444 Independent Study| 
-HIS-465 Seminar in Ancient History| 
-HIS-466 Seminar in Modern East Asian History| 
-HIS-472 Seminar in American History I| 
-HIS-473 Seminar in American History II| 
-HIS-474 Seminar in Modern European| 
-KIN-347 Adapted Physical Education| 
-KIN-440 Organization and Admin of Physical Education and Athletics| 
-MTH-215 Foundations of Advanced Mathematics| 
-MTH-305 Advanced Geometry| 
-MTH-325 Differential Equations| 
-MTH-445 Complex Analysis| 
-MTH-455 Mathematical Modeling| 
-MTH-484 History of Mathematics| 
-MU-107 American Music| 
-MU-384 Conducting I| 
-MU-385 Conducting II| 
-NUR-305 Information Literature and Management| 
-NUR-375 Legal and Ethical Issues in Nursing| 
-NUR-425 Nursing Research| 
-NUR-455 Leadership and Contemporary Issues in Nursing| 
-PHL-105 Introduction to Philosophy| 
-PHL-128 Morality and Moral Controversies| 
-PHL-200 Bio-medical Ethics| 
-PHL-205 Environmental Ethics| 
-PHL-210 Topics in Philosophy| 
-PHL-220 Ancient Greek Philosophy| 
-PHL-265 Political Philosophy| 
-PHL-285 Law, Morality, and Punishment| 
-PHL-300 Early Modern Philosophy| 
-PHL-315 Advanced Topics in Philosophy| 
-PHL-320 Seminar in Ethics| 
-PHL-355 Seminar in Metaphysics and Epistemology| 
-PHL-394 Directed Learning in Philosophy| 
-PHL-444 Independent Study in Philosophy| 
-PHL-490 Philosophy in Colloquium| 
-PHL-494 Internship in Philosophy| 
-PHY-105 Physics: An Historical Approach| 
-PHY-236 Advanced Laboratory 1| 
-PHY-246 Advanced Laboratory 2| 
-PHY-311 Renewable Energy| 
 PHY-444 Independent Study| 
 PHY-454 Summer Research| 
 POL-210 Environmental Politics| 
