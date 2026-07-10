@@ -591,10 +591,10 @@ All students are required to complete at least one area of study associated with
 |Art                      |             English            |         Political Science|
 |Asian Studies            |             History            |                Psychology|
 |Biology                  |    Interdisciplinary Science   | Social & Criminal Justice|
-|Business Administration  | Interdisciplinary Studies [^1] |                 Sociology|
+|Business Administration  | Interdisciplinary Studies [^INT] |               Sociology|
 |Chemistry                |     International Economics    |                   Spanish|
 |Communication Studies    |      International Studies     |           Spanish Studies|
 |Computer Science         |           Kinesiology          |              Theatre Arts|
 |Creative Writing         |           Mathematics          |                          |
 
-^1 A coherent interdisciplinary sequence of courses devised by the student, in consultation with faculty, suited to the student’s individual goals and approved by the Academic Policies Committee.
+[^INT]: A coherent interdisciplinary sequence of courses devised by the student, in consultation with faculty, suited to the student’s individual goals and approved by the Academic Policies Committee.
