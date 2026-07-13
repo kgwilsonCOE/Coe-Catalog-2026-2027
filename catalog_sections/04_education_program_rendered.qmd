@@ -246,204 +246,107 @@ An essential part of a liberal arts education is to prepare students to live and
 
 #### Diversity Across the Curriculum: Course Listing
 
-- AAM-107 Intro to African American Studies 
-- AAM-197 Tupac Shakur and the Hip Hop Revolution 
-- AAM-217 Sport and Black Culture 
-- AAM-227 Blackness and Identity in America
-- AAM-367 Studies in African American Literature (WE)
-- ANT-116 Cultural Anthropology 
-- ANT-125 Art and Archaeology of the Classical World 
-- ANT-208 Archaeological Field School 
-- ARH-106 World Art 
-- ARH-107 Gender and Art 
-- ARH-128 Introduction to Art History 
-- ARH-218 The World of Renaissance Art 
-- ARH-248 Baroque, Rococo, and Neoclassicism 
-- ARH-268 History of Architecture 
-- ARH-296 Topics in Art History: Global Perspectives 
-- ARH-297 Topics in Art History: U.S. Pluralism 
-- ASC-106 May Experiential Term in Asia 
-- ASC-176 China and Japan 
-- ASC-186 Modern South Asia 
-- ASC-196 Modern Southeast Asia 
-- BUS-375 Business Ethics (WE) 
-- BUS-446 International Business Management 
-- COM-137 Interpersonal Communication (WE) 
-- COM-157 Intro to Media Analysis (WE) 
-- COM-161 Visual Rhetoric 
-- COM-227 Topics in Communication Studies
-- COM-236 Intercultural Communication (WE) 
-- COM-247 Topics in Communication Studies 
-- COM-257 Sex, Race, and Gender in the Media (WE) 
-- COM-267 Environmental Rhetoric (WE) 
-- COM-277 Topics in Communication Studies 
-- COM-327 Organizational Comm (WE) 
-- COM-347 Persuasion 
-- COM-377 Language, Power, and Social Change (WE) 
-- COM-437 Advanced Topics in Human Communication (WE) 
-- COM-457 Advanced Topics in Mass Media (WE) 
-- COM-467 Advanced Topics in Cultural and Critical Communication (WE) 
-- CRW-106 Exploring Creative Writing: Non-Western Perspectives (WE) 
-- ECO-237 Labor Economics 
-- ECO-247 Health Economics 
-- ECO-336 Divergent Economic Growth 
-- ECO-436 Economic Development 
-- ECO-446 International Economics 
-- EDU-105 Foundations of Education (WE) 
-- EDU-117 Exceptional Learners 
-- EDU-187 Human Relations (WE) 
-- EDU-217 Principles of Effective Instruction
-- EDU-237 English Language Learners (WE) 
-- ENG-107 Exploring Literature: United States. Pluralism 
-- ENG-108 Exploring Literature: Diverse Western Perspectives 
-- ENG-117 Asian American Literature (WE) 
-- ENG-127 Social Justice & Literature (WE) 
-- ENG-137 African American Literature (WE) 
-- ENG-146 Postcolonial Literature (WE) 
-- ENG-157 Latinx/Chicanx Literature (WE) 
-- ENG-206 Gender and Literature: Non-Western Perspectives (WE) 
-- ENG-207 Gender and Literature: United States Pluralism (WE) 
-- ENG-208 Gender and Literature (WE) 
-- ENG-327 Literature of the American Renaissance (WE) 
-- ENG-328 Dante’s Divine Comedy (WE) (cross-listed with REL-328) 
-- ENG-337 American Realism and Naturalism (WE) 
-- ENG-347 Studies in Modern or Contemporary American Literature (WE) 
-- ENG-357 Studies in Latinx/Chicanx Literature (WE)
-- ENG-367 Studies in African American Literature (WE) 
-- ENG-378 Studies in Transatlantic Literature (WE) 
-- ENG-388 Romantic Literature (WE) 
-- ENG-467 Seminar in Literature: United States Pluralism (WE) 
-- GS-107 Introduction to Gender and Sexuality Studies (WE) 
-- GS-247 Gender and Sexuality Studies Symposium 
-- GS-327 Theory and Methods in Gender and Sexuality Studies (WE) 
-- HIS-136 East Asian Civilization 
-- HIS-208 World War I (WE) 
-- HIS-216 The History of Modern Korea (WE) 
-- HIS-217 The American War in Vietnam (WE) 
-- HIS-218 World War II (WE) 
-- HIS-227 The American Civil War (WE) 
-- HIS-238 Modern France (WE) 
-- HIS-246 The History of Modern China (WE) 
-- HIS-248 French Revolution (WE) 
-- HIS-256 The History of Modern Japan (WE) 
-- HIS-257 Native American History (WE) 
-- HIS-268 Latin America (WE) 
-- HIS-276 The “Discovery” of America: Clash of Cultures and Alterities (WE) 
-- HIS-278 History of the Holocaust (WE) 
-- HIS-286 Modern Middle East (WE) 
-- HIS-288 Renaissance and Reformation (WE) 
-- HIS-297 Women in America (WE) 
-- HIS-306 Revolution, Social Struggle, and Testimonio in Latin America 20th Century (WE) 
-- HIS-308 Legacies of the Cold War in Argentina, Peru, Colombia, and Chile (WE) 
-- HIS-316 Topics in History: Non-Western Perspectives (WE) 
-- HIS-317 Topics in History: United States Pluralism (WE)
-- HIS-318 Topics in History: Diverse Western Perspectives (WE) 
-- HIS-328 Sport and Spectacle in Ancient Greece and Rome (WE) 
-- HIS-347 African American History (WE) 
-- HIS-387 American Colonial History (WE) 
-- HIS-466 Seminar in Asian History (WE) 
-- IS-116 Intro to International Studies 
-- IS-126 Human Rights Work with Burmese Migrants in Thailand 
-- IS-199 May Experiential Term in the Francophone World 
-- IS-316 Topics in International Studies: Non-Western Perspectives 
-- JPN-115 Elementary Japanese I 
-- JPN-125 Elementary Japanese II 
-- KIN-347 Adapted Physical Education (WE) 
-- MU-107 American Music (WE)
-- MU-108 Queerness in Music: A History 
-- MU-117 Jazz: The Early Years 
-- MU-157 Introduction to Jazz History 
-- MU-166 Music of the World 
-- NUR-315 Pathophysiology and Assessment 
-- NUR-430 Community and Population Oriented Nursing 
-- PHL-105 Introduction to Philosophy (WE) 
-- PHL-128 Morality and Moral Controversies (WE) 
-- PHL-200 Biomedical Ethics (WE) 
-- PHL-265 Political Philosophy (WE) 
-- PHL-285 Law, Morality, and Punishment (WE) 
-- POL-107 Environmental Justice 
-- POL-108 Introduction to Politics 
-- POL-115 American National Government and Politics 
-- POL-258 World Politics (WE) 
-- POL-266 Latin American Politics (WE) 
-- POL-276 African Politics (WE) 
-- POL-277 Women and Politics in the United States (WE) 
-- POL-286 Asian Politics (WE) 
-- POL-296 Topics in Political Science - Non-Western Perspectives 
-- POL-298 European Politics (WE) 
-- POL-350 US Social Policy Process (WE) 
-- PSY-205 Developmental Psychology 
-- PSY-215 Multicultural Psychology 
-- PSY-235 Abnormal Psychology 
-- PSY-245 Organizational Psychology 
-- PSY-255 Social Psychology 
-- REL-101 Introduction to Religion (WE) 
-- REL-106 Eastern Religions 
-- REL-108 Western Religions (WE) 
-- REL-116 Buddhism 
-- REL-128 Judaism (WE) 
-- REL-136 Religions of China (WE) 
-- REL-138 Modern Judaism (WE) 
-- REL-148 Islam (WE) 
-- REL-178 Christianity
-- REL-196 Hinduism
-- REL-207 Apocalypse and Apocalyptic Literature
-- REL-217 Religion in America (WE)
-- REL-226 Religions of China: Daoism (WE)
-- REL-236 Zen Buddhism (WE)
-- REL-246 Caste and Untouchability in South Asia
-- REL-296 Topics in Religion: Non-Western Perspectives
-- REL-328 Dante’s Divine Comedy (WE) (cross-listed with ENG-328)
-- REL-336 Tibetan Buddhist Culture (WE)
-- SCJ-207 Restorative Justice
-- SOC-107 Introduction to Sociology
-- SOC-207 Sociology of the Family
-- SOC-217 Sociology of Religion
-- SOC-227 Sociology of Sexuality
-- SOC-236 Topics in Sociology: Non-Western Perspectives
-- SOC-237 Topics in Sociology: United States Pluralism
-- SOC-238 Topics in Sociology: Diverse Western Perspectives
-- SOC-247 Sociology of Race
-- SOC-257 Sociology of Health & Medicine
-- SOC-286 Global and Transnational Sociology
-- SPA-115 Elementary Spanish I
-- SPA-125 Elementary Spanish II
-- SPA-129 Intensive Elementary Spanish I–II
-- SPA-135 Spanish Review and Preparation
-- SPA-148 Spanish Literature in Translation
-- SPA-215 Intermediate Spanish I
-- SPA-225 Intermediate Spanish II
-- SPA-258 Spanish Language Learning Abroad
-- SPA-315 Spanish Composition and Conversation (WE)
-- SPA-325 Spanish Language and Literature (WE)
-- SPA-330 Spanish for Heritage Speakers (WE)
-- SPA-336 Hispanic Life and Culture: Latin America
-- SPA-338 Hispanic Life and Culture: Europe
-- SPA-339 Spanish for Health Care
-- SPA-345 Introduction to Hispanic Literature (WE)
-- SPA-349 Business Spanish
-- SPA-412 Ecologies: Latin American Environmental Literature and Cultural Works (WE)
-- SPA-418 Gender and Sexuality in the Hispanic World (WE)
-- SPA-421 Nation, History, and Literature (WE)
-- SPA-428 Indigeneity, Blackness, and Ethnic Literatures in the Hispanic World (WE)
-- SPA-431 Hispanic Graphic Novel: Theory and Practice (WE)
-- SPA-432 Representations of Violence in Hispanic Cultural Productions (WE)
-- SPA-442 Popular Culture, Media, and Cultural Studies (WE)
-- SPA-443 Cinema and the Politics of Representation (WE) 
-- SPA-444 Independent Study (WE)
-- SPA-446 Latin American and Spanish Short Stories
-- SPA-451 Hispanic Cross-Over Literature: Theory and Practice (WE)
-- SPA-455 Hispanic Drama and Performance: Theory and Practice (WE)
-- SPA-457 US Latinx Literature (WE)
-- SPA-458 Travel Writing & Transatlantic Literature
-- SPA-475/-485 Topics in Hispanic Literature (WE)
-- SPA-476/-486 Topics in Hispanic Society and Culture (WE)
-- THE-161 Afro-Latin Dance
-- THE-228 History of Theatre and Drama I (WE)
-- THE-238 History of Theatre and Drama II (WE)
-- THE-288 History of Dress (WE)
-- WLC-108 Cultural Studies and Literature in Translation (WE)
-- WSH-286 Topics in Washington DC: Non-Western Perspectives
+|      |      |
+| :--- | :--- |
+| AAM-107 Intro to African American Studies | AAM-197 Tupac Shakur and the Hip Hop Revolution |
+| AAM-217 Sport and Black Culture | AAM-227 Blackness and Identity in America |
+| AAM-367 Studies in African American Literature (WE) | ANT-116 Cultural Anthropology |
+| ANT-125 Art and Archaeology of the Classical World | ANT-208 Archaeological Field School |
+| ARH-106 World Art | ARH-107 Gender and Art |
+| ARH-128 Introduction to Art History | ARH-218 The World of Renaissance Art |
+| ARH-248 Baroque, Rococo, and Neoclassicism | ARH-268 History of Architecture |
+| ARH-296 Topics in Art History: Global Perspectives | ARH-297 Topics in Art History: U.S. Pluralism |
+| ASC-106 May Experiential Term in Asia | ASC-176 China and Japan |
+| ASC-186 Modern South Asia | ASC-196 Modern Southeast Asia |
+| BUS-375 Business Ethics (WE) | BUS-446 International Business Management |
+| COM-137 Interpersonal Communication (WE) | COM-157 Intro to Media Analysis (WE) |
+| COM-161 Visual Rhetoric | COM-227 Topics in Communication Studies |
+| COM-236 Intercultural Communication (WE) | COM-247 Topics in Communication Studies |
+| COM-257 Sex, Race, and Gender in the Media (WE) | COM-267 Environmental Rhetoric (WE) |
+| COM-277 Topics in Communication Studies | COM-327 Organizational Comm (WE) |
+| COM-347 Persuasion | COM-377 Language, Power, and Social Change (WE) |
+| COM-437 Advanced Topics in Human Communication (WE) | COM-457 Advanced Topics in Mass Media (WE) |
+| COM-467 Advanced Topics in Cultural and Critical Communication (WE) | CRW-106 Exploring Creative Writing: Non-Western Perspectives (WE) |
+| ECO-237 Labor Economics | ECO-247 Health Economics |
+| ECO-336 Divergent Economic Growth | ECO-436 Economic Development |
+| ECO-446 International Economics | EDU-105 Foundations of Education (WE) |
+| EDU-117 Exceptional Learners | EDU-187 Human Relations (WE) |
+| EDU-217 Principles of Effective Instruction | EDU-237 English Language Learners (WE) |
+| ENG-107 Exploring Literature: United States. Pluralism | ENG-108 Exploring Literature: Diverse Western Perspectives |
+| ENG-117 Asian American Literature (WE) | ENG-127 Social Justice & Literature (WE) |
+| ENG-137 African American Literature (WE) | ENG-146 Postcolonial Literature (WE) |
+| ENG-157 Latinx/Chicanx Literature (WE) | ENG-206 Gender and Literature: Non-Western Perspectives (WE) |
+| ENG-207 Gender and Literature: United States Pluralism (WE) | ENG-208 Gender and Literature (WE) |
+| ENG-327 Literature of the American Renaissance (WE) | ENG-328 Dante’s Divine Comedy (WE) (cross-listed with REL-328) |
+| ENG-337 American Realism and Naturalism (WE) | ENG-347 Studies in Modern or Contemporary American Literature (WE) |
+| ENG-357 Studies in Latinx/Chicanx Literature (WE) | ENG-367 Studies in African American Literature (WE) |
+| ENG-378 Studies in Transatlantic Literature (WE) | ENG-388 Romantic Literature (WE) |
+| ENG-467 Seminar in Literature: United States Pluralism (WE) | GS-107 Introduction to Gender and Sexuality Studies (WE) |
+| GS-247 Gender and Sexuality Studies Symposium | GS-327 Theory and Methods in Gender and Sexuality Studies (WE) |
+| HIS-136 East Asian Civilization | HIS-208 World War I (WE) |
+| HIS-216 The History of Modern Korea (WE) | HIS-217 The American War in Vietnam (WE) |
+| HIS-218 World War II (WE) | HIS-227 The American Civil War (WE) |
+| HIS-238 Modern France (WE) | HIS-246 The History of Modern China (WE) |
+| HIS-248 French Revolution (WE) | HIS-256 The History of Modern Japan (WE) |
+| HIS-257 Native American History (WE) | HIS-268 Latin America (WE) |
+| HIS-276 The “Discovery” of America: Clash of Cultures and Alterities (WE) | HIS-278 History of the Holocaust (WE) |
+| HIS-286 Modern Middle East (WE) | HIS-288 Renaissance and Reformation (WE) |
+| HIS-297 Women in America (WE) | HIS-306 Revolution, Social Struggle, and Testimonio in Latin America 20th Century (WE) |
+| HIS-308 Legacies of the Cold War in Argentina, Peru, Colombia, and Chile (WE) | HIS-316 Topics in History: Non-Western Perspectives (WE) |
+| HIS-317 Topics in History: United States Pluralism (WE) | HIS-318 Topics in History: Diverse Western Perspectives (WE) |
+| HIS-328 Sport and Spectacle in Ancient Greece and Rome (WE) | HIS-347 African American History (WE) |
+| HIS-387 American Colonial History (WE) | HIS-466 Seminar in Asian History (WE) |
+| IS-116 Intro to International Studies | IS-126 Human Rights Work with Burmese Migrants in Thailand |
+| IS-199 May Experiential Term in the Francophone World | IS-316 Topics in International Studies: Non-Western Perspectives |
+| JPN-115 Elementary Japanese I | JPN-125 Elementary Japanese II |
+| KIN-347 Adapted Physical Education (WE) | MU-107 American Music (WE) |
+| MU-108 Queerness in Music: A History | MU-117 Jazz: The Early Years |
+| MU-157 Introduction to Jazz History | MU-166 Music of the World |
+| NUR-315 Pathophysiology and Assessment | NUR-430 Community and Population Oriented Nursing |
+| PHL-105 Introduction to Philosophy (WE) | PHL-128 Morality and Moral Controversies (WE) |
+| PHL-200 Biomedical Ethics (WE) | PHL-265 Political Philosophy (WE) |
+| PHL-285 Law, Morality, and Punishment (WE) | POL-107 Environmental Justice |
+| POL-108 Introduction to Politics | POL-115 American National Government and Politics |
+| POL-258 World Politics (WE) | POL-266 Latin American Politics (WE) |
+| POL-276 African Politics (WE) | POL-277 Women and Politics in the United States (WE) |
+| POL-286 Asian Politics (WE) | POL-296 Topics in Political Science - Non-Western Perspectives |
+| POL-298 European Politics (WE) | POL-350 US Social Policy Process (WE) |
+| PSY-205 Developmental Psychology | PSY-215 Multicultural Psychology |
+| PSY-235 Abnormal Psychology | PSY-245 Organizational Psychology |
+| PSY-255 Social Psychology | REL-101 Introduction to Religion (WE) |
+| REL-106 Eastern Religions | REL-108 Western Religions (WE) |
+| REL-116 Buddhism | REL-128 Judaism (WE) |
+| REL-136 Religions of China (WE) | REL-138 Modern Judaism (WE) |
+| REL-148 Islam (WE) | REL-178 Christianity |
+| REL-196 Hinduism | REL-207 Apocalypse and Apocalyptic Literature |
+| REL-217 Religion in America (WE) | REL-226 Religions of China: Daoism (WE) |
+| REL-236 Zen Buddhism (WE) | REL-246 Caste and Untouchability in South Asia |
+| REL-296 Topics in Religion: Non-Western Perspectives | REL-328 Dante’s Divine Comedy (WE) (cross-listed with ENG-328) |
+| REL-336 Tibetan Buddhist Culture (WE) | SCJ-207 Restorative Justice |
+| SOC-107 Introduction to Sociology | SOC-207 Sociology of the Family |
+| SOC-217 Sociology of Religion | SOC-227 Sociology of Sexuality |
+| SOC-236 Topics in Sociology: Non-Western Perspectives | SOC-237 Topics in Sociology: United States Pluralism |
+| SOC-238 Topics in Sociology: Diverse Western Perspectives | SOC-247 Sociology of Race |
+| SOC-257 Sociology of Health & Medicine | SOC-286 Global and Transnational Sociology |
+| SPA-115 Elementary Spanish I | SPA-125 Elementary Spanish II |
+| SPA-129 Intensive Elementary Spanish I–II | SPA-135 Spanish Review and Preparation |
+| SPA-148 Spanish Literature in Translation | SPA-215 Intermediate Spanish I |
+| SPA-225 Intermediate Spanish II | SPA-258 Spanish Language Learning Abroad |
+| SPA-315 Spanish Composition and Conversation (WE) | SPA-325 Spanish Language and Literature (WE) |
+| SPA-330 Spanish for Heritage Speakers (WE) | SPA-336 Hispanic Life and Culture: Latin America |
+| SPA-338 Hispanic Life and Culture: Europe | SPA-339 Spanish for Health Care |
+| SPA-345 Introduction to Hispanic Literature (WE) | SPA-349 Business Spanish |
+| SPA-412 Ecologies: Latin American Environmental Literature and Cultural Works (WE) | SPA-418 Gender and Sexuality in the Hispanic World (WE) |
+| SPA-421 Nation, History, and Literature (WE) | SPA-428 Indigeneity, Blackness, and Ethnic Literatures in the Hispanic World (WE) |
+| SPA-431 Hispanic Graphic Novel: Theory and Practice (WE) | SPA-432 Representations of Violence in Hispanic Cultural Productions (WE) |
+| SPA-442 Popular Culture, Media, and Cultural Studies (WE) | SPA-443 Cinema and the Politics of Representation (WE) |
+| SPA-444 Independent Study (WE) | SPA-446 Latin American and Spanish Short Stories |
+| SPA-451 Hispanic Cross-Over Literature: Theory and Practice (WE) | SPA-455 Hispanic Drama and Performance: Theory and Practice (WE) |
+| SPA-457 US Latinx Literature (WE) | SPA-458 Travel Writing & Transatlantic Literature |
+| SPA-475/-485 Topics in Hispanic Literature (WE) | SPA-476/-486 Topics in Hispanic Society and Culture (WE) |
+| THE-161 Afro-Latin Dance | THE-228 History of Theatre and Drama I (WE) |
+| THE-238 History of Theatre and Drama II (WE) | THE-288 History of Dress (WE) |
+| WLC-108 Cultural Studies and Literature in Translation (WE) | WSH-286 Topics in Washington DC: Non-Western Perspectives |
 
 ### PRACTICUM
 
