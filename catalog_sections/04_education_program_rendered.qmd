@@ -1,10 +1,10 @@
 # THE EDUCATIONAL PROGRAM {#sec-educational-program}
 
-## **GRADUATION REQUIREMENTS**
+## GRADUATION REQUIREMENTS
 
 All students granted an undergraduate degree from Coe must complete the specific requirements for one of four bachelor degrees (Bachelor of Arts [B.A.], Reduced-credit Bachelor of Arts [RC-B.A.] (Online Only), Bachelor of Science in Nursing [B.S.N.] or Bachelor of Science in Engineering [B.S.E.]). Students must complete the 5 General Education Requirements (Divisional Requirements, First-Year Experience, Writing Emphasis courses, Diversity Across the Curriculum courses and a Practicum), complete an area of study appropriate for their chosen degree with at least a 2.0 grade point average (GPA), earn at least 32 course credits (cc) (or 24 cc for the RC-B.A.) with grades leading to a cumulative GPA of 2.0 or higher, and comply with additional graduation policies listed in this section. No more than a total of two course credits from courses which are less than 0.5 credit can be used to meet the 32-credit (traditional B.A., B.S.N. or B.S.E) or 24-credit (RC-B.A.) graduation requirement.
 
-## **GENERAL EDUCATION REQUIREMENTS**
+## GENERAL EDUCATION REQUIREMENTS
 
 A liberal arts education at Coe College prepares students to engage with the challenges they face as active participants in the twenty-first century. Coe graduates are informed by the knowledge acquired in the liberal arts tradition and equipped with the skills and knowledge that ground meaningful lives and fulfilling careers. Coe graduates are connected and accountable to local, national, and global communities and are prepared to engage with unfamiliar situations, emerging technologies, and diverse perspectives. 
 
@@ -12,7 +12,7 @@ Completion of all General Education Requirements is required for all students ea
 
 Advanced Placement and International Baccalaureate courses may not be used to meet any part of these requirements. No more than two course credits with the same prefix may be used to fulfill the Divisional Requirements. A given course may be able to simultaneously contribute to more than one general education category, as these categories do not mutually exclude each other: Divisional Requirements, First-Year Experience, Writing Across the Curriculum, Diversity Across the Curriculum, and Practicum.
 
-### **Divisional Requirements**
+### Divisional Requirements
 
 Students must complete each of the following requirements. No course can count in more than one divisional requirement.
 
@@ -22,7 +22,7 @@ Students must complete each of the following requirements. No course can count i
 4.	Lab Science Requirement – A total of at least ONE course credit from courses with a lab component. Students must enroll in and pass both the lab and corresponding lecture to complete this requirement. Lab sections are denoted with an L at the end of their course codes.
 5.	Social Sciences Requirement – A total of at least TWO course credits with a prefix of ANT, ECO, GS, POL, PSY, or SOC.
 
-### **First-Year Experience**
+### First-Year Experience
 
 Students who have not yet completed a full-time college term after high school graduation are required to complete a First-Year Experience in their first term at Coe. 
 
@@ -30,11 +30,11 @@ The student’s First-Year Experience at Coe is a deliberate strategy to engage 
 
 Students who begin their college enrollment in the Spring Term must also complete a course designated as a replacement.
 
-#### **FS-110 First-Year Seminar (WE)**
+#### FS-110 First-Year Seminar (WE)
 
 Required of all first-year students who have not yet completed a full-time college term after high school graduation. The First-Year Seminar introduces students to college-level study with emphasis on critical thinking, writing, speaking, and research skills. Faculty offer first-year-only topics courses exploring issues from multiple perspectives within or across disciplines. Students in all sections prepare portfolios of their written work and attend a variety of cultural events on and off campus. Seminar instructors also serve as the primary academic advisors for first-year students in their respective sections. First-Year Seminars are writing emphasis and cannot fulfill any distributional, cultural perspective, or major requirements.
 
-### **Writing Emphasis (WE) Courses**
+### Writing Emphasis (WE) Courses
 
 Only designated WE courses in which a student earns a grade of “C” (2.0) or better count toward fulfillment of this requirement.
 
@@ -335,12 +335,12 @@ THE-464 Senior Seminar|
 THE-494 Internship in Theatre Arts| 
 WLC-108 Cultural Studies and Literature in Translation| 
 
-### **Diversity Across the Curriculum**
+### Diversity Across the Curriculum
 
 Students are required to complete at least TWO courses from the Diversity Across the Curriculum course list, where a term-long study away may count as the two required courses as approved by the Registrar.
 An essential part of a liberal arts education is to prepare students to live and work in a diverse and interconnected world. Diversity Across the Curriculum courses, offered at all levels across the curriculum, are designed to equip students to engage in effective and respectful civil dialogue in global and local contexts.
 
-#### **Diversity Across the Curriculum: Course Listing**
+#### Diversity Across the Curriculum: Course Listing
 
 - AAM-107 Intro to African American Studies 
 - AAM-197 Tupac Shakur and the Hip Hop Revolution 
@@ -541,7 +541,7 @@ An essential part of a liberal arts education is to prepare students to live and
 - WLC-108 Cultural Studies and Literature in Translation (WE)
 - WSH-286 Topics in Washington DC: Non-Western Perspectives
 
-### **PRACTICUM**
+### PRACTICUM
 
 All Students, except those earning a second degree, must complete at least ONE practicum experience. A practicum experience that integrates academic learning with significant educational experiences beyond the classroom is typically completed in the student’s junior or senior year. A practicum experience can consist of an internship, off-campus study, community-based project, honors project, or some other kind of independent activity. Depending on the type selected, some practica are graded A–F, while others are P/NP. Some practica are credit bearing, while others are not. 
 
@@ -575,13 +575,13 @@ The following list includes acceptable practicum experiences:
   - THE-452 Advanced Projects in Acting
   - THE-462 Advanced Projects in Directing 
 
-## **AREAS OF STUDY**
+## AREAS OF STUDY
 
 The four undergraduate degrees have areas of study associated with them.  The Bachelor of Science in Nursing’s area of study is nursing; the Bachelor of Science in Engineering’s area of study is engineering physics.  The Bachelor of Arts’ areas of study (residential or online), commonly referred to as majors, are listed below. The Bachelor of Arts degree has two options for completion—the traditional program and the reduced-credit program (online only), with each requiring an area of study, commonly referred to as a major. A student earning an RC-B.A. must complete an area of study approved for this particular degree. A student earning a traditional B.A. must complete at least one area of study approved for the traditional degree, but may also complete an area of study approved for a RC-B.A., earning the traditional B.A.  Students may matriculate from a residential to online program or vice versa but cannot be simultaneously in both degree programs.
 
 All students are required to complete at least one area of study associated with their degree. Students should declare a major by the end of their sophomore year.  All students must earn at least a 2.00 GPA in courses required to complete their areas of study, as well as meet specific requirements set forth for the area of study.
 
-### **Areas of Study (Majors) for B.A. (Residential Only) 32 Credit Program**
+### Areas of Study (Majors) for B.A. (Residential Only) 32 Credit Program
 
 |                         |                                |                          |
 |:---                     |:---                            |:---                      |
