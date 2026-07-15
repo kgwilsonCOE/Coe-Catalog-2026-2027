@@ -604,33 +604,43 @@ Applications to the Crimson Fellows Program are accepted and reviewed on a rolli
 Completed applications are assessed on ACT/SAT score, the high school transcript, teacher recommendations, and the student essay. Although there are no minimum thresholds, the historical average ACT score has been over 27 with an average high school GPA above 3.70. Emphasis will be placed on the student essay.
 
 **CFP-104 Topics in Crimson Fellows Program**
+
 Reading and discussion of one or more classic texts from across intellectual disciplines. Students are expected to demonstrate mastery of the material and actively engage in class discussions. P/NP basis only. May be taken more than once for credit, provided the topics are substantially different. Prerequisite: consent of instructor. (0.2 course credit)
 
 **CFP-145 Culture and Revolution**
+
 Designed to examine cultures that subsequently undergo revolutionary change. The first part is devoted to giving a sense of the culture that is destroyed by the revolution, and the second part to the forces that lead to the revolution. This course focuses on masterworks in history, political science, philosophy, and literature.  Counts as a humanities divisional requirement.
 
 **CFP-155 Style and Transformation in the Arts**
+
 Focuses on periods during which the arts undergo a major transformation. The class studies both the artistic ideas that are being changed and the characteristic styles that result from these changes. The scope of this course may include literature, painting, music, and architecture.  Counts as a humanities divisional requirement.
 
 **CFP-175 Continuity and Transition in Non-Western Societies**
+
 Focuses on the great traditions in non-western cultures. By selectively dealing with the major traditions present in such cultures, the class deals with the dynamics of continuity and transition, which are crucial to understanding non-western societies.  Counts as a humanities divisional requirement.
 
 **CFP-184 Topics in Scientific Inquiry**
+
 Designed to lead students to an intimate understanding of how the scientific process works and how scientific thought develops. Historical readings and discussions develop students’ understanding of the course topic sufficiently for them to focus on particular scientific questions. Experimental approaches to these questions are discussed and developed into research projects. Results are shared and integrated, providing group members with greater knowledge of the course topic and an acute awareness of the process and limitations of science.  Counts as a non-lab science divisional requirement. This course does not satisfy any of the requirements for a major in biology.
 
 **CFP-205 Introduction to Engaged Scholarship (WE)**
+
 Establishes the foundation of the Fellows experience. Fellows write essays on a series of connected subjects designed to encourage critical thinking and reflection. The course includes discussions on education reform ideas, action research, student-driven education, the passion of life-long learning, global citizenship, community advocacy and civic engagement. Grounded in critical pedagogy, the course introduces students to the ideas of engaged scholarship. Students take command of their own education, developing their sense of agency, self-discipline, initiative, and self-direction. Prerequisite: admission to the Crimson Fellows Program or consent of instructor. (Offered Spring Term)
 
 **CFP-301 Communicating Across Disciplines I (WE)**
+
 Focuses on developing competencies in communication across multiple audiences and perspectives. Students engage content/material related to their understanding and development of a year-long research project. The central objective of the course is to enhance student collaboration and communication skills. Prerequisite: Introduction to Engaged Scholarship (CFP-100) or consent of instructor. (0.5 course credit)
 
 **CFP-302 Communicating Across Disciplines II (WE)**
+
 Students work in multi-disciplinary teams to address a topic of local and/or global social interest. Prerequisite: Communicating Across Disciplines I (CFP-301) or consent of instructor. (0.5 course credit)
 
 **CFP-401 Action Research I**
+
 Students work in multi-disciplinary teams to conduct a year-long project that addresses a specific challenge/issue for a local/regional community partner (e.g. sustainability, water quality, soil degradation, health care, partner violence, refugees, immigration, civil rights, etc.).  Faculty provide specific content related to working with community groups/agencies at the onset of the course.  Prerequisite: Communicating Across Disciplines II (CFP-302) or consent of instructor. (0.5 course credit)
 
 **CFP-402 Action Research II**
+
 Students work in multi-disciplinary teams to conduct a year-long project that addresses a specific challenge/issue for a local community partner (e.g. sustainability, water quality, soil degradation, health care, partner violence, refugees, immigration, civil rights, etc.). Prerequisite: Action Research I (CFP-401) or consent of instructor. (0.5 course credit)
 
 ## Crimson Fellows Projects & Graduating with Distinction 
@@ -686,19 +696,24 @@ Coe College offers the following programs:
 In addition to these programs, Coe students who are not enrolled in an ESL program may register for ESL courses and work with ESL faculty on a one-on-one basis to support their language needs.
 
 **ESL-180 Topics in Listening**
+
 Develops academic listening and note-taking skills with a focus on micro listening such as listening for numbers, word stress, thought groups, and accent differences as well as macro listening like listening for headings, transition words and phrases, and distinguishing main ideas from details. May be taken more than once with consent of the program director provided the topics are substantially different. Prerequisite: enrolled in ELAB or undergraduate program with
 appropriate TOEFL score or consent of instructor.
 
 **ESL-185 Topics in Speaking**
+
 Develops speaking fluency through vocabulary building by using language in authentic contexts and practicing pronunciation by studying language prosody (intonation and rhythm) and morphemes (minimal parts of language). May be taken more than once with consent of the program director provided the topics are substantially different. Prerequisite: enrolled in ELAB or undergraduate program with appropriate TOEFL score or consent of instructor.
 
 **ESL-190 Topics in Structure**
+
 Develops grammar with the goal of using accurate grammar in presentations and written work. Students study various grammar points, practice grammar interactively, and integrate learned grammar into presentations and written work on a wide spectrum of topics. May be taken more than once with consent of the program director provided the topics are substantially different. Prerequisite: enrolled in ELAB or undergraduate program with appropriate TOEFL score or consent of instructor.
 
 **ESL-195 Reading Writing Workshop (WE)**
+
 Strengthens critical reading, academic writing, and reasoning skills by engaging with a variety of texts. Students identify, challenge, and write arguments by practicing summary, analysis, paraphrase, and response to published work as well as work of their peers. May be taken more than once with consent of the program director provided the topics are substantially different. Prerequisite: enrolled in ELAB or undergraduate program with appropriate TOEFL score or consent of instructor.
 
 **ESL-210 Seminar in Culture**
+
 Develops language skills and explores American culture through texts, art, film, and community engagement. May be taken more than once with consent of the program director provided the topics are substantially different. Prerequisite: enrolled in ELAB or undergraduate program with appropriate TOEFL score or consent of instructor.
 
 ## Pre-Professional Programs
@@ -747,7 +762,7 @@ Credits earned on off-campus programs are applied toward graduation on the same 
 
 ### DOMESTIC PROGRAMS
 
-**New York Term**
+#### New York Term
 Carson (Program Director)
 
 The New York Term is open to all students who meet the basic requirements for off-campus study. Offered in odd-numbered years in the Spring Term, this program provides abundant opportunity for experiences in the performing and visual arts, as well as internship opportunities for students from any major. 
@@ -758,12 +773,12 @@ There is an extra fee for New York Term. All Coe financial aid applies, and stud
 
 (See p. 56 for descriptions and course offerings.)
 
-**Washington Term**
+#### Washington Term
 McNabb (Program Director)
 
 The Washington Term is open to all students who meet the basic requirements for off-campus study. Students accepted for Washington Term spend Fall or Spring Term in the nation’s capital. Washington provides an unusual opportunity to study national politics and government and to enjoy a variety of cultural activities in the fine arts.  (See p. 57 for descriptions and course offerings.)
 
-**Wilderness Field Station**
+#### Wilderness Field Station
 Ellis (Program Director)
 
 The Coe College Wilderness Field Station, located on remote Low Lake in Minnesota’s Superior National Forest, offers students a unique and unparalleled opportunity for off-campus study. Courses take advantage of the serene surroundings for field observation, wilderness study, and outdoor learning. Biology courses are at the heart of the field station and often include aquatic biology, animal behavior, ornithology, and behavioral ecology of vertebrates. Students use the base camp’s laboratories, herbarium, and library to supplement their field work. Non-science electives, such as nature writing and wilderness and the law, are also offered. There is an independent study option as well. Participants take one course during a four-week session. 
@@ -772,14 +787,14 @@ The program runs from mid-June to mid-July, mid-July to mid-August, or both. Eac
 
 ### INTERNATIONAL PROGRAMS
 
-**Asia Term**
+#### Asia Term
 Nordmann and Carstens (Program Co-Directors)
 
 The Asia Term is open to all students who meet the basic requirements for off-campus study. Usually offered in the Spring Term, this program provides students an opportunity to experience a variety of Asian cultures in such countries as Thailand, Vietnam, and Cambodia.  At each site, students study language, read works in English about the culture, engage in service learning, and work with students at the host universities to gain a functional understanding of how each culture works.  Students are accompanied to Asia by Coe faculty members.
 
 Students take four credits of course work, typically one credit of Asian Tonal Languages, one credit of Asian studies, and two credits of independent study.  In some iterations of the program, students take an elective course in art, English, history, sociology, education, or another discipline, depending on the field of the instructor leading the program, and one credit of independent study.  (See p. 54 for descriptions and course offerings.)
 
-**Exchange Programs**
+#### Exchange Programs
 
 Coe College sponsors a number of programs with cooperating foreign universities, offering Coe sophomores, juniors and seniors each year the opportunity to study in a foreign setting. Coe College accepts in return junior-level students from the foreign institution. Applications of the recommended students are sent to the host institution, with the host reserving the right to admit or reject each student nominated. 
 
@@ -790,92 +805,92 @@ An exchange student must register and pay tuition and required fees at his or he
 Beyond tuition and fees, the participating student is responsible for the following expenses: meal expenses; transportation to and from the host institution; medical insurance and/or medical expenses; textbooks, clothing, and personal expenses; passport and visa costs; and all other debts incurred during the course of the year.
 
 **OCC-003 — COE/PALACKY UNIVERSITY (CZECHIA)**
-Kuennen (Program Director).
+Kuennen (Program Director)
 
 Students choose from courses in English in many areas, including History, Religion, Philosophy, Psychology, and Art History. Students pay costs of living at the destination.
 Credits earned on the Czech exchange program are evaluated on a P/NP basis.
 
 **OCC-004 — COE/UNIVERSITY OF MODENA AND REGGIO EMILIA (ITALY)**
-Affatigato (Program Director).
+Affatigato (Program Director)
 
 Courses in English only in electrical engineering. Students pay costs of living at the destination.
 Credits earned on the Italy exchange program are evaluated on a P/NP basis.
 
 **OCC-006 — COE/AMERICAN UNIVERSITY OF SHARJAH (UNITED ARAB EMIRATES)**
-Buckaloo (Program Director).
+Buckaloo (Program Director)
 
 Students choose from courses in English in Business, International Studies, Communications, Political Science, Business, and Middle Eastern Studies at this US-accredited institution.
 Students pay costs of living at the destination. Credits earned on the UAE exchange program are evaluated on a P/NP basis.
 
 **OCC-007 — COE/PECS UNIVERSITY (HUNGARY)**
-McNabb (Program Director).
+McNabb (Program Director)
 
 Students take courses in English in the natural sciences or Psychology. Students pay costs of living at the destination.
 Credits earned on the Hungary exchange program are evaluated on a P/NP basis.
 
 **OCC-205 — COE/KONGJU NATIONAL UNIVERSITY (SOUTH KOREA)**
-Nordmann (Program Director).
+Nordmann (Program Director)
 
 Course offerings in Business, Economics, and Asian studies.  Summer short courses may be available. Students pay costs of living at the destination.
 Credits earned from the Kongju exchange program are evaluated on a P/NP basis. 
 
 **OCC-210 — COE/CHIANG MAI UNIVERSITY (THAILAND)** 
-Chaimov (Program Director).
+Chaimov (Program Director)
 
 Coe students usually pursue an independent research project based on prior study in Thailand, as CMU offers no courses in English. Students pay costs of living at the destination.
 Credits earned from the Chiang Mai exchange program are evaluated on a P/NP basis. 
 
 **OCC-213 — COE/RANGSIT UNIVERSITY (THAILAND)** 
-Chaimov (Program Director).
+Chaimov (Program Director)
 
 Rangsit University offers English language bachelor’s degree programs in communications, international business, and international political economy.  Students pay costs of living at the destination.
 Credits earned from the Rangsit University exchange program are evaluated on a P/NP basis. 
 
 **OCC-215 — COE/MID SWEDEN UNIVERSITY (SWEDEN)** 
-Carstens (Program Director).
+Carstens (Program Director)
 
 Courses in English are available in such areas as business, social sciences, and environmental studies.  Students pay costs of living at the destination.
 Credits earned from the Mid Sweden exchange program are evaluated on a P/NP basis. 
 
 **OCC-220 — COE/NAGOYA-GAKUIN UNIVERSITY (JAPAN)** 
-Nordmann (Program Director).
+Nordmann (Program Director)
 
 One year of Japanese language study is recommended for students applying for this program. 
 Exchange students from Coe pay room expenses at Coe College. In return, students receive a room expense waiver. Other costs of living are paid at Nagoya-Gakuin University. 
 Credits earned from the Nagoya-Gakuin exchange program are evaluated on a P/NP basis. 
 
 **OCC-225 — COE/NORTHERN IRELAND SCHOLARS PROGRAM (NORTHERN IRELAND, UK)**
-Farrell (Program Director).
+Farrell (Program Director)
 
 Students with a high GPA may be selected to study at one of several universities in Northern Ireland, including Queens University Belfast and the University of Ulster. Applications for this consortial exchange are due in December of the year before study.  Students pay costs of living at the destination.
 Credits earned from the Northern Ireland exchange program are evaluated on a P/NP basis.
 
 **OCC-230 — COE/UNIVERSITY OF JAUME I (CASTELLO, SPAIN)**
-Rodríguez Moreno (Program Director).
+Rodríguez Moreno (Program Director)
 
 Courses in Spanish in a wide range of topics. Students pay costs of living at the destination.  UJI requires Coe students to have completed two Spanish courses at Coe.  Spanish language courses are available at additional cost.
 Credits earned from the Jaume I exchange program are evaluated on a P/NP basis. 
 
 **OCC-235 — COE/SOOKMYUNG UNIVERSITY (SOUTH KOREA)** 
-Nordmann (Program Director).
+Nordmann (Program Director)
 
 Courses offered in English on areas including the arts, linguistics, international studies, business, biology, and political science. Students pay costs of living at the destination.  
 Credits earned from the Sookmyung exchange program are evaluated on a P/NP basis. 
 
 **OCC-240 — COE/UNIVERSITY OF LANDAU (GERMANY)**
-Chaimov (Program Director).
+Chaimov (Program Director)
 
 Courses in English are available in art, English literature, linguistics, and other topics. Also, a wide range of subject areas taught in German. Students pay costs of living at the destination.
 Credits earned from the Landau exchange program are evaluated on a P/NP basis. 
 
 **OCC-250 — COE/IZMIR INSTITUTE OF TECHNOLOGY (TURKEY)** 
-Akgun (Program Director).
+Akgun (Program Director)
 
 Coe may send a student of Chemistry and a student of Physics to study those subjects in an English-language setting at a science university in Turkey. Students are responsible for housing, food, and all other costs of living.
 Credits earned on the Izmir exchange program are evaluated on a P/NP basis.
 
 **OCC-255 — COE/POLYTECHNIC UNIVERSITY OF UPPER FRANCE (FRANCE)** 
-Janca (Program Director).
+Janca (Program Director)
 
 Students choose from courses in English on business, communications, and marketing or a wide range of courses in French. Students pay costs of living at the destination. 
 Credits earned from the France exchange program are evaluated on a P/NP basis. 
@@ -893,37 +908,37 @@ Teaches entire majors in English in psychology, sociology, international relatio
 Credits earned from the Altinbas exchange program are evaluated on a P/NP basis.
 
 **OCC-270 — COE/ASHESI UNIVERSITY (GHANA)**
-Eichhorn (Program Director).
+Eichhorn (Program Director)
 
 Courses in African studies (sociology, anthropology, political science, history, arts), computer science, business. Coe students pay room and board expenses at Coe College and receive a waiver of these expenses in Ghana. They must exchange at the same time as an Ashesi student.
 Credits earned on the Ashesi exchange program are evaluated on a P/NP basis.
 
 **OCC-275 — COE/UNIVERSITY OF SALFORD (ENGLAND)**
-Kuennen (Program Director).
+Kuennen (Program Director)
 
 The University of Salford offers courses in business, contemporary European history, psychology, and many other areas.  Students pay costs of living at the destination and must arrange their own housing.
 Credits earned from the Salford exchange program are evaluated on a P/NP basis. 
 
 **OCC-285 — COE/UNIVERSITY OF NEUCHATEL (SWITZERLAND)**
-Janca (Program Director).
+Janca (Program Director)
 
 Coe students take courses at the Institute of French Language and Civilization.  Students pay costs of living at the destination.
 Credits earned from the Neuchatel exchange program are evaluated on a P/NP basis. 
 
 **OCC-290 — COE/JINAN UNIVERSITY (CHINA)**
-Nordmann (Program Director).
+Nordmann (Program Director)
 
 Located in southern China, this international university offers courses in English in international economics and business, journalism, computer science, and Chinese studies as well as the study of Chinese language.  Students pay costs of living at the destination.
 Credits earned from the Jinan exchange program are evaluated on a P/NP basis.
 
 **OCC-291 — COE/ISTANBUL KULTUR UNIVERSITY (TURKEY)**
-Duru (Program Director).
+Duru (Program Director)
 
 Offers English curriculum in psychology, business, economics, international relations, and other areas.  Students pay costs of living at the destination.
 Credits earned from the Istanbul Kultur University exchange program are evaluated on a P/NP basis.
 
 **OCC-292 — COE/UNICOLLEGE (ITALY)**
-Keenan (Program Director).
+Keenan (Program Director)
 Offers courses in English in arts management, business, criminology, English, and international studies.  Students pay costs of living at the destination.
 Credits earned from the Unicollege Exchange are evaluated on a P/NP basis.
 
