@@ -11,4 +11,4 @@ Coe College is a national, residential liberal arts college offering a broad arr
 
 *Coe College admits students without regard to sex, race, creed, color, handicap, sexual orientation, national, or ethnic origin.  All students have equal access to the facilities, financial aid, and programs of the College.*
 
-Date of publication: 7-6-2026
+Date of publication: 7-13-2026
