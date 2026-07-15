@@ -31,7 +31,7 @@ book:
       - catalog_sections/04_education_program_rendered.qmd
     - part: "CAMPUS RESOURCES"    
       chapters:
-      - catalog_sections/15_campus_resources_rendered.qmd
+      - catalog_sections/05_campus_resources_rendered.qmd
       - catalog_sections/16_student_life_rendered.qmd
     - part: "COLLEGE REGULATIONS AND POLICIES"  
       chapters:
