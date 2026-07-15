@@ -29,16 +29,6 @@ book:
       chapters:
       - catalog_sections/03_academic_calendar_rendered.qmd
       - catalog_sections/04_education_program_rendered.qmd
-      - catalog_sections/05_may_term_rendered.qmd
-      - catalog_sections/06_coe_plan_rendered.qmd
-      - catalog_sections/07_graduation_requirements_rendered.qmd
-      - catalog_sections/08_areas_of_study_rendered.qmd
-      - catalog_sections/09_academic_advising_rendered.qmd
-      - catalog_sections/10_first_year_experience_rendered.qmd
-      - catalog_sections/11_writing_emphasis_rendered.qmd
-      - catalog_sections/12_general_education_courses_rendered.qmd
-      - catalog_sections/13_special_programs_and_opportunities_rendered.qmd
-      - catalog_sections/14_off_campus_study_rendered.qmd
     - part: "CAMPUS RESOURCES"    
       chapters:
       - catalog_sections/15_campus_resources_rendered.qmd
