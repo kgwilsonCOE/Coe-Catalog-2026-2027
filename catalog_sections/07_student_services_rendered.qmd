@@ -1,4 +1,4 @@
-# Student Services
+# STUDENT SERVICES
 
 ## Residence Life
 
