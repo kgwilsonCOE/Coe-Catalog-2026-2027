@@ -36,11 +36,7 @@ book:
       - catalog_sections/07_student_services_rendered.qmd
     - part: "COLLEGE REGULATIONS AND POLICIES"  
       chapters:
-      - catalog_sections/17_effective_catalog_rendered.qmd
-      - catalog_sections/19_class_designation_rendered.qmd
-      - catalog_sections/20_registration_rendered.qmd
-      - catalog_sections/21_academic_integrity_policy_rendered.qmd
-      - catalog_sections/22_academic_standing_rendered.qmd
+      - catalog_sections/08_college_regulations_and_policies_rendered.qmd
       - catalog_sections/23_transcript_evaluation_policies_rendered.qmd
       - catalog_sections/24_ferpa_rights_rendered.qmd
     - part: "COURSES OF INSTRUCTION"
