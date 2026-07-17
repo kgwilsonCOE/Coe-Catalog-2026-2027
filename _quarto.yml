@@ -32,7 +32,7 @@ book:
     - part: "CAMPUS RESOURCES"    
       chapters:
       - catalog_sections/05_campus_resources_rendered.qmd
-      - catalog_sections/16_student_life_rendered.qmd
+      - catalog_sections/06_student_life_rendered.qmd
     - part: "COLLEGE REGULATIONS AND POLICIES"  
       chapters:
       - catalog_sections/17_effective_catalog_rendered.qmd
