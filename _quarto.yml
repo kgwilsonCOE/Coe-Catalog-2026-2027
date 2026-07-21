@@ -37,8 +37,6 @@ book:
     - part: "COLLEGE REGULATIONS AND POLICIES"  
       chapters:
       - catalog_sections/08_college_regulations_and_policies_rendered.qmd
-      - catalog_sections/23_transcript_evaluation_policies_rendered.qmd
-      - catalog_sections/24_ferpa_rights_rendered.qmd
     - part: "COURSES OF INSTRUCTION"
       chapters:
       - catalog_sections/26_academic_programs.qmd
