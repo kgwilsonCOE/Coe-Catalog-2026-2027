@@ -267,3 +267,99 @@ Admission for work toward a degree terminates and the student is considered with
 2.	A part-time student does not enroll for a course at Coe in a 12-month period and has not completed a Leave of Absence form. 
 
 Students wishing to resume work toward a degree, once admission status has terminated, must apply for readmission.
+
+## Transcript Evaluation Policies
+
+Official transcripts for courses taken at Coe College can only be issued by the Office of the Registrar and only after the office has received a written request and payment from the student.
+
+### General Policy on Transfer Credit
+
+To honor its mission and to preserve its academic integrity as a liberal arts institution, the College accepts a course in transfer for the equivalent earned credit (4 semester hours = 6 quarter hours = 1 course credit), if that course meets the spirit of the College’s mission and is from a regionally accredited institution. The College can only enter transfer work upon receipt of an official transcript with final grade(s) for the coursework in question. Departments will accept transferred 100- and 200-level course equivalencies toward fulfilling major or minor requirements, unless otherwise noted in a respective department’s section of the Catalog. In cases where it is unclear whether the course would be acceptable for transfer credit, the Registrar and the appropriate department chair will consult. Other exceptions are referred to the Committee on Petitions. First-year seminars may transfer in for elective credit but will not fulfill other requirements. Neither remedial nor skill-development courses may transfer in. Practicum and Writing Emphasis options may not be transferred in and must instead be taken at Coe except in cases of transfer students with approved degrees. Mathematics courses may only transfer in if they are Calculus I or higher. Coursework of a technical/professional/vocational nature generally will not transfer into Coe.
+
+### Evaluation of Credits in Transfer
+
+The Office of the Registrar is responsible for the evaluation of transfer credit. Credits accepted in transfer do not affect the cumulative GPA. Grades for the credits accepted are not recorded on Coe’s transcript. Thus, transfer credits increase only the total courses attempted and the total course credits earned. Credit is not accepted for course work earning a grade below “C” (2.0 on a 4.0 scale), nor for courses on a Satisfactory/Unsatisfactory or Pass/Not Pass basis, unless the institution where the course was taken provides verification that the student earned at least the equivalent of a “C” in the course.
+
+Accepted transfer credit appears on a student’s Coe transcript with a grade of “P” (Pass), which does not influence GPA. If an equivalent course is repeated at Coe College, the transfer credit no longer counts toward graduation. In the reverse situation, if the equivalent to a Coe course is taken as a repeat at another institution and transferred in, the original Coe course, and any earned credit associated with it, is forgiven and the transfer work takes its place.
+
+### Junior or Community College Credit
+
+A maximum of 16 credits (junior standing) will be accepted as transfer credit from the sum of 2-year regionally accredited institutions plus AP/IB scores. Transfer students who complete a regionally accredited A.A. degree program or a regionally accredited college-parallel A.S. degree program will be accorded junior status (16 course credits) at Coe. Transfer students who complete an A.A., A.S., or A.A.S. degree from a regionally accredited institution with which Coe has a specific articulation agreement will be awarded credit consistent with that agreement. A transferred A.A, A.S., or approved A.A.S. degree fulfills the General Education Distribution, Diversity Across the Curriculum, and Writing Emphasis requirements but not the Practicum requirement. See p. 25 for information on reverse credit transfer for transfer students who have not yet finished their associate’s degrees at time of beginning coursework at Coe.
+
+### Four-Year College Credit
+
+For students pursuing a B.A, B.S.N. or B.S.E, a maximum of 24 credits (senior standing) will be accepted as transfer credit from the sum of 4-year regionally accredited institutions, plus 2-year regionally accredited institutions, plus AP/IB scores. For students pursuing a RC-B.A, a maximum of 16 credits will be accepted as transfer credit from the sum of 4-year regionally accredited institutions, plus 2-year regionally accredited institutions, plus AP/IB scores. For information on second-baccalaureate degree students, see p. 26.
+
+### European Credit Transfer System (ECTS)
+
+ECTS credits are a relative rather than an absolute measure of student workload.  They specify how much of a year’s workload a course unit represents at the institution or department allocating the credits. ECTS is thus based on a full student workload and not limited to contact hours only.
+
+In ECTS, 60 credits represent the workload of a normal undergraduate academic year of study and normally 30 credits for a semester and 20 credits for a term. Thus, ECTS credits will normally be transferred to Coe College at a rate of 7.5 ECTS credits: 1 Coe credit.
+
+### Occasional Transfer Credit for Degree-Seeking Students
+
+Degree-seeking students sometimes wish to transfer credit from another institution toward their degree at Coe. Such credit must be approved in advance of completion of the course by the Registrar. Departments must approve in advance any courses counting toward a major, a minor, or teacher certification requirements.
+
+### Evaluation of Credits for Graduation
+
+The Office of the Registrar certifies the completion of area of study and General Education requirements. Credits toward a major, minor, endorsement, license, authorization, etc. are approved by the appropriate department chair, administrative coordinator, or by Academic Policies Committee for interdisciplinary majors. Departments will accept transferred 100- and 200-level course equivalencies toward fulfilling major or minor requirements, unless otherwise noted in a respective department’s section of the Catalog.
+
+### Credit by Examination
+
+A maximum of eight course credits (sophomore standing) in satisfaction of degree requirements may be applied from credit earned through the sum of the Advanced Placement (AP) Program and International Baccalaureate (IB). Students may not receive college credit for both AP and IB in areas of similar content.
+
+### Updating Course Work
+
+In the natural course of reviewing academic records, a student may be required to repeat certain courses (or appropriate substitutes) taken more than four years prior to the review to bring studies in those areas up to date. Review cases may be brought to the Academic Policies Committee by any member of the faculty, and this committee makes the final decision. 
+
+### Advanced Placement (AP)
+
+Coe College’s Advanced Placement code is 6101.
+
+Coe College grants college credit for approved Advanced Placement examination scores of 4 or 5.  AP credit cannot be used to fulfill any General Education requirement. Each AP exam may earn 1.0 course credit up to a maximum of eight total course credits towards graduation from AP and IB.  Credit is granted upon receipt of the results of the examination, which must be received directly from the Educational Testing Service.  Further information regarding Advanced Placement examination reporting to the College may be obtained in the Office of the Registrar and on Coe’s website. If an equivalent course is taken after matriculation to Coe College, the AP credit is removed from the transcript.
+
+### International Baccalaureate (IB)
+
+Coe College credit may be awarded for International Baccalaureate work.  Students may earn 1.0 course credit for each higher-level examination score of 5, 6, or 7 to a maximum of eight total course credits from AP and IB.  No credit is granted for standard-level examinations.  IB credit cannot be used to fulfill any General Education requirement.  Credit is granted upon receipt of the results of the examination, which must be received directly from the International Baccalaureate Organization.  Further information regarding International Baccalaureate examination reporting to the College may be obtained in the Office of the Registrar and on Coe’s website.  If an equivalent course is taken after matriculation to Coe College, the IB credit is removed from the transcript.
+
+## Class Attendance
+
+Regular class attendance is expected, although the instructor of each course sets the standard expected to be met by the students. The College expects attendance on all scheduled days, including the first and last day of a term, as well as the class days immediately preceding and following College holidays. Students officially representing the College are excused as necessary prior to the absence. Students on academic probation are not excused from attending class to participate in extra-curricular activities. 
+
+## Final Exams
+
+The final exam schedule is published by the Registrar. It is expected that final exams will be given during the time scheduled for each course. There may be extraordinary cases when an individual student has a compelling reason for taking an exam at a time other than that scheduled. In such cases the instructor may properly decide to let that individual take the exam at another time. Having more than two exams scheduled on one day would justify allowing a student to take a third exam on another day. The instructor of the course with the highest course number will move the exam, for that student only, to a mutually convenient time.
+
+## Participation in Commencement 
+
+Students can participate in Commencement when they have met all the requirements for graduation for one of Coe’s degrees, they have completed their Intent to Graduate form, and it has been fully processed and approved by the Registrar’s Office. (Intent to Graduate forms will be processed in the order they are received. Submissions past the deadline have no guarantee of being processed for Commencement participation.)  In addition, all students, unless excused in writing by the Provost, must complete a survey assessing their educational experience at Coe.  All pending graduates must participate in Commencement exercises unless excused in writing by the Registrar.
+
+### Pending Graduates
+
+Students who need to earn no more than 2.0 course credits to complete all graduation requirements may be permitted to participate in one Commencement exercise provided the remaining course credits are scheduled to be completed within one academic year of their Commencement ceremony.  In these instances, a plan for completion must be submitted in writing to the Registrar’s Office and approved by the Registrar prior to Commencement. Coe graduates may participate in Commencement no later than one academic year following the conferral of their degree. Pending graduates will be listed in the Commencement booklet, but will not receive their diploma until all graduation requirements are met.  Final Latin honors (see p. 28) are bestowed only after all graduation requirements are met, and will be listed on a student’s final diploma and transcript.
+
+## STUDENT NOTIFICATION OF RIGHTS UNDER FERPA
+
+The Family Educational Rights and Privacy Act (FERPA) affords students certain rights with respect to their education records. They are: 
+
+-	the right to inspect and review the student’s education records within 45 days of the day the College receives a request for access. Students should submit to the Office of the Registrar written requests that identify the record(s) they wish to inspect. The Registrar will make arrangements for access and notifies the student of the time and place where the records may be inspected. If the records are not maintained by the Office of the Registrar, the Registrar shall advise the student of the correct official to whom the request should be addressed. 
+-	the right to request the amendment of the student’s education records that the student believes are inaccurate or misleading. Students may ask the College to amend records that they believe are inaccurate or misleading. They should write the College official responsible for the records, clearly identify the part of the record they want changed, and specify why it is inaccurate or misleading. FERPA was not intended to provide a process to be used to question substantive judgments which are correctly recorded. The rights of challenge are not intended to allow students to contest, for example, a grade in a course because they felt a higher grade should have been assigned. If the College decides not to amend the record as requested by the student, the College will notify the student of the decision and advise the student of his or her right to a hearing regarding the request for amendment. Additional information regarding the hearing procedures will be provided to the student when notified of the right to a hearing. 
+-	the right to consent to disclosures of personally identifiable information contained in the student’s education records, except to the extent that FERPA authorized disclosure without consent. One exception which permits disclosure without consent is disclosure to school officials with legitimate educational interests. A school official is a person employed by the College in an administrative, supervisory, academic or research, or support staff position (including law enforcement unit personnel and health staff); a person or company with whom the College has contracted (such as an attorney, auditor, collection agent, or official of the National Student Clearinghouse); or a student serving on an official committee, such as an admission, petitions, retention, honors recognition, disciplinary, or grievance committee, or assisting another school official in performing his or her tasks. A school official has a legitimate educational interest if the official needs to review an education record in order to fulfill his or her professional responsibility.
+-	the right to file a complaint with the U.S. Department of Education concerning alleged failures by the College to comply with the requirements of FERPA. 
+
+A student is a person who attends or has attended Coe College, as determined by matriculation and enrollment by the first date of an academic term. Coe College obtains written permission from the student before releasing any information from a student’s educational record in most cases.  However, as the law allows, on a case-by-case basis, appropriate parts of a student record may be disclosed, without consent of the student, to the following parties: 
+
+-	college employees who have a legitimate need to know. 
+-	persons who need to know in cases of health and safety emergencies. 
+-	accrediting organizations to carry out accrediting functions. 
+-	appropriate parties in connection with financial aid to a student. 
+-	federal, state, and local governmental officials for purposes authorized by law. 
+-	individuals who have lawfully obtained court orders or subpoenas. 
+-	organizations conducting educational studies for the College. 
+-	courts during litigation between the College and the student or parent.
+-	victim of crime of violence after final results of a disciplinary hearing. 
+-	public after disciplinary proceedings determine student committed crime of violence. 
+
+In many situations, complaints relative to FERPA can be resolved with the College on an informal basis by contacting the Registrar, in the lower level of Voorhees Hall. 
+
+**To file a FERPA complaint** with the U.S. Department of Education, contact the office that administers FERPA at: Family Policy Compliance Office, U.S. Dept. of Education, 400 Maryland Avenue SW, Washington, DC 20202-4605.
