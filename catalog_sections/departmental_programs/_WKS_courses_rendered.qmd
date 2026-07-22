@@ -20,14 +20,14 @@ Workshops (0.25 and 0.5 course credit) are designed to allow hands-on, experient
   An introduction to vector graphics programs such as Adobe Illustrator as art-making tools though a series of self-directed creative projects (not tutorials). Students learn through hands on experience, guided with interactive demonstrations and assignments. (0.5 course credit).  
  **WKS 214 Workshop: Stop Motion**  
   An introduction to stop-motion animation as an art-making tool, through a series of self-directed creative projects (not tutorials). Students learn through hands on experience, guided with interactive demonstration and assignments. (0.5 course credit).  
- **WKS 221 Innovation Lab I**  
-  A workshop for students to engage in collaborative, innovative projects in the Center for Creativity. Students can work on smaller initiatives for 7 weeks (Innovation Lab I) or tackle more complex problems for an entire semester (Innovation Lab I and II)  
+ **WKS 221 Workshop: Woodshop**  
+  An overview of proper and safe use of all woodshop tools. Basic maintenance and care of equipment and tools are also addressed. (0.25 course credit)  
  **WKS 241 Workshop: Topics**  
   Investigates specific topics and/or tools in art-making. (0.5 course credit).  
  **WKS 251 Workshop: Sound**  
-  An introduction to sound as an art medium, using recording devices, software and installation, through a series of self-directed creative projects (not tutorials). Students learn through hands on experience, guided with interactive demonstrations and assignments. Prerequisite: Illuminated Pixels (ART-145), or Movement (ART-170), or Narratives (ART-251), or SpaceTime (ART-203). (0.5 course credit).  
+  An introduction to sound as an art medium, using recording devices, software and installation, through a series of self-directed creative projects (not tutorials). Students learn through hands on experience, guided with interactive demonstrations and assignments. Prerequisite: Digital Art (ART-145), or Time-Based Media (ART-150). (0.5 course credit)  
  **WKS 252 Workshop: Motion Graphics**  
-  An introduction to digital kinetic graphics programs, specifically Adobe AfterEffects among others, as art-making tools, through a series of self-directed creative projects (not tutorials). Students learn through hands on experience, guided with interactive demonstrations and assignments. Prerequisite: Illuminated Pixels (ART-145), or Movement (ART-170), or Narratives (ART-251), or SpaceTime (ART-203), or Vector Graphics (WKS-213). (0.5 course credit).  
+  An introduction to digital kinetic graphics programs, specifically Adobe AfterEffects among others, as art-making tools, through a series of self-directed creative projects (not tutorials). Students learn through hands on experience, guided with interactive demonstrations and assignments. Prerequisite: Digital Art (ART-145), or Time-Based Media (ART-150), or Workshop: Vector Graphics (WKS-213). (0.5 course credit)  
  **WKS 253 Workshop: Competitions**  
   This 7-week workshop is designed to prepare artists for submission, be that galleries, grants, festivals or graduate schools. Learn about what makes submissions attractive and improve your submission materials, including artist resumes, proposals, statements, etc. To be most successful, students should have a project in mind or already near completion. Prequisite: at least two ART- courses or consent of instructor.  
  **WKS 291 Workshop: Advanced Topics**  

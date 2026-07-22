@@ -33,7 +33,7 @@ Candidates for the **BACHELOR OF MUSIC** degree must successfully complete:
 	1. MU 195 Music Production
 	2. MU 409 Theory of Music IV/MU 409L Aural Skills Lab IV
 	3. MUA 413 Orchestration
-	4. MUA 423 Saxophone (Adv Std)
+	4. MUA 423 Advanced Counterpoint
 	5. **Eight** terms of participation in the Applied Music Course, which must include four terms each of MUA-202C and MUA-303C
 	6. **One** course each from the social sciences, natural sciences, and humanities. (New York Term may be used to satisfy the humanities requirements, but the two required language courses described below may not.) 
 	7. **Two** courses in French in consecutive terms (may not be used to satisfy the humanities requirement of #6) 
@@ -51,11 +51,11 @@ Candidates for the **BACHELOR OF MUSIC** degree must successfully complete:
 		- MU 270 Musical Theatre Acting
 		- MU 166/284 Topics in Music
 		- MU 385 Conducting II
-		- MU 444 Ind Study-Music
+		- MU 444 Independent Study
 		- MUA 133V Vocal Literature
 		- MUA 134V Vocal Pedagogy
 		- MUA 413 Orchestration
-		- MUA 423 Saxophone (Adv Std)
+		- MUA 423 Advanced Counterpoint
 		- One course credit in MUA-courses beyond those required in the Applied Music Course.
 	3. **Eight** terms of participation in the Applied Music Course. 
 	4. **One** course each from the social sciences, natural sciences, and humanities. (New York Term may be used to satisfy the humanities requirements.) 
@@ -75,10 +75,10 @@ Candidates for the **BACHELOR OF MUSIC** degree must successfully complete:
 		- MU 270 Musical Theatre Acting
 		- MU 166/284 Topics in Music
 		- MU 385 Conducting II
-		- MU 444 Ind Study-Music
+		- MU 444 Independent Study
 		- MUA 133V Vocal Literature
 		- MUA 413 Orchestration
-		- MUA 423 Saxophone (Adv Std)
+		- MUA 423 Advanced Counterpoint
 		- One course credit in MUA-courses beyond those required in the Applied Music Course. 
 	5. **Eight** terms of participation in the Applied Music Course. 
 	6. **One** course each from the social sciences, natural sciences, and humanities. (New York Term may be used to satisfy the humanities requirements.) 
@@ -95,12 +95,12 @@ Candidates for the **BACHELOR OF MUSIC** degree must successfully complete:
 	2. EDU 117 Exceptional Learners
 	3. EDU 187 Human Relations
 	4. EDU 195 Educ Psychology & Development
-	5. EDU 219 Educational Technology Lab
+	5. EDU 219 InstructTech for Teaching &Learning
 	6. MU 205 Practicum in Music Education
 	7. MU 360 Elementary & General Music Methods
 	8. **One** of the following:
-		- MU 361 Choral Music Methods, MU 362 InstrMusMethChrlTeachr, and MUA 134V Vocal Pedagogy (for Vocal Music Education majors)
-		- MU 363 Instrumental Music Methods and MU 364 ChrlMusMethInstTeach (for Instrumental Music Education majors)
+		- MU 361 Choral Music Methods, MU 362 Instrumental Mus Methods for Choral, and MUA 134V Vocal Pedagogy (for Vocal Music Education majors)
+		- MU 363 Instrumental Music Methods and MU 364 Choral Music Methods for Instrument (for Instrumental Music Education majors)
 	9. MU 385 Conducting II
 	10. MU 421 Student Teaching Elementary Music
 	11. MU 422 Student Teaching Secondary Music
@@ -142,7 +142,7 @@ Students completing a **BACHELOR OF ARTS** degree may choose to supplement their
 1. MU 157 Introduction to Jazz History
 2. MU 409 Theory of Music IV/MU 409L Aural Skills Lab IV
 3. **Five** terms of MUA 102 Jazz & Improvisation Lab
-4. **Seven** terms of MUA 101 Jazz Ensemble
+4. **Seven** terms of MUA 101 Jazz Band
 5. **Two** terms of MUA 102K Piano Arranging Lessons
 6. **Two** terms of MUA 103K Piano: Jazz
 7. AAM 107 Intro to African American Studies
@@ -256,7 +256,7 @@ Composition lessons and classes in keyboard, brass, woodwind, and string literat
 - MUA 202C Composition
 - MUA 303C Composition (Advanced Standing)
 - MUA 413 Orchestration
-- MUA 423 Saxophone (Adv Std)
+- MUA 423 Advanced Counterpoint
 
 ### APPLIED KEYBOARD--LESSONS
 - MUA 100K Group Piano
@@ -350,12 +350,12 @@ Ensembles are open, by audition, to all Coe students, as well as being required 
 Credit for participation in these regularly-offered ensembles is available under the following schedule.  Students are encouraged to participate in these ensembles as often as possible. Additional ensembles, offered on a periodic basis, are listed in the *Coe College Music Department Faculty/Student Handbook*.
 
 - MUA 100 Concert Band
-- MUA 101 Jazz Ensemble
+- MUA 101 Jazz Band
 - MUA 102 Jazz & Improvisation Lab
 - MUA 103 Symphony Orchestra
 - MUA 104 Concert Choir
 - MUA 105 Crimson Singers
-- MUA 110 Vocal Jazz Ensemble
+- MUA 110 Coe Sho Cho
 - MUA 111 Coe Handbell Ensemble
 - MUA 130V MusicalTheatreProductionExperience
 - MUA 131V Song Interpretation Workshop
@@ -363,13 +363,13 @@ Credit for participation in these regularly-offered ensembles is available under
 
 ### GENERAL SURVEY COURSES
 - MU 100 Experiencing Music
-- MU 101 Music Fundamentals
+- MU 101 Music Fundamentals I
 - MU 140 Film Music
 - MU 151 Record Label
 - MU 251 Record Label Seminar
 - MU 157 Introduction to Jazz History
 - MU 161 Hip Hop Workshop
-- MU 166 Topics in Music:Non-Western Perspct
+- MU 166 Music of the World
 - MU 270 Musical Theatre Acting
 - MU 284 Topics in Music
 - MUA 133V Vocal Literature
@@ -389,7 +389,7 @@ Credit for participation in these regularly-offered ensembles is available under
 ### COMPOSITION COURSES 
 - MU 195 Music Production
 - MUA 413 Orchestration
-- MUA 423 Saxophone (Adv Std)
+- MUA 423 Advanced Counterpoint
 
 ### CONDUCTING COURSES 
 - MU 285 Conducting I
@@ -404,24 +404,24 @@ Credit for participation in these regularly-offered ensembles is available under
 - MU 205 Practicum in Music Education
 - MU 360 Elementary & General Music Methods
 - MU 361 Choral Music Methods
-- MU 362 InstrMusMethChrlTeachr
+- MU 362 Instrumental Mus Methods for Choral
 - MU 363 Instrumental Music Methods
-- MU 364 ChrlMusMethInstTeach
+- MU 364 Choral Music Methods for Instrument
 - MU 421 Student Teaching Elementary Music
 - MU 422 Student Teaching Secondary Music
 - MUA 104K Piano for Music Teachers
 
 ### ADVANCED STUDY IN MUSIC 
 - MUA 490 Senior Recital
-- MU 444 Ind Study-Music
+- MU 444 Independent Study
 
 ### Courses in Music {#sec-courses-in-music}
 **MU Prefix**
 
  **MU 100 Experiencing Music**  
   Provides a framework for informed music listening and for developing an appreciation for a diverse variety of musical styles. Emphasis is on traditional classical music, with some attention to jazz, electronic, and avant-garde styles. Attendance at live concerts is an integral part of the course. This course does not satisfy any of the requirements for a major in music.  
- **MU 101 Music Fundamentals**  
-  An introduction to the materials of music and an understanding of the musical system. The course includes basic keyboard knowledge as well as beginning song writing.  
+ **MU 101 Music Fundamentals I**  
+  Introduces the materials of music and an understanding of the musical system: melody, harmony, notation, songwriting, arranging, aural skills, and technology.  
  **MU 109 Theory of Music I**  
   For students majoring in music and other students with background in music. Develops keyboard harmony, melodic and harmonic dictation, improvisation, four-part writing up to and including dominant seventh chords, and introduction to music notation software. Students seeking a BA in Music or one of the Bachelor Music degrees must also register for an appropriate Aural Skills Lab course. Prerequisite: Music Theory Placement exam or consent of the instructor.  
  **MU 109L Aural Skills Lab I**  
@@ -435,8 +435,9 @@ Prerequisite: Music Theory Placement exam. Corequisite: Theory of Music I (MU-10
   Surveys many styles of jazz by studying them in a historical perspective. Listening, discussion, and lecture components are emphasized. (Offered May Term only)  
  **MU 161 Hip Hop Workshop**  
   Blend of seminar and studio sessions focusing on hip-hop repertoire, beat arrangement, and lyrical structure. Additional emphasis on vocal recording and editing proficiency, as well as active listening exercises to better apply music production techniques to original student works. Participation in the creative process is required, and collaboration among students is encouraged.  
- **MU 166 Topics in Music:Non-Western Perspct**  
-  A topics course that explores the music of one of more non-Western cultures, largely from a musicological viewpoint. Topics could include survey courses, such as World Music, or courses focused on the music of one particular continent, country, or sub-group. Prerequisite: consent of instructor. (Offered on an occasional basis)  
+ **MU 166 Music of the World**  
+  MU-166 Music of the World
+Surveys the music of the world, ranging from Classical and Art Music to Traditional and Popular musics of other nationalities and cultures. Emphasis is on examining these musics in their social, cultural, and historical contexts.  
  **MU 195 Music Production**  
   Exploration of audio engineering and recording practices, with special attention to electronic and popular music. Overview of intellectual property in the arts, the evolution of audio technology, and cultural movements that influenced new forms of experimental and commercial music. Students are introduced to the fundamentals of acoustics and sound design through audio production software, with hands-on projects detailing methods for producing music in a variety of genres.  
  **MU 202 Arts Administration**  
@@ -459,7 +460,7 @@ with dramatic action. Periodic performance projects (solos, duets, and ensemble 
 dialogue) are supplemented by student research projects. The course is also designed to introduce students to a
 wide-ranging repertoire of available audition material. Additional rehearsal time outside of class is required.  
  **MU 284 Topics in Music**  
-  A course of selected focus that centers on a particular musical issue, problem, theory, or methodology. Topics vary, and they include, but are not limited to, Advanced Form and Analysis, Rock and Roll History, Music of the 1960’s, and Modern Musical Theatre. May be taken more than once for credit, provided the topics are substantially different. Prerequisite: consent of instructor. (Offered on an occasional basis)  
+  Centers on a particular musical issue, problem, theory, or methodology. Topics vary, and they include, but are not limited to, Advanced Form and Analysis, Rock and Roll History, Music of the 1960s, and Modern Musical Theatre. May be taken more than once for credit, provided the topics are substantially different. Prerequisite: consent of instructor. (Offered on an occasional basis)  
  **MU 285 Conducting I**  
   Basic conducting techniques: reading, analysis, and interpretation of choral, band, and orchestral literature. Laboratory experience with college ensembles. Prerequisite: Theory of Music III (MU-215) or consent of instructor.  
  **MU 309 Theory of Music III**  
@@ -469,17 +470,17 @@ wide-ranging repertoire of available audition material. Additional rehearsal tim
  **MU 355 Music History & Literature II**  
   Study of western music of the 18th and 19th centuries in Europe and America. Prerequisite: Theory of Music II (MU-125) or consent of instructor.  
  **MU 360 Elementary & General Music Methods**  
-  Objectives, problems, and methods of teaching elementary music and general music in the schools. Course surveys elementary and general music curricula and develops a functional knowledge of: organization and management; fretted and classroom instruments; methods of teaching singing, rhythmic, and listening activities expected. Directed observation in elementary schools required. Prerequisite: Practicum in Music Education (MU-205). (0.5 course credit) (Offered Spring Term)  
+  Objectives, problems, and methods of teaching elementary music and general music in the schools. Course surveys elementary and general music curricula and develops a functional knowledge of: organization and management; fretted and classroom instruments; methods of teaching singing, rhythmic, and listening activities expected. Directed observation in elementary schools required. Pre-or co-requisite: Practicum in Education (EDU-215) or consent of Music Department Chair.  
  **MU 361 Choral Music Methods**  
-  Objectives, problems, and methods of teaching choral music in the schools. General survey of elementary and secondary choral music curricula and develops a functional knowledge of: organization and management; the changing voice; beginning, intermediate, and advanced choral techniques. Directed observation in elementary and secondary schools required. Credit is given for Choral Music Methods (MU-361) or Choral Music Methods for the Instrumental Teacher (MU-364), not both. Prerequisite: Practicum in Music Education (MU-205) (Offered Spring Term)  
- **MU 362 InstrMusMethChrlTeachr**  
+  Objectives, problems, and methods of teaching choral music in the schools. General survey of elementary and secondary choral music curricula and develops a functional knowledge of: organization and management; the changing voice; beginning, intermediate, and advanced choral techniques. Directed observation in elementary and secondary schools required. Prerequisite: Practicum in Education (EDU-215)  
+ **MU 362 Instrumental Mus Methods for Choral**  
   Objectives, problems, and methods of teaching instrumental music in the schools. General survey of elementary and secondary instrumental music curricula. Students are introduced to: concert band and orchestral techniques; jazz band techniques; marching band techniques; beginning, intermediate, and advanced band and orchestral techniques. Credit is given for Instrumental Music Methods for the Choral Teacher (MU-362) or Instrumental Music Methods (MU-363), not both. Prerequisite: Practicum in Music Education (MU-205) (0.5 course credit) (Offered Spring Term)  
  **MU 363 Instrumental Music Methods**  
-  Objectives, problems, and methods of teaching instrumental music in the schools. General survey of elementary and secondary instrumental music curricula and develops a functional knowledge of: organization and management; concert band and orchestral techniques; jazz band techniques; marching band techniques; beginning, intermediate, and advanced band and orchestral techniques. Directed observation in elementary and secondary schools required. Credit is given for Instrumental Music Methods for the Choral Teacher (MU-362) or Instrumental Music Methods (MU-363), not both. Prerequisite: Practicum in Music Education (MU-205). (Offered Spring Term)  
- **MU 364 ChrlMusMethInstTeach**  
+  Objectives, problems, and methods of teaching instrumental music in the schools. General survey of elementary and secondary instrumental music curricula and develops a functional knowledge of: organization and management; concert band and orchestral techniques; jazz band techniques; marching band techniques; beginning, intermediate, and advanced band and orchestral techniques. Directed observation in elementary and secondary schools required. Prerequisite: Practicum in Education (EDU-215).  
+ **MU 364 Choral Music Methods for Instrument**  
   Objectives, problems, and methods of teaching choral music in the schools. General survey of elementary and secondary choral music curricula. Students are introduced to the changing voice and to beginning, intermediate, and advanced choral techniques. Credit is given for Choral Music Methods (MU-361) or Choral Music Methods for the Instrumental Teacher (MU-364), not both. Prerequisite: Practicum in Music Education (MU-205). (0.5 course credit) (Offered Spring Term)  
  **MU 385 Conducting II**  
-  Continuation of Conducting I. Prerequisite: Conducting I (MU-285).  
+  Continuation of Conducting I. Prerequisite: Conducting I (MU-384).  
  **MU 409 Theory of Music IV**  
   Further investigation of tonal music, including jazz harmony, harmonic and formal analysis, the rudiments of 18th-century counterpoint, and an introduction to contemporary music. Prerequisite: Theory of Music III (MU-309) or consent of instructor.  
  **MU 409L Aural Skills Lab IV**  
@@ -488,7 +489,7 @@ wide-ranging repertoire of available audition material. Additional rehearsal tim
   Directed observation and student teaching in the first six grades. Scheduled daily for seven weeks, approximately six hours per day. Prerequisite: satisfactory completion of all other requirements for the Bachelor of Music in Music Education. (2.0 course credits) (Offered Fall Term)  
  **MU 422 Student Teaching Secondary Music**  
   Directed observation and student teaching in middle school and high school. Scheduled for seven weeks, approximately six hours per day. Prerequisite: satisfactory completion of all other requirements for the Bachelor of Music in Music Education. (2.0 course credits) (Offered Fall Term)  
- **MU 444 Ind Study-Music**  
+ **MU 444 Independent Study**  
   Independent work on a selected project in music under the direction of a faculty member of the department. May be taken for an X status grade with consent of instructor prior to registration.  Prerequisites: background courses and consent of department chair.  
  **MU 458 Music History & Literature III**  
   Study of the composers and musical developments in Europe and America in the 20th and 21st centuries, together with the influences of music from other world cultures. Prerequisite: Theory of Music II (MU-209) or consent of instructor.  
@@ -497,18 +498,20 @@ wide-ranging repertoire of available audition material. Additional rehearsal tim
 
  **MUA 100 Concert Band**  
   Open to all woodwind, brass, and percussion players. The ensemble offers students the opportunity to perform some of the great band repertoire of the 20th and 21st centuries, as well as carefully selected transcriptions of orchestral repertoire. A select Wind Ensemble within the Concert Band occasionally performs additional selections from the contemporary repertoire. The Concert Band tours on a regular basis. (0.3 course credit)  
- **MUA 101 Jazz Ensemble**  
-  Membership determined by an audition of interested saxophone, trombone, trumpet, piano, bass, guitar, drum set, and auxiliary percussion players. The ensemble offers students the opportunity to perform varied selections from the jazz repertoire of the 20th and 21st centuries, as well as the opportunity to improvise in the jazz idiom. The Jazz Ensemble tours on a regular basis and performs with three to five guest artists each year. (0.2 course credit)  
+ **MUA 101 Jazz Band**  
+  MUA-101 Jazz Band
+
+Membership determined by an audition of interested saxophone, trombone, trumpet, piano, bass, guitar, drum set, and auxiliary percussion players. The ensemble offers students the opportunity to perform varied selections from the jazz repertoire of the 20th and 21st centuries, as well as the opportunity to improvise in the jazz idiom. The Jazz Band tours on a regular basis and performs with three to five guest artists each year. (0.3 course credit)  
  **MUA 102 Jazz & Improvisation Lab**  
   Open to all interested musicians. The ensemble offers students the opportunity to perform varied selections from the jazz repertoire of the 20th and 21st centuries, as well as the opportunity to improvise in the jazz idiom. The Lab gives students an outlet to practice a secondary instrument and also allows music education majors the opportunity to rehearse and conduct a jazz ensemble. (0.1 course credit)  
  **MUA 103 Symphony Orchestra**  
   Membership determined by an audition of interested string, woodwind, brass, and percussion players. The ensemble offers students the opportunity to perform varied selections from the symphonic repertoire of the 18th through the 21st centuries, in both full orchestra and string orchestra formats. The Symphony Orchestra also occasionally performs works that feature soloists or combines with the Concert Choir to present masterworks. (0.3 course credit)  
  **MUA 104 Concert Choir**  
-  Membership determined by audition. The ensemble offers students the opportunity to perform a wide variety of repertoire covering many styles from the Renaissance through the 21st centuries. The Concert Choir also occasionally combines with the Symphony Orchestra to present large masterworks, and tours on a regular basis. (0.3 course credit)  
+  Performs a wide variety of repertoire covering many styles from the Renaissance through the 21st centuries, in a large, auditioned, mixed ensemble. The Concert Choir also performs on and off campus, in both formal and informal concert settings and tours on a regular basis. (0.3 course credit)  
  **MUA 105 Crimson Singers**  
-  Presents concerts each term, on and off campus. Open to all interested musicians who sing. The Crimson Singers is a small auditioned, mixed singing ensemble focusing on Broadway, jazz, and popular music styles. Some selections will be choreographed. Participants will gain experience in show choir, jazz, and a cappella singing and performing styles. Previous show choir is preferable; it is not required. Students in the Crimson Singers are also encouraged to enroll in the Concert Choir. Registration for this course is by audition and the consent of the instructor. (0.3 course credit)  
- **MUA 110 Vocal Jazz Ensemble**  
-  Membership determined by audition. The Vocal Jazz Ensemble offers students the opportunity to perform in a wide variety of vocal and choral styles, with an emphasis on repertoire for smaller vocal ensemble including vocal jazz, madrigals, pop, and music of other cultures. The Vocal Jazz Ensemble may perform either on or off campus and tours on an occasional basis. (0.2 course credit)  
+  Performs a wide variety of repertoire from the Renaissance through the 21st centuries in a small auditioned, mixed singing ensemble. Crimson Singers performs on and off campus, in both formal and informal concert settings and tours on a regular basis. (0.3 course credit)  
+ **MUA 110 Coe Sho Cho**  
+  Provides an opportunity, through rehearsal and performance, to experience the combination of popular, musical theater, contemporary a cappella and jazz choral literature, as well as choreography, in a medium-sized mixed ensemble. Membership is determined by audition. While previous show choir experience is preferable, it is not required. Students in Coe Sho Cho are also encouraged to enroll in the Concert Choir. Coe Sho Cho performs on and off campus, in both formal and informal concert settings and tours on a regular basis. (0.3 course credit)  
  **MUA 111 Coe Handbell Ensemble**  
   Provides students the unique opportunity to play English Handbells in a team-ensemble experience. The course focuses on basic through advanced ringing techniques, music-reading skills, rhythmic skills, and coordination skills. Prerequisites: Music Fundamentals (MU-055) or Theory of Music I (MU-115), prior experience in a handbell or other music ensemble, or consent of instructor. (0.20 course credit)  
  **MUA 130V MusicalTheatreProductionExperience**  
@@ -526,9 +529,9 @@ May be taken more than once. Prerequisite: an audition. (0.5 course credit)
  **MUA 284 Applied Music: Special Topics**  
   Private study in Applied Music topics not offered in MUA course listings for music majors or other interested and qualified students. The course provides extended, yet tangible, instruction and/or research pertaining to the student's specific applied music specialty or related music interest area. Prerequisites: consent of instructor and department chair. (0.3 and 0.6 course credit)  
  **MUA 413 Orchestration**  
-  None  
- **MUA 423 Saxophone (Adv Std)**  
-  None  
+  nan  
+ **MUA 423 Advanced Counterpoint**  
+  Strict academic counterpoint as a basis for freer contrapuntal writing in two, three, and four parts. Invertible counterpoint, imitation, invention, canon, and fugue. Free composition in contrapuntal style. Prerequisite: Theory of Music III (MU-309) or consent of instructor. (0.6 course credit)  
  **MUA 490 Senior Recital**  
-  A full-length senior recital in composition or performance area. S/U basis only. Prerequisite: consent of instructor.  
+  A full-length senior recital in composition or performance area. P/NP basis only. Prerequisite: consent of instructor.  
 

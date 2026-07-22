@@ -31,13 +31,13 @@ A major in African American studies requires a minimum cumulative 2.0 GPA in all
 	- **a.** Elective courses:
 		- AAM 217 Sport and Black Culture 
 		- AAM 287 Topics in African American Studies 
-		- AAM 367 Topics in AfricanAmericanLiterature 
+		- AAM 367 Studies in African American Lit 
 		- AAM 387 Adv Topics in African American Stud 
 		- AAM 447/457 Directed Studies in African American Studies 
 		- AAM 467 Seminar in African American Lit 
-		- AAM 494 Internship in African American Stds 
+		- AAM 494 Internship in African Am Studies 
 		- COM 236 Intercultural Communication 
-		- COM 257 LGBTQ + Television 
+		- COM 257 Sex, Race, and Gender in the Media 
 		- EDU 187 Human Relations 
 		- HIS 145 History of United States to 1865 
 		- HIS 155 History of United States since 1865 
@@ -51,20 +51,20 @@ A major in African American studies requires a minimum cumulative 2.0 GPA in all
 		- ARH 297 Topics in Art History: US Pluralism 
 		- COM 157 Introduction to Media Analysis 
 		- COM 161 Visual Rhetoric 
-		- +++MISSING INFO: c.com377.long +++ 
+		- COM 377 Language, Power, and Social Change 
 		- ENG 107 Exploring Literature:US Pluralism 
-		- ENG 207 Gender & Lit:US Pluralism 
-		- ENG 347 Study in Modern or Contemp Amer Lit 
+		- ENG 207 Gender & Literature: US Pluralism 
+		- ENG 347 Modern/Contemp. American Literature 
 		- ENG 394 Directed Learning in English 
 		- HIS 297 Women in America 
-		- HIS 444 Ind Study-History 
+		- HIS 444 Independent Study 
 		- HIS 472 Seminar American History I 
 		- HIS 473 Seminar American History II 
 		- SOC 237 Topics in Sociology:U S Pluralism 
-		- SOC 464 Capstone Seminar in Sociology 
-		- THE 488 Special Topics in THE/ FLM 
+		- SOC 464 Sociology Capstone 
+		- THE 488 Special Topics in THE/ FLM:DWP 
 
-6. AAM 444 Ind Study-Afr-Am St (completed during the senior year)
+6. AAM 444 Independent Study (completed during the senior year)
 
 ### African American Studies Minor 
 1. AAM 107 Intro to African American Studies     
@@ -98,19 +98,19 @@ institutions. Students will understand and evaluate the foundational concepts an
 synthesize their knowledge through research, presentation, and writing.  
  **AAM 287 Topics in African American Studies**  
 Examines an important theme or subject specific to African American experiences and culture. Content varies and is determined by the instructor. Students learn to understand African American experiences in context, to analyze texts and events from multiple disciplinary perspectives, and to write in clear, analytical prose. May be taken more than once for credit, provided the topics are substantially different.  
- **AAM 367 Topics in AfricanAmericanLiterature**  
+ **AAM 367 Studies in African American Lit**  
 See also English (ENG-367), @sec-courses-in-english  
-None  
+Course focuses on specific literary genres or time periods and functions as an intermediate course between the introductory African American Literature (AAM-/ENG-137) and the advanced English seminar (particularly Seminar in Literature: United States Pluralism (AAM-/ENG-467)). Students read and discuss both primary and secondary sources in an effort to gain a fuller understanding and appreciation of the artistic values and of the social and cultural significance of these writings. Specific topics vary from year to year. Possible topics include: African American Historical Fiction, African American Speculative Fiction, Literature of the Civil Rights Era, and the African American Bildungsroman. May be taken more than once, with consent of African American Studies administrative coordinator, provided the topics are substantially different. Prerequisite: Introduction to Literary Studies: The Art of Reading and Writing (ENG-111) or consent of instructor.  
  **AAM 387 Adv Topics in African American Stud**   
 Examines an important theme or subject specific to African American experiences and culture. Content varies and is determined by the instructor. Students learn to understand African American experiences in context, to analyze texts and events from multiple disciplinary perspectives, and to write in clear, analytical prose. May be taken more than once for credit, provided the topics are substantially different. Prerequisite: Introduction to African American Studies (AAM-107) or consent of instructor.  
- **AAM 444 Ind Study-Afr-Am St**  
+ **AAM 444 Independent Study**  
 Study of individually chosen research topics in African American studies under the direction of a faculty member in the area. May be taken for an X status grade with consent of instructor prior to registration. Prerequisites: Introduction to African American Studies (AAM-107) or African American Literature (AAM-137); consent of African American Studies administrative coordinator and submission of a written proposal for a project.  
  **AAM 447/457 Directed Studies in African American Studies**  
 Study of selected topics and primary texts not available within the regular offerings. Prerequisite: two courses in African American studies. Registration by consent of instructor, after submission of a written project proposal. Conferences with instructor and papers are required. May be taken more than once for credit with consent of African American Studies administrative coordinator.  
  **AAM 467 Seminar in African American Lit**  
 Intensive study of selected works and subjects in African American literature. May be taken more than once, with consent of African American Studies administrative coordinator, provided the topics are substantially different. Prerequisites: junior standing and The Art of Literary Research (ENG-301). May be taken more than once.  
- **AAM 494 Internship in African American Stds**   
-None  
+ **AAM 494 Internship in African Am Studies**   
+Exploration of a career area related to African American studies supervised by the African American Studies administrative coordinator in cooperation with the Internship Specialist. A minimum of 140 hours on-site experience is required. P/NP basis only. This course may count toward elective credit for a major or minor in African American studies with consent of African American Studies administrative coordinator. Prerequisite: junior standing.  
 
 
 ## Anthropology (Courses Only)
@@ -122,8 +122,9 @@ Fairbanks (Administrative Coordinator), Ziskowski
 An introduction to cultural anthropology, presenting its place within the broader discipline of anthropology and outlining its characteristic methodological and theoretical approaches to the study of human life. The course emphasizes the diversity of approaches to common human experiences in a variety of cultural contexts.  
  **ANT 125 Art & Archaeology Classical World**  
 A survey of the art, architecture, and archaeological remains of the Greek and Roman civilizations from early Aegean Bronze Age cultures to the fall of the Roman empire.  
- **+++MISSING INFO: c.ant208.long +++**  
-+++MISSING INFO: c.ant208.desc +++  
+ **ANT 208 Archaeological Field School**  
+ANT-208 Archaeological Field School
+Engages in two key components in an interdisciplinary framework: 1) archaeological fieldwork and 2) study of Greece’s history and culture through visits to sites in the region. The course takes place in Greece for four to six weeks (late May into early July). Students learn the methodological principles of archaeological fieldwork by participating in activities such as excavation, geophysical survey, and artifact analysis. In addition to work in the field, students receive an introduction to the history and culture of Greece through visits to major archaeological sites in the region. Prerequisite: consent of instructor.  
 
 
 ## Art and Art History
@@ -142,7 +143,7 @@ A grade of "C" (2.0) or higher must be earned in all courses counted toward a ma
     - ART 201 Focus Course: Creative Process 
     - ART 202 Focus Course: Portfolio Development 
     - ART 203 Focus: ContemporaryArtisticPractice 
-    - ART 211 Focus:ArtistStatements 
+    - ART 211 Focus: Junior Review Preparation 
     - ART 212 Focus Course: Artist Websites 
     - ART 213 Focus Course: Critique 
     - ART 291 Focus Course: Topics in Studio Art 
@@ -161,8 +162,8 @@ A studio portfolio presentation for art majors that is assessed by the art and a
 history faculty. Students must complete 20 course credits to be eligible for the
 junior review, and it must be completed prior to enrolling in ART-464 Senior Seminar I.
 
-8. ART 464 Senior Seminar I 
-9. ART 474 Senior Seminar II & Senior Exhibit 
+8. ART 464 Seminar in Art & Visual Studies I 
+9. ART 474 Seminar in Art and Visual StudiesII 
 
 In addition to the course requirements, a student must participate in a Junior Review with the art and art history department’s faculty. This must be completed no later than April of the junior year. The material submitted at the Review will be related to the senior graduation requirement, which is a demonstration of proficiency through a public exhibition of artwork, including portfolio of slides, exhibit announcement, and résumé. 
 
@@ -184,7 +185,7 @@ Further information for all these requirements and programs is available from th
 **100-level courses** (*except ART-130, see below*) are open to any student and may offer the opportunity to explore two or more areas of art making in a studio environment.  ART-130 Art in the Elementary Classroom does not satisfy any of the requirements for a major or minor in Art or Art History.  It also does not count as a 100-level art course needed for some courses as a prerequisite.
 
  **ART101 Art Appreciation**  
-None  
+nan  
  **ART 102 Sculpture: Material Investigations**  
 Focuses on how material choices inform meaning. Students will use a variety of traditional and non-traditional materials to make sculptural art objects.  
  **ART 103 Ceramic Sculpture**  
@@ -199,10 +200,10 @@ Introduces a variety of drawing media, including graphite, charcoal, brush and i
 Introduces paint media to represent, amplify, and interpret the world. Students are also encouraged to discover the possibilities of color, shape, texture and mark-making.  
  **ART 130 Art in the Elementary Classroom**  
 Provides an overview of the role of art in the elementary curriculum. Students learn to incorporate art activities into other content areas and gain an understanding of the objective of elementary classes taught by elementary art specialist teachers. This course does not satisfy the College’s general education fine arts core group requirement nor does it satisfy major or minor requirements or prerequisites for Art or Art History. Prerequisite: admission to the Education Program or approval of the education department. (0.5 course credit)  
- **ART 131 Scultpure: Do, Undo, Redo**  
+ **ART 131 Sculpture: Do, Undo, Redo**  
 Practices the inherent creative aspects of making, unmaking and remaking in response to these various states of transformation. Artworks are made using clay and other sculptural materials while documenting the exploratory processes through drawing, photography and more.  
- **ART 135 Ceramics: Form, Function & Meaning**  
-Focuses on the creation of wheel thrown and handbuilt objects within the context of a social and cultural lens. Explores the relationship between making and meaning in the 21st century. Projects focus on fuctional work and its uses.  
+ **ART 135 Ceramics: Wheel-Throwing**  
+Introduces a variety of ceramic wheel-throwing techniques utilized to design and produce ceramic arts. Includes an introduction to clay, glazes, and kilns.  
  **ART 145 Digital Studio**  
 Explores contemporary digital imaging and design. Students produce a series of studio
 projects ranging from digital photography, collage, gif animation, vector graphics, and
@@ -440,7 +441,7 @@ The major is interdisciplinary and requires that the students take courses in th
 
 3. **Four** courses, chosen from the following, in consultation with the Asian Studies administrative coordinator:
 
-- ASC 106 May Term in Asia
+- ASC 106 May Experiential Term in Asia
 - ASC 176 China and Japan
 - ECO 436 Econ Development or ECO 446 International Econ
 - HIS 217 American War in Vietnam
@@ -483,7 +484,7 @@ The major is interdisciplinary and requires that the students take courses in th
 
 ### Courses in Asian Studies
 
- **ASC 106 May Term in Asia**  
+ **ASC 106 May Experiential Term in Asia**  
 Examines experientially the fast-changing nation of Vietnam through three weeks of study and travel in the country. Students will investigate and evaluate
 the contemporary nation, as well as the history and memory of its wartime experiences, through readings, written work, class discussions, and visits to
 important historical and cultural landmarks. Through these varied experiences, students will deepen their understandings of the cultural skills involved in
@@ -595,134 +596,131 @@ Laboratory and field experiences are essential to scientific understanding. They
 
 ### Courses in Biology
  **BIO 100 Human Biology**  
-A study of Homo sapiens applying the same tools biologists use to study other organisms. Topics may include an overview of human evolution, reproduction, genetics, population genetics, adaptations of selected organs and organ systems, humans’ relationship to and impact on their environment, and other contemporary issues in human biology. Includes lecture and laboratory. This course does not satisfy any of the requirements for a major in biology.  
+Studies Homo sapiens applying the same tools biologists use to study other organisms. Topics may include an overview of human evolution, reproduction, genetics, population genetics, adaptations of selected organs and organ systems, humans’ relationship to and impact on their environment, and other contemporary issues in human biology. This course does not satisfy any of the requirements for a major in biology.  
  **BIO 100L Human Biology Lab**  
 Three hours per week. Corequisite registration in BIO-100. This course does not satisfy any of the requirements for a major in biology. Nursing majors are not required to take BIO-100L. (0.2 course credit)  
  **BIO 103 Anatomy & Physiology**  
-Introduces the student to the structure, function, and organization of the human body. Designed for non-majors as well as students with health-related career interests. This course does not satisfy any of the requirements for a major in biology or nursing.  
+Introduces the student to the structure, function, and organization of the human body. Designed for non-majors as well as students with health-related career interests. Corequisite registration in BIO-103L. This course does not satisfy any of the requirements for a major in biology or nursing.  
  **BIO 103L Anatomy and Physiology Lab**  
 Three hours per week. Corequisite registration in BIO-103. This course does not satisfy any of the requirements for a major in biology or nursing. (0.2 course credit)  
  **BIO105 Introductory Biology**  
-None  
+nan  
  **BIO 111 Urban Ecology**  
 Introduces the ecology of urban systems, investigating how humans and their built environments interact with and form ecosystems. Two main points of view will be represented: the city as an ecological system, and the responses and adaptations of organisms to this ecosystem. We will also investigate how humans respond to and interact with this biotic and abiotic environment. Labs will visit relevant areas of Cedar Rapids. One three hour workshop and one four-hour lab per week. (Offered alternate years.)  
  **BIO 111L Urban Ecology Lab**  
 Three hours per week. Labs will visit relevant areas of Cedar Rapids. Corequisite with Urban Ecology (BIO 111). (0.2 course credit).  
  **BIO 115 Marine Biology**  
-Surveys marine organisms and communities with emphasis on tropical coral reef systems. The primary field analyses focus on the dynamics of coral reefs, tidal regions, and turtle grass meadows. An off campus course taught at an appropriate site and involving extensive field work. Includes lecture and laboratory. 
-Prerequisite: consent of instructor. (Offered May Term only)  
+Surveys marine organisms and communities with emphasis on tropical systems. In class components focus on an introduction to marine biology, oceanography, and taxonomy, while the primary field analyses focus on the dynamics of coral reefs, mangroves, and turtle grass meadows. An off-campus course taught at an appropriate site and involving extensive field work. Includes lecture and laboratory. Prerequisite: consent of instructor. (Offered May Experiential Term only)  
  **BIO 120 Biology, Health, & Society**  
 Introduces the basic principles, terms, and technologies needed to understand the role of biology in our lives. This course centers around answering questions in healthcare and in contemporary society, using the application of biological knowledge. Study skills for mastering college biology are also taught. Three lectures and one co-curricular skills workshop per week. Counts as a non-lab science course. This course does not satisfy any of the requirements for a major in biology.  
  **BIO 145 Cellular & Molecular Biology**  
-A study of biology at the cellular and molecular level, including cytology, metabolic, and genetic processes. Three lectures per week.  
+Studies biology at the cellular and molecular level, including structure and function of cell components, metabolism and energy, and Mendelian genetics. Three lectures per week.  
  **BIO 145L Cellular and Molecular Biology Lab**  
 Introduces students to common biological techniques including enzyme assays and DNA studies. Students are also introduced to experimental design, collection of data, and statistical analysis of data. Instruction in writing of scientific papers is also provided. Three hours per week. Concurrent or previous registration in Cellular and Molecular Biology (BIO-145). Nursing majors are not required to take BIO-145L. (0.2 course credit)  
  **BIO 155 Organismal & Ecological Biology**  
-The study of organ systems, reproduction, and embryology, with an emphasis on human biology. Principles of evolution, ecology, and animal behavior are also studied. Three lectures per week.  
+Studies tissues, organ systems, and reproduction in animals with an emphasis on human biology. Principles of ecology, environmental science and animal behavior are also studied. Three lectures per week.  
  **BIO 155L Organismal & Ecological Biology Lab**  
-Three hours per week. Concurrent with Organismal and Ecological Biology (BIO-155). (0.2 course credit)  
- **BIO 165 Ecology and Biology of Birds**  
-An introduction to the behavior, ecology and biology of birds, emphasizing identification of local species and such species’ adaptations to their biotic and abiotic environments. Binoculars furnished. This course satisfies the lab science course requirement. Offered Spring Term on campus and Summer at the Wilderness Field Station.  
- **BIO 165L Ecology & Biology of Birds LAB**  
-Lab for Ecology and Biology of Birds. Four hours per week. Corequisite with Ecology and Biology of Birds (BIO-165). (0.3 course credit)  
+Introduces dissection, field biology, and selected statistical analysis of data. Instruction in writing of scientific papers is also provided. Three hours per week. Concurrent or previous registration in Organismal and Ecological Biology (BIO-155). (0.2 course credit)  
+ **BIO 165 Introduction to Ornithology**  
+Introduces the behavior, ecology and biology of birds, emphasizing identification of local species and such species’ adaptations to their biotic and abiotic environments. Binoculars furnished. This course satisfies the lab science course requirement. Credit is given for Introduction to Ornithology (BIO-165) or Advanced Topics in Ornithology (BIO-303), not both. Offered Spring Term on campus and Summer at the Wilderness Field Station. (This course does not satisfy the requirements for a major in biology.)  
+ **BIO 165L Introduction to Ornithology LAB**  
+Four hours per week. Corequisite with Introduction to Ornithology (BIO-165). (0.3 course credit)  
  **BIO 175 Field Botany**  
-Investigates tree and wildflower species encountered in Iowa’s forests, fields and prairies. Emphasizes hands-on description of structural characteristics,
-identification of species using a dichotomous key and characteristics of flowering plant families. A basic understanding of the distribution of plants
-within communities is also developed. A collection of local plants is required. (Offered in May Term)  
+Investigates tree and wildflower species encountered in Iowa’s forests, fields and prairies. Emphasizes hands-on description of structural characteristics, identification of species using a dichotomous key and characteristics of flowering plant families. A basic understanding of the distribution of plants within communities is also developed. A collection of local plants is required. (Offered in May Experiential Term)  
  **BIO 185 Entomology**  
 Introduces the biology of insects and related arthropods, focusing on how homeostatic problems common to all organisms have been solved. Topics include physiology, morphology, systematics, and the relationship among insects, plants, and humans.  
  **BIO 185L Entomology Lab**   
 Three hours per week. Consists of both in-class study as well as field trips emphasizing the ecology and behavior of local forms. A representative insect collection is made. Corequisite registration in BIO-185. (0.2 course credit)  
  **BIO 195 Introduction to Microbiology**  
-An elementary-level study of the principles of microbiology. Special attention is given to the medical aspect of the subject. Three lectures and one three hour laboratory per week. Designed for students with allied health career interests. This course does not satisfy any of the requirements for a major in biology. Prerequisite: Human Biology (BIO-100) or Cellular and Molecular Biology (BIO-145).  
+Studies elementary level principles of microbiology. Special attention is given to the medical aspect of the subject. Three lectures per week. Designed for students with allied health career interests. This course does not satisfy any of the requirements for a major in biology. Prerequisite: Human Biology (BIO-100) or Cellular and Molecular Biology (BIO-145).  
  **BIO 195L Introduction to Microbiology Lab**  
 Three hours per week. Corequisite registration in BIO-195. (0.2 course credit)  
  **BIO 202 Topics in Evolution**  
-Investigates the roles of selective and non-selective evolutionary mechanisms, especially as they affect adaptation, speciation, and extinction. Selected aspects of the fossil record and current theories of hominid evolution are also part of the course. Counts as a non-lab science course. Prerequisites: Cellular and Molecular Biology (BIO-145). Note: Credit is given for either Topics in Evolution (BIO-202) or Organic Evolution (BIO-125), not both.  
+Investigates selective and non-selective evolutionary mechanisms operating on populations, especially as they affect adaptation, speciation, and extinction. Selected aspects of the fossil record and current theories of hominid evolution may also be part of the course. Instruction in presentation of scientific papers is also provided. Counts as a non-lab science course. Prerequisites: Cellular and Molecular Biology (BIO-145).  
  **BIO 205 General Botany**  
-A study of the basic structure and functions of plants, with emphasis on seed plants. Functional aspects of structure and development on the cellular, tissue, and whole plant level receive equal emphasis. Three lectures per week. Prerequisites: Cellular and Molecular Biology (BIO-145), Introduction to Biology Laboratory (BIO-140) and Organismal and Ecological Biology (BIO-155).  
+Explores the biology of plants at the cellular, tissue and whole plant levels. The influence of environment on metabolism, growth, development and reproduction are themes. Three lectures per week. Prerequisites: Cellular and Molecular Biology and Laboratory (BIO-145/-145L), and Organismal and Ecological Biology (BIO-155)  
  **BIO 205L General Botany Laboratory**  
-Three hours per week. Concurrent with General Botany (BIO-205). (0.2 course credit)  
+Provides the opportunity for hands-on observations of plant cells, tissues and whole plants, flowers and fruits and to perform experiments related to basic principles of plant biology introduced in lecture. Instruction in library database searches and writing annotated scientific reports is provided. Three hours per week. Concurrent or previous registration in General Botany (BIO-205). (0.2 course credit)  
  **BIO 215 Human Anatomy**  
-A survey of gross and microscopic human anatomy, providing necessary background for students in physiology and body mechanics. Three lectures per week. Prerequisites: Human Biology (BIO-100) or Cellular and Molecular Biology (BIO-145) or Organismal and Ecological Biology (BIO-155). This course does not satisfy any of the requirements for a major in biology. Credit is given for Human Anatomy (BIO-215) or Integrated Human Anatomy (BIO-245), not both.  
+Surveys microscopic and gross human anatomy, providing necessary background for students in physiology and body mechanics. Three lectures per week. Prerequisites: Human Biology (BIO-100) or Cellular and Molecular Biology (BIO-145) or Organismal and Ecological Biology (BIO-155). This course does not satisfy any of the requirements for a major in biology. Credit is given for Human Anatomy (BIO-215) or Integrated Human Anatomy (BIO-315), not both. Concurrent registration in Human Anatomy Laboratory (BIO-215L).  
  **BIO 215L Human Anatomy Laboratory**  
-Three hours per week. Concurrent with Human Anatomy (BIO-215). (0.2 course credit)  
+Unites the physical structures with written material to help students conceptualize the intricacies of the human body. Three hours per week. Concurrent registration in Human Anatomy (BIO-215). (0.2 course credit)  
  **BIO 225 Human Physiology**  
-The functional study of the various systems of the human body, including the application of physiological principles to the health professions. Three lectures and one two-hour recitation per week. This course does not satisfy any of the requirements for a major in biology. Prerequisites: Human Anatomy (BIO-215) and either Human Biology (BIO-100), Cellular and Molecular Biology (BIO-145), or Organismal and Ecological Biology (BIO-155).  
+Studies the various systems of the human body, including the application of physiological principles to the health professions. Three lectures per week. This course does not satisfy any of the requirements for a major in biology. Prerequisites: Human Anatomy (BIO-215) and either Human Biology (BIO-100), Cellular and Molecular Biology (BIO-145), or Organismal and Ecological Biology (BIO-155).  
  **BIO 235 Genetics**  
-An exploration of the three main branches of heredity: transmission (classical), molecular, and population genetics. Transmission genetics examines how genes and genetic traits are passed from generation to generation. Molecular genetics probes the structure, function, and regulation of genes, while population genetics investigates through mathematical models the distribution and behavior of genes in populations. Three lectures per week. Prerequisites: Cellular and Molecular Biology (BIO-145), Introduction to Biology Laboratory (BIO-140), and Organismal and Ecological Biology (BIO-155).  
+Explores the three main branches of heredity: transmission (classical), molecular, and population genetics. Transmission genetics examines probabilities and pedigrees of genetic traits passed from generation to generation. Molecular genetics probes the structure, function, and regulation of genes. Population genetics investigates through mathematical models the distribution and behavior of genes in populations. Three lectures per week. Prerequisites: Cellular and Molecular Biology and Laboratory (BIO-145/-145L), and Organismal and Ecological Biology (BIO-155).  
  **BIO 235L Genetics Laboratory**  
 Three hours per week. Concurrent with Genetics (BIO-235). (0.2 course credit)  
  **BIO 275 Aquatic Ecology**  
-Study of the biota of lakes and streams in northern Minnesota and adjacent Ontario, and their abiotic environment. Extensive field sampling enables students to study predation, diel vertical migration, stream drift, induced morphological defenses, and food-web interactions. Regional and North American lake and stream biodiversity and the effects of introduced species and human intervention on aquatic ecosystems are reviewed. Prerequisites: Cellular and Molecular Biology (BIO-145) and Introduction to Biology Laboratory (BIO-140), or Organismal and Ecological Biology (BIO-155) and Laboratory (BIO-150). (Offered summers at the Wilderness Field Station)  
+Study of the biota of lakes and streams in northern Minnesota and adjacent Ontario, and their abiotic environment. Extensive field sampling enables students to study predation, diel vertical migration, stream drift, induced morphological defenses, and food-web interactions. Regional and North American lake and stream biodiversity and the effects of introduced species and human intervention on aquatic ecosystems are reviewed. Prerequisites: Cellular and Molecular Biology and Laboratory (BIO-145/-145L), or Organismal and Ecological Biology Laboratory (BIO155/-155L). (Offered summers at the Wilderness Field Station)  
  **BIO 275L Aquatic Ecology Lab**  
 Field work at the Wilderness Field Station. Corequisite with Aquatic Ecology (BIO-275). (0.2 course credit)  
  **BIO 285 Animal Behavior**  
-Principles and methods in ethology are considered with emphasis on temporal and spatial patterns, adaptive significances, communication, aggression and territoriality, social organization, and the nature of regulatory mechanisms. Prerequisites: One of the following: Cellular and Molecular Biology (BIO-145) and Introduction to Biology Laboratory (BIO-140); Organismal and Ecological Biology (BIO-155) and Laboratory (BIO-150); or Statistical Methods and Data Analysis (PSY-301). (Offered summers at the Wilderness Field Station)  
+Considers principles and methods in ethology with emphasis on temporal and spatial patterns, adaptive significances, communication, aggression and territoriality, social organization, and the nature of regulatory mechanisms. Prerequisites: One of the following: Cellular and Molecular Biology and Laboratory (BIO-145/-145L); Organismal and Ecological Biology and Laboratory (BIO-155/-155L); or Statistical Methods and Data Analysis (PSY-300). (Offered summers at the Wilderness Field Station)  
  **BIO 285L Animal Behavior Laboratory**  
-Three hours per week. Concurrent with Animal Behavior (BIO-285). (0.2 course credit)  
+Field work at the Wilderness Field Station. Three hours per week. Corequisite registration with Animal Behavior (BIO-285). (0.2 course credit)  
  **BIO 295 Spatial Ecology**  
-Study of spatial patterns of organisms in natural, agricultural, and urban landscapes. Emphasis is on how the arrangements of organisms both reflect and feedback on underlying resources and geography. Students learn how to capture spatial characteristics of individuals, populations, species, communities, and landscapes sampled in the field, integrate them with satellite imagery, and analyze them statistically. Use of global positioning system hardware to provide spatial reference for field ecology surveys and use of ArcView as a data management, display, and analysis tool are important features of the course. Three lectures per week. Prerequisites: Organismal and Ecological Biology (BIO-155) and Laboratory (BIO-150).  
+Investigates spatial patterns of organisms in natural, agricultural, and urban landscapes. Emphasis is on how the arrangements of organisms both reflect and feedback on underlying resources and geography. Students learn how to capture spatial characteristics of individuals, populations, species, communities, and landscapes sampled in the field, integrate them with satellite imagery, and analyze them statistically. Use of global positioning system hardware to provide spatial reference for field ecology surveys and use of ArcView as a data management, display, and analysis tool are important features of the course. Three lectures per week. Prerequisites: Organismal and Ecological Biology and Laboratory (BIO-155/-155L).  
  **BIO 295L Spatial Ecology Laboratory**  
-Three hours per week. Concurrent with Spatial Ecology (BIO-295). (0.2 course credit)  
+Four hours per week. Corequisite registration with Spatial Ecology (BIO-295). (0.3 course credit)  
  **BIO 315 Integrated Human Anatomy**  
-Integrates macroscopic human anatomy at the organ and organ system levels with microscopic study of histology and development from an evolutionary and sometimes experimental perspective. Three lectures per week. Prerequisites: Cellular and Molecular Biology (BIO-145), Introduction to Biology Laboratory (BIO-145L), Organismal and Ecological Biology (BIO-155) and Laboratory (BIO-155L). Credit is given for Integrated Human Anatomy (BIO-315) or Human Anatomy (BIO-215), not both.  
+Integrates macroscopic human anatomy at the organ and organ system levels with microscopic study of histology and development from a clinical perspective. Three lectures per week. Prerequisites: Organismal and Ecological Biology and Laboratory (BIO-155/155L). Credit is given for Integrated Human Anatomy (BIO-315) or Human Anatomy (BIO-215), not both.  
  **BIO 315L Integrated Human Anatomy Lab**  
 Studies human anatomy using dissection, models, histological slides, and cadaveric specimens. Students learn to integrate written, verbal and visual material to master anatomical and histological terminology. Three hours per week. Concurrent or previous registration in Integrated Human Anatomy (BIO-315). (0.2 course credit)  
  **BIO 325 Microbiology**  
-Study of major fields of microbiology with emphasis on bacteria and viruses. Topics include bacterial cell structure, genetics, and pathogenesis as well as immunology and epidemiology. Three lectures per week. Prerequisites: Cellular and Molecular Biology (BIO-145), Introduction to Biology Laboratory (BIO-145L), Organismal and Ecological Biology (BIO-155), Organic Chemistry I (CHM-221) and Organic Laboratory (CHM-322) or Genetics (BIO-235).  
+Studies major fields of microbiology with emphasis on bacteria and viruses. Topics include bacterial cell structure, genetics, and pathogenesis as well as immunology and epidemiology. Three lectures per week. Prerequisites: Cellular and Molecular Biology and Laboratory (BIO-145/-145L), Organismal and Ecological Biology (BIO-155), Organic Chemistry I (CHM-221) and Organic Laboratory (CHM-322) or Genetics (BIO-235).  
  **BIO 325L Microbiology Lab**  
 Four hours per week. Concurrent with Microbiology (BIO-325). (0.2 course credit)  
  **BIO 335 Conservation and Ecology of Mammals**  
-The study of mammals of Minnesota and the natural history, form/function relations, behavior, distributions, and interaction with their environment and other organisms. Class activities include direct observations, reading tracks and "sign." Live-trap mark and recapture studies supplemented by readings, lectures, and discussions. (Offered summers at the Wilderness Field Station)  
+Studies mammals of Minnesota and the natural history, form/function relations, behavior, distributions, and interaction with their environment and other organisms. Investigation of how these variables impact conservation. Class activities include direct observations, reading tracks and “sign.” Live-trap mark and recapture studies supplemented by readings, lectures, and discussions. (Offered summers at the Wilderness Field Station)  
  **BIO 335L Conserv & Ecology of Mammals LAB**  
 Field work at the Wilderness Field Station. Corequisite registration with Conservation and Ecology of Mammals (BIO 335). (0.2 course credit)  
  **BIO 345 Techniques in Molecular Biology**  
-An intensive introduction to biological molecular techniques. Students learn how to manipulate recombinant DNA and express and detect protein products in prokaryotic systems. Course methods include cloning, restriction, mapping, ligation, labeling, purification, elution, blotting, hybridization, agarose, and acrylamide gels, protein expression and detection, and immunological techniques. On completing the course, students should have a working knowledge of most methods used in molecular biology research. Course consists of two discussion sessions per week. Prerequisites: Cellular and Molecular Biology (BIO-145), Introduction to Biology Laboratory (BIO-140), Genetics (BIO-235) and Laboratory (BIO-230), General Chemistry I (CHM-1XX), and General Chemistry II (CHM-1XX).  
+Introduces students to biological molecular techniques. Methods include RNA, DNA and protein expression analysis and cell culture techniques. On completing the course, students should have a working knowledge of most methods used in molecular biology research. Two sessions per week. Prerequisites: Genetics and Laboratory (BIO-235/-235L), and General Chemistry II and Laboratory (CHM-122/-122L).  
  **BIO 345L Techniques in Molecular Biology Lab**  
 Six hours per week. Concurrent with Techniques in Molecular Biology (BIO-345). (0.5 course credit)  
  **BIO 355 Animal Physiology**  
-Study of how organ systems in animal species solve the fundamental problems of staying alive. This includes how to obtain energy, how to procure the raw materials necessary for constructing their bodies, how to gain oxygen from the environment, how to get rid of unneeded substances and toxic materials. The course addresses how these ends are achieved through the cooperation of cells, tissues, organs, and organ systems in a variety of organisms including mammals, birds, reptiles, amphibians, and fish as well as selected invertebrates. Three lectures per week. Prerequisites: Cellular and Molecular Biology (BIO-145), Introduction to Biology Laboratory (BIO-140), Organismal and Ecological Biology (BIO-155).  
+Studies how organ systems in animal species solve the fundamental problems of staying alive. This includes how to obtain energy, how to procure the raw materials necessary for constructing their bodies, how to gain oxygen from the environment, how to get rid of unneeded substances and toxic materials. The course addresses how these ends are achieved through the cooperation of cells, tissues, organs, and organ systems in a variety of organisms including mammals, birds, reptiles, amphibians, and fish as well as selected invertebrates. Three lectures per week. Prerequisites: Cellular and Molecular Biology and Biology Laboratory (BIO-145/-145L), and Organismal and Ecological Biology (BIO-155).  
  **BIO 355L Animal Physiology Lab**  
 Three hours per week concurrent with Animal Physiology (BIO-355). (0.2 course credit)  
  **BIO 365 Comparative Chordate Anat**  
-A survey of the chordates and the development and evolution of form in vertebrates, using primarily the shark, mudpuppy, and cat in laboratory. Two lectures, one discussion recitation per week. Prerequisite: Cellular and Molecular Biology (BIO-145), Organismal and Ecological Biology (BIO-155) and Topics in Evolution (BIO-202).  
+Surveys the chordates and the development and evolution of form in vertebrates, using primarily the shark, mudpuppy, and cat in laboratory. Two lectures, one discussion recitation per week. Prerequisite: Cellular and Molecular Biology (BIO-145), Organismal and Ecological Biology (BIO-155) and Topics in Evolution (BIO-202.  
  **BIO 365L Comp Chordate Anat Lab**  
-None  
+Four hours per week. Corequisite registration with Comparative Chordate Anatomy (BIO-365). (0.2 course credit)  
  **BIO 375 Integrated Human Physiology**  
-The study of function in terms of basic physical and chemical processes; an introduction to the principles of physiligy using the human organism as a model. Three lectures per week. Prerequisite: Cellular and Molecular Biology (BIO-145), Organismal and Ecological Biology (BIO-155), and Introduction to Biology Laboratory (BIO-140)  
+Studies physiologic functions in terms of basic physical and chemical processes; an introduction to the principles of physiology using the human organism as a model. Three lectures per week. Prerequisites: Cellular and Molecular Biology and Laboratory (BIO-145/-145L), and Organismal and Ecological Biology (BIO-155).  
  **BIO 375L Integrated Human Physiology Lab**  
 Three hours per week. Concurrent with Integrated Human Physiology (BIO-375). (0.2 course credit)  
  **BIO 385 Behavior/Ecology of Vertebrates**  
-Identification, evolutionary history, behavior and ecological relationships of local mammals, birds, reptiles, amphibians, and fish. Students learn and apply survey techniques appropriate for particular groups to understand species/habitat relationships, diversity within groups, and the impact of humans on diversity.  Three lectures per week. Prerequisites: Cellular and Molecular Biology (BIO-145) and Topics in Evolution (BIO-202).  
+Explores the identification, evolutionary history, and behavioral and ecological relationships of local mammals, birds, reptiles, amphibians, and fish. Students learn and apply survey techniques appropriate for particular groups to understand species/habitat relationships, diversity within groups, and the impact of humans on diversity. Three lectures per week. Prerequisites: Cellular and Molecular Biology (BIO-145) and Topics in Evolution (BIO-202).  
  **BIO 385L Behavior/Ecology Vertebrates Lab**  
 Three hours per week. Concurrent with Behavior and Ecology of Vertebrates (BIO-385). (0.2 course credit)  
  **BIO 405 Current Topics in Molecular Biology**  
-An intensive exploration of Molecular Biology’s primary literature, focusing on recent advances in DNA, RNA and protein manipulation, characterization, and control. Students read research articles, critically evaluate published data, and communicate technical information effectively. Three lectures per week. Prerequisites: Techniques in Molecular Biology (BIO-345) and Genetics (BIO-235).  
+Explores primary literature in the field of molecular biology, focusing on recent advances in DNA, RNA and protein manipulation, characterization, and control. Students read research articles, critically evaluate published data, and communicate technical information in several forms. Three lectures per week. Prerequisites: Techniques in Molecular Biology (BIO-345).  
  **BIO 415 Developmental Biology**  
-An exploration of the developmental processes that occur as an organism grows from fertilized egg to adult organism. The actions and interactions of cells and tissues are examined in the living, growing, and rapidly changing environment of the body. Classical embryology is examined through modern genetic techniques, with special emphasis on how differential gene expression makes us who we are. Survey of research methodologies are a prominent topic. Three lectures per week. Prerequisites: Genetics (BIO-235) and Laboratory (BIO-230).  
+Explores the developmental processes and changes that occur as an organism grows from fertilized egg to adult organism. The actions and interactions of cells and tissues are examined in the living, growing, and rapidly changing environment of the body. Classical embryology is examined through modern genetic techniques, with special emphasis on how differential gene expression makes us who we are. Survey of research methodologies are a prominent topic. Three lectures per week. Prerequisites: Genetics and Laboratory (BIO-235/-235L).  
  **BIO 415L Developmental Biology lab**  
 Three hours per week. Concurrent with Developmental Biology (BIO-415). (0.2 course credit)  
  **BIO 425 Ecology**  
-Study of the interrelationship of living organisms with their environment. The structure and dynamics of populations, communities, and ecosystems are examined through lectures and laboratory or field observations. Three lectures per week. Prerequisites: General Botany (BIO-205) or consent of instructor.  
+Studies the interrelationship among organisms and their environments. The structure and dynamics of populations, communities, and ecosystems are examined through lectures and laboratory or field investigations. Three lectures per week. Prerequisites: General Botany (BIO-205) or consent of instructor.  
  **BIO 425L Ecology Lab**  
 Three hours per week. Concurrent with Ecology (BIO-425). (0.2 course credit)  
  **BIO 435 Cell Physiology**  
-The content, organization, and function of the cell and its components are studied. Other topics include the relationship of the cell to its environment, the cell membrane, enzymes, conversion of matter and energy, cell growth, and cell division. Three lectures per week. Prerequisites: Cellular and Molecular Biology (BIO-145), Introduction to Biology Laboratory (BIO-145L), Organismal and Ecological Biology (BIO-155), Genetics (BIO-235), and General Chemistry I and Laboratory (CHM-121/-121L).  
+Studies the content, organization, and function of the cell and its components. Other topics include the relationship of the cell to its environment, the cell membrane, enzymes, conversion of matter and energy, cell growth, and cell division. Three lectures per week. Prerequisites: Genetics and Laboratory (BIO-235/-235L), and General Chemistry II and Laboratory (CHM-122/-122L).  
  **BIO 435L Cell Physiology Lab**  
 Three hours per week. Concurrent with Cell Physiology (BIO-435). (0.2 course credit)  
  **BIO 444 Independent Study**  
-Independent work on a selected project under direction of a member of the department. Students are limited to two registrations in Independent Study. May be taken for an X status grade with consent of instructor prior to registration.  Prerequisites: Courses providing appropriate background for the project selected and consent of department chair.  
+Offers students the opportunity to do independent work on a selected project under direction of a member of the department. May be taken more than once for a maximum of 2.0 credits. Prerequisites: Courses providing appropriate background for the project selected and consent of department chair.  
  **BIO 445 Environmental Microbiology**  
-An examination of the role of microbes in the environment. Topics include microbial diversity, nutrient cycling including biogeochemistry, bioremediation, and biodegradation. The use of molecular methods and microsopy to study microbes in situ are special emphases of the course. Three lectures per week. Prerequisites: Cellular and Molecular Biology (BIO-145), Introduction to Biology Laboratory (BIO-145L), Organismal and Ecological Biology (BIO-155), Organic Chemistry I (CHM-221) with Organic Laboratory (CHM-322) or Genetics (BIO-235).  
+Examines the role of microbes in the environment. Topics include microbial diversity, nutrient cycling including biogeochemistry, bioremediation, and biodegradation. The use of molecular methods and microscopy to study microbes in situ are special emphases of the course. Three lectures per week. Prerequisites: Cellular and Molecular Biology and Laboratory (BIO-145/-145L), Organismal and Ecological Biology (BIO-155), Organic Chemistry I (CHM-221) with Organic Laboratory (CHM-322) or Genetics (BIO-235).  
  **BIO 445L Env Microbiology Lab**  
-Six hours per week. Concurrent with Environmental Microbiology (BIO-445). (0.50 course credit)  
+Application of theory through developing the technical skills necessary to conduct experiments in modern microbial ecology. Students learn how to select a proper sampling site, collect samples without contamination, and the process of both molecular and culture-based techniques used to study microorganisms from their natural environment. Six hours per week. Corequisite registration with Environmental Microbiology (BIO-445). (0.5 course credit)  
  **BIO 454 Research Participation**  
-Participation in a research program designed and directed by a biology department faculty member, including some or all of the following: library research, research design, and field or laboratory investigations. Scheduled by arrangement with sponsoring professor with a time requirement of 10 hours per week minimum per course credit. P/NP basis only. May be taken for an X status grade with consent of instructor prior to registration.  Research participation credit does not satisfy any of the requirements for a major in biology. (0.2 – 1.0 course credit)  
+Engages students in a research program designed and directed by a biology department faculty member, including some or all of the following: library research, research design, and field or laboratory investigations. Scheduled by arrangement with sponsoring professor with a time requirement of 10 hours per week minimum per course credit. P/NP basis only. May be taken for an X status grade with consent of instructor prior to registration. May be taken more than once for credit for a maximum of 2.0 credits. Research participation credit does not satisfy any of the requirements for a major in biology. (0.2–1.0 course credit)  
  **BIO 455 Molecular Neurobiology**  
-Study of the organization and function of the nervous system, focusing on both cellular physiology and functional neuroanatomy. Topics include the cellular and molecular properties of brain cells, the neurological basis of behavior, and disorders of the nervous system. Three lectures per week. Prerequisites: Cellular and Molecular Biology (BIO-145), Introduction to Biology Laboratory (BIO-140), Organismal and Ecological Biology (BIO-155), General Chemistry I (CHM-155), General Chemistry II (CHM-165) and Genetics (BIO-235) and Lab (BIO-230)  
+Studies the organization and function of the nervous system, focusing on both cellular physiology and functional neuroanatomy. Topics include the cellular and molecular properties of brain cells, the neurological basis of behavior, and disorders of the nervous system. Three lectures per week. Prerequisites: Organismal and Ecological Biology and Laboratory (BIO-155/-155L), and Genetics and Laboratory (BIO-235/-235L).  
  **BIO 455L Molecular Neurobiology Lab**  
-Three hours per week. Concurrent with Molecular Neurobiology (BIO-455L). (0.2 course credit)  
+Develops technical skills needed to conduct experiments in modern neurobiology. Students learn how to perform laboratory techniques that look at gene expression and cellular function and acquire an understanding of the process and rationale behind the methods used in neurobiology research. Three hours per week. Corequisite registration with Molecular Neurobiology (BIO-455). (0.2 course credit)  
  **BIO 462/463 Advanced Biology Laboratory I and II**  
 Offers an extensive independent or group investigations of a particular topic in biology. Designed to be a research experience in preparation for teaching, graduate school or direct entry into a technical field after graduation. Advanced Biology Laboratory I (BIO-462) may be repeated as Advanced Biology Laboratory II (BIO-463). P/NP basis only. Prerequisites: Genetics and Laboratory (BIO-235/-235L), and consent of instructor. (Offered May Term only)  
  **BIO 465 Immunology**  
@@ -730,13 +728,13 @@ An integrated series of lectures designed to familiarize students with cellular,
  **BIO 465L Immunology Laboratory**  
 Three hours per week. Corequisite registration with Immunology (BIO-465). (0.2 course credit)  
  **BIO 494 Internship in Biology**  
-Investigation of an area of interest through voluntary field placement supervised by a faculty member of the department. A minimum of 140 hours on-site experience is required. P/NP basis only. This course does not satisfy any of the requirements for a major in biology. Prerequisites: declared major in biology, junior standing, and consent of department chair.  
+Investigates an area of interest through voluntary field placement supervised by a faculty member of the department. A minimum of 140 hours on-site experience is required. P/NP basis only. This course does not satisfy any of the requirements for a major in biology. Prerequisites: declared major in biology, junior standing, and consent of department chair.  
 
  **OCC 365 Oak Ridge Science Semester**  
 See @sec-ACM-and-international-programs
 
  **HSS 494 Health Professions Externship**  
-This capstone experience for qualified junior and senior students, could finalize a career decision or create an opportunity for a different career path. Using the academic knowledge already obtained through course work, the student will now apply it to real world situations as experiential learning with professional mentors in our community and will gain additional knowledge of what the daily activities and difficulties can, or may be present in their particular internship profession. They will increase their own communication skills, learn interpersonal skills with mentors, staff, clients/patients, gain professional ethics skills, and gain additional topic knowledge while working with their mentors. Some will gain "hands on" training while others will gain their knowledge thru observation of techniques, personal interactions, and through researching pertinent subject matters. Some may gain public speaking experiences, while others may increase their professional writing abilities. Each intern experience will have its own unique set of learning outcomes. Junior or Senior standing with appropriate GPA.
+Offers an intense exploration in the fields of human or animal healthcare, allied health, or auxiliary fields within the healthcare system. Students are placed at local sites and/or in nearby communities with one or more professionals in fields related to the student’s interests. A minimum of 140 hours on-site experience is required. P/NP basis only. Prerequisites: junior or senior standing, submission of application in Fall term, and consent of instructor. (Offered May Experiential Term only)
 
 
 
@@ -800,7 +798,7 @@ Concentrations are offered in management, marketing, and sports management. To c
    BUS 470 Strategic Management      
 
 ### Marketing Concentration in Business
-1. BUS 355 Principles of Marketing  
+1. BUS 355 Leadership Principles  
 2. Four of the following: 
    BUS 280 Business Websites **and** BUS 281 Social Media in Business  
    BUS 420 Sports Marketing and Communications  
@@ -893,11 +891,11 @@ An examination of real world cases that represent the many types of accounting f
  **ACC 315 Managerial Accounting**  
 A study of the principles of managerial accounting and the methods of analyzing financial information. Includes analyses of accounting for the costs of production and the use of various decision models for planning and control. Prerequisite: Principles of Accounting II (ACC-215).  
  **ACC 334 Computer Applications - Accounting**  
-An introduction to specialized accounting software used in financial accounting, tax accounting, and auditing. Application of generalized software to topics covered in managerial accounting and financial accounting. S/U basis only. Prerequisites: Computers in Business (BUS-125) or knowledge of Excel, junior standing, and completion of at least three upper-level accounting courses or consent of instructor. (0.5 course credit)  
+An introduction to specialized accounting software used in financial accounting, tax accounting, and auditing. Application of generalized software to topics covered in managerial accounting and financial accounting. P/NP basis only. Prerequisites: Computers in Business (BUS-125) or knowledge of Excel, junior standing, and completion of at least three upper-level accounting courses or consent of instructor. (0.5 course credit)  
  **ACC 351 Intermediate Accounting II**  
-A continuation of Intermediate Accounting 1 ACC-301. Prerequisite: Principles of Accounting II (ACC-215).  
+An in-depth study of financial accounting topics. Emphasis is on income determination, evaluation, and presentation of liabilities and owners’ equity. Prerequisite: Intermediate Accounting I (ACC-301).  
  **ACC 401 Fund Acctg & Adv Top**  
-Fiduciary accounting, accounting for not-for-profit entities, consignment sales, and other advanced accounting topics. Prerequisite: Intermediate Accounting I (ACC-301) and Intermediate Accounting II (ACC-351). (Offered alternate years)  
+Accounting for governmental entities, accounting for not-for-profit entities, and other related topics. Prerequisite: Intermediate Accounting II (ACC-351).  
  **ACC 413 Auditing**  
 A study of the audit function primarily as it relates to the independent CPA. An integration of auditing theory and practice in an environment of legal liability and professional responsibility. Prerequisites: Principles of Accounting II (ACC-215) and junior standing, or consent of instructor. (Offered alternate years)  
  **ACC 415 Adv Managerial Accounting**  
@@ -909,7 +907,7 @@ A study of business combinations, international business transactions, internati
  **ACC 463 Advanced Auditing**  
 A continuation of Auditing (ACC-413) with emphasis on special reports, compilation and review services, and additional current auditing topics. Auditing theories and practices are presented in a manner which enables the student to conceptualize the entire audit process. Prerequisite: Auditing (ACC-413). (Offered alternate years)  
  **ACC 472 Advanced Tax Accounting**  
-A continuation of Tax Accounting (ACC-422) with an emphasis on taxation of corporations, “S” corporations, partnerships, estates, and trusts. Development of a basic understanding of tax research methodology. Prerequisite: Tax Accounting (BUS-445). (Offered alternate years)  
+A continuation of Tax Accounting (ACC-422) with an emphasis on taxation of corporations, “S” corporations, partnerships, estates, and trusts. Development of a basic understanding of tax research methodology. Prerequisite: Tax Accounting (ACC-422). (Offered alternate years)  
 
 ### Courses in Business
 
@@ -920,7 +918,7 @@ An introduction to computers in business. Topics covered include the most common
  **BUS 145 Personal Financial Analysis & Plan**  
 A study of important personal financial decisions made over an individual’s lifetime. This course provides the perspective and tools needed to make intelligent personal financial decisions. The course also challenges students to look at current events affecting personal finance from a public policy perspective, allowing them to develop informed opinions. Topics covered include understanding personal income taxes, buying a home, using credit wisely, and planning for retirement, among others. Open to all students. This course does not satisfy any of the requirements for a major in Business Administration.  
  **BUS 170 Bus Sustainability & Environment**  
-Examines the global trend of the increasing attention organizations are giving to environmental and sustainability issues, including evaluation of successful business practices being pursued by leading corporations. Consideration is given to why and how corporations are embracing such trends. Topics covered include eco-labeling, corporate environmental strategies, NGO-business partnerships, and emerging markets for environmental goods and services. Significant attention is given to global warming concerns and the emerging strategies for measuring and reducing the carbon footprint of business.  
+See Environmental Studies, p. 141.  
  **BUS 190 Statistical Analysis**  
 Methods of statistical analysis and decision-making in business research and the behavioral sciences. Topics are selected from analysis of variance, regression analysis, factor analysis, time series analysis, and statistical decision theory. Prerequisite: The equivalent of three years of secondary school mathematics or consent of instructor.  
  **BUS 250 Principles of Management**  
@@ -932,13 +930,13 @@ An examination of the form, function, and creation of B2C (business-to-consumer)
  **BUS 281 Social Media in Business**  
 A survey of social media solutions utilized in the business environment with an emphasis on software usage. Learner-centered research and hands-on experience provide students with a solid understanding of current best practices. Applications explored include: LinkedIn, Skype, FaceTime, YouTube, Facebook, Yelp, Google+, Pinterest, Tumblr, Twitter, Instagram, and Kickstarter. This course does not, on its own or in combination with another 0.5 credit course, count as one of the two business electives required for a business major. (0.5 course credit)  
  **BUS 285 Computer Appl:Adv Top**  
-Advanced computer applications courses on selected topics covered in business. Example topics: Management Science, Database Management, Marketing Publications. May be taken more than once for credit, provided the topics are substantially different. Prerequisites: Computers in Business (BUS-125) or consent of instructor. Some topics may require completion of or concurrent registration in relevant courses in the department. (0.5 course credit)  
+Advanced computer applications courses on selected topics covered in business. Example topics: Management Science, Database Management, Marketing Publications. May be taken more than once for credit, provided the topics are substantially different. Prerequisites: Computers in Business (BUS-125) or consent of instructor. Some topics may require completion of or concurrent registration in relevant courses in the department. This course does not satisfy any of the requirements for a major in Business Administration. (0.5 course credit)  
  **BUS 300 Human Resource Management**  
 A study of the theories, policies, and institutional forces that affect the human resource manager. This course analyzes managerial decisions regarding staffing, compensation, training, appraising, safety/ health, industrial relations, and the employment laws and environmental factors affecting human resource management. Prerequisite: sophomore standing.  
  **BUS 305 Production & Operations Mgmt**  
 A study of the design, planning, and control of the factors that affect operations, including how to use labor, facilities, and equipment to manufacture finished goods or provide services. Prerequisites: competency in algebra and junior standing or consent of instructor.  
  **BUS 315 Business Law I**  
-Introduction to law as an agency of control in the business world. Special attention to contracts, agencies, sales, negotiable instruments, and other types of contracts commonly used in the business world. Prerequisite: sophomore standing.  
+An introduction to law as an agency of control in the business world. Course topics include: an introduction to business ethics, the sources of law in the United States and their impact on the business community, the role of the judiciary and its impact on social change, basic tort law as it relates to business, contract terminology and functions, the elements of a valid contract, and the law as it relates to agency, employment, and labor. Prerequisite: sophomore standing.  
  **ECO 315 Intermediate Macroeconomic Theory**  
 See @sec-economics  
  **ECO 320 Public Finance**  
@@ -950,13 +948,13 @@ A study of the basic principles of marketing including the analysis of market op
  **BUS 340 Applied Regression Analysis**  
 Introduction to the construction and use of regression models. Topics include estimation and inferential techniques in Simple and Multiple Regression; consequences of violations of the assumptions of the Classical Linear Regression model; regression with qualitative dependent variables.  
  **BUS 341 Introductory Business Analytics**  
-A spreadsheet-based introductory course to business analytics. Emphasis is placed on fundamental knowledge and practical skills for applying data analysis to business decision making. Topics include data collection, statistical distributions, linear regression, forecasting, simulation, and optimization. Prerequisite: Statistical Analysis (BUS 240) or consent of instructor.  
+A spreadsheet-based introductory course to business analytics. Emphasis is placed on fundamental knowledge and practical skills for applying data analysis to business decision making. Topics include data collection, statistical distributions, linear regression, forecasting, simulation, and optimization. Prerequisite: Statistical Analysis (BUS-190) or consent of instructor  
  **BUS 345 Regulation of Business**  
-Includes an examination of the social and economic impact of control legislation such as the Sherman Act, Clayton Act, Federal Trade Commission Act, Wagner Act, Securities Exchange Act, and many others. Prerequisites: Principles of Macroeconomics (ECO-205) and Principles of Microeconomics (ECO-215).  
- **ECO 345 Intermediate Price Theory**  
+Includes an examination of the social and economic impact of control legislation such as the Sherman Act, Clayton Act, Federal Trade Commission Act, Wagner Act, Securities Exchange Act, and many others. Prerequisites: Principles of Macroeconomics (ECO-175) and Principles of Microeconomics (ECO-215).  
+ **ECO 345 Intermediate Microeconomics**  
 See @sec-economics  
  **BUS 350 Principles of Finance**  
-A survey of securities markets and financial institutions and an introduction to finance and development in finance theory. Practices of personal and business finance decisions are also included. Prerequisites: Principles of Macroeconomics (ECO-205), Principles of Microeconomics (ECO-215), and Principles of Accounting II (BUS-215).  
+A survey of securities markets and financial institutions and an introduction to finance and development in finance theory. Practices of personal and business finance decisions are also included. Prerequisites: Principles of Macroeconomics (ECO-175), Principles of Microeconomics (ECO-215), and Principles of Accounting II (ACC-215).  
  **BUS 352 Corporate Finance**  
 A study of the major theories and models for planning and analyzing the working capital position, the financial structure, the cost of capital, and the capital budgeting of a business firm. Prerequisite: Principles of Finance (BUS-350).  
  **BUS 365 Principles of Insurance**  
@@ -966,9 +964,9 @@ A study of some of the central ethical issues in the business world and some of 
  **ECO 375 Econometrics**  
 See @sec-economics  
  **BUS 387 Adv Top:Human Res Mgt**  
-Expands on some of the traditional material presented in the Human Resource Management course. Contemporary issues in the workplace which affect the nature of the relationship between the organization and the employee are discussed. Prerequisite: Human Resource Management (BUS-245).  
+Expands on some of the traditional material presented in the Human Resource Management course. Contemporary issues in the workplace which affect the nature of the relationship between the organization and the employee are discussed. May be taken more than once for credit, provided the topics are substantially different. Prerequisite: Human Resource Management (BUS-300).  
  **BUS 395 Organizational Behavior**  
-Combines theory and practice to investigate human behavior in organizations. Topics at the macrolevel (history, culture, design, communications, total quality), human-level (perception, personality, attitudes, learning, stress), and group-level (team and organization development), and their influences on organizational effectiveness are examined. Prerequisite: Principles of Management (BUS-275).  
+Combines theory and practice to investigate human behavior in organizations. Topics at the macrolevel (history, culture, design, communications, total quality), human-level (perception, personality, attitudes, learning, stress), and group-level (team and organization development), and their influences on organizational effectiveness are examined. Prerequisite: Principles of Management (BUS-250).  
  **BUS 400 Legal Issues in Sports**  
 A study of the legal aspects for the operations and administration of sports programs, competitive athletic programs, and community and commercial fitness programs. Topics such as risk management, gender equity, dipute resolution, and negotiation are included. Prerequisites: SMT-100: Introduction to Sports Management and BUS-315: Business Law I.  
  **BUS 410 Business Law II**  
@@ -978,46 +976,45 @@ Analysis of the role of the entrepreneur in the capitalist economy. Development 
  **BUS 420 Sports Marketing and Communications**  
 An introduction to the field of sports marketing and its role within sports organizations. Marketing mix, marketing research, and consumer behavior principles are used in studying topics such as sport sponsorships, branding, licensing, endorsements, naming rights, sales, fundraising, and public relations. Prerequisites: SMT-100: Introduction to Sports Management and BUS-330: Principles of Marketing.  
  **BUS 437 Strategic Compensation**  
-A study of compensation systems used in organizations. This course looks at ways to develop, administer, and maintain compensation plans that attract and motivate employees while controlling labor costs. It covers such topics as the strategic importance of compensation; different types of compensation; designing competitive pay systems and employee benefits; and compensation for executives, expatriates, and contingent employees. Prerequisite: Human Resource Management (BUS-245).  
+A study of compensation systems used in organizations. This course looks at ways to develop, administer, and maintain compensation plans that attract and motivate employees while controlling labor costs. It covers such topics as the strategic importance of compensation; different types of compensation; designing competitive pay systems and employee benefits; and compensation for executives, expatriates, and contingent employees. Prerequisite: Human Resource Management (BUS-300).  
  **BUS 441 Advanced Business Analytics**  
 A project-based, advanced study of buysiness analytics. The course offers training of coding with a computer programming language. No prior knowledge of coding is required. Topics learned in Introductory Business Analytics will be implemented in the context of computer coding. A term project with real-world applications is also required. Prerequisite: Introductory Business Analytics (BUS 341).  
  **BUS 444 Ind Study-Bus Admin**  
-Independent studies under the direction of a faculty member in some area of business administration or economics. May be taken for an X status grade with consent of instructor prior to registration.  Prerequisite: consent of instructor.  
+Independent studies under the direction of a faculty member in some area of business administration. May be taken more than once for a maximum of 2.0 credits. May be taken for an X status grade with consent of instructor prior to registration. Prerequisite: consent of instructor.  
  **BUS 446 International Business Management**  
-An introduction to the concepts of international business and the global economy. Topics include the impact of national and cultural differences on global business; cross-cultural communication, negotiation, and decision making; international human resource management; international trade theory; cross-border trade and investment; and global business strategy development. Prerequisite: Human Resource Management (BUS-300) or Principles of Management (BUS-335).  
+An introduction to the concepts of international business and the global economy. Topics include the impact of national and cultural differences on global business; cross-cultural communication, negotiation, and decision making; international human resource management; international trade theory; cross-border trade and investment; and global business strategy development. Prerequisite: Human Resource Management (BUS-300) or Principles of Management (BUS-250).  
  **ECO 446 International Econ**  
 See @sec-economics  
  **BUS 454 Research in Business**  
-The student works on a research program in business, independently or in participation with a business department faculty member. May be taken for an X status grade with consent of instructor prior to registration.  Prerequisites: junior standing and consent of instructor.  
+Research on a selected topic in business, independently or in participation with a business department faculty member. May be taken more than once for a maximum of 2.0 credits. May be taken for an X status grade with consent of instructor prior to registration. Prerequisites: junior standing and consent of instructor.  
  **BUS 457 Employment and Discrimination Law**  
-Examines the legal regulation of the employment relationship. Extensive coverage of federal workplace discrimination statutes is featured, with particular consideration of Title VII, the ADEA, and the ADA. Significant attention placed on recent Supreme Court decisions and Congressional responses. Additional issues addressed may include employment-at-will and its exceptions, vicarious liability of employers for employee tort, and employee privacy concerns. 
-Prerequisites: Human Resource Management (BUS-245) and Business Law I (BUS-315).  
+Examines the legal regulation of the employment relationship. Extensive coverage of federal workplace discrimination statutes is featured, with particular consideration of Title VII, the ADEA, and the ADA. Significant attention placed on recent Supreme Court decisions and Congressional responses. Additional issues addressed may include employment-at-will and its exceptions, vicarious liability of employers for employee tort, and employee privacy concerns. Prerequisites: Human Resource Management (BUS-300) and Business Law I (BUS-315).  
  **BUS 460 Advertising**  
-A study of the basic practices and concepts of advertising. Advertising is studied in the broader context of integrated marketing communications, including public relations and sales promotion. Topics to be covered include historical, legal, and ethical concepts of advertising and other forms of promotion, the management and planning of advertising, creativity in advertising, media planning, and advertising research. Prerequisite: Marketing (BUS-355).  
+A study of the basic practices and concepts of advertising. Advertising is studied in the broader context of integrated marketing communications, including public relations and sales promotion. Topics to be covered include historical, legal, and ethical concepts of advertising and other forms of promotion, the management and planning of advertising, creativity in advertising, media planning, and advertising research. Prerequisite: Principles of Marketing (WE) (BUS330).  
  **BUS 461 Marketing Decision Making/Analysis**  
-A continuation of the study of marketing principles with special emphasis on understanding marketing as the basis for management decision-making. Topics to be covered include customer relationship management, market-oriented strategic planning, brand asset management, buyer behavior analysis, the use of marketing research to identify and target customers, and integrated marketing communications planning. Prerequisites: Marketing (BUS-355).  
+A continuation of the study of marketing principles with special emphasis on understanding marketing as the basis for management decision-making. Topics to be covered include customer relationship management, market-oriented strategic planning, brand asset management, buyer behavior analysis, the use of marketing research to identify and target customers, and integrated marketing communications planning. Prerequisites: Principles of Marketing (WE) (BUS-330).  
  **BUS 464 Seminar in Management**  
 Development of written and oral communication proficiency through an intensive study of one or more selected topics in management. Topics are studied through the use of readings, class discussions, writings, and presentations, and vary from term to term. May be taken more than once for credit, provided the topics are substantially different. Prerequisites: senior standing and at least one course in management [Principles of Management (BUS-250), Human Resource Management (BUS-300), or Organizational Behavior (BUS-395)], or consent of instructor.  
  **BUS 465 Advanced Topics in Marketing**  
-An advanced study of a major topic in marketing. May be take more than once for credit, provided the topics are substantially different. Example topics: marketing research, international marketing, and sales management. Prerequisite: Marketing (BUS-355).  
+An advanced study of a major topic in marketing. May be taken more than once for credit, provided the topics are substantially different. Example topics: marketing research, international marketing, and sales management. Prerequisite: Principles of Marketing (WE) (BUS-330).  
  **BUS 466 Adv Top Mrktg:non-west persp**  
-Same as Advanced Topics in Marketing (BUS-465), except the course focuses on topics related to non-Western cultures.  
+Same as Advanced Topics in Marketing (BUS-465), except the course focuses on topics related to non-Western cultures. May be taken more than once for credit, provided the topics are substantially different. Prerequisite: Principles of Marketing (WE) (BUS-330).  
  **BUS 467 Consumer Behavior**  
-A study of the behavioral aspects of marketing with an emphasis on consumer markets. Various models of consumer decision-making are examined. Influences on consumer behavior are studied from both an individual perspective, including topics such as personality, perception, learning and attitudes, and a social perspective, including topics such as culture, social class, reference groups, and family. Prerequisite: Marketing (BUS-355).  
+A study of the behavioral aspects of marketing with an emphasis on consumer markets. Various models of consumer decision-making are examined. Influences on consumer behavior are studied from both an individual perspective, including topics such as personality, perception, learning and attitudes, and a social perspective, including topics such as culture, social class, reference groups, and family. Prerequisite: Principles of Marketing (WE) (BUS-330).  
  **BUS 470 Strategic Management**  
 A study of strategic management principles and the application of these principles to problems encountered by managers at all levels in large and small, for-profit and not-for-profit organizations. An advanced course in case studies to be taken near completion of the major. Prerequisite: junior standing.  
  **BUS 472 Advanced Topics in Finance**  
 An advanced study of a major topic in finance. Example topics include quantitative methods in finance, behavioral finance, the evolution of financial thought, alternative investments, fixed income management, portfolio management, and derivatives. May be taken more than once for credit, with consent of department chair, provided the topics are substantially different. Prerequisite: Principles of Finance (BUS-350).  
  **BUS 475 Advanced Topics in Management**  
-An advanced study of a major topic in management. Example topics: organizational theory, international management, negotiation, management information systems, and organizational change. May be taken more than once for credit, with consent of department chair, provided the topics are substantially different. Prerequisite: Principles of Management (BUS-275).  
+An advanced study of a major topic in management. Example topics: organizational theory, international management, negotiation, management information systems, and organizational change. May be taken more than once for credit, with consent of department chair, provided the topics are substantially different. Prerequisite: Principles of Management (BUS-250).  
  **BUS 476 Ad Top Mgmt:non-west persp**  
-Same as Advanced Topics in Management (BUS-475), except the course focuses on topics related to non-Western cultures. Prerequisite: Principles of Management (BUS-275).  
+Same as Advanced Topics in Management (BUS-475), except the course focuses on topics related to non-Western cultures. May be taken more than once for credit, provided the topics are substantially different. Prerequisite: Principles of Management (BUS-250).  
  **BUS 485 Investment Fund Management**  
 Examines financial asset portfolio construction and maintenance strategies used in the long-term management of an investment fund. Topics in this seminar include when to sell financial assets, how to evaluate mutual funds and exchange traded funds (ETFs), and the benefits of asset class diversification. Students will study the Birkey Investment Fund portfolio and make recommendations on rebalancing the portfolio through adjustments to its stock portfolio and its mutual fund and ETF holdings. Prerequisite: Research in Business (BUS-454) or permission of instructor. This course does not, on its own or in combination with another 0.5 credit course, count as one of the two business electives required for a business major. (0.5 course credit) (Offered Spring Term)  
  **ECO 485 Mathematical Economics**  
 See @sec-economics  
  **BUS 494 Internship in Business**  
-A work experience with a business organization involving opportunities, experiences, and personal growth which can be evaluated in equivalent terms to traditional course work. In most circumstances such experience shall count for one course credit. On-site work plus academic work must total a minimum of 160 hours (140 of which must be spent on-site.) In exceptional situations where an internship presents significant theoretical or practical ways to augment or extend traditional classroom experiences, two course credits are available. (See p. 17) S/U basis only. This course does not satisfy any of the requirements for a major in business administration. Prerequisites: Candidates must meet GPA and departmental residency requirements. All candidates must have the consent of a supervising faculty member of the department and consent of department chair. Students seeking more than one course credit must further have approval of the Department Internship Review Committee.  
+A work experience with a business organization involving opportunities, experiences, and personal growth which can be evaluated in equivalent terms to traditional course work. In most circumstances such experience shall count for one course credit. On-site work plus academic work must total a minimum of 160 hours (140 of which must be spent on-site.) In exceptional situations where an internship presents significant theoretical or practical ways to augment or extend traditional classroom experiences, two course credits are available (see p. 37). P/NP basis only. This course does not satisfy any of the requirements for a major in business administration. Prerequisites: Candidates must meet GPA and departmental residency requirements. All candidates must have the consent of a supervising faculty member of the department and consent of department chair. Students seeking more than one course credit must further have approval of the Department Internship Review Committee.  
  **BUS 495 Investment Analysis**  
 A study of the fundamental principles underlying investment decisions. The course offers a basic understanding of the nature of risk and return considerations, the valuation framework for financial assets and derivatives, and introduction to the concepts of modern portfolio theory. Prerequisite: Principles of Finance (BUS-350).  
  **ECO 495 International Finance**  
@@ -1033,7 +1030,7 @@ A major in economics requires a minimum cumulative 2.0 GPA in all courses counte
 1. ECO 175 Principles of Macroeconomics  
 2. ECO 215 Prin Microeconomics  
 3. ECO 315 Intermediate Macroeconomic Theory  
-4. ECO 345 Intermediate Price Theory  
+4. ECO 345 Intermediate Microeconomics  
 5. ECO 375 Econometrics  
 6. One of the following Microeconomics Field courses:   
   ECO 237 Labor Economics  
@@ -1048,7 +1045,7 @@ A major in economics requires a minimum cumulative 2.0 GPA in all courses counte
 8. One of the following Quantitative or History courses:  
   Quantitative courses:  
     ECO 435 Time Series Analysis  
-    ECO 445 Econometrics II (WE)  
+    ECO 445 Econometrics II  
     ECO 485 Mathematical Economics  
 
 ### Economics Minor 
@@ -1057,7 +1054,7 @@ A major in economics requires a minimum cumulative 2.0 GPA in all courses counte
 3. One of the following Microeconomics courses:   
    ECO 237 Labor Economics  
    ECO 247 Health Economics  
-   ECO 345 Intermediate Price Theory  
+   ECO 345 Intermediate Microeconomics  
    ECO 446 International Econ  
    ECO 447 Urban Economics  
 4.	One of the following Macroeconomics courses:   
@@ -1076,13 +1073,13 @@ A major in economics requires a minimum cumulative 2.0 GPA in all courses counte
 **BUS 495 Investment Analysis**;  
 See Business Administration, Section 25.11  
 **ECO 105 Econ & Public Int**   
-  Designed to give students the opportunity to learn the fundamentals of the economic approach to problems and enable them to apply elementary concepts such as supply and demand, marginal costs and benefits, and the national income identity to problems like the environment, public choice, the budget deficit, the trade deficit, etc. The core of the course consists of the analytics of the economic way of thinking; the applications change from time to time. This course does not satisfy any of the requirements for a major or minor in economics.   
+  Designed to give students the opportunity to learn the fundamentals of the economic approach to problems and enable them to apply elementary concepts such as supply and demand, marginal costs and benefits, and the national income identity to problems like the environment, public choice, the budget deficit, the trade deficit, etc. The core of the course consists of the analytics of the economic way of thinking; the applications change from time to time. This course does not satisfy any of the requirements for a major or minor in economics or international economics.   
 **ECO 115 Intro Political Econ**   
-  An introduction to political economy. A study of the roots of economics and the interaction between public policy debates and economic theory. The course explores the historical foundation and development of a variety of schools of thought, ranging from the classical liberalism of Adam Smith to the radical voice of Karl Marx. Emphasis is placed on understanding not only the historical progression of ideas, but also the relevance varied perspectives have on present political and economic issues. This course does not satisfy any of the requirements for a major or minor in economics.   
+  An introduction to political economy. A study of the roots of economics and the interaction between public policy debates and economic theory. The course explores the historical foundation and development of a variety of schools of thought, ranging from the classical liberalism of Adam Smith to the radical voice of Karl Marx. Emphasis is placed on understanding not only the historical progression of ideas, but also the relevance varied perspectives have on present political and economic issues. This course does not satisfy any of the requirements for a major or minor in economics or international economics.   
 **DS 120 Sports Analytics**   
 See Data Science, @sec-data-science  
 **ECO 155 Econ/Ethics of Alternative Energy**    
-  Focuses on the economics and ethics of energy choices, with some emphasis on climate change and other concerns related to energy use, including the science behind climate change and various alternative energies. The course examines a broad array of issues related to energy and more specifically, alternatives to petroleum-based sources of energy such as biomass, wind, and solar. Energy choices and policies are analyzed using a variety of methods, such as benefit-cost, equity, program evaluation (both monetary and non-monetary), and social benefits versus economic impact. The course includes travel to regional organizations that develop and produce these technologies; guest lectures from national and state experts on the economics of energy, energy policy, and the science behind various energies; case studies; and class discussion. Students gain a broad understanding of factors considered in energy development and policy. This course may be used to satisfy the requirements for a major in Environmental Studies but does not satisfy any of the requirements for a major or minor in economics. (Offered May Term only)   
+  Focuses on the economics and ethics of energy choices, with some emphasis on climate change and other concerns related to energy use, including the science behind climate change and various alternative energies. The course examines a broad array of issues related to energy and more specifically, alternatives to petroleum-based sources of energy such as biomass, wind, and solar. Energy choices and policies are analyzed using a variety of methods, such as benefit-cost, equity, program evaluation (both monetary and non-monetary), and social benefits versus economic impact. The course includes travel to regional organizations that develop and produce these technologies; guest lectures from national and state experts on the economics of energy, energy policy, and the science behind various energies; case studies; and class discussion. Students gain a broad understanding of factors considered in energy development and policy. This course may be used to satisfy the requirements for a major in Environmental Studies but does not satisfy any of the requirements for a major or minor in economics or international economics. (Offered May Experiential Term only)   
 **ECO 175 Principles of Macroeconomics**  
   Theories of aggregate demand and supply applied to national income determination, business cycles, money, interest rates, inflation, and other macroeconomic questions.  
 **ECO 195 Prin of Environmental Economics**  
@@ -1094,11 +1091,11 @@ See Data Science, @sec-data-science
 **ECO 237 Labor Economics**  
   A study of the wage earner in modern economic society, of the development and operation of labor organizations and their policies, and of economic and social issues raised as a result of the existence of these organizations. Prerequisites: Principles of Macroeconomics (ECO-175) and Principles of Microeconomics (ECO-215).  
 **ECO 247 Health Economics**  
-  Examines the role of the government in health behaviors and health care. This course will examine the theoretical reasons for government intervention in health behaviors and health care, empirical evidence related to the theory, examples of government intervention, and effects of these interventions on health and economic outcomes.  
+  Examines the role of the government in health behaviors and health care. This course will examine the theoretical reasons for government intervention in health behaviors and health care, empirical evidence related to the theory, examples of government intervention, and effects of these interventions on health and economic outcomes. Prerequisite: Principles of Microeconomics (ECO-215).  
 **ECO 315 Intermediate Macroeconomic Theory**  
-  A study of national income accounting concepts and analysis of the determination of the levels of gross national product, national income and employment, and their control. Prerequisites: Principles of Macroeconomics (ECO-175) and Principles of Microeconomics (ECO-215).  
+  A study of national income accounting concepts and analysis of the determination of the levels of gross national product, national income and employment, and their control. Prerequisites: Principles of Macroeconomics (ECO175)and Principles of Microeconomics (ECO-215).  
 **ECO 320 Public Finance**  
-  Consideration of optimal resource allocation and the role of the public sector, the concept of public and semi public goods, allocation of public goods, principles of taxation and tax incidence, the tax and expenditure system of the U.S., the budgetary process, and the theory and techniques of modern fiscal policy. Prerequisites: Principles of Macroeconomics (ECO-175) and Principles of Microeconomics (ECO-215).  
+  Consideration of optimal resource allocation and the role of the public sector, the concept of public and semi-public goods, allocation of public goods, principles of taxation and tax incidence, the tax and expenditure system of the U.S., the budgetary process, and the theory and techniques of modern fiscal policy. Prerequisites: Principles of Macroeconomics (ECO-175) and Principles of Microeconomics (ECO-215).  
 **ECO 325 Collectve Bargaining**  
   Traces the development of labor law and the legal interpretation of the statutes by the NLRB as they affect collective bargaining relationships. Public-sector implications for public employees because of state law and executive orders are also discussed. Major emphasis on the functioning of the grievance process to administer, interpret, and enforce the negotiated contract. Rules and principles of arbitration as the terminal step in the grievance process are taught via a case approach.  
 **ECO 336 Divergent Economic Growth**  
@@ -1107,16 +1104,16 @@ See Data Science, @sec-data-science
 See Business Administration, Section 25.11  
   **BUS 341 Introductory Business Analytics**  
 See Business Administration, Section 25.11   
-**ECO 345 Intermediate Price Theory**  
+**ECO 345 Intermediate Microeconomics**  
   Concepts and methods of analysis, including analysis of demand, theory of production, costs, pricing under different market structures, and functional distribution. General equilibrium analysis serves to introduce welfare economics. Prerequisites: Principles of Macroeconomics (ECO-175) and Principles of Microeconomics (ECO-215).  
 **BUS 350 Principles of Finance**  
 See Business Administration, Section 25.11  
 **ECO 355 Industrial Organization**  
-  An upper division course devoted to the environment that firms operate within, the tools to analyze market processes under imperfect competition, and the consequences for economic performance. Topics include the structure-conduct-performance paradigm and the fundamentals of game theory. Prerequisites: Principles of Macroeconomics (ECO-205) and Principles of Microeconomics (ECO-215).  
+  An upper division course devoted to the environment that firms operate within, the tools to analyze market processes under imperfect competition, and the consequences for economic performance. Topics include the structure-conductperformance paradigm and the fundamentals of game theory. Prerequisites: Principles of Macroeconomics (ECO-175) and Principles of Microeconomics (ECO-215).  
 **ECO 365 Law & Economics**  
-  A study of the Law and Economics school of jurisprudence, utilizing standard, elementary tools of microeconomics to analyze legal problems. The principal areas of property, contracts, crime, and tort law are evaluated from the economic perspective. Legal paradigms and rules of Western Europe and the New Zealand socialist tort program are also compared to the substantive laws of the United States. Prerequisites: Principles of Macroeconomics (ECO-205) and Principles of Microeconomics (ECO-215).  
+  A study of the Law and Economics school of jurisprudence, utilizing standard, elementary tools of microeconomics to analyze legal problems. The principal areas of property, contracts, crime, and tort law are evaluated from the economic perspective. Legal paradigms and rules of Western Europe and the New Zealand socialist tort program are also compared to the substantive laws of the United States. Prerequisites: Principles of Macroeconomics (ECO-175) and Principles of Microeconomics (ECO-215).  
 **ECO 375 Econometrics**   
-  Application of elementary statistical methods to test economic theory that has been stated in mathematical terms. It is recommended that students take Statistical Analysis (BUS-240) or Statistical Reasoning I-Statistical Foundations (STA-100) prior to taking this course. Prerequisites: Principles of Macroeconomics (ECO-175) and Principles of Microeconomics (ECO-215).   
+  Application of elementary statistical methods to test economic theory that has been stated in mathematical terms. It is recommended that students take Statistical Analysis (BUS-240) or Statistical Reasoning I-Statistical Foundations (STA-100) prior to taking this course. Prerequisites: Both Principles of Macroeconomics (ECO-175) and Principles of Microeconomics (ECO-215) or Data Analysis and Visualization (DS-260).   
 **ECO 395 History of Economic Thought**   
   A history and comparison of the doctrines of various schools of economic thought from the Mercantilists to the present. Prerequisites: Principles of Macroeconomics (ECO-175), Principles of Microeconomics (ECO-215), and a nearly completed major in economics.      
 **ECO 401 Seminar in Macroeconomics**    
@@ -1130,29 +1127,29 @@ See Business Administration, Section 25.11
 **ECO 424 Political Economy**  
   Examines alternative approaches to economic theory. This course requires critical engagement with various theoretical frameworks ranging from Marxist to Austrian schools of thought, focusing primarily on the dominant models within each school of thought. Prerequisites: Principles of Macroeconomics (ECO-175) and Principles of Microeconomics (ECO-215).  
 **ECO 435 Time Series Analysis**  
-  An advanced econometrics course emphasizing the challenges of working with dynamic systems of economic variables. Modeling stationary and nonstationary processes for hypothesis testing, forecasting, and policy design and evaluation are emphasized. Prerequisite: Econometrics (ECO-375).   
+  An advanced econometrics course emphasizing the challenges of working with dynamic systems of economic variables. Modeling stationary and nonstationary processes for hypothesis testing, forecasting, and policy design and evaluation are emphasized. Prerequisite: Econometrics (WE) (ECO-375).   
 **ECO 436 Econ Development**  
-  The definition of development and underdevelopment in the modern context. A consideration of the process and problems of development in the presently less developed countries, strategies of planning for growth with distributional equity, the contribution of resources and capital, and the role of foreign trade and aid. Prerequisites: Principles of Macroeconomics (ECO-205) and Principles of Microeconomics (ECO-215).  
+  The definition of development and underdevelopment in the modern context. A consideration of the process and problems of development in the presently less developed countries, strategies of planning for growth with distributional equity, the contribution of resources and capital, and the role of foreign trade and aid. Prerequisites: Principles of Macroeconomics (ECO-175) and Principles of Microeconomics (ECO-215).  
 **ECO 444 Ind Study-Economics**  
   Independent studies under the direction of a faculty member in some area of business administration or economics. May be taken for an X status grade with consent of instructor prior to registration.  Prerequisite: consent of instructor.  
-**ECO 445 Econometrics II (WE)**   
-  Explores the theory and applications of identification strategies used in applied econometrics. This course covers commonly used econometric techniques with cross sectional and panel data including instrumental variables, differences-in-differences, and regression discontinuity design. Prerequisite: Econometrics (ECO-375).   
+**ECO 445 Econometrics II**   
+  Explores the theory and applications of identification strategies used in applied econometrics. This course covers commonly used econometric techniques with cross sectional and panel data including instrumental variables, differences-in-differences, and regression discontinuity design. Prerequisite: Econometrics (WE) (ECO-375).   
 **ECO 446 International Econ**   
-  A study of the theories of international trade and the theoretical constructs needed to understand balance of payments, foreign exchange markets, commercial and trade policy, regional economic groupings, and foreign investments. Consideration of the nature of the emerging international monetary system. Prerequisites: Principles of Macroeconomics (ECO-205) and Principles of Microeconomics (ECO-215).      
+  Studies the issues which arise in international trade theory and policy, the theory of exchange rate determination and the balance of payments. Topics emphasized include gains from trade, the patterns of trade, protectionism policies, and how changes in the exchange rates affect international assets and portfolios. Prerequisites: Principles of Macroeconomics (ECO-175) and Principles of Microeconomics (ECO-215).      
 **ECO 447 Urban Economics**    
   Studies the role of urban environments in the economic and social lives of individuals. The course will examine the historical evolution of the city, economic theories of urban formation, and the roles cities play in the contemporary economy. Emphasis will be placed on building, using, and extending core models in urban economic theory to evaluate and assess urban economic policy. Prerequisites: Principles of Macroeconomics (ECO- 175) and Principles of Microeconomics (ECO-215).   
 **ECO 454 Research in Economics**  
-  The student works on a research program in economics, independently or in participation with an economics department faculty member. May be taken for an X status grade with consent of instructor prior to registration.  Prerequisites: Principles of Macroeconomics (ECO-175), Principles of Microeconomics (ECO-215), and consent of instructor.  
+  Studies the issues which arise in international trade theory and policy. Topics emphasized include gains from trade, the patterns of trade, and protectionism policies. Prerequisites: Principles of Macroeconomics (ECO-175) and Principles of Microeconomics (ECO-215).  
 **ECO 457 US Econ History**  
-  Analysis of the economic institutions, policies, and theories which influenced the development of the American economy from colonial times to the present. The course allows development of historical perspective in economic development; it also requires the application and analysis of the effects of economic theory, policy, and institutions in the developmental process. Prerequisites: Principles of Macroeconomics (ECO-205) and Principles of Microeconomics (ECO-215).  
+  Analysis of the economic institutions, policies, and theories which influenced the development of the American economy from colonial times to the present. The course allows development of historical perspective in economic development; it also requires the application and analysis of the effects of economic theory, policy, and institutions in the developmental process. Prerequisites: Principles of Macroeconomics (ECO-175) and Principles of Microeconomics (ECO-215).  
 **ECO 475 Comparative Econ Sys**  
-  A study of economic systems and theoretical models of competitive market economies, socialist market economies, and command economies. Topics include actual world economies such as those of the United States, Japan, Germany, and China; the breakdown of hitherto socialist command economies and the problems of transition to mixed market economies; emergence and strength of regional groupings such as European Community; and problems of stabilization, growth, and planning in different economies. Prerequisites: Principles of Macroeconomics (ECO-205) and Principles of Microeconomics (ECO-215).  
+  A study of economic systems and theoretical models of competitive market economies, socialist market economies, and command economies. Topics include actual world economies such as those of the United States, Japan, Germany, and China; the breakdown of hitherto socialist command economies and the problems of transition to mixed market economies; emergence and strength of regional groupings such as European Community; and problems of stabilization, growth, and planning in different economies. Prerequisites: Principles of Macroeconomics (ECO-175) and Principles of Microeconomics (ECO-215).  
 **ECO 485 Mathematical Economics**  
   An introduction to mathematics as a tool to formulate economic models. Includes elementary matrix operations, use of derivatives in utility and production theory, and constrained optimization solutions. Little mathematical preparation required; familiarity with economics a necessity. Prerequisites: Intermediate Macroeconomic Theory (ECO-315), and Intermediate Price Theory (ECO-345) or equivalent.   
 **BUS 495 Investment Analysis**  
 See Business Administration, Section 25.11  
 **ECO 495 International Finance**  
-  A study of the theory of exchange rate determination and the balance of payments. Attention is given to how changes in the exchange rates affect international assets and portfolios. Prerequisites: Principles of Macroeconomics (ECO-205) and Principles of Microeconomics (ECO-215).  
+  A study of the theory of exchange rate determination and the balance of payments. Attention is given to how changes in the exchange rates affect international assets and portfolios. Prerequisites: Principles of Macroeconomics (ECO175) and Principles of Microeconomics (ECO-215).  
 
 
 
@@ -1249,18 +1246,17 @@ A major in chemistry requires a minimum cumulative 2.0 GPA in all courses counte
  **CHM 122/122L General Chemistry II and Laboratory**  
   A continuation of CHM-101. Topics include chemical kinetics, thermodynamics, equilibria, and redox chemistry. Three class meetings and one three-hour laboratory period per week. Lab is P/NP basis only. Prerequisite: General Chemistry I and Laboratory (CHM-121/-121L) or consent of instructor.  
  **CHM 211 Analytical Chemistry**  
-  A study of the theory of equilibria as they apply to quantitative chemical analysis. The basic principles of spectroscopy, potentiometry, and chromatography are introduced. Three class meetings per week. Prerequisite: General Chemistry II and Laboratory (CHM-102). Corequisite: Analytical Chemistry Laboratory (CHM-211L).  
+  A study of the theory of equilibria as they apply to quantitative chemical analysis. The basic principles of spectroscopy, potentiometry, and chromatography are introduced. Three class meetings per week. Prerequisite: General Chemistry II and Laboratory (CHM-122/-122L). Corequisite: Analytical Chemistry Laboratory (CHM-211L).  
  **CHM 211L Analytical Chemistry Laboratory**  
-  An introduction to experimental analytical chemistry, including titrimetric, potentiometric, spectroscopic, and chromatographic techniques. Two three-hour laboratories per week. Prerequisite: General Chemistry II and Laboratory (CHM-102). Corequisite: Analytical Chemistry (CHM-211). (0.5 course credit)  
+  An introduction to experimental analytical chemistry, including titrimetric, potentiometric, spectroscopic, and chromatographic techniques. Two three-hour laboratories per week. Prerequisite: General Chemistry II and Laboratory (CHM-122/-122L). Corequisite: Analytical Chemistry (CHM-211). (0.5 course credit)  
  **CHM 321 Organic Chemistry II**  
   Covers reactions of aromatic and carbonyl compounds, amines, and carbohydreates in a continuation of Organic Chemistry I (CHM - 221). Prerequisite: Organic Chemistry I (CHM-221).  
  **CHM 322 Organic Laboratory**  
-  Introduces techniques for the separation, purification, and synthesis of organic compounds, in addition to chemical and spectroscopic methods of
-characterization. One 1.5-hour and two three-hour laboratories per week. Prerequisite: previous or concurrent registration in Organic Chemistry II (CHM-321).  
+  Introduces techniques for the separation, purification, and synthesis of organic compounds, in addition to chemical and spectroscopic methods of characterization. Two three-hour laboratories and one ninety-minute discussion per week. Prerequisite: previous or concurrent registration in Organic Chemistry II (CHM-321).  
  **CHM 341/341L Physical Chemistry I (WE) and Laboratory**  
   Study of chemical systems from a molecular basis. Basic concepts of kinetic molecular theory, quantum mechanics and thermodynamics applied to molecular structure and chemical change. Fundamentals of electronic structure of atoms and molecules and interaction of matter with light. Three class meetings and one three-hour, (0.0 course credit) laboratory per week. Prerequisites: General Chemistry II & Laboratory (CHM-122/-122L), General Physics I & Laboratory (PHY-185/-185L), and Calculus II (MTH-145).  
  **CHM 411 Advanced Analytical Chemistry**  
-  Theory and applications of instrumental methods for chemical analysis. Methods include spectroscopy, voltammetry, advanced chromatographic methods, and mass spectrometry. Prerequisite: Physical Chemistry I (CHM-341). (Offered alternate years)  
+  Theory and applications of instrumental methods for chemical analysis. Methods include spectroscopy, voltammetry, advanced chromatographic methods, and mass spectrometry. Prerequisite: Physical Chemistry I & Laboratory (CHM341/-341L). (Offered alternate years)  
  **CHM 421 Advanced Organic Chemistry**  
   Extensive survey of synthetic and mechanistic implications of many organic reactions. Recent chemical developments and the use of the original scientific literature emphasized. Prerequisite: Organic Laboratory (CHM-322). (Offered alternate years)  
  **CHM 422 Synthesis Laboratory I**  
@@ -1272,11 +1268,11 @@ characterization. One 1.5-hour and two three-hour laboratories per week. Prerequ
  **CHM 432L Protein Biochemistry Laboratory**  
   Advanced methods and tools of protein purification and analysis, protein engineering and kinetics. One three-hour laboratory period per week. Corequisite: Protein Biochemistry (CHM-432). (0.2 course credit)  
  **CHM 441 Physical Chemistry II**  
-  Study of quantum mechanics, molecular spectroscopy, rates and mechanisms of chemical reactions and thermodynamics of change and equilibrium from classical and statistical perspectives. Prerequisite: Physical Chemistry I (CHM-341) or consent of instructor.  
+  Study of quantum mechanics, molecular spectroscopy, rates and mechanisms of chemical reactions and thermodynamics of change and equilibrium from classical and statistical perspectives. Prerequisite: Physical Chemistry I and Laboratory (CHM-341/-341L) or consent of instructor.  
  **CHM 444 Independent Study Chemistry**  
   Research on a selected project directed by a member of the department, including library research, laboratory investigation, and submission of a research report. May be taken for an X status grade with consent of instructor prior to registration.  Prerequisite: consent of instructor.  
  **CHM 451 Inorganic Chemistry**  
-  Structures and properties of selected ionic and covalent inorganic substances, coordination complexes and electron deficient compounds, general acid base theory, and inorganic reactions in solution. Prerequisite: Physical Chemistry I (CHM-341). (Offered alternate years)  
+  Structures and properties of selected ionic and covalent inorganic substances, coordination complexes and electron deficient compounds, general acid base theory, and inorganic reactions in solution. Prerequisite: Physical Chemistry I and Laboratory (CHM-341/-341L). (Offered alternate years)  
  **CHM 451L Inorganic Chemistry Laboratory**  
   Advanced methods for the synthesis and characterization of main group and transition metal compounds. Synthesis techniques include high temperature and inert atmosphere methods, while characterization methods include electrochemistry, multinuclear NMR, and Raman spectroscopy. One three-hour laboratory period per week. Prerequisite: previous or concurrent registration in Inorganic Chemistry (CHM-451). (0.2 course credit) (Offered alternate years)  
  **CHM 454 Undergraduate Summer Research**  
@@ -1284,7 +1280,7 @@ characterization. One 1.5-hour and two three-hour laboratories per week. Prerequ
  **CHM 464/474 Seminar in Chemistry I, II**  
   Weekly seminar covering two terms, in which topics of interest in modern chemistry and chemical research are presented. Particular emphasis on improving scientific communication skills. Required for all majors in chemistry. Prerequisites: Organic Chemistry I (CHM-221) and junior standing or consent of department chair. (Each seminar: 0.25 course credit)  
  **CHM 494 Internship in Chemistry**  
-  Investigation of an area of interest through voluntary field placement supervised by a faculty member of the department. A minimum of 140 hours on-site experience is required. S/U basis only. This course does not satisfy any of the requirements for a major in chemistry. Prerequisite: completion of a chemistry minor or junior standing and consent of department chair.  
+  Investigation of an area of interest through voluntary field placement supervised by a faculty member of the department. A minimum of 140 hours on-site experience is required. P/NP basis only. This course does not satisfy any of the requirements for a major in chemistry. Prerequisite: completion of a chemistry minor or junior standing and consent of department chair.  
 
 
 ## Classical Studies (Minor Only)
@@ -1349,7 +1345,7 @@ A major in communication studies requires a minimum cumulative 2.0 GPA in all co
     - COM 337 Persuasion
     - COM 435/437 Special Topics in Relational Communication (WE)
 5. One course in production:
-    - COM 241 Intro to Multimedia Journalism
+    - COM 241 Multimedia Journalism
     - COM 341 Digital Storytelling
     - COM 445/447 Special Topics in Production (WE)
     - RHE 225 Journalism/Media Wtg Wksp
@@ -1392,14 +1388,14 @@ A minor in communication studies requires a minimum cumulative 2.0 GPA in all co
   Exploration of the role of communication in constructing, navigating, and challenging various markers of similarity and difference.  
  **COM 237 Interpersonal Communication**  
   Examines the influence in interpersonal relationships of ethnicity, gender, family, and class on self-concept, perception, emotions, and verbal and non-verbal expression. Students practice specific techniques that facilitate building positive relationships, including such issues as clear language usage, supportive climate building, and conflict resolution.  
- **COM 241 Intro to Multimedia Journalism**  
+ **COM 241 Multimedia Journalism**  
   Develops journalistic writing skills in several styles (hard news, features, in-depth reporting) and across media (print, audio, video, online). Topics include information gathering, objectivity, audience, news convergence, news values, civic responsibility, and journalism ethics. Students investigate the state of news and the roles and responsibilities of journalists in contemporary American society.  
  **COM 332 Health Communication (WE)**  
   Examines the connections among communication, culture, and health. Course content and assignments focus on how one communicates about health in various contexts (family, end-of-life, patient-provider, etc.), cultural influences on healthcare practices, and the role of communication and storytelling in coping with one’s body, illness, disability, and death. Prerequisite: junior standing or consent of instructor.  
  **COM 337 Persuasion**  
   Investigation of the nature and process of persuasion. This course provides practice constructing and analyzing persuasive messages and campaigns. Prerequisite: junior standing or consent of instructor.  
  **COM 341 Digital Storytelling**  
-  Students practice adapting written language to oral and/or visual formats while learning to communicate news messages in a variety of broadcast formatss, ranging from audio to news-in-the-field to video productions.  
+  Students practice adapting written language to oral and/or visual formats while learning to communicate news messages in a variety of broadcast formats, ranging from audio to news-in-the-field to video productions. Continuing focus on professional standards emphasizing accuracy, conciseness, style, and the conventions of Standard English. Prerequisite: Multimedia Journalism (WE) (COM-241) or Introduction to Journalism (WE) (COM-141).  
  **COM 357 Sex, Race, & Gender in Media**  
   An introduction to analysis of representations of identities such as gender, race, sexual orientation, and the body in the mass media. As such, this course examines some of the relationships between the media in the U.S. and the social constructions of race, gender and sexuality. Students view, read about, analyze and discuss various forms of mass media and look at what these forms represent. An underlying understanding within the course is recognition of the inextricable interconnections of gender, race, and sexuality. Prerequisites: junior standing or consent of instructor.  
  **COM 361 Communication & Social Change**  
@@ -1407,7 +1403,7 @@ A minor in communication studies requires a minimum cumulative 2.0 GPA in all co
  **COM 362 U.S. Public Address**  
   Examnation of the rhetorical strategies deployed throughout US history to shape beliefs about community, public life, and American identity. Prerequisite: junior standing or consent of instructor.  
  **COM 381 Research Method Communication Study**  
-  Exploration of the major approaches to conducting research in Communication Studies. This course serves as the foundation for more complex forms of qualitative and/or quantitative analysis. Prerequisites: Rhetorical Theory & Practice (RHE 200)  
+  Explores one or more major approaches to conducting research in Communication Studies. This course serves as the foundation for more complex forms of qualitative and/or quantitative analysis.  
  **COM 382 ResearchMethods:Rhetorical/Critical**  
   See also Writing (RHE-382), @sec-courses-in-rhetoric  
   Exploration of the major approaches to conducting research in Communication Studies. This course serves as the foundation for more complex forms of critical and/or qualitative analysis. Prerequisite: Rhetorical Theory & Practice (RHE-200).  
@@ -1439,7 +1435,7 @@ A major in computer science requires a minimum cumulative 2.0 GPA in all courses
 1. CS 125 Computer Science I, or commensurate programming experience
 2. CS 135 Data Structures
 3. MTH 135 Calculus I
-4. CS 215 Anaylsis of Algorithms
+4. CS 215 Analysis of Algorithms
 5. CS 220 Principles of Computer Systems
 6. One of the following:  
    CS 235 Net-Centric Computing  
@@ -1459,7 +1455,7 @@ A major in computer science requires a minimum cumulative 2.0 GPA in all courses
 
 1. CS 125 Computer Science I
 2. CS 135 Data Structures
-3. CS 215 Anaylsis of Algorithms
+3. CS 215 Analysis of Algorithms
 4. CS 245 Object Oriented Programming
 5. One of the following:  
    CS 235 Net-Centric Computing  
@@ -1469,24 +1465,23 @@ A major in computer science requires a minimum cumulative 2.0 GPA in all courses
 ### Courses in Computer Science 
 
  **CS 105 Computers & Society**   
-  An examination of the impact of emerging computer technologies on western culture. Topics include computer ethics, intellectual property rights, the transformation of work, electronic communities, free speech, privacy, and security. This course does not satisfy any of the requirements for a major or minor in mathematics or computer science. This course satisfies the non-lab science course requirement. 
-NOTE: Students who have already received credit for CS -125 or higher will not receive credit for Computers and Society (CS-105)   
+  Examines the impact of emerging computer technologies on western culture. Topics include computer ethics, intellectual property rights, the transformation of work, electronic communities, free speech, privacy, and security.   
  **CS 125 Computer Science I**   
-  An introduction to computer science with an emphasis on problem solving through programming. Students learn to conceptualize, plan and implement programs in a modern programming language. Topics include data representation and manipulation, control structures, and subtask decomposition. Students experiment with basic concepts during regularly scheduled laboratory sessions. This course satisfies the non-lab science course requirement   
+  Introduces computer programming as a methodology for problem solving and articulating solutions. Students learn to conceptualize, plan and implement programs in a modern programming language. Topics include data representation and manipulation, control structures, and subtask decomposition. Students experiment with basic concepts during regularly scheduled laboratory sessions   
  **CS 135 Data Structures**   
   Continues the development of programming by focusing on the design and implementation of more complex software structures. This course covers the basics of recursion, pointers, and dynamically allocated data structures. Other topics include efficiency analysis, abstract data types, and the software development life cycle. Prerequisite: Introduction to Programming (CS-125)   
- **CS 215 Anaylsis of Algorithms**   
-  Introduces the definition, implementation, and applications of basic data structures and their operations. Topics include recursive algorithms, complexity analysis, sorting and searching, and problem-solving strategies. Prerequisite: Data Structures (CS-135).   
+ **CS 215 Analysis of Algorithms**   
+  Studies fundamental algorithm design paradigms including divide-and-conquer, dynamic programming, greedy algorithms, and backtracking. The course examines classical algorithms involving searching, sorting, optimized tree structures, graph traversal, and path-finding problems. Emphasis is placed on analyzing and comparing worst-case and average-case performance. Advanced topics include complexity classes and the theoretical limits of computation. Prerequisite: Data Structures (CS-115).   
  **CS 220 Principles of Computer Systems**  
-  Studies the low-level operation of computer systems to gain perspective on how computers encode, process and store information in the machine’s hardware.  Students will progress from the digital logic level through assembly language. Topics include, data representation, computer arithmetic, elementary circuit design, computer organization, instruction sets, memory addressing and control flow. Prerequisite: Introduction to Programming (CS-125)  
+  Studies the low-level operation of computer systems to gain perspective on how computers encode, process and store information in the machine’s hardware.  Students will progress from the digital logic level through assembly language. Topics include, data representation, computer arithmetic, elementary circuit design, computer organization, instruction sets, memory addressing and control flow. Prerequisite: Introduction to Programming (CS-110)  
  **CS 235 Net-Centric Computing**  
   A study of the structure, design and implementation of applications enabled by networking technologies. This course examines the fundamentals of network programming and the client-server architecture as well as exploring the role of protocols, authentication, distributed objects and security. Students also gain experience building and deploying web-based applications. Prerequisite: previous or concurrent enrollment in Computer Science II (CS-135) or consent of instructor.  
  **CS 245 Object Oriented Programming**  
   A study of the structure and design of larger scale programs using an object-oriented approach. Emphasizes key concepts of object-oriented programming including: encapsulation, inheritance, and polymorphism. Additional contemporary code mechanisms, such as events, exceptions and interfaces are also explored. Prerequisite: Computer Science II (CS-135).  
  **CS 320 Operating Systems**  
-  Explores the role of the operating system as an intermediary between the user, software and hardware of a computers system. Includes a system-level view of how the machine resources such as the processor, memory, and storage are managed. Prerequisite: Computer Science II (CS- 135)  
+  Explores the role of the operating system as an intermediary between the user, software and hardware of a computer system. Includes a system-level view of how the machine resources such as the processor, memory, and storage are managed. Prerequisite: Data Structures (CS-115) and Principles of Computer Systems (CS-220)  
  **CS 340 Programming Languages**  
-  An introduction to the various features of programming languages and how these features support software development. Topics include data and control abstractions, program correctness, programming in the large, and language design. Prerequisite: Data Structures and Algorithms (CS-345) or consent of instructor.  
+  Explores the fundamental principles of programming language design and implementation. Through comparative analysis and programming in multiple paradigms, students develop the ability to quickly learn new languages and make informed choices about language selection. Additional topics include lexical analysis, parsing, and code generation. Prerequisite: Analysis of Algorithms (CS-215)  
  **CS 390 Software Engineering**  
   An introduction to the principal models that govern the design and implementation of large software systems. Topics include the software development process, specifications, verification, and validation. Students are also exposed to modern software development tools to facilitate activities such as unit testing and version control. Prerequisite: Object Oriented Programming (CS-245) or consent of instructor.  
  **CS 420 Algorithms in Society**  
@@ -1499,8 +1494,8 @@ NOTE: Students who have already received credit for CS -125 or higher will not r
   Explores the design, implementation, and evaluation of interactive systems through study of both mainstream and emerging interface technologies. Examines how human cognitive and ergonomic constraints drive the success or failure of technological solutions.  Prerequisite: Object Oriented Programming (CS-245) or consent of instructor.  
  **CS 454 Research in Computer Science**   
   Individual or group investigation with a computer science faculty member on a research topic of mutual interest. The student must obtain approval for a specific project and make necessary arrangements prior to the term of registration for the course. This course is offered on an S/U basis and does not satisfy any of the requirements for a major or minor in computer science. May be taken more than once for credit for a maximum of 2.0 credits. Prerequisites: Data Structures and Algorithms (CS-215) and consent of supervising instructor. (1.0 credit; Offered by arrangement)  
- **CS 484 Special Topics**  
-  An opportunity to study current and topical material unavailable through the regular catalog offerings. Prerequisite: Data Structures and Algorithms (CS-215) or consent of instructor.  
+ **CS 484 Special Topics:Software Development**  
+  Offers an opportunity to study advanced topics unavailable through the regular catalog offerings. The course will explore alternate processes, frameworks or approaches to modern software development. Prerequisite: Object Oriented Software Development (CS-210)  
  **CS 490 Mobile Computing**  
   A study of the opportunities and constraints associated with developing applications intended to run on mobile platforms. Students learn to utilize several core APIs (e.g. connectivity, location-based services, and multimedia) as they develop and deploy mobile applications.  Additional emphasis is placed on user interface design. Prerequisite: Object Oriented Programming (CS-245) or consent of instructor.  
  **CS 494 Internship in Computer Science**  
@@ -1516,7 +1511,7 @@ The creative writing program (within the English Department) offers instruction 
 A major in creative writing requires a minimum cumulative 2.0 GPA in all courses counted toward the major.
 
 1. CRW 125 Introduction to Creative Writing
-2. ENG 111 Introduction to Literary Studies
+2. ENG 111 Intro to Lit:Art of Rdng & Writing
 3. Two of the following:
     - CRW/THE 255 Playwriting Workshop I
     - CRW 280 Poetry Workshop I
@@ -1647,7 +1642,7 @@ A major in data science requires a minimum cumulative 2.0 GPA in all courses cou
     a. DS 415 Deep Learning
     b. MTH 455 Mathematical Modeling
     c. ECO 435 Time Series Analysis
-    d. ECO 445 Econometrics II (WE)
+    d. ECO 445 Econometrics II
 10.	**Three** additional courses from a different discipline numbered 200+ with the same course prefix. These courses should be selected with advice from the Data Science faculty. 
 
 ### Data Science Minor 
@@ -1765,16 +1760,16 @@ Teachers in elementary schools function as generalists who must draw upon a broa
 	- EDU 187 Human Relations
 	- EDU 195 Educ Psychology & Development
 	- EDU 215 Practicum in Education
-	- EDU 219 Educational Technology Lab
-	- EDU 237 English Language Learners **OR** EDU 270 Read & Explore Childrens/Adol Lit
+	- EDU 219 InstructTech for Teaching &Learning
+	- EDU 237 English Language Learners **OR** EDU 270 Literature K-12
 	- EDU 275 Math Comprehension for Teaching
 	- EDU 300 Expressive Methods
 	- EDU 305 Methods of Elementary Science
 	- EDU 335 Methods of Elementary Mathematics
 	- EDU 345 Methods of Elementary Language Arts
 	- EDU 355 Methods of Elementary Reading
-	- EDU 365 Methods of Elementary Social Studie
-	- KIN 112 Health Educ for Elementary Tchr
+	- EDU 365 Methods of Elementary Soc Studies
+	- KIN 112 Health Educ for Elementary Teacher
 
 **NOTE**: *As is true for all majors, elementary education students are responsible for completion of Coe’s general education requirements. Careful program planning may enable either greater breadth within the liberal arts or a deeper concentration within a specialty discipline. Programs containing such additional concentration may require more than four years of study.* 
 
@@ -1789,18 +1784,18 @@ Teachers in elementary schools function as generalists who must draw upon a broa
 	- EDU 187 Human Relations
 	- EDU 195 Educ Psychology & Development
 	- EDU 215 Practicum in Education
-	- EDU 219 Educational Technology Lab
+	- EDU 219 InstructTech for Teaching &Learning
 5. **One or more** of the following Methods courses: 
 	- ART 230 Art of Children & Adolescents
-	- EDU 310 Meth Secondary Business Educ
-	- EDU 311 Meth Secondary Language Arts
-	- EDU 312 Meth Secondary Social Studies
+	- EDU 310 Methods of Secondary Bus Education
+	- EDU 311 Methods of Secondary Language Arts
+	- EDU 312 Methods of Secondary Social Studies
 	- EDU 313 Methods Secondary Mathematics
 	- EDU 320 Methods of Secondary Science
 	- EDU 321 Methods of World Language K-12
-	- KIN 415 Meth Secondary School PE & Health
-	- MU 361 Choral Music Methods **AND** MU 362 InstrMusMethChrlTeachr
-	- MU 363 Instrumental Music Methods **AND** MU 364 ChrlMusMethInstTeach
+	- KIN 415 Methods of Secondary Schl PE & Hlth
+	- MU 361 Choral Music Methods **AND** MU 362 Instrumental Mus Methods for Choral
+	- MU 363 Instrumental Music Methods **AND** MU 364 Choral Music Methods for Instrument
 
 
 ### ADMISSION TO THE TEACHER EDUCATION PROGRAM
@@ -1854,16 +1849,16 @@ According to state regulations, all teachers in Iowa “shall acquire a core of 
 	- EDU 187 Human Relations
 	- EDU 195 Educ Psychology & Development
 	- EDU 215 Practicum in Education
-	- EDU 219 Educational Technology Lab
-	- EDU 237 English Language Learners **OR** EDU 270 Read & Explore Childrens/Adol Lit
+	- EDU 219 InstructTech for Teaching &Learning
+	- EDU 237 English Language Learners **OR** EDU 270 Literature K-12
 	- EDU 275 Math Comprehension for Teaching
 	- EDU 300 Expressive Methods
 	- EDU 305 Methods of Elementary Science
 	- EDU 335 Methods of Elementary Mathematics
 	- EDU 345 Methods of Elementary Language Arts
 	- EDU 355 Methods of Elementary Reading
-	- EDU 365 Methods of Elementary Social Studie
-	- KIN 112 Health Educ for Elementary Tchr
+	- EDU 365 Methods of Elementary Soc Studies
+	- KIN 112 Health Educ for Elementary Teacher
 4. A K–6 Iowa teaching license must be accompanied by at least one K–8 endorsement (state approved specialization in a particular subject area) available at Coe. K–8 endorsements include: Art, English/Language Arts, French, Spanish, Health, History, Mathematics, Music, Physical Education, Reading, Science, Social Studies, or Speech Communication and Theater. Students should consult their Education advisor for assistance in adding these endorsements to their elementary teaching license.
 5. Student Teaching (4 course credits):
 	- EDU 492 Student Teaching K-3
@@ -1895,11 +1890,11 @@ Those interested in teaching at the secondary level must major in one or more te
 	- EDU 187 Human Relations
 	- EDU 195 Educ Psychology & Development
 	- EDU 215 Practicum in Education
-	- EDU 219 Educational Technology Lab
+	- EDU 219 InstructTech for Teaching &Learning
  **One or more** of the following Methods courses:
-	- EDU 310 Meth Secondary Business Educ
-	- EDU 311 Meth Secondary Language Arts
-	- EDU 312 Meth Secondary Social Studies
+	- EDU 310 Methods of Secondary Bus Education
+	- EDU 311 Methods of Secondary Language Arts
+	- EDU 312 Methods of Secondary Social Studies
 	- EDU 313 Methods Secondary Mathematics
 	- EDU 320 Methods of Secondary Science
 	- EDU 321 Methods of World Language K-12
@@ -1931,14 +1926,14 @@ Preparation for teaching at the elementary (K–8) and secondary (5–12) levels
 	- EDU 187 Human Relations
 	- EDU 195 Educ Psychology & Development
 	- EDU 215 Practicum in Education
-	- EDU 219 Educational Technology Lab
+	- EDU 219 InstructTech for Teaching &Learning
  **One or more** of the following Methods courses:
 	- ART 230 Art of Children & Adolescents
 	- KIN 315 Methods Elementary Sch PE & Health
-	- KIN 415 Meth Secondary School PE & Health
+	- KIN 415 Methods of Secondary Schl PE & Hlth
 	- MU 360 Elementary & General Music Methods
-	- MU 361 Choral Music Methods **AND** MU 362 InstrMusMethChrlTeachr 
-	- MU 363 Instrumental Music Methods **AND** MU 364 ChrlMusMethInstTeach 
+	- MU 361 Choral Music Methods **AND** MU 362 Instrumental Mus Methods for Choral 
+	- MU 363 Instrumental Music Methods **AND** MU 364 Choral Music Methods for Instrument 
 5. Successful completion of Student Teaching:
 	- EDU 481 Stu Tchg Sec: ART
 	- EDU 482 Stu Tchg Sec: Phys Education
@@ -2027,17 +2022,17 @@ Exemptions from these requirements may be granted in unusual circumstances with 
     Introduces theories that address teaching and learning processes. Special attention is given to the following topics: the cognitive and emotional development of children and adolescents; learning and memory; intelligence and creativity; academic motivation; assessment; and classroom management. The course connects theories to practice by exploring the nature of formal learning environments that best serve the cognitive and emotional growth of students.  
  **EDU 215 Practicum in Education**  
     Integrates theory and pedagogical practice. Students spend a minimum of 60 hours of practical experience in an elementary or secondary school classroom assisting in a range of instructional activities. College classroom experience complements the field experience and focuses on instructional planning, differentiation, assessment, classroom management and reflective teacing practices. Prerequisites: Admission to the Teacher Education Program (approved or conditional).  
- **EDU 219 Educational Technology Lab**  
-    Focuses on strategies for integrating educational technology in K-12 classrooms. Through hands-on lab work, course readings, reflective writing, and exposure to professionals in the field (both local and afar) help students gain the knowledge, skills, and attitudes needed to select, implement, and manage technology. The goal of the course is to help students plan, implement, and evaluate educational technology for teaching and learning. Course projects focus on the use of instructional technology tools to develop materials that support teaching and learning. P/NP basis only. Corequisite: Practicum in Education (EDU-215) or Practicum in Music Education (MU-205). (0.0 course credit)  
+ **EDU 219 InstructTech for Teaching &Learning**  
+    Focuses on integrating educational technology for instructional design in the K–12 setting. Application of technological resources, course readings, reflective writing, and exposure to professionals in the field (both local and afar) help students gain the knowledge,skills, and dispositions needed to select, implement, and manage technology. Co-requisite: Recommended with Practicum in Education (WE) EDU-215, but must be taken with a Practicum or Methods course prior to student teaching. (0.5 course credit)  
  **EDU 220 Professional Writing for Teachers**  
-    Practical experience creating professional documents for a variety of educational purposes and for a range of educational constituents. This course provides intensive practice in composing and designing documents central to teachers' work lives. The goal of the course is to help students develop confidence and skill as teaching professionals who excel at written communication. Prerequisiites: Foundations of Education (EDU 105) or consent of instructor.  
+    Mentors students into the crafting of texts used in the professional settings common to K–12 teachers. The course will explore the approaches, strategies, and techniques used by teachers for successful document creation in a variety of educational settings. Emphasis will be placed on creating documents that effectively communicate with parents and other stakeholders, convey professional plans and perspectives, document teaching and learning strategies, and present educational information to a wide range of audiences.  
  **EDU 237 English Language Learners**  
-    Introduces the issues of language and literacy acquisition for English Language Learners. This class includes a focus on oral communication and K-12 literature. It is appropriate for teachers of non-native English students and international teaching of English. Prerequisite: sophomore standing or consent of instructor. (Offered Spring Term)  
+    Introduces the issues of language and literacy acquisition for English Language Learners. This class includes a focus on oral communication and instructional strategies to support English Language Learners in K-12 classrooms. It is appropriate for teachers of non-native English students and international teaching of English. Prerequisite: sophomore standing or consent of Education department chair (Offered Spring Term)  
  **EDU 241 Foundations of Reading**  
-    Explores past and current theories of language acquisition and development. Attention to the history of reading complements a focus on current research related to the psychological, socio-cultural, and linguistic foundations of reading and writing. This is the first course in the sequence leading to the reading endorsement. Prerequisite: admission to the Education Program or consent of Education Department Chair. (Offered Spring Term)  
+    Explores past and current theories of language acquisition and development. Attention to the history of reading complements a focus on current research related to the psychological, socio-cultural, and linguistic foundations of reading and writing. This is the first course in the sequence leading to the reading endorsement. Prerequisite: sophomore or consent of Education Department Chair. (Offered Spring Term)  
  **EDU 260 Content Area Reading**  
     Explores research-based instructional strategies for facilitating students’ textual comprehension. Major topics include best practices in the teaching of vocabulary, meaning making, text structure, genre, and types of writing. Attention to instructional strategies especially helpful to English language learners, as well as technological tools for language and literacy instruction. This is the second course in the sequence leading to the reading endorsement. Prerequisites: admission to the Education Program and Foundations of Reading (EDU-247) or consent of Education Department Chair. (Offered Fall Term)  
- **EDU 270 Read & Explore Childrens/Adol Lit**  
+ **EDU 270 Literature K-12**  
     Provides students pursuing literature-related studies with models of how teachers use literature to support various levels of readers and content areas in the classroom. The course focuses on the history of children’s literature, analyses of a variety of books for youths, creation of a functional bibliography, and using knowledge of child and adolescent development to assist in book selection for young readers. Includes study of the development of language skills, strategies to facilitate student learning of standard English, diversity issues, non-print materials, and technology tools. (Offered Fall Term)  
  **EDU 275 Math Comprehension for Teaching**  
     Enhances understanding of the discipline of mathematics for elementary classroom teachers. Content is aligned with the NCTM curriculum standards of Number, Algebra, Geometry, Measurement, and Data Analysis and Probability. Substantial attention is given to discrete mathematics, reasoning and proof, active problem solving, technology, and connections within mathematics and to other disciplines studied in schools. The ability to communicate mathematically and provide justification or rationale for quantitative reasoning is fostered across mathematical applications. (Offered Fall Term)  
@@ -2051,33 +2046,33 @@ instructor. (.5 course credit)
     Integrates art, music, and physical education into the regular elementary classroom. Students will study of instructional methods for incorporating visual, aesthetic, auditory, and kinesthetic teaching and learning strategies into the classroom. This course promotes the integration of art, music, and physical education into the regular elementary classroom. Topics include research on learning styles, development of lessons and classroom management strategies that incorporate movement and creative expression, and alternative assessment as it relates to these strategies. Diversity issues, non-print materials, and technology tools are integrated. Prerequisite: Practicum in Education (EDU-215) or consent of Education Department Chair. (0.5 course credit) (Offered Fall Term)  
  **EDU 305 Methods of Elementary Science**  
     Helps future teachers develop an integrated set of perspectives, attitudes, and skills, enabling them to give positive support to their students’ natural inclination to be curious, manipulate, observe, and interpret. Multiiple instructional strategies and methods will be studied in an outside of class sessions. Integration of relevant children’s literature is included. Prerequisite: Practicum in Education (EDU-215) or consent of Education Department Chair. (Offered Fall Term)  
- **EDU 310 Meth Secondary Business Educ**  
+ **EDU 310 Methods of Secondary Bus Education**  
     Prepares students for student teaching placement in a secondary business classroom. Students explore and
 examine approaches to teaching and learning. Among the topics studied are instructional strategies, lesson
 design, classroom management and learner assessment. Students will be exposed to strategies for
-teaching high school general business courses, including accounting, marketing, and economics. This course includes a 30-hour field experience. Prerequisite: Practicum in Education (EDU-215) or consent of Education Department Chair.  
- **EDU 311 Meth Secondary Language Arts**  
+teaching high school general business courses, including accounting, marketing, and economics. This course includes a 60 -hour field experience. Prerequisite: Practicum in Education (EDU-215) or consent of Education Department Chair.  
+ **EDU 311 Methods of Secondary Language Arts**  
     Prepares students for student teaching in a secondary language arts classroom. Students explore and
 examine approaches to teaching and learning. Among the topics studied are instructional strategies, lesson
 design, and learner assessment. Students also experience working with texts such as YA literature,
-podcasts, novels, poetry, drama, etc.. The course includes a 30-hour field experience. Prerequisite: Practicum in Education (EDU-215) or consent of Ecducation Department Chair.  
- **EDU 312 Meth Secondary Social Studies**    
+podcasts, novels, poetry, drama, etc.. The course includes a 60-hour field experience. Prerequisite: Practicum in Education (EDU-215) or consent of Ecducation Department Chair.  
+ **EDU 312 Methods of Secondary Social Studies**    
     Prepares students for student teaching in a secondary social studies classroom. Students explore and
 examine approaches to teaching and learning. Among the topics studied are instructional strategies, lesson
-design, classroom management and learner assessment. This course includes a 30-hour field experience. Prerequisite: Practicum in Education (EDU-215) or consent of Education Department Chair. (Offered Fall Term)  
+design, classroom management and learner assessment. This course includes a 60-hour field experience. Prerequisite: Practicum in Education (EDU-215) or consent of Education Department Chair. (Offered Fall Term)  
  **EDU 313 Methods Secondary Mathematics**  
-    Prepares students for student teaching in a secondary mathematics classroom. Students explore and examine approaches to teaching and learning. Among the topics studied are instructional strategies, lesson design, classroom management and learner assessment. This course includes a 30-hour field experience. Prerequisite: Practicum in Education (EDU-215) or consent of Education Department Chair.  
+    Prepares students for student teaching in a secondary mathematics classroom. Students explore and examine approaches to teaching and learning. Among the topics studied are instructional strategies, lesson design, classroom management and learner assessment. This course includes a 60-hour field experience. Prerequisite: Practicum in Education (EDU-215) or consent of Education Department Chair.  
  **EDU 320 Methods of Secondary Science**  
-    Prepares students for student teaching in a secondary science classroom. Students explore and examine approaches to teaching and learning. Among the topics studied are instructional strategies, lesson design, classroom management and learner assessment. This course includes a 30-hour field experience. Prerequisite: Practicum in Education (EDU-215) or consent of Education Department Chair. (Offered Fall Term)  
+    Prepares students for student teaching in a secondary science classroom. Students explore and examine approaches to teaching and learning. Among the topics studied are instructional strategies, lesson design, classroom management and learner assessment. This course includes a 60-hour field experience. Prerequisite: Practicum in Education (EDU-215) or consent of Education Department Chair. (Offered Fall Term)  
  **EDU 321 Methods of World Language K-12**  
-    Prepares students for student teaching in a world language classroom. Students explore and examine approaches to teaching and learning. Among the topics studied are instructional strategies, lesson design, classroom management and learner assessment. This course includes a 30-hour field experience. Prerequisite: Practicum in Education (EDU-215) or consent of Education Department Chair.  
+    Prepares students for student teaching in a world language classroom. Students explore and examine approaches to teaching and learning. Among the topics studied are instructional strategies, lesson design, classroom management and learner assessment. This course includes a 60-hour field experience. Prerequisite: Practicum in Education (EDU-215) or consent of Education Department Chair.  
  **EDU 335 Methods of Elementary Mathematics**  
     Examines basic concepts of curriculum and instruction for elementary school mathematics using the framework of the National Council of Teachers of Mathematics and the Iowa Core Curriculum, This course assists prospective teachers in developing effective instructional skills that foster problem solving abilities and the conceptual and procedural knowledge of mathematics. Instruction includes integration of math-related children’s literature. A field experience of 30 contact hours is included. Prerequisites: Mathematics Comprehension for Teaching (EDU-275), Practicum in Education (EDU-215) or consent of Education Department Chair. (Offered Spring Term)  
  **EDU 345 Methods of Elementary Language Arts**  
     Examines strategies for teaching the interrelated aspects of reading, writing, listening, speaking, spelling, and creative drama as they apply to the functional language of elementary school children. Assessing student literacy competence and planning for instruction are explored. Prerequisites: Concurrent registration in Teaching Reading (K-6) (EDU-355) and Practicum in Education (EDU-215) or consent of Education Department Chair. (Offered Spring Term)  
  **EDU 355 Methods of Elementary Reading**  
     Examines the five components of reading-phonological awareness, phonics, fluency, comprehension and vocabulary. Instruction is provided in the strategies for mastering pre-reading, decoding, and comprehension skills. Methods of organizing, maintaining, and evaluating reading programs are addressed. Substantial study of children’s literature is included. A field experience of 30 contact hours provides an opportunity to apply the content of the course. Prerequisites: Concurrent registration in Teaching Language Arts (K-6) (EDU-345). Practicum in Education (EDU-215) or consent of Education Department Chair. (Offered Spring Term)  
- **EDU 365 Methods of Elementary Social Studie**  
+ **EDU 365 Methods of Elementary Soc Studies**  
     Examines the content and teaching strategies that collectively form the scope and sequence of elementary school social studies. Geography and ecological anthropology provide a framework for integrating social science disciplines with other subject matter fields, such as children’s literature and science. Social issues are investigated on three levels: in relation to self, one’s immediate environment, and the global ecosystem. Prerequisite: Practicum in Eduation (EDU-215) or consent of Education Department Chair. (Offered Fall Term)  
  **EDU 395 Diagnostic Reading & Tutorial**  
     Intensively studies diagnostic and screening instruments as well as multiple strategies to improve reading and writing skills. This course includes direct application of assessment and instructional strategies with individual children through a supervised tutorial outside of regular class time.  Prerequisites: admission to the Education Program, Foundations of Reading (EDU-241), and Content Area Reading (EDU-260). (Offered Spring Term)  
@@ -2100,30 +2095,30 @@ In consultation with their advisors, English majors are able to design personali
 
 ### English Major
 A major in English requires a minimum cumulative 2.0 GPA in all courses counted toward the major.    
-1. ENG 111 Introduction to Literary Studies    
+1. ENG 111 Intro to Lit:Art of Rdng & Writing    
 2. ENG 281 Literatures in English to 1800    
 3. ENG 291 Literatures in English after 1800    
 4. ENG 301 The Art of Literary Research    
 5. Three English courses numbered 305 or above, one of which must be in British literature before 1800.     
 6. Two additional English course credits, one of which may be in Creative Writing or in French, or Spanish literature in translation (FRE 145, FRE 146, FRE 148, SPA 148)    
-7.ENG 464 Seminar in Literature _OR_ ENG 467 Seminar inLit:USPluralism  
+7.ENG 464 Seminar in Literature _OR_ ENG 467 Seminar in Literature: USP  
 
 
 ### English Minor
-The minor in English consists of five course credits, including ENG 111 Introduction to Literary Studies and two English courses numbered 300 or above. One course in Creative Writing (CRW-) or in French, or Spanish literature in translation (FRE 145, FRE 146, FRE 148, SPA 148) may count toward the five course credits.
+The minor in English consists of five course credits, including ENG 111 Intro to Lit:Art of Rdng & Writing and two English courses numbered 300 or above. One course in Creative Writing (CRW-) or in French, or Spanish literature in translation (FRE 145, FRE 146, FRE 148, SPA 148) may count toward the five course credits.
 
 
 ### Courses in Literature {#sec-courses-in-english}
 
  **ENG105 Composition I**  
-    None  
+    nan  
  **ENG 107 Exploring Literature:US Pluralism**  
     Explores works by writers from one or more subgroups in American culture with the purposes of stimulating the appreciation of literary art and considering the various functions of literature in the contemporary world.  
  **ENG 108 Exp Lit:Diverse Western Perspective**  
     Explores works by writers from one or more subgroups in Western Civilization outside the United States with the purposes of stimulating the appreciation of literary art and considering the various functions of literature in the contemporary world.  
  **ENG 110 Ancient Mythology**  
     Study of the myths of the ancient Greeks and Romans, while briefly touching on their Near Eastern predecessors as a way of investigating the character of myth and the purpose it plays in society. We examine these myths not only through the ancient texts, but by studying theoretical models and approaches to mythology.  
- **ENG 111 Introduction to Literary Studies**  
+ **ENG 111 Intro to Lit:Art of Rdng & Writing**  
     The Art of Reading and Writing (WE). Study of selected works of fiction, poetry, and drama with an emphasis on close reading
 and expository writing. This course introduces terms and skills necessary for further literary study.  
  **ENG 112 Environmental Humanities**  
@@ -2145,9 +2140,9 @@ and expository writing. This course introduces terms and skills necessary for fu
     Study of American or British literature from 1945 to the present.  
  **ENG 206 Gender and Literature: NWP**  
     Examination of a particular author, theme, region, or genre in the context of gender and sexuality studies. Course focuses on topics related to non-western perspectives, such as women in the global south and the role that African American literature plays within different regions of the world.  
- **ENG 207 Gender & Lit:US Pluralism**  
+ **ENG 207 Gender & Literature: US Pluralism**  
     Examination of a particular author, theme, region, or genre in the context of gender and sexuality studies. Course focuses on topics related to United States pluralism, such as American Women Writers or Gender and Race in American Literature.  
- **ENG 208 Gender & Lit:DWP**  
+ **ENG 208 Gender & Literature: DWP**  
     Examination of a particular author, theme, region, or genre in the context of gender and sexuality studies. Course focuses on topics related to Western cultural diversity, such as Gender Identity in Literature, Renaissance Women Writers, Women’s Autobiography.  
  **ENG 281 Literatures in English to 1800**  
     Charts literary developments and transformations before 1800 in relation to changing historical conditions, from the history of books and writing to the wider histories of social, political, and cultural movements. An excursion into the literary, social, and cultural histories of the English speaking world, this course may include works by Bristish, American, or Anglophone writers.  
@@ -2161,11 +2156,11 @@ and expository writing. This course introduces terms and skills necessary for fu
     Study of literature from 1830 to the Civil War or of an author, topic, or genre of the period. Prerequisite: Introduction to Literary Studies: The Art of Reading and Writing (ENG-101) or consent of instructor.  
  **ENG 337 American Realism & Naturalism**  
     Study of literature from the Civil War to World War I, or of an author, topic, or genre of the period. Prerequisite: Introduction to Literary Studies: The Art of Reading and Writing (ENG-101) or consent of instructor.  
- **ENG 347 Study in Modern or Contemp Amer Lit**  
+ **ENG 347 Modern/Contemp. American Literature**  
     Study of novels, short fiction, and poetry by American writers of the twentieth and twenty-first centuries or of an author, topic, or genre of the period. Prerequisite: Introduction to Literary Studies: The Art of Reading and Writing (ENG-101) or consent of instructor.  
  **ENG 357 Studies in Latinx/ChicanxLiterature**  
     Reviews selected works of literature by Latina/os and Chicana/os. Students explore through reading and discussion methods and concepts relating to human rights, coloniality, diaspora, Latinidad and/or linguistic philosophy to better understand the lived experiences, identities, and cultures of Latinx and Chicanx communities in the U.S. Specific topics vary from year to year.  
- **ENG 367 Studies in African Am Literature**  
+ **ENG 367 African American Literature**  
     See Also African American Studies (AAM-367), @sec-courses-in-african-american-studies  
     See also African American Studies (AAM-367), 
 Course focuses on specific literary genres or time periods and functions as an intermediate course between the introductory African American Literature (AAM/ENG-267) and the advanced English seminar (particularly Seminar in Literature: United States Pluralism (ENG-707)). Students read and discuss both primary and secondary sources in an effort to gain a fuller understanding and appreciation of the artistic values and of the social and cultural significance of these writings. Specific topics vary from year to year. Possible topics include African American Historical Fiction, African American Speculative Fiction, Literature of the Civil Rights Era, and the African American Bildungsroman. May be taken more than once, with consent of African American Studies administrative coordinator, provided the topics are substantially different. Prerequisite: Introduction to Literary Studies: The Art of Reading and Writing (ENG-101) or consent of instructor.  
@@ -2175,8 +2170,8 @@ Course focuses on specific literary genres or time periods and functions as an i
     Study of selected works in English from the Atlantic world. This course examines the diverse literatures, politics, and trade relations of the Atlantic world and considers how transatlantic relations alter the ways we read and understand national literatures. Prerequisite: Introduction to Literary Studies: The Art of Reading and Writing (ENG-101) or consent of instructor.  
  **ENG 380 The Age of Chaucer**  
     Reading and discussion of literature of the later Middle Ages, with some emphasis on the work of Geoffrey Chaucer. This course may count toward the upper-level early British literature requirement for the English major. Prerequisite: Introduction to Literary Studies: The Art of Reading and Writing (ENG-101) or consent of instructor.  
- **ENG 382 Shakespeare:Com/Rom**  
-    Reading, viewing, and discussion of comedies and romances spanning Shakespeare’s career. This course may count toward the upper-level early British literature requirement for the English major. Prerequisite: Introduction to Literary Studies: The Art of Reading and Writing (ENG-101) or consent of instructor.  
+ **ENG 382 Shakespeare:Comedies/Romances**  
+    Reading, viewing, and discussion of comedies and romances spanning Shakespeare’s career. This course may count toward the upper-level early British literature requirement for the English major. Prerequisite: Introduction to Literary Studies: The Art of Reading and Writing (ENG-111) or consent of instructor.  
  **ENG 383 Shakespeare:Tragedies & Histories**  
     Reading, viewing, and discussion of history plays and tragedies, with some emphasis on the middle period of Shakespeare’s career, including the major tragedies. This course may count toward the upper-level early British literature requirement for the English major. Prerequisite: Introduction to Literary Studies: The Art of Reading and Writing (ENG-101) or consent of instructor.  
  **ENG 384 British Renaissance Literature**  
@@ -2184,13 +2179,13 @@ Course focuses on specific literary genres or time periods and functions as an i
  **ENG 385 Restoration &18th Cntry British Lit**  
     Study of major works from 1660 to the end of the eighteenth century or of an author, topic, or genre of the period. This course may count toward the upper-level early British literature requirement for the English major. Prerequisite: Introduction to Literary Studies: The Art of Reading and Writing (ENG-101) or consent of instructor.  
  **ENG 388 Romantic Literature**  
-    Study of major works from 1780 to 1830, with emphasis on writings by Blake, Wollstonecraft, Wordsworth, Coleridge, Austen, Byron, Keats, P. Shelley, and M. Shelley. This course may count toward the upper-level early British literature requirement for the English major. Prerequisite: Introduction to Literary Studies: The Art of Reading and Writing (ENG-101) or consent of instructor.  
+    Study of a range of literary works from 1780 to 1830, with emphasis on writings by Blake, Coleridge, Radcliffe, Robinson, Smith, Wollstonecraft, Wordsworth, Austen, Byron, Hemans, Keats, P. Shelley, and M. Shelley. This course may count toward the upper-level early British literature requirement for the English major. Prerequisite: Introduction to Literary Studies: The Art of Reading and Writing (ENG-111) or consent of instructor.  
  **ENG 390 Victorian Literature**  
-    Study of poetry and prose of the Victorian era from 1832 through the fin-de-siècle, including such writers as Tennyson, Browning, Barrett Browning, Arnold, Mill, Ruskin, C. Rossetti, D. G. Rossetti, Swinburne, Hopkins, and Wilde. Prerequisite: Introduction to Literary Studies: The Art of Reading and Writing (ENG-101) or consent of instructor.  
+    Study of poetry and prose of the Victorian era from 1832 through the fin-de-siècle, including such writers as Tennyson, Browning, Barrett Browning, Arnold, Mill, Ruskin, C. Rossetti, D. G. Rossetti, Swinburne, Hopkins, and Wilde. Prerequisite: Introduction to Literary Studies: The Art of Reading and Writing (ENG-111) or consent of instructor.  
  **ENG 392 19th Century British Novel**  
-    Study of major British novelists such as Austen, Scott, Dickens, C. Brontë, E. Brontë, Eliot, Collins, and Hardy. Prerequisite: Introduction to Literary Studies: The Art of Reading and Writing (ENG-101) or consent of instructor.  
- **ENG 393 Study in Cont/Mod British Fiction**  
-    Study of novels, short fiction, and poetry by British writers of the twentieth and twenty-first centuries, or of an author, topic, or genre of the period. Prerequisite: Introduction to Literary Studies: The Art of Reading and Writing (ENG-101) or consent of instructor.  
+    Study of major British novelists such as Austen, Scott, Dickens, C. Brontë, E. Brontë, Eliot, Collins, and Hardy. Prerequisite: Introduction to Literary Studies: The Art of Reading and Writing (ENG-111) or consent of instructor.  
+ **ENG 393 Study in Mod/Contmp British Fiction**  
+    Study of novels, short fiction, and poetry by British writers of the twentieth and twenty-first centuries, or of an author, topic, or genre of the period. Prerequisite: Introduction to Literary Studies: The Art of Reading and Writing (ENG-111) or consent of instructor.  
  **ENG 394 Directed Learning in English**  
     Study of individually chosen topics in literature or execution of projects in writing under the direction of a faculty member of the department. Registration only after the instructor has approved a written proposal for the project. Prerequisite: three courses in literature.  
 
@@ -2201,8 +2196,8 @@ Students registering for these courses must fulfill the **prerequisites** first 
     Development and completion of an honors thesis under the direction of a faculty member of the department. Normally taken in Fall Term of the senior year for an X status grade. Prerequisites: Seminar in Literature (ENG-464) or Seminar in Literature: United States Pluralism (ENG-467) and consent of instructor.  
  **ENG 464 Seminar in Literature**  
     Advanced study of a specialized topic in literature. As a capstone experience, the seminar fosters student-driven inquiry and requires students to present their work-in-progress and to complete a culminating project (typically, an extensive research paper). To be taken at or near the end of the English major. May be counted toward the upper-level early British literature requirement for the English major when topic is appropriate. May be taken more than once for credit toward the English major. Prerequisites: junior standing, The Art of Literary Research (ENG-301), and an English course numbered 305 or above.  
- **ENG 467 Seminar inLit:USPluralism**  
-    Advanced study of a specialized topic in literature. As a capstone experience, the seminar fosters student-driven inquiry and requires students to present their work-in-progress and to complete a culminating project (typically, an extensive research paper). To be taken at or near the end of the English major. May be taken more than once for credit toward the English major. Prerequisites: junior standing, The Art of Literary Research (ENG-301), and an English course numbered 305 or above.  
+ **ENG 467 Seminar in Literature: USP**  
+    Advanced study of a specialized topic in literature. As a capstone experience, the seminar fosters student-driven inquiry and requires students to present their work-in-progress and to complete a culminating project (typically, an extensive research paper). To be taken at or near the end of the English major. May be taken more than once for credit toward the English major. Prerequisites: junior standing, The Art of Literary Research (WE) (ENG-301), and an English course numbered 305 or above.  
  **ENG 494 Internship in English**  
     Exploration of a career area related to English. Application and supervision through the Internship Specialist. A minimum of 140 hours on-site experience is required. S/U basis only. This course does not satisfy any of the requirements for a major in English, but with consent of rhetoric department chair, one credit from an appropriate internship may satisfy the requirements for a minor in writing. Prerequisites: junior standing and consent of department chair.  
 
@@ -2236,7 +2231,7 @@ Biology majors:
 4. CHM 221 Organic Chemistry I  
 5. **Two** of the following with the associated laboratories:  
 	BIO 115 Marine Biology  
-	BIO 165 Ecology and Biology of Birds  
+	BIO 165 Introduction to Ornithology  
 	BIO 175 Field Botany  
 	BIO 185 Entomology  
 	BIO 275 Aquatic Ecology  
@@ -2295,7 +2290,7 @@ Concurrent completion of any of the majors listed under [Areas of Study](catalog
 7. EVS 484 Topics in Environmental Studies
 8. **Four** courses to be chosen as indicated from the three lists below. Courses with a substantial focus on environmental content and relevant to a student’s particular course of study may be substituted to fulfill this category, subject to prior approval by the Environmental Studies administrative coordinator.
 	a.  **One or more** of the following **Natural Science** courses:  
-		BIO 165 Ecology and Biology of Birds  
+		BIO 165 Introduction to Ornithology  
 		BIO 175 Field Botany  
 		BIO 185 Entomology  
 		BIO 285 Animal Behavior (**NOTE:** *Taught at the Wilderness Field Station*)  
@@ -2319,7 +2314,7 @@ Concurrent completion of any of the majors listed under [Areas of Study](catalog
 
 ### Courses in Environmental Studies (Collateral Major) 
  **BUS 170 Bus Sustainability & Environment**  
-  Examines the global trend of the increasing attention organizations are giving to environmental and sustainability issues, including evaluation of successful business practices being pursued by leading corporations. Consideration is given to why and how corporations are embracing such trends. Topics covered include eco-labeling, corporate environmental strategies, NGO-business partnerships, and emerging markets for environmental goods and services. Significant attention is given to global warming concerns and the emerging strategies for measuring and reducing the carbon footprint of business.   
+  See Environmental Studies, p. 141.   
  **ECO 195 Prin of Environmental Economics**  
   An introduction to the economics of the environment and natural resource allocation. This course is focused on optimal resource allocation and the problems associated with externalities and public goods in the context of a market economy. Environmental issues and policy are analyzed using standard economic models. This course may be used to satisfy the requirements for a major in Environmental Studies but does not satisfy any of the requirements for a major or minor in economics. Prerequisite: Principles of Macroeconomics (ECO-175).   
  **EVS 112 Environmental Law and Policy**  
@@ -2383,7 +2378,7 @@ A major in film requires a minimum cumulative 2.0 GPA in all courses counted tow
 	RHE 257 Environmental Rhetoric  
 	THE 130 Technical Production I  
 	THE 140 Design for the Stage  
-	THE 220 Tech Theatre Lab  
+	THE 220 Lighting Design  
 	THE 290 Directing I  
 
 
@@ -2413,7 +2408,7 @@ A minor in film studies requires six courses chosen in consultation with the Fil
 	RHE 257 Environmental Rhetoric  
 	THE 130 Technical Production I  
 	THE 140 Design for the Stage  
-	THE 220 Tech Theatre Lab  
+	THE 220 Lighting Design  
 	THE 290 Directing I  
 6. **One** of the following:  
 	
@@ -2467,16 +2462,16 @@ Janca-Aji
 The French & Francophone Studies program is an intercultural and interdisciplinary program featuring courses in language, cultural history, literature and cinema, translation and interpretation, and pre-professional studies. Students are strongly encouraged to pursue opportunities for immersive and experiential learning through study abroad, May Term courses, service learning, and community-based projects and to explore ways to incorporate French in and with other major(s).
 
 ### French & Francophone Studies Major
-A grade of "C" (2.0) or higher must be earned in all courses counted toward a major in French & Francophone Studies. Students complete eight credits of 300- to 400-level courses in French. FRE 315 French Composition & Conversation is required. Up to three credits may be earned by successfully completing a study abroad program in France or a francophone country that is approved by the College and the department. Up to one credit may be earned from a list of approved courses taught in English. One credit from a course taught in French must be taken in the senior year. FRE 499 Exit Exam and Interview is required during the final term before graduation.
+A grade of "C" (2.0) or higher must be earned in all courses counted toward a major in French & Francophone Studies. Students complete eight credits of 300- to 400-level courses in French. FRE 315 Oral & Written Com Skills in French is required. Up to three credits may be earned by successfully completing a study abroad program in France or a francophone country that is approved by the College and the department. Up to one credit may be earned from a list of approved courses taught in English. One credit from a course taught in French must be taken in the senior year. FRE 499 Exit Exam and Interview is required during the final term before graduation.
  
 ### French & Francophone Studies Minor
-A grade of "C" (2.0) or higher must be earned in all courses counted toward a minor in French & Francophone Studies. Students complete a minimum of four credits of 300- to 400-level courses in French. FRE 315 French Composition & Conversationis required. Up to one credit may be earned from a list of approved courses taught in English. FRE 499 Exit Exam and Interview is required during the final term before graduation.
+A grade of "C" (2.0) or higher must be earned in all courses counted toward a minor in French & Francophone Studies. Students complete a minimum of four credits of 300- to 400-level courses in French. FRE 315 Oral & Written Com Skills in Frenchis required. Up to one credit may be earned from a list of approved courses taught in English. FRE 499 Exit Exam and Interview is required during the final term before graduation.
 
 ### Interdisciplinary French & Francophone Studies Major
-A grade of "C" (2.0) or higher must be earned in all courses counted toward a major in Interdisciplinary French & Francophone Studies. Students complete 1) **four** credits of courses taught in French at any level, including FRE 315 French Composition & Conversation, 2) a departmentally approved term-long study abroad experience in France or a Francophone country, and 3) **four** credits from courses, taught in either French or English, from the list of approved courses which include at least two different prefixes and demonstrate thematic coherence. Courses not on this list may count for credit with approval of the program coordinator. FRE 499 Exit Exam and Interview is required during the final term before graduation. 
+A grade of "C" (2.0) or higher must be earned in all courses counted toward a major in Interdisciplinary French & Francophone Studies. Students complete 1) **four** credits of courses taught in French at any level, including FRE 315 Oral & Written Com Skills in French, 2) a departmentally approved term-long study abroad experience in France or a Francophone country, and 3) **four** credits from courses, taught in either French or English, from the list of approved courses which include at least two different prefixes and demonstrate thematic coherence. Courses not on this list may count for credit with approval of the program coordinator. FRE 499 Exit Exam and Interview is required during the final term before graduation. 
 
 ### Interdisciplinary French & Francophone Studies Minor
-A grade of "C" (2.0) or higher must be earned in all courses counted toward a minor in Interdisciplinary French & Francophone Studies. Students complete 1) **four** credits of courses taught in French at any level, including FRE 315 French Composition & Conversation, and 2) **three** credits from courses, taught in either French or English, from the list of approved courses which include at least two different prefixes and demonstrate thematic coherence. Courses not on this list may count for credit with approval of the program coordinator. FRE 499 Exit Exam and Interview is required during the final term before graduation FRE 499 Exit Exam and Interview. 
+A grade of "C" (2.0) or higher must be earned in all courses counted toward a minor in Interdisciplinary French & Francophone Studies. Students complete 1) **four** credits of courses taught in French at any level, including FRE 315 Oral & Written Com Skills in French, and 2) **three** credits from courses, taught in either French or English, from the list of approved courses which include at least two different prefixes and demonstrate thematic coherence. Courses not on this list may count for credit with approval of the program coordinator. FRE 499 Exit Exam and Interview is required during the final term before graduation FRE 499 Exit Exam and Interview. 
 
 
 ### Courses Taught in English that can be used for credit in French & Francophone Studies
@@ -2516,7 +2511,7 @@ A grade of "C" (2.0) or higher must be earned in all courses counted toward a mi
  **FRE 145 French Literature in Translation**  
   Reading, in translation, of a selection of works centering on a theme, genre, time period, or author. Students preparing a French major or minor must write a paper in French. Taught in English.  
  **FRE 146 French Literature Translation:NWP**  
-  Same as French Literature in Translation (FRE-145) except selected works focus on francophone writers from Africa, Asia, or the Caribbean.  
+  Reading, in translation, of a selection of works centering on a theme, genre, time period, or author. Selected works focus on francophone writers from Africa, Asia, or the Caribbean. Students preparing a French & Francophone major or minor are required to complete selected assignments in French. Taught in English. (0.5 course credit)  
  **FRE 148 French Literature Translation:DWP**  
   Same as French Literature in Translation (FRE-145) except selected works focus on diverse Western perspectives: women’s writing, gay and lesbian literature, or Quebeçois literature.  
  **FRE 158 France & Francophone World**  
@@ -2526,30 +2521,32 @@ A grade of "C" (2.0) or higher must be earned in all courses counted toward a mi
  **FRE 235 Intermediate French**  
   Reviews French grammar and vocabulary thoroughly in the context of an introduction to French and Francophone culture. Includes short readings and compositions, films, discussions, and immersion activities to improve language skills. Designed for students who have completed two semesters of
 French at Coe or with 2-4 years of high school French. Prerequisite: placement, Elementary French II (FRE-125) or consent of instructor.  
- **FRE 315 French Composition & Conversation**  
-  Serves as the capstone of previous language courses, sharpens oral and written communication skills, and introduces students to the particular ways in which native speakers of French tend to express themselves through listening exercises, discussion, immersion activities, interviews, and compositions on cultural aspects of communication. This course is required of all students majoring or minoring in French. It is expected that this course be followed by Introduction to French Literature (FRE-335) or History of French: Language and Culture (FRE-3XX), in the following term. Prerequisite: Intermediate French II (FRE-225) or consent of instructor.  
+ **FRE 315 Oral & Written Com Skills in French**  
+  Continues the development of linguistic proficiency from Intermediate French with particular emphasis on the
+particular ways in which native speakers of French express themselves. The course includes oral presentations and
+readings as well as creation of a podcast and a portfolio of original texts. Prerequisite: Intermediate French II (FRE235) or consent of instructor.  
  **FRE 335 Introduction to French Literature**  
   Close reading and critical analysis of different genres of literary texts through discussion, performance, and imitation. Students learn to use literary theory, to write, revise, and edit longer papers, and to develop their own creative voices in French. Prerequisite: French Composition and Conversation (FRE-315) or consent of instructor.  
  **FRE 339 French for Health Care**  
   Prepares students for using French in health and wellness contexts. Students learn essential vocabulary, improve written and oral communication skills, examine cultural differences, develop skills in translation and medical interpretation, and complete an independent project based on professional interests. May involve community engagement. Can be taken by arrangement. Prerequisite: Oral and Written Communication Skills (FRE-315) or consent of instructor.  
  **FRE 340 French & Fracophone Cinema (WE)**  
   Surveys some of the major genres, directors, and films of French and francophone cinema from the Lumière brothers to the present, as well as discussions of French film culture and cinema’s relations to history, literature, and other forms of visual and media arts. Students produce their own short films in French. Prerequisite: Oral and Written Communication Skills (FRE-315) or consent of instructor.  
- **FRE 345 History of Fr: Language & Culture**  
-  None  
+ **FRE 345 French Cultural History**  
+  Investigates the interrelated developments of French language, history, thought, and the arts to provide a solid foundation for the study of literature and culture. Films, performances, and a trip to a major art museum are required aspects of the course. Prerequisite: Oral and Written Communication Skills (FRE-315) or consent of instructor.  
  **FRE 394 Directed Learning  in French**  
-  For students wishing to investigate a particular aspect of French literature unavailable through the regular sequence of courses offered. Periodic conferences and papers are required. May be taken more than once for credit. Prerequisite: Introduction to French Literature (FRE-335) or consent of instructor.  
+  Examines a particular aspect of literature or media studies in French unavailable through the regular sequence of courses offered. Periodic conferences and papers are required. May be taken more than once for credit for a maximum of 2.0 credits. Prerequisite: Two 300-level French & Francophone courses or consent of instructor.  
  **FRE 400 Advanced Language Skills**  
   Focuses on improving linguistic skills and deepening understanding of how French is used in a variety of contexts and media through intensive practice. Topics vary from term to term. May be taken more than once for credit for a maximum of 2.0 credits. Prerequisite: Oral and Written Communication Skills (FRE-315) or consent of instructor. (0.5 course credit)  
  **FRE 444 Ind Study-French**  
   Independent investigation of a selected project in French under the direction of a faculty member of the department. May be taken for an X status grade with consent of instructor prior to registration. Prerequisite: consent of department chair.  
- **FRE 446 Colonial & Multicultural Narratives**  
-  A study of the history of "la francophonie" in terms of France's colonial experiments, and their literary legacies, and current issues of immigration and multiculturalism. Includes novels and films from France, Cameroon, Senegal, Canada, Morocco, and Martinique. Prerequisite: Introduction to French Literature (FRE- 335) or History of French: Language and Culture (FRE-345).  
- **FRE 452 Adv Language Skills & Trnsltn Wkshp**  
-  Focus on improving linguistic skills and deepening understanding of how French is used in a variety of contexts and media through intensive practice translating from and into French May be taken more than once for credit for a maximum of 3.0 credits. Prerequisite: French Composition and Conversation (FRE-315) or consent of instructor.  
+ **FRE 446 Francophone Voices**  
+  Studies the history of “la francophone” in terms of France's colonial experiments, and literary legacies, and current issues of immigration and multiculturalism. Includes novels and films from France, Cameroon, Senegal, Canada, Morocco, and Martinique. Prerequisite: Two 300-level French & Francophone courses or consent of instructor.  
+ **FRE 452 Translation & Interpretation Wrkshp**  
+  Features the intercultural, linguistic, critical, and ethical implications of the practices of translation and interpretation and provides extensive practice in workshops and community settings. Students learn to evaluate the quality of published translations, contribute to a group literary translation project, complete individual projects, and work with local community organizations needing help with communications from and into French. Prerequisite: Two 300-level French & Francophone courses or consent of instructor.  
  **FRE 494 Internship in French**  
   Exploration of a career area related to French. Application and supervision through the Internship Specialist. A minimum of 140 hours on-site experience is required. S/U basis only. This course does not satisfy any of the requirements for a major in French. Prerequisites: junior standing and consent of department chair.  
- **FRE 495 Top in French/Francophone Lit & Clt**  
-  Literature and culture course centering on a theme, region, time period, or genre. Approach and content vary from term to term as determined by the instructor. Topics include: Writing and Painting in 19th-century Paris, Contemporary Writing in French, Postcolonial Lives. May be taken more than once for credit for a maximum of 3.0 credits. Prerequisite: Introduction to French Literature (FRE- 335), or History of French: Language and Culture (FRE-3XX).  
+ **FRE 495 Top: French & Francophone Studies**  
+  Examines specific themes, genres, periods, regions, or time periods. Approach and content vary from term to term as determined by the instructor. Topics include: Immigration and Multiculturalism, Contemporary African Literature and Cinema in French, Québecois Voices, Literary Subversions and Masquerades, Contemporary Women Writers in French, and Food, Culture, and Identity. May be taken more than once for credit for a maximum of 2.0 credits. Prerequisite: Two 300-level French & Francophone courses or consent of instructor. (May be offered for 0.5-1.0 course credits)  
  **FRE 499 Exit Exam and Interview**  
   Evalutates the student's progress in French and experinece of the program. To be completed with faculty in French during the last semester before graduation. P/NP basis only. Prerequisite: consent of instructor. (0.0 course credit)   
 
@@ -2582,8 +2579,8 @@ A minor in gender studies requires a minimum cumulative 2.0 GPA in all courses c
 		ARH 107 Gender and Art  
 		COM 357 Sex, Race, & Gender in Media  
 		ENG 206 Gender and Literature: NWP  
-		ENG 207 Gender & Lit:US Pluralism  
-		ENG 208 Gender & Lit:DWP  
+		ENG 207 Gender & Literature: US Pluralism  
+		ENG 208 Gender & Literature: DWP  
 		GS 127 Dress, Gender, and Identity  
 		GS 136 Gender in Non-Western World  
 		GS 247 Gender & Sexuality StudiesSymposium  
@@ -2607,18 +2604,17 @@ A minor in gender studies requires a minimum cumulative 2.0 GPA in all courses c
 
 ### Courses in Gender and Sexuality Studies
  **GS 107 Intro Gender & Sexuality Studies**  
-  An examination of the ways in which societies shape our notions of gender, including, but not limited to, how class, race, and sexual orientation influence this process. Topics for lecture, discussion, and readings are selected by the instructor and are drawn from a variety of academic fields.   
+  Examines the ways in which gender and sexuality are constructed, performed, and intersect with race, class, ability, nationality, ethnicity, and age in historical and contemporary contexts, particularly with regard to issues of power, privilege, oppression, and marginalization. As a required core course for all Gender and Sexuality Studies minors, its goal is to offer students the necessary critical conceptual and theoretical basis for further inquiry and analysis in core and elective courses. Attendance at community partner guest speaker events is required.   
  **GS 127 Dress, Gender, and Identity**  
   Explores the issues of personal adornment and dress related to the projection of gender and identity. Examples from contemporary cultures around the globe are analyzed and compared following a variety of themes. Those themes include: revealing and concealing gender and/or identity, dress codes as social markers, body image and gender, and group identity through dress and adornment.   
  **GS 136 Gender in Non-Western World**  
   A study of gender rituals, family practices, sexuality, gendered work, and other aspects of gender in non-western cultures.   
  **GS 247 Gender & Sexuality StudiesSymposium**  
-  None   
+  Focuses on specific questions and issues with an emphasis on multiple voices and perspectives, grounded in critical theory and methods.The course may include films, guest speakers, participation in a service-learning or oral history project, and field trips. Specific topics vary from year to year. May be taken more than once, provided the topics are substantially different. Prerequisite: Introduction to Gender and Sexuality Studies (WE) (GS-107) or consent of instructor.   
  **GS 327 Thry&Mthds/Gender &Sexuality Stdy**  
-  Offers a thorough introduction to critical theories and methods in feminist and queer studies with particular emphasis on historical foundations, questions of power and discourse, intersectionalities, and global perspectives. A research project using feminist or queer theory is required. Prerequisite: Introduction to Gender and Sexuality Studies (GS-107) and completion of one elective that counts toward a Gender and Sexuality Studies major. (Offered Spring Term, alternate years)   
+  Offers a thorough introduction to critical theories and methods in feminist and queer studies with particular emphasis on historical foundations, questions of power and discourse, intersectionalities, and global perspectives. A research project using feminist or queer theory is required. Prerequisite: Introduction to Gender and Sexuality Studies (GS-107) and completion of one elective that counts toward a Gender and Sexuality Studies minor. Can be completed as an independent study with consent of administrative coordinator.   
  **GS 387 Topics: Gender & Sexuality Studies**  
-  Focuses on specific authors, events, or issues in feminist, queer, and masculinity studies. May be taken more than once, provided the topics are substantially different. Prerequisites: Introduction to Gender and Sexuality Studies (GS-107) or consent of instructor. 
-NOTE: Students are encouraged to complete Theory and Methods in Gender and Sexuality (GS-327) before enrolling in GS-387.   
+  Focuses on specific authors, events, or issues in feminist, queer, and masculinity studies. May be taken more than once, provided the topics are substantially different. May be done as an independent study and/or community-based project with consent of the administrative coordinator. Prerequisite: Introduction to Gender and Sexuality Studies (WE) (GS-107) or consent of instructor.   
 **NOTE:** *Students are encouraged to complete GS 327 Thry&Mthds/Gender &Sexuality Stdy before enrolling in GS 387 Topics: Gender & Sexuality Studies. *
 
 
@@ -2766,7 +2762,7 @@ A major in history requires a minimum cumulative 2.0 GPA in all courses counted 
 	- HIS 115 History of Europe to 1500 **or** HIS 125 History of Europe Since 1500
 	- One additional European History course
 
-2. HIS 205 Historians Craft
+2. HIS 205 The Historians Craft
 3. **One** of the following:
 	- HIS 136 East Asian Civilization
 	- HIS 246 History of Modern China
@@ -2841,7 +2837,7 @@ A major in history requires a minimum cumulative 2.0 GPA in all courses counted 
         - HIS 395 United States Diplomatic History  
 
 *Methods and Research*  
-        - HIS 205 Historians Craft  
+        - HIS 205 The Historians Craft  
         - HIS 465 Seminar in Ancient History  
         - HIS 466 Seminar Modern East Asian History  
         - HIS 472 Seminar American History I  
@@ -2853,13 +2849,13 @@ A major in history requires a minimum cumulative 2.0 GPA in all courses counted 
         - HIS 218 The Second World War (WE)  
         - HIS 268 Latin America  
         - HIS 276 The "Discovery" of America: Clash  
-        - HIS 278 History of the Holocaust (WE)  
+        - HIS 278 History of the Holocaust  
         - HIS 286 Modern Middle East  
         - HIS 300 Public History  
         - HIS 306 Revolution, Social Struggle, Testim  
         - HIS 308 Legacies of the Cold War inLatin Am  
-        - HIS 328 Modern France  
-        - HIS 444 Ind Study-History  
+        - HIS 328 Sprt & Spect: Ancient Greece & Rome  
+        - HIS 444 Independent Study  
         - HIS 494 Internship in History  
 
 ### Courses in History
@@ -2873,7 +2869,7 @@ A major in history requires a minimum cumulative 2.0 GPA in all courses counted 
   A survey of relations between indigenous, European, and African peoples in places that would become the United States from the colonial era through the Civil War. Topics include European colonization; indigenous resistance; racial slavery; the American Revolution and creation of the United States; westward territorial expansion; and the Civil War.  
  **HIS 155 History of United States since 1865**  
   A survey of American history from the Reconstruction to the present. Topics include the changing American economy, the inclusion and exclusion of various Americans defined by race, class, and gender, and the emergence of the United States as a world power.  
- **HIS 205 Historians Craft**  
+ **HIS 205 The Historians Craft**  
   Introduction to the nature and craft of history. Emphases include use of sources, historiography, philosophy of history, and various forms of historical writing. The capstone assignment is a research paper. Prerequisite: sophomore standing.  
  **HIS 208 The First World War (WE)**  
   Introduces students to the global history of the First World War and the start of the interwar period. The class focuses on the political, cultural, and social effects of the war through a study of historical documents, period literature, and film. Through class discussion, short compositions, response papers, and digital humanities work students will: critically analyze historical documents; identify and evaluate the significance of key actors, events, and ideas of the First World War; and synthesize evidence from to produce effective written and oral arguments.  
@@ -2904,10 +2900,10 @@ A major in history requires a minimum cumulative 2.0 GPA in all courses counted 
  **HIS 276 The "Discovery" of America: Clash**  
   Focuses on the biggest empires in the Americas (Maya, Aztec, and Inca) and the process of conquest and colonization after Christopher Columbus’ arrival. The students will read accounts written during the 15th-17th centuries and consider how to critically engage them. The class aims to reflect not only on the stories of the conquistadores, but also on those of the conquered people through historical accounts that attempt to give a voice to the voiceless, analyze the challenges of facing a completely unknown culture, and the ethical implications of imposing your values and traditions on others. By the end of the class, the student will be able to provide an overview of the Spanish Conquest, its history, and controversies. Students also will develop
 skills to analyze primary and secondary sources and write small response papers as well as a small essay that demonstrates an understanding of the time period and the ability to support an argument.  
- **HIS 278 History of the Holocaust (WE)**  
+ **HIS 278 History of the Holocaust**  
   Introduces students to the examination of the causes, experiences, and legacy of the Holocaust, studying viewpoints of victims, perpetrators, and bystanders. Students will study historical documents and literature as well as audiovisual sources in course discussions and written work as they cover social, cultural, and political history from pre-war Germany through World War II, and evaluate memory of the Holocaust in the time period since 1945. Through written work and course discussions, students will: identify and evaluate the significance of key actors, events, and ideas connected to the Holocaust; analyze primary and secondary sources; synthesize evidence to produce cogent written and oral arguments; and critically examine understanding of the Holocaust.  
  **HIS 285 History of Ancient Rome**  
-  An examination of the evolution of certain key institutions and traditions—political, constitutional, military, social, and economic—in the ancient Roman world, with emphasis on the revolutionary changes during the transition from the Republic to the Empire, i.e., the first centuries B.C. and A.D.  
+  An examination of the evolution of certain key institutions and traditions—political, constitutional, military, social, and economic—in the ancient Roman world, with emphasis on the revolutionary changes during the transition from the Republic to the Empire, i.e., the first centuries B.C.E and C.E.  
  **HIS 286 Modern Middle East**  
   A survey of recent history of the Middle East, from the 1800's to the present with an emphasis on the 20th century. Course focuses on the Middle East and its global interactions.  
  **HIS 288 Renaissance & Reformation**  
@@ -2935,8 +2931,8 @@ crises through a small research project that is developed by written assignments
   An intensive study of a selected topic (or topics) in history related to Diverse Western Perspectives through lectures or group discussion or directed learning or research and writing. (Offered on an occasional basis)  
  **HIS 325 Recent American History I**  
   An examination of American domestic development from the last quarter of the 19th century to the present. Topics include immigration, workers in a changing economy, the World Wars, the Cold War, civil rights, the changing role of women in society, and the contested post-1960’s move to the political right. Prerequisite: History of the United States Since 1865 (HIS-155) or consent of instructor.  
- **HIS 328 Modern France**  
-  An examination of the major political, cultural, and social developments in France from the end of the French Revolution to present day, with an emphasis on the changes and shifts in French national identity and global relations.  
+ **HIS 328 Sprt & Spect: Ancient Greece & Rome**  
+  Introduces students to the many forms of public entertainment in ancient Greek and Roman society. These include theater, dramatic festivals, athletic competitions, the origin of the Olympics, gladiatorial combats, chariot racing, as well as processions and sacrifices. In this course, students will demonstrate a recognition of key themes and concepts in the literature, art, and archaeological evidence of the ancient Mediterranean; deconstruct the role of competition and performance in the Classical world; articulate the influence of the ancient Greeks and Romans on modern society; and critically assess the value of ancient texts and other bodies of evidence through written assignments.  
  **HIS 335 Recent American History II**  
   An examination of American foreign relations from the 1890s to the present, including the World Wars, the Cold War, and the post-9/11 world. Prerequisite: History of the United States Since 1865 (HIS-155) or consent of instructor.  
  **HIS 347 African American History**  
@@ -2951,7 +2947,7 @@ crises through a small research project that is developed by written assignments
   The history of the American colonies from their founding through the American Revolution, focusing on the diverse perspectives of people varying in religion, ethnicity, and gender, as well as economic and political backgrounds.  
  **HIS 395 United States Diplomatic History**  
   Begins with an examination of the relations of the colonies to international affairs. The course focuses attention on topics in American diplomatic history which provide a background for an understanding of the nation’s present status as a world power.  
- **HIS 444 Ind Study-History**  
+ **HIS 444 Independent Study**  
   Independent work on a selected project under the direction of a faculty member of the department. May be taken for an X status grade with consent of instructor prior to registration. Prerequisite: consent of instructor.  
  **HIS 465 Seminar in Ancient History**  
   An intensive reading and research seminar on a selected topic in the history of the ancient world. Prerequisite: The Historian's Craft (WE) (HIS-205) and junior standing.  
@@ -2982,7 +2978,7 @@ The interdisciplinary major is a rigorous academic program in which the individu
 
 ### Courses in Interdisciplinary Studies
  **INT 494 Internship**  
-  An internship related to the student’s field of interdisciplinary study supervised by the Internship Specialist. A minimum of 140 hours on-site experience is required. S/U basis only. Prerequisites: junior standing and approval of an interdisciplinary major.  
+  Supervised work or volunteer experience related to a student’s career interests. A minimum of 140 hours on-site or remote work experience is required. Authorization and evaluation of the course credit for the internship is determined by the department through which the student is completing the internship. P/NP basis only. With departmental approval, credit may be applied to a major only with consent of department chair. Prerequisites: consent of the Internship Faculty Advisor  
 
 
 
@@ -3053,7 +3049,7 @@ Students majoring in economics have two options: the **ECONOMICS** major (see @s
 2. ECO 215 Prin Microeconomics
 3. ECO 315 Intermediate Macroeconomic Theory
 4. ECO 336 Divergent Economic Growth
-5. ECO 345 Intermediate Price Theory
+5. ECO 345 Intermediate Microeconomics
 6. ECO 375 Econometrics
 7. ECO 436 Econ Development
 8. ECO 446 International Econ
@@ -3192,11 +3188,11 @@ The Contemporary European Studies track emphasizes the study of cultural commona
 4. **Three** of the following, two of which must be numbered 300 or above.  At least two academic disciplines must be represented.
 	- ARH 248 Baroque, Rococo, and Neoclassicism
 	- ARH 307 Modern and Contemporary Art
-	- ENG 393 Study in Cont/Mod British Fiction
+	- ENG 393 Study in Mod/Contmp British Fiction
 	- FRE 158 France & Francophone World
 	- FRE 340 French & Fracophone Cinema (WE)
 	- HIS 238 Modern France
-	- HIS 278 History of the Holocaust (WE)
+	- HIS 278 History of the Holocaust
 	- HIS 292 History of Modern England
 	- IS 315 Topics in International Studies (when appropriate)
 	- MU 458 Music History & Literature III
@@ -3210,14 +3206,14 @@ The Contemporary European Studies track emphasizes the study of cultural commona
 ### Courses in International Studies {#sec-courses-in-IS}
  **IS 116 Intro to International Studies**  
 	A range of case studies introduces students to the nomenclature and analytical approaches of international studies. Focus areas include migration and human geography; global economics, trade, and development; global governance; media and culture across borders. Global health, the environment, and gender issues are also included.   
- **IS 126 HumanRightsBurmeseMigrant**  
-	Offers the opportunity during a May-Term residency at a school on the border of Thailand and Myanmar to gain an understanding of the lives of Burmese youth who live as educational migrants in Thailand. Through teacher/ pupil interactions and tutoring students learn about the conditions that drive Burmese children from their homeland to seek an education in a foreign country and about the challenges these children face far from home. Students also gain insight into the rewards and pitfalls of international humnitarian work. Prerequisite: consent of instructor. (Offered May Term only).   
+ **IS 126 Human Rights Burmese Migrant**  
+	Offers the opportunity during a May-Term residency at a school on the border of Thailand and Myanmar to gain an understanding of the lives of Burmese youth who live as educational migrants in Thailand. Through teacher/ pupil interactions and tutoring students learn about the conditions that drive Burmese children from their homeland to seek an education in a foreign country and about the challenges these children face far from home. Students also gain insight into the rewards and pitfalls of international humnitarian work. Prerequisite: consent of instructor. (Offered May Experiential Term only).   
  **IS 315 Topics in International Studies**  
 	A study of a selected topic or theme in international studies. Topics vary and may include interdisciplinary approaches to human migration, transitional justice, human rights. May be taken more than once for credit, provided the topics are substantially different. Prerequisite: Introduction to International Studies (IS-116) or consent of instructor.   
  **IS 316 Top in Internl Stds:Non-West Persp**  
 	Same as Topics in International Studies (IS-315) except selected works focus on Non-Western Perspectives.   
  **IS 464 International Studies Colloquium**  
-	Majors are required to discuss a set of readings to foster synthesis across the various tracks, submit 15-25 pages of finished writing on an issue in International Studies, and present their work orally to students and faculty.  The Colloquium is usually taken during Spring Term of the senior year. Satisfactory completion of the Colloquium is required for graduation with a major in international studies. S/U basis only. Prerequisite: consent of instructor. (0.5 course credit)   
+	Synthesizes learning from major courses with a blend of cross-disciplinary readings, career exploration, and an independently designed community-based project. The Colloquium is usually taken during Spring Term of the senior year. Satisfactory completion of the Colloquium is required for graduation with a major in international studies. P/NP basis only. Prerequisite: consent of instructor. (0.5 course credit)   
 
 
 
@@ -3239,7 +3235,7 @@ Potter.
  **JPN 125 Elementary Japanese II**  
   Continuing study of Japanese phonology, structure and vocabulary. Study of hiragana and katakana syllabaries with introduction of some kanji. Prerequisite: Elementary Japanese I (JPN-115) or consent of instructor.  
  **JPN 215 Intermediate Japanese I**  
-  Reading and discussion of selected Japanese texts, with continued work on grammatical structures. Increased emphasis on kanji. Prerequisite: Elementary Japanese II (JPN-165) or consent of instructor.  
+  Reading and discussion of selected Japanese texts, with continued work on grammatical structures. Increased emphasis on kanji. Prerequisite: Elementary Japanese II (JPN-125) or consent of instructor.  
  **JPN 225 Intermediate Japanese II**  
   Reading and discussion of selected Japanese texts, with continued work on grammatical structures. Increased emphasis on kanji. Prerequisite: Intermediate Japanese I (JPN-215) or consent of instructor.  
  **JPN 305 Topics in Japanese Language**  
@@ -3271,8 +3267,8 @@ A major in Kinesiology requires a minimum cumulative 2.0 GPA in all courses coun
 5. KIN 175 Prevention & Care Ath Inj
 6. KIN 225 Motor Learning
 7. KIN 347 Adapted Physical Education
-8. KIN 365 Measurement/Eval/Prescription KIN
-9. KIN 415 Meth Secondary School PE & Health
+8. KIN 365 Exercise Measurement/Eval&Prescript
+9. KIN 415 Methods of Secondary Schl PE & Hlth
 10. KIN 440 Org-Admin of PE, Health & Athl
 11. KIN 442 Physiology of Exercise
 12. KIN 495 Kinesiology
@@ -3286,7 +3282,7 @@ A major in Kinesiology requires a minimum cumulative 2.0 GPA in all courses coun
 3. KIN 105 Foundations of Physical Movement
 4. KIN 115 Fundamentals:Exercise & Nutrition
 5. KIN 175 Prevention & Care Ath Inj
-6. KIN 365 Measurement/Eval/Prescription KIN
+6. KIN 365 Exercise Measurement/Eval&Prescript
 7. KIN 440 Org-Admin of PE, Health & Athl
 8. KIN 442 Physiology of Exercise
 9. **All** of the following courses in the **Strength and Conditioning Group**: 
@@ -3333,7 +3329,7 @@ The Coaching Endorsement (#55, K-12) may be granted to any student with teacher 
 4. KIN 105 Foundations of Physical Movement
 5. KIN 115 Fundamentals:Exercise & Nutrition
 6. KIN 175 Prevention & Care Ath Inj
-7. KIN 365 Measurement/Eval/Prescription KIN
+7. KIN 365 Exercise Measurement/Eval&Prescript
 8. KIN 442 Physiology of Exercise
 9. KIN 495 Kinesiology
 
@@ -3354,7 +3350,7 @@ The Coaching Endorsement (#55, K-12) may be granted to any student with teacher 
   Incorporates the latest principles of emergency care in order to become effective initial responders. Broader discussion will focus on the efficacy of Good Samaritan laws, while at the same time addressing current changes to society as it relates to these laws. In addition, this course will prepare students to recognize and care for a variety of first aid emergencies such as burns, cuts, scrapes, sudden illnesses, head, neck, back injuries, heat and cold emergencies. Students will gain both the competency and proficiencies associated with learning how to respond to breathing and cardiac emergencies. Successful students will receive a certificate for Adult First Aid/CPR/AED. (0.5 credit)  
  **KIN 111 Phys Educ for Elementary Teacher**  
   Emphasizes a survey of modern health and physical education practice in school and community, and the development of exercise in the elementary school through singing games and rhythms, folk and square dancing, games, and sports. (0.5 course credit)  
- **KIN 112 Health Educ for Elementary Tchr**  
+ **KIN 112 Health Educ for Elementary Teacher**  
   Surveys health-related issues that directly affect the lives of young children. Topics include health, fitness, substance abuse, and physical and mental insult. Students learn to identify and respond to children who have been placed at risk. (0.5 course credit)  
  **KIN 115 Fundamentals:Exercise & Nutrition**  
   Study and evaluation of existing health patterns, which are tested to elicit positive behavior changes. Principles of exercise physiology and fitness, weight control and human nutrition, and problems associated with malnutrition and overnutrition are included to provide students with concepts for an enhanced lifestyle.  
@@ -3378,16 +3374,16 @@ The Coaching Endorsement (#55, K-12) may be granted to any student with teacher 
   Sports treated from the standpoint of theory and practice. Topics vary from term to term and include, but are not limited to, football, basketball, baseball and softball, wrestling, track, swimming, and volleyball. May be taken more than once for credit, provided the topics are substantially different. (0.5 course credit)  
  **KIN 210 Athletic Injury Evaluation**  
   Introduces students to the procedures used in the examination of injuries involving both the upper and lower extremity. This course will develop a student’s systematic ability to identify, evaluate, and monitor commonly experienced orthopedic injuries in athletics. Investigation into surface palpation, goniometry, manual muscle, and special testing will be developed. Prerequisite: Prevention and Care of Athletic Injuries & Laboratory (KIN-175).  
- **KIN 215 Psychology of Coaching**  
-  An introduction to the area of sport psychology, which focuses on the underlying psychological and psychophysiological factors that influence performance in sports and physical activity. The following topics are emphasized: motivation, positive mental attitude (goal setting, self talk, mental imagery), anxiety/stress, self confidence, concentration, communication skills, sportsmanship, and psychological preparation for competition.  
+ **KIN 215 Psychology of Sport and Exercise**  
+  An introduction to sport and exercise psychology, emphasizing the psychological and psychophysiological factors that influence performance in sports and physical activity. Key topics include motivation, goal setting, self-talk, mental imagery, anxiety &amp; stress management, self-confidence, focus and concentration, communication skills, sportsmanship, and mental preparation strategies to optimize performance and training outcomes.  
  **KIN 225 Motor Learning**  
   Designed to acquaint students with research findings, empirical evidence, and theoretical constructs regarding the learning and teaching of motor skills. Emphasis placed upon the state of the learner, the learning process, and the conditions for learning. Prerequisite: sophomore standing.  
  **KIN 315 Methods Elementary Sch PE & Health**  
-  Analysis of the program of physical education and health for the elementary school. Selection of activities, teaching methods, program planning, equipment and facilities, class management, and evaluation is examined. Prerequisite: Practicum in Education (EDU-215) or consent of department chair.  
+  Analysis of the program of physical education and health for the elementary school. Selection of activities, teaching methods, program planning, equipment and facilities, class management, and evaluation is examined. Prerequisite: Practicum in Education (WE) (EDU-215) or consent of department chair.  
  **KIN 347 Adapted Physical Education**  
   A program of activities adapted for individuals with physical disabilities. Development of a rehabilitative exercise program for correction of physical handicaps or deviations.  
- **KIN 365 Measurement/Eval/Prescription KIN**  
-  Study of various methods of measurement and evaluation of motor skills and motor performance in physical activity. Construction of skills tests, proper testing procedures, and basic statistics used in evaluating the results covered. Assessment of physical fitness components followed by prescribed activity to improve those components is studied.  
+ **KIN 365 Exercise Measurement/Eval&Prescript**  
+  Study of methods for measuring and evaluating motor skills, athletic performance, and physical fitness. Emphasis on designing and implementing skill and fitness assessments, following proper testing procedures, and applying basic statistics to interpret results. Key topics include assessment of strength, endurance, flexibility, and other fitness components followed by development of individualized training programs to enhance performance and overall physical conditioning.  
  **KIN 385 Methods Strength Trng & Condition**  
   Application of resistance and movement training techniques. Topics include methods of teaching progressions for resistance training, flexibility, speed/agility training, stretching, plyometrics, safety, successful routines, and exercise prescription for beginning to advanced trainees. Prerequisites: Organismal and Ecological Biology (BIO-155), either Human Anatomy (BIO-215) or Anatomy and Physiology (BIO-103), and junior standing.
 NOTE: Students are encouraged to complete Advanced Weight Training (PE-103/-104) and Movement Training (PE-103/-104) before enrolling in KIN-385.  
@@ -3395,14 +3391,14 @@ NOTE: Students are encouraged to complete Advanced Weight Training (PE-103/-104)
  **KIN 405 Program Design**  
   A theory-based course that discusses different strength and conditioning techniques used to program workouts for students, athletes, and members of the community. The course examines physiological factors, such as volume, intensity, rest, frequency, duration, and the acute and chronic effects of exercise. Students design and evaluate their own strength and conditioning programs based on the needs of the individual. Prerequisite: Methods of Teaching Strength Training and Conditioning (KIN-385).  
  **KIN 410 Athletic Injury Treatment & Rehab**  
-  Introduces various forms of individualized exercise and rehabilitation programs used in an athletic injury setting. Didactic and laboratory components provide the background and practical application of the principles and techniques related to the rehabilitation of injuries. Students will be able to identify signs and symptoms of the healing process, describe the indications and contraindications of treatment, and instruct patients on proper technique and execution of rehabilitation exercises. Surgical and non-surgical orthopedic injury rehabilitation protocols discussed with a special emphasis given to progressions back to sport. Prerequisite: Prevention and Care of Athletic Injuries & Laboratory (KIN-175) & Kinesiology (KIN-495).  
- **KIN 415 Meth Secondary School PE & Health**  
-  Analysis of the program of physical education for the secondary schools. Selection of activities, teaching methods, program planning, equipment and facilities, class management, and evaluation. Includes 30-hour field experience. Prerequisite: Practicum in Education (EDU-215) or consent of department chair.  
+  Introduces various forms of individualized exercise and rehabilitation programs used in an athletic injury setting. Didactic and laboratory components provide the background and practical application of the principles and techniques related to the rehabilitation of injuries. Students will be able to identify signs and symptoms of the healing process, describe the indications and contraindications of treatment, and instruct patients on proper technique and execution of rehabilitation exercises. Surgical and non-surgical orthopedic injury rehabilitation protocols discussed with a special emphasis given to progressions back to sport. Prerequisite: Prevention and Care of Athletic Injuries & Laboratory (KIN-275) & Kinesiology (KIN-495).  
+ **KIN 415 Methods of Secondary Schl PE & Hlth**  
+  Analysis of the program of physical education for the secondary schools. Selection of activities, teaching methods, program planning, equipment and facilities, class management, and evaluation. Includes 30-hour field experience. Prerequisite: Practicum in Education (WE) (EDU-215) or consent of department chair.  
  **KIN 440 Org-Admin of PE, Health & Athl**  
   Objectives, principles, and methods of organization and administration of physical education, health education, recreation, and athletics in elementary and secondary schools, as well as colleges. Prerequisite: sophomore standing.  
  **KIN 442 Physiology of Exercise**  
   The study and evaluation of the effects of exercise upon the biological control systems of the human body. Topics include bioenergetics, exercise metabolism, endocrine function during and cardiopulmonary response to exercise, neuromuscular function, acid-base regulation, temperature regulation, and the effect of endurance training on various organ systems. Prerequisites: Organismal and Ecological Biology (BIO-155), and either both Human Anatomy (BIO-215) and Human Physiology (BIO-225), or Anatomy and Physiology (BIO-103).  
- **KIN 444 Ind Study-KIN**  
+ **KIN 444 Independent Study**  
   Independent investigation of a selected project in Kinesiology under the direction of a faculty member of the department. May be taken for an X status grade with consent of instructor prior to registration.  Prerequisites: consent of instructor and department chair.  
  **KIN 494 Internship in Kin, Health & Rec**  
   Investigation of kinesiology, health, or recreation through voluntary field placement supervised by a faculty member of the department. Not available to prospective teachers in physical education. A minimum of 140 hours on-site experience is required. S/U basis only. One credit may be counted toward a major in kinesiology. Prerequisites: declared major in kinesiology or interdisciplinary major and consent of department chair.  
@@ -3456,7 +3452,7 @@ The following requirements are designed to provide a framework within which the 
 	b) **One or more** courses from the following list of core courses to bring the total number of elective courses to six:
 		- AAM 137 African American Literature or ENG 137 African American Literature
 		- ENG 110 Ancient Mythology
-		- ENG 207 Gender & Lit:US Pluralism
+		- ENG 207 Gender & Literature: US Pluralism
 
 ### Senior Seminar Course
  **LIT 464 Seminar in World Literature**  
@@ -3494,7 +3490,7 @@ A major in mathematics requires a minimum cumulative 2.0 GPA in all courses coun
 	- MTH 395 Modern Algebra II
 	- MTH 415 Real Analysis I (if not used to satisfy #8)
 	- MTH 425 Real Analysis II
-	- MTH 444 Ind Study-Math
+	- MTH 444 Independent Study
 	- MTH 445 Complex Analysis (if not used to satisfy #8)
 	- MTH 455 Mathematical Modeling
 	- MTH 463 Set Theory & Toplogy
@@ -3517,7 +3513,7 @@ A major in mathematics requires a minimum cumulative 2.0 GPA in all courses coun
 	- MTH 395 Modern Algebra II
 	- MTH 415 Real Analysis I 
 	- MTH 425 Real Analysis II
-	- MTH 444 Ind Study-Math
+	- MTH 444 Independent Study
 	- MTH 445 Complex Analysis 
 	- MTH 455 Mathematical Modeling
 	- MTH 463 Set Theory & Toplogy
@@ -3527,7 +3523,7 @@ A major in mathematics requires a minimum cumulative 2.0 GPA in all courses coun
  **MTH 105 Math for Social Justice**  
   An introduction to contemporary mathematical thinking with emphasis on its connections to society. Logical thinking and the ability to read critically are interwoven with elementary mathematical skills. The course concentrates on discussions about mathematics—about its nature, its content, and its applications to a variety of topics, such as management science, network science, finance, data, statistics, probability, fairness, apportionment, voting theory, and social choice. This course is appropriate for a varied audience. This course does not satisfy any of the requirements for a major or minor in the mathematical sciences. Prerequisite: Some ability in arithmetic, geometry, and elementary algebra.  
  **MTH 135 Calculus I**  
-  An introduction to the concepts of limits, continuity, differentiation of elementary functions, applications, definite and indefinite integrals, and the Fundamental Theorem. Prerequisite: three years of secondary school mathematics, Algebra and Trigonometry (MTH-115), or consent of instructor.  
+  An introduction to the concepts of limits, continuity, differentiation of elementary functions, applications, definite and indefinite integrals, and the Fundamental Theorem. Prerequisite: three years of secondary school mathematics or consent of instructor.  
  **MTH 145 Calculus II**  
   Further study of the techniques of differentiation and integration, the calculus of exponential, logarithmic and trigonometric functions, sequences, series, and applications. Prerequisite: Calculus I (MTH-135) or consent of instructor.  
  **MTH 215 Foundations of Advanced Mathematics**  
@@ -3548,12 +3544,12 @@ A major in mathematics requires a minimum cumulative 2.0 GPA in all courses coun
   A rigorous introduction to selected topics in analysis. Topics selected from number systems, Euclidean spaces, metric spaces, limits, continuity, derivatives, and integrals. Prerequisites: Calculus II (MTH-145) and Foundations of Advanced Math (MTH-215).  
  **MTH 425 Real Analysis II**  
   A continuation of Real Analysis I (MTH-415), including a study of such topics as Riemann Stieltjes and Lebesgue integration, series and series expansions. Prerequisite: Real Analysis I (MTH-415). (Offered by arrangement)  
- **MTH 444 Ind Study-Math**  
+ **MTH 444 Independent Study**  
   An opportunity for independent and intensive study in mathematics. May be taken for an X status grade with consent of instructor prior to registration.  Prerequisite: appropriate background courses depending on the nature of the work planned and consent of supervising instructor. (Offered by arrangement)  
  **MTH 445 Complex Analysis**  
   An introduction to the theory, techniques, and applications of functions of a complex variable. Topics include elementary and analytic functions, limits, differentiation, integration, series, mappings, and applications. Prerequisite: Calculus III (MTH-255) or consent of instructor.  
  **MTH 454 Research in Mathematics**  
-  Individual or group investigation with a mathematics faculty member on a research topic of mutual interest. The student must obtain approval for a specific project and make necessary arrangements prior to the term of registration for the course. This course is offered on an P/NP basis and does not satisfy any of the requirements for a major or minor in computer science. May be taken more than once for credit for a maximum of 2.0 credits. Prerequisites: Foundations of Advanced Mathematics (MTH-215) and consent of supervising instructor. (0.2-1.0 credit; Offered by arrangement)  
+  Individual or group investigation with a mathematics faculty member on a research topic of mutual interest. The student must obtain approval for a specific project and make necessary arrangements prior to the term of registration for the course. This course is offered on a P/NP basis and does not satisfy any of the requirements for a major or minor in mathematics. May be taken more than once for credit for a maximum of 2.0 credits. Prerequisites: Foundations of Advanced Mathematics (WE) (MTH-215) and consent of supervising instructor. (0.0–1.0 credit; Occasional course, offered by arrangement)  
  **MTH 455 Mathematical Modeling**  
   An introduction to the application of mathematical techniques used in the solution of real-world problems. These techniques include interpolation, ordinary differential equations, taylor series expansions, curve fitting, matrix inversion, numerical differentiation, and integration. Prerequisites: Introduction to Programming (CS-125); and Calculus II (MTH-145)  
  **MTH 463 Set Theory & Toplogy**  
@@ -3630,7 +3626,7 @@ Candidates for the **BACHELOR OF MUSIC** degree must successfully complete:
 	1. MU 195 Music Production
 	2. MU 409 Theory of Music IV/MU 409L Aural Skills Lab IV
 	3. MUA 413 Orchestration
-	4. MUA 423 Saxophone (Adv Std)
+	4. MUA 423 Advanced Counterpoint
 	5. **Eight** terms of participation in the Applied Music Course, which must include four terms each of MUA-202C and MUA-303C
 	6. **One** course each from the social sciences, natural sciences, and humanities. (New York Term may be used to satisfy the humanities requirements, but the two required language courses described below may not.) 
 	7. **Two** courses in French in consecutive terms (may not be used to satisfy the humanities requirement of #6) 
@@ -3648,11 +3644,11 @@ Candidates for the **BACHELOR OF MUSIC** degree must successfully complete:
 		- MU 270 Musical Theatre Acting
 		- MU 166/284 Topics in Music
 		- MU 385 Conducting II
-		- MU 444 Ind Study-Music
+		- MU 444 Independent Study
 		- MUA 133V Vocal Literature
 		- MUA 134V Vocal Pedagogy
 		- MUA 413 Orchestration
-		- MUA 423 Saxophone (Adv Std)
+		- MUA 423 Advanced Counterpoint
 		- One course credit in MUA-courses beyond those required in the Applied Music Course.
 	3. **Eight** terms of participation in the Applied Music Course. 
 	4. **One** course each from the social sciences, natural sciences, and humanities. (New York Term may be used to satisfy the humanities requirements.) 
@@ -3672,10 +3668,10 @@ Candidates for the **BACHELOR OF MUSIC** degree must successfully complete:
 		- MU 270 Musical Theatre Acting
 		- MU 166/284 Topics in Music
 		- MU 385 Conducting II
-		- MU 444 Ind Study-Music
+		- MU 444 Independent Study
 		- MUA 133V Vocal Literature
 		- MUA 413 Orchestration
-		- MUA 423 Saxophone (Adv Std)
+		- MUA 423 Advanced Counterpoint
 		- One course credit in MUA-courses beyond those required in the Applied Music Course. 
 	5. **Eight** terms of participation in the Applied Music Course. 
 	6. **One** course each from the social sciences, natural sciences, and humanities. (New York Term may be used to satisfy the humanities requirements.) 
@@ -3692,12 +3688,12 @@ Candidates for the **BACHELOR OF MUSIC** degree must successfully complete:
 	2. EDU 117 Exceptional Learners
 	3. EDU 187 Human Relations
 	4. EDU 195 Educ Psychology & Development
-	5. EDU 219 Educational Technology Lab
+	5. EDU 219 InstructTech for Teaching &Learning
 	6. MU 205 Practicum in Music Education
 	7. MU 360 Elementary & General Music Methods
 	8. **One** of the following:
-		- MU 361 Choral Music Methods, MU 362 InstrMusMethChrlTeachr, and MUA 134V Vocal Pedagogy (for Vocal Music Education majors)
-		- MU 363 Instrumental Music Methods and MU 364 ChrlMusMethInstTeach (for Instrumental Music Education majors)
+		- MU 361 Choral Music Methods, MU 362 Instrumental Mus Methods for Choral, and MUA 134V Vocal Pedagogy (for Vocal Music Education majors)
+		- MU 363 Instrumental Music Methods and MU 364 Choral Music Methods for Instrument (for Instrumental Music Education majors)
 	9. MU 385 Conducting II
 	10. MU 421 Student Teaching Elementary Music
 	11. MU 422 Student Teaching Secondary Music
@@ -3739,7 +3735,7 @@ Students completing a **BACHELOR OF ARTS** degree may choose to supplement their
 1. MU 157 Introduction to Jazz History
 2. MU 409 Theory of Music IV/MU 409L Aural Skills Lab IV
 3. **Five** terms of MUA 102 Jazz & Improvisation Lab
-4. **Seven** terms of MUA 101 Jazz Ensemble
+4. **Seven** terms of MUA 101 Jazz Band
 5. **Two** terms of MUA 102K Piano Arranging Lessons
 6. **Two** terms of MUA 103K Piano: Jazz
 7. AAM 107 Intro to African American Studies
@@ -3853,7 +3849,7 @@ Composition lessons and classes in keyboard, brass, woodwind, and string literat
 - MUA 202C Composition
 - MUA 303C Composition (Advanced Standing)
 - MUA 413 Orchestration
-- MUA 423 Saxophone (Adv Std)
+- MUA 423 Advanced Counterpoint
 
 ### APPLIED KEYBOARD--LESSONS
 - MUA 100K Group Piano
@@ -3947,12 +3943,12 @@ Ensembles are open, by audition, to all Coe students, as well as being required 
 Credit for participation in these regularly-offered ensembles is available under the following schedule.  Students are encouraged to participate in these ensembles as often as possible. Additional ensembles, offered on a periodic basis, are listed in the *Coe College Music Department Faculty/Student Handbook*.
 
 - MUA 100 Concert Band
-- MUA 101 Jazz Ensemble
+- MUA 101 Jazz Band
 - MUA 102 Jazz & Improvisation Lab
 - MUA 103 Symphony Orchestra
 - MUA 104 Concert Choir
 - MUA 105 Crimson Singers
-- MUA 110 Vocal Jazz Ensemble
+- MUA 110 Coe Sho Cho
 - MUA 111 Coe Handbell Ensemble
 - MUA 130V MusicalTheatreProductionExperience
 - MUA 131V Song Interpretation Workshop
@@ -3960,13 +3956,13 @@ Credit for participation in these regularly-offered ensembles is available under
 
 ### GENERAL SURVEY COURSES
 - MU 100 Experiencing Music
-- MU 101 Music Fundamentals
+- MU 101 Music Fundamentals I
 - MU 140 Film Music
 - MU 151 Record Label
 - MU 251 Record Label Seminar
 - MU 157 Introduction to Jazz History
 - MU 161 Hip Hop Workshop
-- MU 166 Topics in Music:Non-Western Perspct
+- MU 166 Music of the World
 - MU 270 Musical Theatre Acting
 - MU 284 Topics in Music
 - MUA 133V Vocal Literature
@@ -3986,7 +3982,7 @@ Credit for participation in these regularly-offered ensembles is available under
 ### COMPOSITION COURSES 
 - MU 195 Music Production
 - MUA 413 Orchestration
-- MUA 423 Saxophone (Adv Std)
+- MUA 423 Advanced Counterpoint
 
 ### CONDUCTING COURSES 
 - MU 285 Conducting I
@@ -4001,24 +3997,24 @@ Credit for participation in these regularly-offered ensembles is available under
 - MU 205 Practicum in Music Education
 - MU 360 Elementary & General Music Methods
 - MU 361 Choral Music Methods
-- MU 362 InstrMusMethChrlTeachr
+- MU 362 Instrumental Mus Methods for Choral
 - MU 363 Instrumental Music Methods
-- MU 364 ChrlMusMethInstTeach
+- MU 364 Choral Music Methods for Instrument
 - MU 421 Student Teaching Elementary Music
 - MU 422 Student Teaching Secondary Music
 - MUA 104K Piano for Music Teachers
 
 ### ADVANCED STUDY IN MUSIC 
 - MUA 490 Senior Recital
-- MU 444 Ind Study-Music
+- MU 444 Independent Study
 
 ### Courses in Music {#sec-courses-in-music}
 **MU Prefix**
 
  **MU 100 Experiencing Music**  
   Provides a framework for informed music listening and for developing an appreciation for a diverse variety of musical styles. Emphasis is on traditional classical music, with some attention to jazz, electronic, and avant-garde styles. Attendance at live concerts is an integral part of the course. This course does not satisfy any of the requirements for a major in music.  
- **MU 101 Music Fundamentals**  
-  An introduction to the materials of music and an understanding of the musical system. The course includes basic keyboard knowledge as well as beginning song writing.  
+ **MU 101 Music Fundamentals I**  
+  Introduces the materials of music and an understanding of the musical system: melody, harmony, notation, songwriting, arranging, aural skills, and technology.  
  **MU 109 Theory of Music I**  
   For students majoring in music and other students with background in music. Develops keyboard harmony, melodic and harmonic dictation, improvisation, four-part writing up to and including dominant seventh chords, and introduction to music notation software. Students seeking a BA in Music or one of the Bachelor Music degrees must also register for an appropriate Aural Skills Lab course. Prerequisite: Music Theory Placement exam or consent of the instructor.  
  **MU 109L Aural Skills Lab I**  
@@ -4032,8 +4028,9 @@ Prerequisite: Music Theory Placement exam. Corequisite: Theory of Music I (MU-10
   Surveys many styles of jazz by studying them in a historical perspective. Listening, discussion, and lecture components are emphasized. (Offered May Term only)  
  **MU 161 Hip Hop Workshop**  
   Blend of seminar and studio sessions focusing on hip-hop repertoire, beat arrangement, and lyrical structure. Additional emphasis on vocal recording and editing proficiency, as well as active listening exercises to better apply music production techniques to original student works. Participation in the creative process is required, and collaboration among students is encouraged.  
- **MU 166 Topics in Music:Non-Western Perspct**  
-  A topics course that explores the music of one of more non-Western cultures, largely from a musicological viewpoint. Topics could include survey courses, such as World Music, or courses focused on the music of one particular continent, country, or sub-group. Prerequisite: consent of instructor. (Offered on an occasional basis)  
+ **MU 166 Music of the World**  
+  MU-166 Music of the World
+Surveys the music of the world, ranging from Classical and Art Music to Traditional and Popular musics of other nationalities and cultures. Emphasis is on examining these musics in their social, cultural, and historical contexts.  
  **MU 195 Music Production**  
   Exploration of audio engineering and recording practices, with special attention to electronic and popular music. Overview of intellectual property in the arts, the evolution of audio technology, and cultural movements that influenced new forms of experimental and commercial music. Students are introduced to the fundamentals of acoustics and sound design through audio production software, with hands-on projects detailing methods for producing music in a variety of genres.  
  **MU 202 Arts Administration**  
@@ -4056,7 +4053,7 @@ with dramatic action. Periodic performance projects (solos, duets, and ensemble 
 dialogue) are supplemented by student research projects. The course is also designed to introduce students to a
 wide-ranging repertoire of available audition material. Additional rehearsal time outside of class is required.  
  **MU 284 Topics in Music**  
-  A course of selected focus that centers on a particular musical issue, problem, theory, or methodology. Topics vary, and they include, but are not limited to, Advanced Form and Analysis, Rock and Roll History, Music of the 1960’s, and Modern Musical Theatre. May be taken more than once for credit, provided the topics are substantially different. Prerequisite: consent of instructor. (Offered on an occasional basis)  
+  Centers on a particular musical issue, problem, theory, or methodology. Topics vary, and they include, but are not limited to, Advanced Form and Analysis, Rock and Roll History, Music of the 1960s, and Modern Musical Theatre. May be taken more than once for credit, provided the topics are substantially different. Prerequisite: consent of instructor. (Offered on an occasional basis)  
  **MU 285 Conducting I**  
   Basic conducting techniques: reading, analysis, and interpretation of choral, band, and orchestral literature. Laboratory experience with college ensembles. Prerequisite: Theory of Music III (MU-215) or consent of instructor.  
  **MU 309 Theory of Music III**  
@@ -4066,17 +4063,17 @@ wide-ranging repertoire of available audition material. Additional rehearsal tim
  **MU 355 Music History & Literature II**  
   Study of western music of the 18th and 19th centuries in Europe and America. Prerequisite: Theory of Music II (MU-125) or consent of instructor.  
  **MU 360 Elementary & General Music Methods**  
-  Objectives, problems, and methods of teaching elementary music and general music in the schools. Course surveys elementary and general music curricula and develops a functional knowledge of: organization and management; fretted and classroom instruments; methods of teaching singing, rhythmic, and listening activities expected. Directed observation in elementary schools required. Prerequisite: Practicum in Music Education (MU-205). (0.5 course credit) (Offered Spring Term)  
+  Objectives, problems, and methods of teaching elementary music and general music in the schools. Course surveys elementary and general music curricula and develops a functional knowledge of: organization and management; fretted and classroom instruments; methods of teaching singing, rhythmic, and listening activities expected. Directed observation in elementary schools required. Pre-or co-requisite: Practicum in Education (EDU-215) or consent of Music Department Chair.  
  **MU 361 Choral Music Methods**  
-  Objectives, problems, and methods of teaching choral music in the schools. General survey of elementary and secondary choral music curricula and develops a functional knowledge of: organization and management; the changing voice; beginning, intermediate, and advanced choral techniques. Directed observation in elementary and secondary schools required. Credit is given for Choral Music Methods (MU-361) or Choral Music Methods for the Instrumental Teacher (MU-364), not both. Prerequisite: Practicum in Music Education (MU-205) (Offered Spring Term)  
- **MU 362 InstrMusMethChrlTeachr**  
+  Objectives, problems, and methods of teaching choral music in the schools. General survey of elementary and secondary choral music curricula and develops a functional knowledge of: organization and management; the changing voice; beginning, intermediate, and advanced choral techniques. Directed observation in elementary and secondary schools required. Prerequisite: Practicum in Education (EDU-215)  
+ **MU 362 Instrumental Mus Methods for Choral**  
   Objectives, problems, and methods of teaching instrumental music in the schools. General survey of elementary and secondary instrumental music curricula. Students are introduced to: concert band and orchestral techniques; jazz band techniques; marching band techniques; beginning, intermediate, and advanced band and orchestral techniques. Credit is given for Instrumental Music Methods for the Choral Teacher (MU-362) or Instrumental Music Methods (MU-363), not both. Prerequisite: Practicum in Music Education (MU-205) (0.5 course credit) (Offered Spring Term)  
  **MU 363 Instrumental Music Methods**  
-  Objectives, problems, and methods of teaching instrumental music in the schools. General survey of elementary and secondary instrumental music curricula and develops a functional knowledge of: organization and management; concert band and orchestral techniques; jazz band techniques; marching band techniques; beginning, intermediate, and advanced band and orchestral techniques. Directed observation in elementary and secondary schools required. Credit is given for Instrumental Music Methods for the Choral Teacher (MU-362) or Instrumental Music Methods (MU-363), not both. Prerequisite: Practicum in Music Education (MU-205). (Offered Spring Term)  
- **MU 364 ChrlMusMethInstTeach**  
+  Objectives, problems, and methods of teaching instrumental music in the schools. General survey of elementary and secondary instrumental music curricula and develops a functional knowledge of: organization and management; concert band and orchestral techniques; jazz band techniques; marching band techniques; beginning, intermediate, and advanced band and orchestral techniques. Directed observation in elementary and secondary schools required. Prerequisite: Practicum in Education (EDU-215).  
+ **MU 364 Choral Music Methods for Instrument**  
   Objectives, problems, and methods of teaching choral music in the schools. General survey of elementary and secondary choral music curricula. Students are introduced to the changing voice and to beginning, intermediate, and advanced choral techniques. Credit is given for Choral Music Methods (MU-361) or Choral Music Methods for the Instrumental Teacher (MU-364), not both. Prerequisite: Practicum in Music Education (MU-205). (0.5 course credit) (Offered Spring Term)  
  **MU 385 Conducting II**  
-  Continuation of Conducting I. Prerequisite: Conducting I (MU-285).  
+  Continuation of Conducting I. Prerequisite: Conducting I (MU-384).  
  **MU 409 Theory of Music IV**  
   Further investigation of tonal music, including jazz harmony, harmonic and formal analysis, the rudiments of 18th-century counterpoint, and an introduction to contemporary music. Prerequisite: Theory of Music III (MU-309) or consent of instructor.  
  **MU 409L Aural Skills Lab IV**  
@@ -4085,7 +4082,7 @@ wide-ranging repertoire of available audition material. Additional rehearsal tim
   Directed observation and student teaching in the first six grades. Scheduled daily for seven weeks, approximately six hours per day. Prerequisite: satisfactory completion of all other requirements for the Bachelor of Music in Music Education. (2.0 course credits) (Offered Fall Term)  
  **MU 422 Student Teaching Secondary Music**  
   Directed observation and student teaching in middle school and high school. Scheduled for seven weeks, approximately six hours per day. Prerequisite: satisfactory completion of all other requirements for the Bachelor of Music in Music Education. (2.0 course credits) (Offered Fall Term)  
- **MU 444 Ind Study-Music**  
+ **MU 444 Independent Study**  
   Independent work on a selected project in music under the direction of a faculty member of the department. May be taken for an X status grade with consent of instructor prior to registration.  Prerequisites: background courses and consent of department chair.  
  **MU 458 Music History & Literature III**  
   Study of the composers and musical developments in Europe and America in the 20th and 21st centuries, together with the influences of music from other world cultures. Prerequisite: Theory of Music II (MU-209) or consent of instructor.  
@@ -4094,18 +4091,20 @@ wide-ranging repertoire of available audition material. Additional rehearsal tim
 
  **MUA 100 Concert Band**  
   Open to all woodwind, brass, and percussion players. The ensemble offers students the opportunity to perform some of the great band repertoire of the 20th and 21st centuries, as well as carefully selected transcriptions of orchestral repertoire. A select Wind Ensemble within the Concert Band occasionally performs additional selections from the contemporary repertoire. The Concert Band tours on a regular basis. (0.3 course credit)  
- **MUA 101 Jazz Ensemble**  
-  Membership determined by an audition of interested saxophone, trombone, trumpet, piano, bass, guitar, drum set, and auxiliary percussion players. The ensemble offers students the opportunity to perform varied selections from the jazz repertoire of the 20th and 21st centuries, as well as the opportunity to improvise in the jazz idiom. The Jazz Ensemble tours on a regular basis and performs with three to five guest artists each year. (0.2 course credit)  
+ **MUA 101 Jazz Band**  
+  MUA-101 Jazz Band
+
+Membership determined by an audition of interested saxophone, trombone, trumpet, piano, bass, guitar, drum set, and auxiliary percussion players. The ensemble offers students the opportunity to perform varied selections from the jazz repertoire of the 20th and 21st centuries, as well as the opportunity to improvise in the jazz idiom. The Jazz Band tours on a regular basis and performs with three to five guest artists each year. (0.3 course credit)  
  **MUA 102 Jazz & Improvisation Lab**  
   Open to all interested musicians. The ensemble offers students the opportunity to perform varied selections from the jazz repertoire of the 20th and 21st centuries, as well as the opportunity to improvise in the jazz idiom. The Lab gives students an outlet to practice a secondary instrument and also allows music education majors the opportunity to rehearse and conduct a jazz ensemble. (0.1 course credit)  
  **MUA 103 Symphony Orchestra**  
   Membership determined by an audition of interested string, woodwind, brass, and percussion players. The ensemble offers students the opportunity to perform varied selections from the symphonic repertoire of the 18th through the 21st centuries, in both full orchestra and string orchestra formats. The Symphony Orchestra also occasionally performs works that feature soloists or combines with the Concert Choir to present masterworks. (0.3 course credit)  
  **MUA 104 Concert Choir**  
-  Membership determined by audition. The ensemble offers students the opportunity to perform a wide variety of repertoire covering many styles from the Renaissance through the 21st centuries. The Concert Choir also occasionally combines with the Symphony Orchestra to present large masterworks, and tours on a regular basis. (0.3 course credit)  
+  Performs a wide variety of repertoire covering many styles from the Renaissance through the 21st centuries, in a large, auditioned, mixed ensemble. The Concert Choir also performs on and off campus, in both formal and informal concert settings and tours on a regular basis. (0.3 course credit)  
  **MUA 105 Crimson Singers**  
-  Presents concerts each term, on and off campus. Open to all interested musicians who sing. The Crimson Singers is a small auditioned, mixed singing ensemble focusing on Broadway, jazz, and popular music styles. Some selections will be choreographed. Participants will gain experience in show choir, jazz, and a cappella singing and performing styles. Previous show choir is preferable; it is not required. Students in the Crimson Singers are also encouraged to enroll in the Concert Choir. Registration for this course is by audition and the consent of the instructor. (0.3 course credit)  
- **MUA 110 Vocal Jazz Ensemble**  
-  Membership determined by audition. The Vocal Jazz Ensemble offers students the opportunity to perform in a wide variety of vocal and choral styles, with an emphasis on repertoire for smaller vocal ensemble including vocal jazz, madrigals, pop, and music of other cultures. The Vocal Jazz Ensemble may perform either on or off campus and tours on an occasional basis. (0.2 course credit)  
+  Performs a wide variety of repertoire from the Renaissance through the 21st centuries in a small auditioned, mixed singing ensemble. Crimson Singers performs on and off campus, in both formal and informal concert settings and tours on a regular basis. (0.3 course credit)  
+ **MUA 110 Coe Sho Cho**  
+  Provides an opportunity, through rehearsal and performance, to experience the combination of popular, musical theater, contemporary a cappella and jazz choral literature, as well as choreography, in a medium-sized mixed ensemble. Membership is determined by audition. While previous show choir experience is preferable, it is not required. Students in Coe Sho Cho are also encouraged to enroll in the Concert Choir. Coe Sho Cho performs on and off campus, in both formal and informal concert settings and tours on a regular basis. (0.3 course credit)  
  **MUA 111 Coe Handbell Ensemble**  
   Provides students the unique opportunity to play English Handbells in a team-ensemble experience. The course focuses on basic through advanced ringing techniques, music-reading skills, rhythmic skills, and coordination skills. Prerequisites: Music Fundamentals (MU-055) or Theory of Music I (MU-115), prior experience in a handbell or other music ensemble, or consent of instructor. (0.20 course credit)  
  **MUA 130V MusicalTheatreProductionExperience**  
@@ -4123,11 +4122,11 @@ May be taken more than once. Prerequisite: an audition. (0.5 course credit)
  **MUA 284 Applied Music: Special Topics**  
   Private study in Applied Music topics not offered in MUA course listings for music majors or other interested and qualified students. The course provides extended, yet tangible, instruction and/or research pertaining to the student's specific applied music specialty or related music interest area. Prerequisites: consent of instructor and department chair. (0.3 and 0.6 course credit)  
  **MUA 413 Orchestration**  
-  None  
- **MUA 423 Saxophone (Adv Std)**  
-  None  
+  nan  
+ **MUA 423 Advanced Counterpoint**  
+  Strict academic counterpoint as a basis for freer contrapuntal writing in two, three, and four parts. Invertible counterpoint, imitation, invention, canon, and fugue. Free composition in contrapuntal style. Prerequisite: Theory of Music III (MU-309) or consent of instructor. (0.6 course credit)  
  **MUA 490 Senior Recital**  
-  A full-length senior recital in composition or performance area. S/U basis only. Prerequisite: consent of instructor.  
+  A full-length senior recital in composition or performance area. P/NP basis only. Prerequisite: consent of instructor.  
 
 
 
@@ -4170,7 +4169,7 @@ Concurrent completion of a primary major in biology, chemistry, or psychology is
 		- PSY 235 Abnormal Psychology
 		- PSY 315 Learning & Behavior
 		- PSY 325/325L Health Psychology and Laboratory (WE)
-		- PSY 455 Advanced Experimental Psychology (when research topic is appropriate, as determined by the neuroscience administrative coordinator)
+		- PSY 455 Directed Research Experience (when research topic is appropriate, as determined by the neuroscience administrative coordinator)
 		- PSY 464 Seminar in Psychology (when seminar topic is appropriate, as determined by the neuroscience administrative coordinator)
 
 
@@ -4247,13 +4246,13 @@ Statistics |	PSY 300 Stat Methods and Data Analysis **or**
 ### Courses in Nursing
 
  **NUR 100 Nursing Issues**  
-  An introduction to the nursing degree program. The seminar provides an opportunity for pre-nursing students to interact with nursing students and faculty to explore the process of becoming a nurse. Topics include professional role development and current issues in clinical nursing practice. Pre-nursing students must enroll each term. May be taken for credit a maximum of two times. Prerequisite: first-year student. (0.2 course credit)  
+  An introduction to the nursing degree program. The seminar provides an opportunity for pre-nursing students to interact with nursing students and faculty to explore the process of becoming a nurse. Topics include professional role development and current issues in clinical nursing practice. Pre-nursing students must enroll each term. May be taken more than once for credit for a maximum of 0.4 credit. Prerequisite: first-year student. (0.2 course credit)  
  **NUR 137 Human Sexuality**  
 See also PSY 137 Human Sexuality , @sec-psychology  
-  See also Psychology (PSY-137), p. 170
+  See also Psychology (PSY-137), 
 Examines human sexuality from the psychosocial, biophysiological, and cultural perspective. Topics include, but are not limited to, cultural and historical influences on our current understanding and attitudes toward the human sexual experience; the development of gender roles as they impact upon political, work, and social relationships; cultural aspects of sexuality including intimacy, courtship, marriage, and procreation; and sexuality during developmental changes and alterations in health such as infertility, pregnancy, abortion, cancer, AIDS, and others. Prerequisite: sophomore standing.  
  **NUR 200 Nursing Issues II**  
-  An introduction to the nursing profession. The seminar provides an opportunity for pre-nursing students to explore the profession of nursing through discussions regarding the domains of nursing knowledge, nursing roles, and nursing skills. May be taken for credit twice. Prerequisite: Nursing Issues (NUR-100) or sophomore standing. (0.2 course credits)  
+  An introduction to the nursing profession. The seminar provides an opportunity for pre-nursing students to explore the profession of nursing through discussions regarding the domains of nursing knowledge, nursing roles, and nursing skills. May be taken more than once for credit for a maximum of 0.4 credit. Prerequisite: Nursing Issues (NUR-100) or sophomore standing. (0.2 course credit)  
  **NUR 215 Devel Relationship**  
   Investigates theories for successful relationships. The emphasis is on self learning and application of principles involved in healthy and dysfunctional relationships. The students critically review popular literature versus scientific research related to relationship theory. Prerequisite: sophomore standing.  
  **NUR 268 Cult Diver & Health**  
@@ -4261,37 +4260,37 @@ Examines human sexuality from the psychosocial, biophysiological, and cultural p
  **NUR 297 Parent Child Relationships**  
   A study of the historical, cultural, ethnic, and religious perspectives on parenting in America, the effects of stress and change on parenting ability, and the challenges and rewards of parenting as children and parents move across the lifespan and experience changes in family composition (blended, single-parent, gay and lesbian), health (sandwich generation and aging), and lifestyle. Prerequisite: sophomore standing.  
  **NUR 300 Art & Science of Nursing**  
-  Introduces the nursing student to the nursing profession. The concepts of . professional responsibility, accountability, human development, spirituality, values and beliefs, diversity, and death and dying are discussed. Students learn to apply the nursing process, principles of teaching/learning, and therapeutic communication in the practice of individualized nursing care. Preventative nursing strategies in caring for individuals with reduced mobility are introduced. Prerequisite: admission to the Bachelor of Science in Nursing degree.  
+  Introduces the nursing student to the nursing profession. The concepts of—professional responsibility, accountability, human development, spirituality, values and beliefs, diversity, and death and dying are discussed. Students learn to apply the nursing process, principles of teaching/learning, and therapeutic communication in the practice of individualized nursing care. Preventative nursing strategies in caring for individuals with reduced mobility are introduced. Prerequisite: admission to the Bachelor of Science in Nursing Program; previous or concurrent registration in the following courses: Information Literacy and Management (WE) (NUR-305), Pathophysiology and Assessment (NUR-315/NUR-315L/NUR-315C) and Pharmacological Principles (NUR-360).  
  **NUR 305 Information Literacy & Management**  
-  Introduces the student to the intellectual language, vocabulary, and expectations used in making nursing decisions in practice. Discusses concepts such as data gathering using search methods, organizing, synthesizing and critical evaluation Data information, knowledge, and standardized nursing language are discussed. Prerequisite: acceptance into the Bachelor of Science Nursing degree or consent of instructor. (0.5 course credits)  
+  Introduces the student to the intellectual language, vocabulary, and expectations used in making nursing decisions in practice. Discusses concepts such as data gathering using search methods, organizing, synthesizing and critical evaluation. Data information, knowledge, and standardized nursing language are discussed. Prerequisite: admission into the Bachelor of Science Nursing Program; previous or concurrent registration in the following courses: Art and Science of Nursing (NUR-300), Pathophysiology and Assessment (NUR-315/NUR-315L/NUR-315C) and Pharmacological Principles (NUR-360). (0.5 course credits)  
  **NUR 315/315L/315C Pathophysiology and Assessment**  
-  Provides the foundation for the integration of assessment data and pathophysiological concepts in the application of the nursing process. Focuses on comprehensive health assessment of diverse individuals across the lifespan. Assessment skills, health histories, and physical exams are practiced.  Clinical component provides an opportunity to reinforce health assessment skills with diverse individuals across the lifespan as well as implementing safe, basic patient-centered care. Prerequisites: admission to the Bachelor of Science in Nursing degree; previous or concurrent registration in Art and Science of Nursing (NUR-300). (2.0 course credits)  
+  Provides the foundation for the integration of assessment data and pathophysiological concepts in the application of the nursing process. Focuses on comprehensive health assessment of diverse individuals across the lifespan. Assessment skills, health histories, and physical exams are practiced. Clinical and laboratory components provide opportunities to reinforce psychomotor skills and health assessment skills with diverse individuals across the lifespan as well as implementing safe, basic patient-centered care. Lab and clinical are P/NP basis only. Prerequisites: admission to the Bachelor of Science in Nursing Program; previous or concurrent registration in the following course: Art and Science of Nursing (NUR-300), Information Literacy and Management (WE) (NUR-305), Pharmacological Principles (NUR-360). (2.0 course credits)  
  **NUR 345 Mental Health Nursing**  
-  Introduces the nursing student to the care of persons with at-risk behavioral responses to life processes. The student analyzes theoretical and empirical knowledge from liberal arts and sciences as it applies to diagnosing and treating at-risk behavioral responses to life processes. The students study such topics as alterations in cognition and thought processes, coping responses, self-perception and violence toward self and others. A major component is the use of therapeutic communication skills to provide support that reduce risk, promote positive coping, and reinforce accurate perceptions in patients with alterations in mental health. Prerequisite: Art and Science of Nursing (NUR-300).  
+  Focuses on the knowledge and skills necessary to provide safe, holistic care for diverse individuals and families experiencing actual or potential alterations in mental health. Students explore specific mental health problems and how to apply evidence-based practice when caring for individuals and families across the life span, as well as the importance of self-analysis, respect for diversity, professional accountability, and ethical responsibility. Students develop communication techniques necessary to promote client well-being and safety, as well as collaborate with the health-care team. Clinical application includes caring for individuals experiencing alterations in mental health in a variety of settings. Prerequisite: admission into the Bachelor of Science Nursing Program; Art and Science of Nursing (NUR-300), Information Literacy and Management (WE) (NUR-305), Pharmacological Principles (NUR-360), and Pathophysiology and Assessment (NUR-315/NUR-315L/NUR-315C).  
  **NUR 355/355L/355C Introductory Concepts in Nursing**  
-  Focuses on holistic care of diverse individuals and families across the life span. Applies the nursing process, emphasizing primary, secondary, and tertiary nursing interventions. in the care of individuals experiencing actual or risk for alterations in renal, gastrointestinal, and musculoskeletal systems. Surgical, dietary, and pharmacological management is integrated. Clinical components reinforce application of the nursing process in the delivery of safe, evidence-based, holistic care.. Prerequisites: Art and Science of Nursing (NUR-300); Pathophysiology and Assessment/Clinical Application (NUR-315); Information Management and Patient Care Technology (NUR-305). (2.0 course credits)  
+  Focuses on holistic care of diverse individuals and families across the life span. Applies the nursing process, emphasizing primary, secondary, and tertiary nursing interventions. in the care of individuals experiencing actual or risk for alterations in renal, gastrointestinal, and musculoskeletal systems. Surgical, dietary, and pharmacological management is integrated. Clinical and laboratory components provide opportunities to reinforce psychomotor skills and application of the nursing process in the delivery of safe, evidence-based, holistic care. Lab and clinical are P/NP basis only. Prerequisites: admission into the Bachelor of Science Nursing Program; Art and Science of Nursing (NUR-300); Information Literacy and Management (WE) (NUR-305); Pharmacological Principles (NUR-360), and Pathophysiology and Assessment (NUR-315/NUR-315L/NUR-315C). (2.0 course credits)  
  **NUR 360 Pharmacological Principles**  
-  Basic concepts and principles of administration, pharmacokinetics, pharmacodynamics, and application to basic biophysical concepts for specific pharmacological interventions. A brief overview of the mechanisms of action of select classifications of drugs is included. Prerequisite: acceptance into the Bachelor of Science in Nursing Degree or consent of instructor. (0.5 course credits)  
+  Basic concepts and principles of administration, pharmacokinetics, pharmacodynamics, and application to basic biophysical concepts for specific pharmacological interventions. A brief overview of the mechanisms of action of select classifications of drugs is included. Prerequisite: admission into the Bachelor of Science in Nursing Degree or consent of instructor Program; previous or concurrent registration in the following course: Art and Science of Nursing (NUR-300), Information Literacy & Management (WE) (NUR-305), and Pathophysiology and Assessment (NUR-315/NUR-315L/NUR-315C). (0.5 course credits)  
  **NUR 375 Legal & Ethical Issues in Nursing**  
-  Focuses on the complexity of moral, legal, and ethical issues in health care. Topics include the legislative and regulatory processes governing healthcare, appraisal of legal risks, ethical principles, current ethical debates in healthcare, and developing trends and ethical conflicts. Students examine and explore one topic in depth. Prerequisite:acceptance into the Bachelor of Science Nursing Degree or consent of instructor .  
+  Focuses on the complexity of moral, legal, and ethical issues in health care. Topics include the legislative and regulatory processes governing healthcare, appraisal of legal risks, ethical principles, current ethical debates in healthcare, and developing trends and ethical conflicts. Students examine and explore one topic in depth. Prerequisite: admission into the Bachelor of Science Nursing Program; Art and Science of Nursing (NUR-300), Information Literacy and Management (WE) (NUR-305), Pharmacological Principles (NUR-360), and Pathophysiology and Assessment (NUR-315/NUR-315L/NUR-315C).  
  **NUR 387 Alternative Therapies for Hlth/Heal**  
   Examines available alternative and complimentary therapies. Risks and benefits of these modalities are assessed to determine if there are solid, scientific rationales for them. Therapies include dietary supplements, mind-body interventions (e.g., meditation), body based methods (e.g., massage), and energy therapies (e.g., Reiki). Prerequisite: sophomore standing.  
  **NUR 415/415L/415C Advanced Concepts in Nursing**  
-  Advances and continues the focus of holistic care for diverse individuals, families, groups, and populations across the life span. Applies the nursing process, emphasizing primary, secondary and tertiary nursing interventions, in care of individuals experiencing actual or risk for alterations in integumentary, pulmonary, cardiovascular, endocrine, sensory/neurological, and immune systems. Surgical, dietary and pharmacological management is integrated. Clinical components reinforce application of the nursing process in the delivery of safe, evidence-based, holistic, patient-centered care. Prerequisites: Introductory Concepts in Nursing/Clinical Application (NUR-355). (2.0 course credits)  
+  Advances and continues the focus of holistic care for diverse individuals, families, groups, and populations across the life span. Applies the nursing process, emphasizing primary, secondary and tertiary nursing interventions, in care of individuals experiencing actual or risk for alterations in integumentary, pulmonary, cardiovascular, endocrine, sensory/neurological, and immune systems. Surgical, dietary and pharmacological management is integrated. Clinical and laboratory components provide opportunities to reinforce psychomotor skills and application of the nursing process in the delivery of safe, evidence-based, holistic, patient-centered care. Lab and clinical are P/NP basis only. Prerequisite: admission into the Bachelor of Science Nursing Program; Mental Health Nursing (NUR-345), Legal & Ethical Issues in Nursing (WE) (NUR-375), Pharmacological Principles (NUR-360), Introductory Concepts in Nursing/Clinical Application (NUR-355/-355L/-355C). (2.0 course credits)  
  **NUR 425 Nursing Research**  
-  Study of the research process, the language of research, hypothesis formulation and testing, data collection, and analysis as they relate to the profession of nursing. Discussion of the nurse as a consumer of research with critical evaluation of selected research endeavors. Nursing research project required. The intent of this learning experience is to expose the student to the basic steps of the research process and their relationship to nursing. Prerequisites: R.N., junior, or senior standing in the nursing program, and Statistical Methods in the Behavioral Sciences (PSY-215) or Statistical Reasoning-Statistical Foundations (STA-100) (7 weeks) and Statistical Reasoning IIA (STA-110) (7 weeks).  
+  Explores the development of evidence-based nursing practice. Discusses research methods for gathering evidence. Explains how evidence is developed and applied to practice. Steps of the research process are addressed. Elements in determining the validity and reliability of research and levels of evidence are discussed. Prerequisites: admission into the Bachelor of Science Nursing Program; Information Literacy and Management (NUR-305), Mental Health Nursing (NUR-345), Legal & Ethical Issues in Nursing (WE) (NUR-375), Introductory Concepts in Nursing (NUR-355/355L/-355C).  
  **NUR 430 Community & Population Oriented Nur**  
-  Focuses on community and population health promotion, and disease/injury prevention. Community oriented nursing roles are discussed. Topics include levels of prevention, risk analyses, harm reduction, causality, epidemiology, biostatistics, study designs, and sources of data applied to population health. Current issues related to disease control and surveillance, screening programs, clinical decision-making, health planning, and evaluation are addressed. Clinical application includes community observation experiences. Prerequisite: previous or concurrent registration in Nursing Research (NUR-425).  
+  Focuses on community and population health promotion, and disease/injury prevention. Community oriented nursing roles are discussed. Topics include levels of prevention, risk analyses, harm reduction, causality, epidemiology, biostatistics, study designs, and sources of data applied to population health. Current issues related to disease control and surveillance, screening programs, clinical decision-making, health planning, and evaluation are addressed. Clinical application includes community observation experiences. Prerequisite: Admission into the Bachelor of Science Nursing Program; Mental Health Nursing (NUR-345), Legal & Ethical Issues in Nursing (WE) (NUR-375), Introductory Concepts in Nursing (NUR-355/-355L/-355C).  
  **NUR 431 Wellness in Aging & Chronicity**  
-  Examines normal versus abnormal aspects of the aging process. Common health problems of the elderly are discussed. Addresses evidence-based strategies to promote wellness and to assist those living with chronic illnesses. Explores community resources to meet the holistic health needs of diverse individuals, groups, and families. Topics include the impact of culture, gender, stigma, and socioeconomic status on communication and care. Clinical application includes well elderly visits in the community. Prerequisite: Advanced Concepts in Nursing: Clinical Application (NUR-415) or Community and Population Oriented Nursing (NUR-430).  
+  Examines normal versus abnormal aspects of the aging process. Common health problems of the elderly are discussed. Addresses evidence-based strategies to promote wellness and to assist those living with chronic illnesses. Explores community resources to meet the holistic health needs of diverse individuals, groups, and families. Topics include the impact of culture, gender, stigma, and socioeconomic status on communication and care. Clinical application includes well elderly visits in the community. Prerequisite: Admission into the Bachelor of Science Nursing Program; Advanced Concepts in Nursing (NUR-415/-415L/-415C), Community and Population Oriented Nursing (NUR-430), and Nursing Research (WE) (NUR-425).  
  **NUR 444 Ind Study-Nursing**  
   Guided study of individually chosen topic in nursing with a nursing department faculty member. May be taken for an X status grade with consent of instructor prior to registration. Prerequisites: junior standing and consent of instructor.  
  **NUR 455/455C Leadership and Contemporary Issues in Nursing (WE)**  
   Focuses on leadership skills, knowledge, and creativity to promote and manage safe, holistic patient-centered care for diverse individuals, families, groups, and populations across the lifespan. Concepts include management and organizations, quality improvement, change process, political/organizational/micro systems, communication/collaboration, fiscal/ human resource management, delegation, prioritization, decision making, and professional/self-care management. Nursing theories/frameworks are discussed. Clinical components provide an opportunity to collaborate with patients, families, and health care team members and to develop leadership roles. Lab and clinical are P/NP basis only. Prerequisite: admission into the Bachelor of Science Nursing Program; Advanced Concepts in Nursing (NUR-415/-415L/-415C), Community and Population Oriented Nursing (NUR-430), and Nursing Research (WE) (NUR-425). (2.0 course credits)  
  **NUR 494 Internship in Nursing**  
-  A clinical practicum on an inpatient health care unit supervised by a faculty member of the department and a professionally prepared R.N. preceptor. A minimum of 140 hours on-site experience is required. S/U basis only. Prerequisite: Introductory Concepts in Nursing/Clinical Applications (NUR-355/-355L) and consent of department chair.  
+  A clinical practicum on an inpatient health care unit supervised by a faculty member of the department and a professionally prepared R.N. preceptor. A minimum of 140 hours on-site experience is required. P/NP basis only. Prerequisite: Introductory Concepts in Nursing (NUR-355/-355L/-355C) and consent of department chair.  
  **NUR 495 Maternal Newborn Nursing**  
-  Analyzes previously learned nursing knowledge and skills to provide safe, holistic patient-centered care for diverse individuals and families during normal and high risk pregnancy, labor, delivery, and the postpartum-neonatal period of life. Includes concepts and issues in reproductive health of men and women using a developmental framework. Surgical, dietary, and pharmacological management are integrated. Clinical component includes patient simulation experiences. Prerequisite: Advanced Concepts in Nursing/Clinical Application (NUR-415).  
+  Analyzes previously learned nursing knowledge and skills to provide safe, holistic patient-centered care for diverse individuals and families during normal and high-risk pregnancy, labor, delivery, and the postpartum-neonatal period of life. Includes concepts and issues in reproductive health of men and women using a developmental framework. Surgical, dietary, and pharmacological management are integrated. Clinical component includes patient simulation experiences. Prerequisite: admission into the Bachelor of Science Nursing Program; Advanced Concepts in Nursing (NUR-415/-415L/415C), and Nursing Research (WE) (NUR-425).  
 
 
 
@@ -4339,7 +4338,7 @@ Concurrent completion of a primary major in psychology is required.
 4. **One** of the following, subject to prior approval by the Organizational Science administrative coordinator:
 	- BUS 454 Research in Business (with business administration departmental approval)
 	- BUS 494 Internship in Business (with business administration departmental approval)
-	- PSY 455 Advanced Experimental Psychology 
+	- PSY 455 Directed Research Experience 
 	- PSY 494 Internship in Psychology
 
 
@@ -4398,7 +4397,7 @@ The following courses, all numbered PHL-105, are different versions of the same 
 
 **Category B: Ethical and Political Issues**  
  **PHL 128 Morality & Moral Controversies**  
-  A critical examination of important moral issues facing contemporary society. The course uses a variety of common ethical theories. Possible topics include environmental ethics, euthanasia, animal rights, humanitarian aid, abortion, and capital punishment.  
+  Examines important moral issues facing contemporary society. The course uses a variety of common ethical theories. Possible topics include environmental ethics, euthanasia, animal rights, humanitarian aid, abortion, and capital punishment.  
  **PHL 138 Freedom, State, and Society**  
   Addresses questions of our relation to society and to the state in particular. How much freedom should individuals be given over their own lives? What would an ideal society look like? What demands could social and political institutions legitimately make on us in the name of social order? Works from such philosophers as Plato, Rousseau, and Marx may be considered alongside literary texts such as Utopia or Brave New World.  
  **PHL 165 Bio-medical Ethics**  
@@ -4408,18 +4407,17 @@ The following courses, all numbered PHL-105, are different versions of the same 
 
 **Category C: Logic**  
  **PHL 115 Logic**  
-  An introduction to the discipline of logic on an elementary level. This course introduces skills that are essential to good critical reasoning—how to detect forms of arguments, how to test for validity, and how to construct valid arguments. This course focuses on both formal and informal logic.  
+  Introduces the discipline of logic on an elementary level. This course teaches skills that are essential to good critical reasoning—how to detect forms of arguments, how to test for validity, and how to construct valid arguments. This course focuses on both formal and informal logic.  
 
 ##### **Intermediate courses** {.unnumbered}
 
  **PHL 206 Buddhist Thought**  
 See also REL 206 Buddhist Thought , @sec-religion  
-  A survey of major issues in Buddhist philosophy, including ethics, emptiness, idealism, the nature of mind, and the nature of reality. The course focuses on Indian Buddhist philosophical schools and also explores distinctive philosophical ideas from Buddhist traditions in China, Japan, and Tibet. 
-Prerequisite: Eastern Religions (REL-036), or Buddhism (REL-116), or consent of instructor.  
+  A survey of major issues in Buddhist philosophy, including ethics, emptiness, idealism, the nature of mind, and the nature of reality. The course focuses on Indian Buddhist philosophical schools and also explores distinctive philosophical ideas from Buddhist traditions in China, Japan, and Tibet. Prerequisite: Eastern Religions (REL-106), Buddhism (REL-116), or consent of instructor. (Offered on an occasional basis.)  
  **PHL 210 Topics in Philosophy**  
-  An examination of a selected topic in philosophy. Topics vary depending on the instructor. May be taken more than once for credit, provided the topics are substantially different.  
+  Examines a selected topic in philosophy. Topics vary depending on the instructor. May be taken more than once for credit, provided the topics are substantially different.  
  **PHL 220 Ancient Greek Philosophy**  
-  A survey of the central ideas and figures in the philosophy of the ancient Greek world. Figures studied include the pre-Socratic philosophers, Socrates, Plato, and Aristotle.  
+  Surveys of the central ideas and figures in the philosophy of the ancient Greek world. Figures studied include the pre-Socratic philosophers, Socrates, Plato, and Aristotle.  
  **PHL 230 Medieval Philosophy**  
   A survey of the major philosophical and theological ideas of the Middle Ages. Special emphasis is placed on the writings of such thinkers as Augustine, Anselm, and Thomas Aquinas. (This course is also applicable to the major in Religion.)  
  **PHL 235 Philosophy of Science**  
@@ -4431,39 +4429,39 @@ Prerequisite: Eastern Religions (REL-036), or Buddhism (REL-116), or consent of 
  **PHL 255 Existentialism**  
   An examination of the writings of major figures representing modern existentialist views. This course includes both philosophical and literary texts, primarily from authors of the 20th century, such as Heidegger, Sartre, and Camus, and also traces the origins of this movement from 19th century figures, such as Kierkegaard and Nietzsche. Readings will explore themes such as finitude, authenticity, the absurd, bad faith, freedom and responsibility.  
  **PHL 265 Political Philosophy**  
-  An investigation of the central issues in social and political philosophy concerning the individual’s relation to society and to the state in particular. Questions may include: on what basis can states legitimately exercise authority over individuals? What are the proper ends and limits of state authority? What principles should our society pursue in allocating goods such as property, education, health, and welfare?  
+  Examines the central issues in social and political philosophy concerning the individual’s relation to society and to the state in particular. Questions may include: on what basis can states legitimately exercise authority over individuals? What are the proper ends and limits of state authority? What principles should our society pursue in allocating goods such as property, education, health, and welfare?  
  **PHL 270 Ethical Theory**  
   An examination of central normative and meta-ethical theories. Some questions that may be addressed in the course are: should we seek to maximize the happiness of the universe in whatever we do? Are some actions good in themselves regardless of their consequences? Are there absolute moral truths? Or, are all moral truths relative? What justifies our moral claims, if anything does? Prerequisite: at least one previous course in philosophy or consent of instructor.  
  **PHL 277 Philosophy of Gender & Race**  
   An examination of various issues involving the manner in which gender and race have been conceptualized in Western thought. This course considers ways in which gender and race pose problems for traditional conceptions of justice and equality will explore a variety of responses to these challenges by social and political theorists.  
  **PHL 285 Law, Morality & Punishment**  
-  An introduction to the central issues in the philosophy of law. This course includes a survey of central theories on the nature of law, such as natural law, positive law, and legal realism. It also covers such topics as the relationship between law and morality and various philosophical views on the nature and justification of punishment.  
+  Addresses key issues in the philosophy of law. Topics may include issues of both distributive justice and retributive justice, the proper limits of state authority in restricting individual liberty, and civil disobedience. Questions addressed in the course may include: On what principled basis should wealth be distributed in society? On what basis is the punishment of persons justified and what forms should punishment take? Should we abolish institutions of punishment? On what principled basis should the state be allowed to infringe upon individual liberty? What constitutes civil disobedience to the laws and under what conditions is civil disobedience justified, if ever?  
 
 ##### **Advanced seminars** {.unnumbered} 
  **PHL 305 Contemporary Continental Philosophy**  
   An examination of central philosophical topics and themes of philosophy on the European continent since 1900 e.g., structuralism, critical theory, and post-structuralism. Readings are drawn from such philosophers as Saussure, Habermas, Derrida, Foucault, and Lyotard. Prerequisite: two courses in philosophy or consent of instructor.  
  **PHL 315 Advanced Topics in Philosophy**  
-  An examination of a selected topic in philosophy. Topics vary depending on the instructor. May be repeated for credit, provided the topics are substantially different. Prerequisite: two courses in philosophy or consent of instructor.  
+  Examines a selected topic in philosophy. Topics vary depending on the instructor. May be taken more than once for credit, provided the topics are substantially different. Prerequisites: two courses in philosophy or consent of instructor.  
  **PHL 320 Seminar in Ethics**  
-  An advanced research seminar dealing with central topics in normative ethics and/or metaethics. Topics addressed may include: utilitarianism, Kantianism, Aristotelian virtue theory, moral realism, ethical relativism, etc. In this course emphasis is placed on the development of student research projects on central topics in ethical theory. Prerequisite: two courses in philosophy or consent of instructor.  
+  Examines central topics in normative ethics and/or metaethics. Topics addressed may include: utilitarianism, Kantianism, Aristotelian virtue theory, moral realism, ethical relativism, etc. In this course emphasis is placed on the development of student research projects on central topics in ethical theory. Prerequisite: two courses in philosophy or consent of instructor.  
  **PHL 335 Late Modern Philosophy**  
   An examination of the works of influential European thinkers of the late 18th and 19th century. The course begins with the study of German idealism, a movement that includes philosophers such as Kant, Fichte, and Hegel, followed by an examination of later 19th-century figures such as Marx and Nietzsche. Prerequisite: at least one previous course in philosophy or consent of instructor.  
  **PHL 345 Philosophy of Language**  
   Questions how linguistic signs allow us to communicate meaning. Does meaning become established by reference to objective content that is independent of individual speakers? Or, is meaning a function of private mental states in the minds of language users? These questions belong to the field of semantics or philosophy of language, which studies the nature of meaning and reference in linguistic systems. Course materials primarily consists of works from contemporary philosophy. Prerequiste: two courses in philosophy or consent of instructor.  
- **PHL 355 Seminar in Metaphysics**  
-  An advanced research seminar dealing with cetral topics in metaphysics. Topics addressed may include: the nature and existence of God, the nature of the self and personal identity, free will, etc. In this course emphasis is placed on the development of student research projects on central topics in metaphysics. Prerequisite: two courses in philosophy or consent of instructor.  
+ **PHL 355 Seminar Metaphysics & Epistemology**  
+  Examines central topics in metaphysics and epistemology. Metaphysical topics addressed may include: the nature and existence of God, the nature of the self and personal identity, free will, etc. Epistemological topics addressed may include the analysis of knowledge, theories of justified belief, the philosophy of perception, etc. In this course emphasis is placed on the development of student research projects on central topics in metaphysics or epistemology. Prerequisite: two courses in philosophy or consent of instructor.  
  **PHL 365 Philosophy of Art and Aesthetic Exp**  
-  None  
+  Investigates the nature of art and aesthetic experience. Are there objective standards for judging art? What does it mean to have an aesthetic experience? What role does the ugly or horrible play in aesthetic life? Why does art primarily rely on visual or auditory media—can there be an aesthetics of touch, taste, or smell? These questions belong to the study of aesthetics, which focuses on the nature of art and experiences associated with artistic media. Course content includes both classical and contemporary works in aesthetics. Prerequisites: two courses in philosophy or consent of instructor.  
  **PHL 394 Directed Learning in Philosophy**  
-  A course of readings selected by the student and instructor to fit the individual student’s particular interests and educational needs. Readings may focus on either a philosophical problem or one or more philosophers. Prerequisite: consent of instructor.  
+  Provides the opportunity for a student to design a course of study fitting the individual student’s particular interests and educational needs. Readings may focus on either a philosophical problem or one or more philosophers. Prerequisite: consent of instructor.  
  **PHL 444 Ind Study-Philos**  
-  Independent study in some philosophical problem or the thought of some major philosopher, under the direction of a faculty member of the department. May be taken for an X status grade with consent of instructor prior to registration.  Prerequisite: consent of instructor.  
+  Allows for the independent study of some philosophical problem or the thought of some major philosopher, under the direction of a faculty member of the department. May be taken for an X status grade with consent of instructor prior to registration. Prerequisite: consent of instructor.  
  **PHL 464 Seminar in Philosophy of Religion**  
   An advanced research seminar dealing with central topics in the philosophy of religion. Topics addressed may include: the evidence for God, non-evidential defenses of the rationality of religious belief, miracles, the problem of evil, etc. In this course emphasis is placed on the development of student research projects on central topics in the philosophy or religion. Prerequisites: two courses in philosophy or consent of instructor.  
  **PHL 490 Philosophy Colloquium**  
-  Majors are required to submit 10-15 pages of finished philosophical prose, and present their work orally to students and faculty. Although the Colloquium is usually taken during Spring Term of the senior year, it is open to all juniors and seniors with appropriate background in philosophy. Satisfactory completion of the Colloquium is required for graduation with a major in philosophy. S/U basis only.  
+  Requires students majoring in philosophy to submit 10–15 pages of finished philosophical prose, and present their work orally to students and faculty. Although the Colloquium is usually taken during Spring Term of the senior year, it is open to all juniors and seniors with appropriate background in philosophy. Satisfactory completion of the Colloquium is required for graduation with a major in philosophy. P/NP basis only. (0.0 credits)  
  **PHL 494 Internship in Philosophy**  
-  Exploration of a career area related to the student’s interest in philosophy supervised by a faculty member of the department in cooperation with the Internship Specialist. A minimum of 140 hours on-site experience is required. S/U basis only. This course does not satisfy any of the requirements for a major in philosophy. Prerequisites: declared major in philosophy, junior standing, and consent of department chair.  
+  Involves the exploration of a career area related to the student’s interest in philosophy supervised by a faculty member of the department in cooperation with the Internship Specialist. A minimum of 140 hours on-site experience is required. P/NP basis only. This course does not satisfy any of the requirements for a major in philosophy. Prerequisites: declared major in philosophy, junior standing, and consent of department chair.  
 
 
 ## Physical Education (See Kinesiology, @sec-kinesiology)
@@ -4485,14 +4483,14 @@ A major in physics requires a minimum cumulative 2.0 GPA in all courses counted 
  
 2. PHY 195/195L General Physics II & Laboratory 
 
-3. PHY 231 Mathematical Methods for Physicists 
+3. PHY 231 Math Mthds Physicists & Engineers 
 
 4. PHY 235/235L Modern Physics & Laboratory (WE) 
 
 5. PHY 265 Electromagnetism 
 
 6. **Two** of the following courses:
-	- PHY 275 Mechanics Formulations
+	- PHY 275 Classical Mechanics
 	- PHY 315 Thermodynamics & Stat Mech
 	- PHY 335 Quantum Mechanics
 	- PHY 425 Solid State Physics
@@ -4521,7 +4519,7 @@ A minor in Physics requires a cumulative 2.0 GPA in all courses counted toward t
 
 ### Courses in Physics 
  **PHY 105 Physics: An Historical Approach**  
-  A course emphasizing important developments in physics from the time of Aristotle to the 20th century. Special attention is given to significant conceptual developments and major technological advances. Readings are selected from writings of some of the major figures in the history of physics, as well as modern commentators. The class experience includes reenactments of some historically significant experiments.  
+  Introduces important developments in physics from the time of Aristotle to the 20th century. Special attention is given to significant conceptual developments and major technological advances. Readings are selected from writings of some of the major figures in the history of physics, as well as modern commentators. The class experience includes reenactments of some historically significant experiments. This course satisfies the non-lab science course requirement.  
  **PHY 114/114L Modern Astronomy & Laboratory**  
   Introduces the objects and phenomena found in the universe, including the solar system, planets, moons, comets, meteors, the sun, stars, birth and death of stars, neutron stars, pulsars, black holes, galaxies, quasars, and cosmological evolution. Laboratory activities required. Lab is P/NP basis only. This course satisfies the general education laboratory science requirement. Prerequisite: competence in algebra.  
  **PHY 121 Everyday Physics**  
@@ -4529,7 +4527,7 @@ A minor in Physics requires a cumulative 2.0 GPA in all courses counted toward t
  **PHY 155/155L Electronics & Laboratory**  
   Introduce to beginners basic ideas of current, voltage, resistance; Ohm’s law and DC circuit analysis; the diode, the transistor amplifier, oscillators; integrated circuits. Much construction of circuits. Includes one two-hour, (0.0 course credit) laboratory weekly. Lab is P/NP basis only. This course satisfies the general education laboratory science requirement. Prerequisite: competence in algebra  
  **PHY 161 Energy: Science and Technology**  
-  The physics and technology of energy generation, consumption, and conservation. Covers a wide range of energy sources, including fossil fuels, hydropower, solar energy, wind energy, bioenergy, and nuclear energy. Surveys the efficiencies and environmental impacts of energy use in transportation, manufacturing, and buildings.  
+  Covers physics and technology of energy generation, consumption, and conservation. Covers a wide range of energy sources, including fossil fuels, hydropower, solar energy, wind energy, bioenergy, and nuclear energy. Surveys the efficiencies and environmental impacts of energy use in transportation, manufacturing, and buildings.  
  **PHY 165/165L Basic Physics I & Laboratory**  
   An algebra-based survey course in the basic principles of mechanics, dynamics, energy, momentum and rotational motion. One (0.0 course credit) laboratory per week, held jointly with General Physics laboratories, is a required part of this course. Lab is P/NP basis only. This course satisfies the general education laboratory science requirement. Previous experience in algebra recommended.  
  **PHY 175/175L Basic Physics II & Laboratory**  
@@ -4546,11 +4544,11 @@ A minor in Physics requires a cumulative 2.0 GPA in all courses counted toward t
   Introduces the physics and chemistry behind the formation and study of glassy materials. The course covers glass making, glass structure and surfaces, property characterization, a wide array of industrial and scientific applications, as well as modern experimental techniques. It is especially suitable in preparation for glass research, and for students interested in a possible career in materials research and/or condensed matter physics. Prerequisite: General Physics II & Laboratory (PHY-195/-195L), or consent of instructor.  
  **PHY 221 Computational Physics**  
   Survey of the computational methods used by physicists. Students learn basics of Linux systems, C++, shell scripting, and data analysis tools, such as MATLAB and ROOT. Some Monte Carlo applications for biophysics, particle and medical physics, as well as material science are introduced. Prerequisite: Consent of instructor.  
- **PHY 231 Mathematical Methods for Physicists**  
-  Studies areas of mathematics which are of fundamental importance in the physical sciences. Topics include complex variables, Fourier analysis, eigenvalue problems, and vector calculus. Includes one computer laboratory session per week. Previous experience in calculus recommended. Prerequisite: Calculus II (MTH-145), or consent of instructor.  
+ **PHY 231 Math Mthds Physicists & Engineers**  
+  Studies areas of mathematics that are of fundamental importance in the physical sciences. Topics include vector calculus, eigenvalue problems, curvilinear coordinates, Fourier analysis, introduction to complex variables and differential equations. Topics include complex variables, Fourier analysis, eigenvalue problems, and vector calculus. Includes one computer laboratory session per week. Previous experience in calculus is recommended. Prerequisite: Calculus II (MTH-145), or Calculus for Engineers and Physicists (ENR 125).  
  **PHY 235 Modern Physics**  
-  Introductory study of the phenomena, techniques, and models of modern physics including quantum phenomena, special relativity physics, and their interpretive models. Laboratory activities required. Prerequisites: Calculus II (MTH-145) and General Physics II (PHY-225) or consent of instructor.  
- **PHY 235L Modern Physics Lab**  
+  Introduces quantum phenomena, including the wave-particle duality, atomic models, special theory of relativity, Schrodinger’s equation and its applications to certain potentials. Corequisite: Advanced Laboratory 1 (PHY-236). Prerequisites: General Physics II & Laboratory (PHY-195/-195L) or consent of instructor.  
+ **PHY 235L Advanced Lab 1**  
   Introductory study of the phenomena, techniques, and models of modern physics including quantum phenomena, special relativity physics, and their interpretive models. Laboratory activities required. Prerequisites: Calculus II (MTH-145) and General Physics II & Laboratory (PHY-195/-195L) or consent of instructor.  
  **PHY 241 Introduction to Astrophysics**  
   Covers the fundamental concepts in astrophysics: The tools of astronomy, celestial mechanics, interaction of light and matter, telescopes, nature of the stars and their classifications. Other topics include the general overview of the solar system, and the binary systems. Prerequisite: General Physics II & Laboratory (PHY-195/-195L) or consent of instructor.  
@@ -4559,31 +4557,31 @@ A minor in Physics requires a cumulative 2.0 GPA in all courses counted toward t
  **PHY 255/355 Introduction to Physics Research I–II**  
   Extensive independent or group investigations of a particular topic or set of topics. Designed to be a research experience in preparation for teaching, graduate school, or direct entry into a technical field after graduation. Prerequisite: General Physics II & Laboratory (PHY-195/-195L) or consent of instructor.  
  **PHY 265 Electromagnetism**  
-  Electromagnetic phenomena at the intermediate level, including circuits, static and quasi-static fields, Maxwell’s equations, radiation, and selected topics in properties of materials. Special topics in vector algebra, scalar and vector point functions, and differential vector calculus are developed and used. Prerequisites: General Physics II & Laboratory (PHY-195/-195L) and Calculus II (MTH-145) or consent of instructor.  
- **PHY 275 Mechanics Formulations**  
-  The Newtonian, Lagrangian, and Hamiltonian formulations of the laws of motion. Applications to systems of particles, extended objects, and oscillatory systems. Prerequisites: General Physics II & Laboratory (PHY-195/-195L) and Calculus II (MTH-145) or consent of instructor.  
+  Studies electromagnetic phenomena at the intermediate level, including circuits, static and quasi-static fields, Maxwell’s equations, radiation, and selected topics in properties of materials. Special topics in vector algebra, scalar and vector point functions, and differential vector calculus are developed and used. Prerequisite: General Physics II & Laboratory (PHY-195/-195L) or consent of instructor.  
+ **PHY 275 Classical Mechanics**  
+  Studies Newtonian, Lagrangian, and Hamiltonian formulations of the laws of motion. Applications to systems of particles, extended objects, and oscillatory systems. Prerequisite: General Physics II & Laboratory (PHY-195/-195L).  
  **PHY 301 Optics & Waves**  
-  A treatment of the theory of modern optics, wave theory, as well as mechanical and electromagnetic oscillations. Introducing a variety of topics, including geometrical and physical optics, mathematics of wave motion, propagation, reflection, refraction, phenomenon of resonance in oscillations, and Fourier formalism. Prerequisites: Electromagnetism (PHY-265) or consent of instructor.  
+  Covers the theory of modern optics, wave theory of light, as well as mechanical and electromagnetic oscillations. Introducing a variety of topics, including geometrical and physical optics, mathematics of wave motion, propagation, reflection, refraction, phenomenon of resonance in oscillations, and Fourier formalism. Prerequisite: Electromagnetism (PHY-265) or consent of instructor.  
  **PHY 311 Renewable Energy (WE)**  
   Reviews the scientific fundamentals of renewable energy production. Basic thermodynamic principles of the heat engines, the hydrogen production and storage methods are covered. Renewable energy sources including solar, biomass, wind, and ocean engine designs are discussed in detail. Also includes some hands-on experiments on solar, wind, and fuel cell systems. Prerequisite: General Physics II & Laboratory (PHY-195/-195L), or consent of instructor.  
  **PHY 315 Thermodynamics & Stat Mech**  
-  An introduction to fundamental concepts such as temperature, phase transitions, the First, Second, and Third Laws of thermodynamics, and the work/ entropy relationship. The Statistical Mechanics half covers a mathematical treatment of partition functions, thermal properties of solids, and critical-point transitions. Prerequisites: General Physics II (PHY-225) and Calculus III (MTH-255) or consent of instructor.  
+  Introduces fundamental concepts such as temperature, phase transitions, the first, second, and the third laws of thermodynamics, and the work/entropy relationship. The Statistical Mechanics half covers a mathematical treatment of partition functions, thermal properties of solids, and critical-point transitions. Problems will involve theoretical situations, as well as real-life scenarios involving engines, pumps, and energy transfer-related problems in which the students will design their own unique solutions. Prerequisite: Modern Physics (PHY-235) and Advanced Laboratory 1 (PHY-236) or consent of instructor.  
  **PHY 321 Health Physics**  
   Studies the use of physics in medicine. The basic principles of the medical physics applications, such as radiation therapy, dosimetry, computed tomography (CT), positron emission tomography (PET), single photon emission spectroscopy (SPECT), Magnetic Resonance Imaging (MRI), Nuclear Magnetic Resonance (NMR), and crystallography are covered. Prerequisite: General Physics II & Laboratory (PHY-195/-195L), or consent of instructor.  
  **PHY 335 Quantum Mechanics**  
-  An introduction to the formal treatment of quantum mechanics. This course covers the Schrodinger wave equation, the Dirac Braket notation, operator formalism, spin and angular momentum, the wave equation in one and three dimensions, and perturbation theory. Prerequisites: Modern Physics (PHY-235) and Calculus III (MTH-255) or consent of instructor.  
+  Introduces the formal treatment of quantum mechanics. This course covers the Schrodinger wave equation, the Dirac Braket notation, operator formalism, spin and angular momentum, the wave equation in one and three dimensions, and perturbation theory. Prerequisite: Modern Physics (PHY-235) and Advanced Lab 1 (PHY-236).  
  **PHY 341 Space Plasma Physics**  
   Focuses on the behavior of plasma in space environment. Covers the plasma parameters, waves, the planetary atmospheres, ionospheres, and magnetospheres. Prerequisite: Introduction to Astrophysics (PHY-241) or consent of instructor.  
  **PHY 411 Robotics & Advanced Electronics**  
   Covers both software and hardware techniques in physics. The software portion includes sophisticated operations datasets, such as Fourier transforms, nonlinear fits, residual analysis, statistical and characterization. Most of the course is dedicated to advanced electronics, microcontrollers, and computer-control of data acquisition. This hardware portion starts with discussions of operational amplifiers, bandpass filters, transducers, and other advanced analog electronic concepts. The course then moves on to the use of microcontrollers to acquire data and to perform actions in response to the inputs. Stepping and servo motors, sensors, and other input/output devices are some of the topics that are covered during this stage. Project-based work is an important part of the course. Prerequisite: General Physics II & Laboratory (PHY-195/-195L), Electronics (PHY-155) and some background in programming are also recommended.  
  **PHY 425 Solid State Physics**  
-  Study of the structure and properties of crystalline and amorphous solids. The main topics include crystal structure and quantized vibrations (phonons); electronic band structure and its relation to electrical, thermal, and optical behavior; semiconductors and superconductors. Prerequisites: Modern Physics & Laboratory (PHY-235/-235L) and Calculus III (MTH-255) or consent of instructor.  
+  Studies the structure and properties of crystalline and amorphous solids. The main topics include crystal structure and quantized vibrations (phonons); electronic band structure and its relation to electrical, thermal, and optical behavior; semiconductors and superconductors. Prerequisite: Modern Physics (PHY-235), Advanced Lab 1 (PHY-236), and Mathematical Methods for Physicists (PHY-231); or consent of instructor.  
  **PHY 441 Relativity and Cosmology**  
-  An introduction to Einstein’s general theory of relativity, as well as the intervals, geodesics, black holes, and close binary star systems. The course starts with an introduction to tensor calculus, then covers the Newtonian, relativistic and observational cosmology, and the physics of the early Universe. Prerequisite: Modern Physics and laboratory (PHY-235/-235L) and Mathematical Methods for Physicists Sciences (PHY-231), or consent of instructor.  
+  An introduction to Einstein’s general theory of relativity, as well as the intervals, geodesics, black holes, and close binary star systems. The course starts with an introduction to tensor calculus, then covers the Newtonian, relativistic and observational cosmology, and the physics of the early Universe. Prerequisite: Modern Physics (PHY-235), Advanced Lab 1 (PHY-236), and Mathematical Methods for Physicists (PHY-231); or consent of instructor.  
  **PHY 444 Ind Study-Physics**  
-  Independent study of topics under the guidance of the department: experimental or pedagogical research on a problem predefined by the student in consultation with the department. May be taken for an X status grade with consent of instructor prior to registration.  Prerequisites: demonstrated initiative and self-discipline, four courses in physics, and consent of department chair.  
+  Allows independent study of topics under the guidance of the department: experimental or pedagogical research on a problem predefined by the student in consultation with the department. May be taken for an X status grade with consent of instructor prior to registration. Prerequisites: demonstrated initiative and self-discipline, four courses in physics, and consent of department chair.  
  **PHY 451 Particle Physics**  
-  Reviews the Standard Model, particle detection techniques, and the particle physics experiments. The nuclear weak, strong, and the electromagnetic interactions, Feynman diagrams, quark model, relativistic kinematics are also covered. Prerequisite: Modern Physics PHY-235, or consent of instructor.  
+  Reviews the Standard Model, particle detection techniques, and the particle physics experiments. The nuclear weak, strong, and the electromagnetic interactions, Feynman diagrams, quark model, relativistic kinematics are also covered. Prerequisite: Modern Physics (PHY-235) and Advanced Lab 1 (PHY-236), or consent of instructor.  
  **PHY 454 Summer Research**  
   May be taken more than once for credit for a maximum of 2.0 credits. Prerequisite: consent of instructor.  
  **PHY 464/474 Junior-Senior Seminar I and II**  
@@ -4591,7 +4589,7 @@ A minor in Physics requires a cumulative 2.0 GPA in all courses counted toward t
  **PHY 484 Advanced Topics in Physics**  
   Covers several instructional modules. The content corresponds to material usually covered in the second-semester of an advanced, year-long course. Core modules include quantum mechanics (e.g., Bell’s theorem) and electromagnetism (e.g., stress tensor). The four remaining modules are chosen from topics that include optics, fluid dynamics, experimental techniques, nuclear physics, geophysics, advanced classical mechanics, waves, statistical mechanics, and atomic physics. Prerequisite: Quantum Mechanics (PHY-335) and Electromagnetism (PHY-265), or consent of instructor.  
  **PHY 494 Internship in Physics**  
-  Investigation of an area of interest through field placement supervised by a faculty member of the department. A minimum of 140 hours on-site experience is required. S/U basis only. This course does not satisfy any of the requirements for a major in physics. Prerequisites: completion of a physics minor or junior standing and consent of department chair.  
+  Investigates an area of interest through field placement supervised by a faculty member of the department. A minimum of 140 hours on-site experience is required. P/NP basis only. This course does not satisfy any of the requirements for a major in physics. Prerequisites: completion of a physics minor or junior standing and consent of department chair.  
  **OCC 365 Oak Ridge Science Semester**  
 See description, @sec-ACM-and-international-programs
 
@@ -4705,7 +4703,7 @@ Satisfactory work in Topics in Political Science (POL-284/-296) may be used, wit
  **POL 286 Asian Politics**  
   Examines the broad variety of Asian political systems through case studies of selected countries that are authoritarian, communist, transitioning, or established democracies. Issues confronted include: the East Asian economic miracle, the character of Asian democracies, and the role of ethnicity and religion in politics. The tension in the region between economic growth and political control receives particular attention. Prerequisite: Introduction to Politics (POL-108) or consent of instructor. (Offered alternate years)  
  **POL 296 Topics Pol Sci: Non-West Persp**  
-  Same as Topics in Political Science (POL-284) except the course focuses on topics related to non-Western cultures.  
+  Same as Topics in Political Science (POL-284) except the course focuses on topics related to non-Western cultures. May be taken more than once for credit, provided the topics are substantially different.  
  **POL 298 European Politics**  
   Addresses political and economic continuities, changes, and challenges in modern Europe. The course examines the political structures and policy challenges of select states in the region including Great Britain, Germany and France. Other topics are the political dynamics of the expanding European Union as well as transitions to democracy and capitalism in Russia and Central and Eastern European states. Prerequisite: Introduction to Politics (POL-108) or consent of instructor. (Offered alternate years)  
  **POL 305 Terrorism**  
@@ -4742,9 +4740,9 @@ Satisfactory work in Topics in Political Science (POL-284/-296) may be used, wit
 See description, @washington-term  
  **WSH 286 Topics in Washington, D.C:NWP**  
 See description, @washington-term  
- **WSH 464 Internship Seminar**  
+ **WSH 464 Washington Term Internship Seminar**  
 See description, @washington-term  
- **WSH 494 Washington Experience**  
+ **WSH 494 The Washington Experience**  
 See description, @washington-term  
 
 
@@ -4765,16 +4763,16 @@ A major in Psychology requires a cumulative 2.0 GPA in all courses counted towar
 
 2. PSY 200 Research Methods
  
-3. PSY 215 Topics in Diversity & Inclusion (7 weeks) (0.5 credits)
+3. PSY 215 Multicultural Psychology (7 weeks) (0.5 credits)
 
-4. PSY 295 Applied Contemporary Psychology 
+4. PSY 295 Applied Career Development in Psych 
 
 5. PSY 300 Stat Methods and Data Analysis 
  
 6. PSY 464 Seminar in Psychology 
 
 7. **One**of the following:
-	* PSY 455 Advanced Experimental Psychology 
+	* PSY 455 Directed Research Experience 
 	* PSY 494 Internship in Psychology 
 
 8. **One** of the following:
@@ -4805,39 +4803,40 @@ A major in Psychology requires a cumulative 2.0 GPA in all courses counted towar
 ### Courses in Psychology
 
  **PSY 100 Introductory Psychology**  
-  Basic concepts, theories, and methods in the study of behavior and mental processes. Provides a basic understanding of psychology for interested students, who may take this as their only course in psychology, as well as for future majors.  
+  Introduces students to the basic concepts, theories, and methods in the study of behavior and mental processes. Provides a basic understanding of psychology for interested students, who may take this as their only course in psychology, as well as for future majors.  
  **PSY 137 Human Sexuality**  
-  See also Nursing (NUR-137), p. 154
+  See also Nursing (NUR-137), 
 This course does not satisfy any of the requirements for a major in psychology.  
  **PSY 200 Research Methods**  
-  Discussion of and experience in designing research studies, collecting and analyzing data, and preparing research reports in psychology. Coverage includes descriptive, correlational, quasi-experimental, and experimental methods, and basic statistical analysis using SPSS. Prerequisites: Introductory Psychology (PSY-115).  
+  Discussion of and experience in designing research studies, collecting and analyzing data, and preparing research
+reports in psychology. Coverage includes descriptive, correlational, quasi-experimental, and experimental methods,
+and basic statistical analysis using SPSS. Prerequisite: Introductory Psychology (PSY-100).  
  **PSY 205 Developmental Psychology**  
   Consideration of the major principles of maturation from conception to death. Critical evaluation of contemporary theories in physical, sensory, cognitive, emotional, and social development. Special attention to empirical, experimental, and theoretical literature related to the developmental process. Prerequisite: Introductory Psychology (PSY-100).  
  **PSY 208 Gender Psychology**  
   Psychological perspectives on the differences and similarities between females and males. Examination of theory and research includes topics such as: hormones and brain structure, intelligence, education, social roles, stereotypes, emotion, health, employment, and relationships. Prerequisite: Introductory Psychology (PSY-100). (Offered on an occasional basis)  
- **PSY 215 Topics in Diversity & Inclusion**  
-  Introduces the critical role of socio-cultural context in the understanding of human behavior, emotion, and thought
-processes. Addresses issues related to diversity and inclusion within a particular subfield of psychology. Topics may
-include sexuality, health, power & prejudice, discrimination, and cultural development. May only be taken once for
-credit. Prerequisite: Introductory Psychology (PSY-100). (0.5 course credit)  
+ **PSY 215 Multicultural Psychology**  
+  Introduces the principles, theories, and practices of how culture and psychology intersect. Topics may include sexuality, health, power & prejudice, discrimination, communication, acculturation, and cultural development. Prerequisite: Introductory Psychology (PSY-100).  
  **PSY 235 Abnormal Psychology**  
-  Study of the diagnosis, etiology, explanation, and treatment of major mental disorders. Focus is on understanding the interplay of biological and psychological forces in the development and treatment of disorders, with emphasis on research findings. Appropriate for first-year students and sophomores. Prerequisite: Introductory Psychology (PSY-115).  
+  Examines the diagnosis, etiology, explanation, and treatment of major mental disorders. Focus is on understanding the interplay of biological and psychological forces in the development and treatment of disorders, with emphasis on research findings. Prerequisite: Introductory Psychology (PSY-100).  
  **PSY 245 Organizational Psychology**  
-  Scientific study of how human attitudes and behavior are affected by organizational characteristics. Involves the application of psychological research and theories in organizational settings. Major topics include motivation, leadership, team performance, job attitudes, organizational justice, and organizational culture. Prerequisite: Introductory Psychology (PSY-115).  
+  Examines the ways in which human attitudes and behavior are affected by organizational characteristics. Involves the application of psychological research and theories in organizational settings. Major topics include motivation, leadership, team performance, job attitudes, organizational justice, and organizational culture. Prerequisite: Introductory Psychology (PSY-100).  
  **PSY 250 Biopsychology**  
   Introduces students to the biological bases of behavior and mental processes. This course emphasizes the cell biology of neurons, neural communication, and the organization of the nervous system. The neurological basis of psychological processes such as sensation, learning, memory, and cognition are discussed. Prerequisite: Introductory Psychology (PSY-100).  
  **PSY 255 Social Psychology**  
-  Examination of individual human behavior as it is influenced by social variables. Topics covered include person perception, conformity, attitudes, prejudice, persuasion, helping, aggression, and group processes. Experimental research methods and findings are given emphasis. Prerequisite: Research Methods (PSY-200) or consent of instructor.  
+  Examines individual human behavior as it is influenced by social variables. Topics covered include person perception,
+conformity, attitudes, prejudice, persuasion, helping, aggression, and group processes. Experimental research methods
+and findings are given emphasis. Prerequisite: Introductory Psychology (PSY-100).  
  **PSY 260 Cognitive Psychology**  
   Explores current theories, research findings, and applications in the areas of attention, perception, consciousness, knowledge representation, memory processes, language comprehension and production, inductive and deductive reasoning, evaluation and decision making, human and artificial intelligence, problem solving and creativity, and cross-cultural cognition. Prerequisite: Introductory Psychology (PSY-100).  
- **PSY 295 Applied Contemporary Psychology**  
+ **PSY 295 Applied Career Development in Psych**  
   Addresses complex interpersonal, cultural, ethical, and legal issues that may arise in psychology-related professional settings, using established theoretical and practical frameworks. Taken prior to Internship in Psychology (PSY-494), this course allows students to explore various psychology-related careers and develop some of the applied knowledge necessary for entry into such careers. Prerequisites: Introductory Psychology (PSY-100), a declared major in psychology, or consent of instructor.  
  **PSY 300 Stat Methods and Data Analysis**  
-  Core topics include the theoretical foundations of estimation, variability, and inferential statistics critical for statistical literacy. Focus is on the development of proficiency in data analysis using SPSS, interpretation of analyses, graphical representation of data, and written communication of results. Prerequisite: Research Methods (PSY-200).  
+  Introduces students to core topics including the theoretical foundations of estimation, variability, and inferential statistics critical for statistical literacy. Focus is on the development of proficiency in data analysis using SPSS, interpretation of analyses, graphical representation of data, and written communication of results. Prerequisite: Research Methods (PSY-200).  
  **PSY 315 Learning & Behavior**  
-  Discussion of how behavior changes as a result of our experiences. The course focuses on roles of respondent and operant learning in the development and expression of adaptive and maladaptive behaviors and emotional responses. Students are provided opportunities to discover how learning principles are applied in contemporary behavior modification and behavior therapy. The role of learning is discussed in contexts such as health-related behaviors, sex and love, self-control, drug addiction, and psychological disorders. Prerequisite: Research Methods (PSY-200).  
+  Examines the ways in which behavior changes as a result of our experiences. The course focuses on roles of respondent and operant learning in the development and expression of adaptive and maladaptive behaviors and emotional responses. Students are provided opportunities to discover how learning principles are applied in contemporary behavior modification and behavior therapy. The role of learning is discussed in contexts such as health-related behaviors, sex and love, self-control, drug addiction, and psychological disorders. Prerequisite: Research Methods (PSY-200).  
  **PSY 325 Health Psychology**  
-  An introduction to scientific research and theory on the relationship between physical health and mental processes, emotion, and behavior. Topics include stress, coping, compliance with medical advice, health promotion, disease prevention, pain, chronic illness (e.g., cardiovascular disease, cancer, AIDS), and health behaviors (e.g., smoking, diet, exercise). Prerequisites: Research Methods (PSY-200) and Introduction to Biopsychology (PSY-250) or consent of instructor.  
+  Explores current theories, research findings, and laboratory applications related to the bidirectional relationship between psychological processes (thoughts, emotions, and behaviors) and physical health. Topics include health promotion and health behaviors, disease prevention, stress and coping, compliance with medical advice, pain, chronic illness, and psychological mechanisms of health disparities. Three hours of lecture and three hours of laboratory per week. Prerequisites: Statistical Methods and Data Analysis (PSY-300).  
  **PSY 335 Sensation & Perception**  
   Explores current theories, research findings, and laboratory applications related to how individuals detect and perceive
 sensory information in the environment. An overarching theme is how organisms appear to generate accurate
@@ -4849,28 +4848,28 @@ Prerequisites: Statistical Methods and Data Analysis (PSY-300).
  **PSY 350 Drugs & Behavior**  
   Explores how psychoactive drugs affect the nervous system. Concepts particularly relevant to a wide variety of psychological, sociological, and health-related careers in which clients are commonly taking drugs, therapeutically or recreationally. Course focuses on factors that influence the variability of drug effects, including neural, pharmacological, and psychological mechanisms. Major topics include the problem and implications of categorizing drugs, basic neural function, principles of pharmacology, and physiological and psychological aspects of addiction. Selected psychotherapeutic drugs and legal and illegal drugs of abuse are surveyed. Prerequisite: Introduction to Biopsychology (PSY-250) or Integrated Human Physiology (BIO-375).  
  **PSY 354 Research Participation**  
-  Research and investigation of an area of interest supervised by a faculty member of the department. The student must obtain approval of a specific plan and complete the necessary arrangements prior to the term of registration for the course. S/U basis only. Prerequisites: Research Methods (PSY-200) and consent of instructor.  
+  Research and investigation of an area of interest supervised by a faculty member of the department. The student must obtain approval of a specific plan and complete the necessary arrangements prior to the term of registration for the course. P/NP basis only. Prerequisites: Research Methods (PSY-200) and consent of instructor.  
  **PSY 355 Personality**  
   Explores current theories, research findings, and laboratory applications related to the structure, development, and
 dynamic processes underlying the differences in how people act, think, and feel. Includes methods of constructing and
 evaluating personality assessment techniques. Three hours of lecture and three hours of laboratory per week.
 Prerequisite: Statistical Methods and Data Analysis (PSY-300).  
  **PSY 415 Counseling Psychology**  
-  A general introduction to the field of counseling. Topics include ethical principles of the counseling profession, legal issues and licensing, counseling in a diverse and multicultural society, and effectiveness of various forms of therapy. Major theoretical approaches including psychoanalytic, humanistic, existential, cognitive-behavioral, couples and family systems are covered. Prerequisites: Research Methods (PSY-200) and Abnormal Psychology (PSY-235).  
+  Introduces students to the field of counseling. Topics include ethical principles of the counseling profession, legal issues and licensing, counseling in a diverse and multicultural society, and effectiveness of various forms of therapy. Major theoretical approaches including psychoanalytic, humanistic, existential, cognitive-behavioral, couples and family systems are covered. Prerequisites: Research Methods (PSY-200) and Abnormal Psychology (PSY-235).  
  **PSY 444 Ind Study-Psychology**  
   Independent reading and the preparation of a proposal, with consent of psychology department faculty required prior to the term of registration. May be taken for an X status grade with consent of instructor prior to registration.  Prerequisites: Research Methods (PSY-200), a declared major in psychology and consent of instructor.  
  **PSY 450 Behavioral Neuroscience**  
-  Further explores relationship between the nervous system and behavior begun in Introduction to Biopsychology (PSY-225). The course provides a more in-depth study of neural function and explores many new areas. Focuses on development of the nervous system, neural communication, neuroanatomy, hierarchical and parallel organization, neural plasticity, sensorimotor function, and neurohormonal influences on sexual development and behavior. Prerequisites: junior standing and either Introduction to Biopsychology (PSY-250) or Integrated Human Physiology (BIO-375).  
- **PSY 455 Advanced Experimental Psychology**  
-  A capstone course for students interested in conducting psychological research. Topics include legal and ethical responsibilities in psychological research, conducting literature reviews, research design, use of statistical software (e.g., SPSS and SAS), interpretation of statistical results, and clear communication and presentation of scientific information. Students also present their research findings in a public forum. S/U basis only. May be taken more than once for credit. A maximum of one course credit may be counted toward a major in psychology.  Prerequisites: Research Methods (PSY-200) and consent of instructor.  
+  Further explores relationship between the nervous system and behavior begun in Biopsychology (PSY-250). The course provides a more in-depth study of neural function and explores many new areas. Focuses on development of the nervous system, neural communication, neuroanatomy, hierarchical and parallel organization, neural plasticity, sensorimotor function, and neurohormonal influences on sexual development and behavior. Prerequisites: junior standing and either Biopsychology (PSY-250) or Integrated Human Physiology (BIO-375).  
+ **PSY 455 Directed Research Experience**  
+  A capstone course for students interested in conducting psychological research. Topics include legal and ethical responsibilities in psychological research, conducting literature reviews, research design, use of statistical software (e.g., SPSS and SAS), interpretation of statistical results, and clear communication and presentation of scientific information. Students also present their research findings in a public forum. P/NP basis only. May be taken more than once for credit. A maximum of one course credit may be counted toward a major in psychology. Prerequisites: Research Methods (PSY-200) and consent of instructor.  
  **PSY 464 Seminar in Psychology**  
   Intensive study of a topic selected by the instructor. May be taken more than once for credit, provided the topics are substantially different. Prerequisites: Statistical Methods and Data Analysis (PSY-300) or consent of instructor.  
  **PSY 465 Industrial Psychology**  
-  The scientific study of making decisions about and developing people within organizations. Examines psychological perspective, procedures aimed at improving productivity and fairness in work settings. Students in the course complete multiple applied projects. Major topics include job analysis, employee selection, performance evaluation, and employee training and development. Prerequisite: Statistical Methods and Data Analysis (PSY-300) or consent of instructor.  
+  Focuses on the scientific study of making decisions about and developing people within organizations. Examines, from a psychological perspective, procedures aimed at improving productivity, and fairness in work settings. Students in the course complete multiple applied projects. Major topics include job analysis, employee selection, performance evaluation, and employee training and development. Prerequisites: Statistical Methods and Data Analysis (PSY-300) or consent of instructor.  
  **PSY 475 Testing & Measurement**  
   Investigation of classical measurement theory, focusing on issues of reliability, validity, and item characteristics, and of some of the most commonly used tests in educational, industrial, and clinical settings. Covers appropriate methods of constructing and evaluating classroom measurement instruments and explores ethical, legal, and financial issues in testing. Prerequisite: Research Methods (PSY-200) or one term of college-level statistics.  
  **PSY 494 Internship in Psychology**  
-  On-site work experience in psychology under the direction of the on-site supervisor and a faculty member of the department. A minimum of 140 hours on-site experience is required. S/U basis only. One course credit of Internship in Psychology may be counted toward a major in psychology. Prerequisites: Applied Contemporary Psychology (PSY-295), a declared major in psychology, and consent of instructor.  
+  On-site work experience in psychology under the direction of the on-site supervisor and a faculty member of the department. A minimum of 140 hours on-site experience is required. P/NP basis only. One course credit of Internship in Psychology may be counted toward a major in psychology. Prerequisites: Applied Career Development in Psychology (WE) (PSY-295), a declared major in psychology, and consent of instructor.  
 
 
 ## Public Relations (Collateral Major)
@@ -4900,7 +4899,7 @@ Concurrent completion of any of the majors listed on @sec-areas-of-study  of the
 4. BUS 460 Advertising 
 
 5. **One** of the following:
-	- COM 241 Intro to Multimedia Journalism
+	- COM 241 Multimedia Journalism
 	- RHE 225 Journalism/Media Wtg Wksp
 
 6. **One** of the following (producing a portfolio of writings related to the field of public relations):
@@ -4936,7 +4935,7 @@ Concurrent completion of any of the majors listed on @sec-areas-of-study  of the
  **PR 205 Public Relations**  
   A study of the key concepts and processes of public relations used in corporate, not-for-profit, and government organizations. Topics include planning, research, communication/ media channels, campaigns, crisis communication, and public relations ethics. The historical development of public relations, current trends in public relations, and international issues in public relations are also coverd. This course does not satisfy any of the requirements for a major in business administration. Prerequisite: sophomore standing.  
  **PR 494 Internship in Public Relations**  
-  An internship with a focus on public relations supervised by the Public Relations administrative coordinator or by faculty teaching in the public relations major. A minimum of 140 hours on-site experience is required. S/U basis only. One credit may be counted toward a major in public relations with consent of the Public Relations administrative coordinator. Prerequisite: junior standing and consent of the public relations administrative coordinator.  
+  On-site work experience in psychology under the direction of the on-site supervisor and a faculty member of the department. A minimum of 140 hours on-site experience is required. P/NP basis only. One course credit of Internship in Psychology may be counted toward a major in psychology. Prerequisites: Applied Contemporary Psychology (WE) (PSY-295), a declared major in psychology, and consent of instructor.  
 
 
 
@@ -5007,7 +5006,7 @@ Recommended beginning courses for those contemplating a major in religion are: R
 	- REL 196 Hinduism
 	- REL 206 Buddhist Thought
 	- REL 215 The Rise of Christianity
-	- REL 226 Religions of China:Daoism
+	- REL 226 Religions of China: Daoism
 	- REL 236 Zen Buddhism
 	- REL 336 Tibetan Buddhist Cultrue
 :::
@@ -5022,7 +5021,7 @@ Recommended beginning courses for those contemplating a major in religion are: R
 	- REL 115 Introduction to New Testament
 	- REL 310 Early Christian Gospels
 	- REL 330 Topics in Hebrew Bible
-	- REL 365 The Letter of Paul
+	- REL 365 The Letters of Paul
 
 * **Topical courses**
 	- REL 217 Religion in America
@@ -5054,7 +5053,7 @@ Recommended beginning courses for those contemplating a major in religion are: R
 	- REL 196 Hinduism
 	- REL 206 Buddhist Thought
 	- REL 215 The Rise of Christianity
-	- REL 226 Religions of China:Daoism
+	- REL 226 Religions of China: Daoism
 	- REL 236 Zen Buddhism
 	- REL 336 Tibetan Buddhist Cultrue
  
@@ -5063,7 +5062,7 @@ Recommended beginning courses for those contemplating a major in religion are: R
 	- REL 115 Introduction to New Testament
 	- REL 310 Early Christian Gospels
 	- REL 330 Topics in Hebrew Bible
-	- REL 365 The Letter of Paul
+	- REL 365 The Letters of Paul
 
 * **Topical courses**
 	- REL 217 Religion in America
@@ -5104,19 +5103,19 @@ Recommended beginning courses for those contemplating a major in religion are: R
  **REL 196 Hinduism**  
   An introduction to the Hindu religion, including its history, philosophy, ritual, meditation, and popular practice. Course materials include Hindu histories and religious texts, as well as contemporary anthropological materials, literature, and film.  
  **REL 206 Buddhist Thought**  
-  A survey of major issues in Buddhist philosophy, including ethics, emptiness, idealism, the nature of mind, and the nature of reality. The course focuses on Indian Buddhist philosophical schools and also explores distinctive philosophical ideas from Buddhist traditions in China, Japan, and Tibet. Prerequisite: Eastern Religions (REL-036), or Buddhism (REL-116), or consent of instructor.  
+  A survey of major issues in Buddhist philosophy, including ethics, emptiness, idealism, the nature of mind, and the nature of reality. The course focuses on Indian Buddhist philosophical schools and also explores distinctive philosophical ideas from Buddhist traditions in China, Japan, and Tibet. Prerequisite: Eastern Religions (REL-036), or Buddhism (REL-116), or consent of instructor. (Offered on an occasional basis.)  
  **REL 215 The Rise of Christianity**  
   An examination of how Christianity grew from a small band of Jewish followers of Jesus to the dominant religion in the Roman Empire. Attention is paid to crucial figures such as Paul of Tarsus, Irenaeus of Lyons, and Augustine of Hippo, among others.  
  **REL 217 Religion in America**  
   Examines the varieties of American religious experience, from the religion of the Puritans to the 21st century. Attention is paid both to normative and minority traditions, with a look at the growing Evangelical and Muslim communities in America today.  
- **REL 226 Religions of China:Daoism**  
+ **REL 226 Religions of China: Daoism**  
   An introduction to China's Daoist tradition of Buddhism, beginning with its early literature like the Dao-de-jing and the Zhuang-zi and examining several later Daoist movements in China. The course also examines other Chinese religions and intellectual traditions that have influenced Daoism, including Confucianism and Buddhism. Course materials include histories, translations of Daoist literature, accounts of contemporary Daoists, and film.  
  **REL 236 Zen Buddhism**  
   An introduction to the Zen tradition of Buddhism beginning with its origins in China and also examining its traditions in Japan. The course examines other Chineses religious and intellectual traditions that helped shape the Zen tradition, with particular influence on Daoism. Course materials include histories, translations of Zen literature, autobiography, and film.  
  **REL 295 Topics in Religion**  
   An examination of a selected topic in religious studies. Content varies from year to year. May be taken for credit more than once.  
  **REL 296 Topics in Religion NWP**  
-  Same as Topics in Religion REL295, except the course focuses on topics related to non-western cultures. Content varies from year to year. May be taken for credit more than once.  
+  Same as Topics in Religion REL-295, except the course focuses on topics related to non-western cultures. Content varies from year to year. May be taken for credit more than once.  
  **REL 310 Early Christian Gospels**  
   An examination of the literary genre in early Christianity, focusing on both canonical (Mark, Matthew, Luke, John) and non-canonical Gospels, including the Gospel of Truth and the Gospel of Thomas.  Why did early Christians utilize this genre to communicate traditions about Jesus of Nazareth? Prerequisite: Introduction to Hebrew Bible (REL-105) or Introduction to New Testament (REL-115) or consent of instructor.  
  **REL 330 Topics in Hebrew Bible**  
@@ -5125,7 +5124,7 @@ Recommended beginning courses for those contemplating a major in religion are: R
   Introduces students to the lived experience of Buddhists on the Tibetan plateau and in Nepal. THe course discusses the history of religion in Tibet, as well as the major doctrines of Tibetan Buddhism. Particular attention is also paid toTibetan religious culture and popular religious practices. Course materials include Tibetan literature, histories, biographies, and film, as well as anthropological studies of Tibetan societies.  
  **REL 338 Modern Religious Thought**  
   A survey of the religious thinkers and themes of the 20th century. Various religious outlooks, ranging from conservative to radical, are explored, as are alternative conceptions of God, religion, and salvation. Prerequisite: one course in religion or consent of instructor.  
- **REL 365 The Letter of Paul**    
+ **REL 365 The Letters of Paul**    
   An examination of the 13 letters attributed to Paul of Tarsus in the New Testament as well as biblical and extra-biblical sources for the life of this crucial figure who spread Christianity around the Roman Empire. Prerequisite: Introduction to Hebrew Bible (REL-105) or Introduction to New Testament (REL-115) or consent of instructor.  
  **REL 385 Advanced Topics in Religion**  
   Seminar examining a selected topic in religious studies. Content varies from year to year. May be taken for credit more than once. Prerequisite: one course in religion or consent of instructor.  
@@ -5136,7 +5135,7 @@ Recommended beginning courses for those contemplating a major in religion are: R
  **REL 444 Ind Study-Relig**  
   Independent study under the direction of a faculty member of the department in an area selected by the student. May be taken for an X status grade with consent of instructor prior to registration. Prerequisite: consent of instructor.  
  **REL 494 Internship in Religion**  
-  Exploration of a career area related to the student’s interest in religion supervised by a Religion faculty member in cooperation with the Internship Specialist. A minimum of 140 hours on-site experience is required. S/U basis only. This course does not satisfy any of the requirements for a major in Religion. Prerequisites: declared major in Religion, junior standing, and consent of department chair.  
+  Exploration of a career area related to the student’s interest in religion supervised by a Religion faculty member in cooperation with the Internship Specialist. A minimum of 140 hours on-site experience is required. P/NP basis only. This course does not satisfy any of the requirements for a major in Religion. Prerequisites: declared major in Religion, junior standing, and consent of department chair.  
 
 
 ## Rhetoric {#sec-rhetoric}
@@ -5162,7 +5161,7 @@ A major in Writing requires a cumulative 2.0 GPA in all courses counted toward t
 
 4. **Six** credits, including any course with an RHE prefix not already fulfilling another requirement, or any of the courses from the list below. No more than two courses with the CRW or COM prefix may count toward the major.
 
-	- COM 241 Intro to Multimedia Journalism
+	- COM 241 Multimedia Journalism
 	- COM 341 Digital Storytelling
 	- COM 361 Communication & Social Change
 	- COM 362 U.S. Public Address
@@ -5187,7 +5186,7 @@ A major in Writing requires a cumulative 2.0 GPA in all courses counted toward t
 #### Writing Minor
 A minor in Writing requires five credits, including RHE 200 Rhetorical Theory and Practice and one RHE course numbered 300 or above. Any course with an RHE prefix or chosen from the list below may count toward the five credits; no more than two courses with CRW or COM prefix may count toward the minor. A cumulative 2.0 GPA is required in all courses counted toward the minor.
 
-- COM 241 Intro to Multimedia Journalism
+- COM 241 Multimedia Journalism
 - COM 341 Digital Storytelling
 - COM 361 Communication & Social Change
 - COM 362 U.S. Public Address
@@ -5207,7 +5206,7 @@ A minor in Writing requires five credits, including RHE 200 Rhetorical Theory an
  **RHE 112 Intro to Writing Center Theory**  
   Introduces foundations of writing center theory and pedagogy. Designed for Writing Center consultants who are concurrently beginning work at the writing center. Instruction takes place in weekly group meetings and individual conferences. Offered fall semesters only. (0.3 course credit)  
  **RHE 135 Writers Colony**  
-  An intensive writing workshop taught off campus; students engage in individual and collaborative writing projects. (Offered May Term only)  
+  An intensive writing workshop taught off campus; students engage in individual and collaborative writing projects. (Offered May Experiential Term only)  
  **RHE 137 Creative Nonfiction U.S.-Pluralism**  
   Introduces the field of creative nonfiction and examines how authors have portrayed and interpreted U.S.-based economic, ethnic, racial, social, political, and cultural tensions through a diverse blend of nonfiction genres. Students compose their own texts in creative nonfiction genres such as journals, essays, short memoirs, literary journalism, and personal narratives.  
  **RHE 146 Creative Nonfiction:Global Perspect**  
@@ -5221,7 +5220,7 @@ A minor in Writing requires five credits, including RHE 200 Rhetorical Theory an
  **RHE 225 Journalism/Media Wtg Wksp**  
   Introduces and analyzes several forms of writing for media in a digital age. In addition to print format, students create and analyze interactive and web-based texts while acquiring a systematic approach to compositions in a variety of media.  
  **RHE 230 Grammar & Style Workshop**  
-  None  
+  Examines various grammatical principles that provide structure to language and explores the stylistic choices available to writers. Focuses on the rhetorical use of grammar and style to affect meaning, express power relations, and persuade readers. Analysis of published writers and extensive practice in writing helps students develop stylistic versatility and effectiveness.  
  **RHE 255 The Essay**  
   Practice in writing a variety of essay forms in non-fiction prose. Students read and discuss essayists chosen to represent a range of prose styles and subjects. Students also practice writing, workshopping, and revising nonfiction essays.  
  **RHE 257 Environmental Rhetoric**  
@@ -5252,14 +5251,7 @@ A minor in Writing requires five credits, including RHE 200 Rhetorical Theory an
  **RHE 444 Independent Study in Writing (WE)**  
   Independent projects in writing and rhetoric, culminating in a substantial artifact such as a thesis or a work/collection of works suitable for publication. May be taken more than once for credit for a maximum of 2.0 credits. A maximum of one course credit may count toward a writing major or minor. P/NP basis only. May be taken for an X status grade with consent of instructor prior to registration. Prerequisites: senior standing, written consent of instructor and departmental petition form. (0.5 or 1.0 course credit)  
  **RHE 490 Publications Practicum**  
-  A student may receive practicum credit while holding the position and performing the duties of the main editor of: The Cosmos, The Acorn, Colere, or The Pearl, or a comparable publication sponsored by the rhetoric department. Students must arrange with a supervising faculty member the amount of credit and a practicum agreement specifying skill development goals and the projects to be undertaken for the development of those skills. S/U basis only. No more than 2.0 course credits may be applied to graduation requirements. A maximum of one course credit may be applied to a writing major or minor. (0.5 or 1.0 course credit per term)
-—SECONDARY EDUCATION (MINOR ONLY)
-See Education, p. 100
-—SOCIAL & CRIMINAL JUSTICE
-L. Barnett (Administrative Coordinator)
-The Social & Criminal Justice Program offers students an opportunity to immerse themselves in an interdisciplinary major that draws from Coe’s rich tradition in the liberal arts, as well as the pre-professional opportunities at the college. Core courses in the major address multifaceted questions surrounding restorative, retributive, procedural, and distributive justice. While many programs addressing such issues are housed in the field of criminal justice studies, the SCJ faculty teach topics within the major from varying perspectives and disciplines, introducing students to the ways in which matters of justice are at work in — and essential to — many areas of study.
-The major is both local and global in nature, exhibiting the possibilities and limitations of social and criminal justice initiatives in the Cedar Rapids community, while also navigating matters of human rights and comparative justice systems that reveal our connections to the broader world.
-Through interdisciplinary engagement and a required practicum, the SCJ program demonstrates for students how a multiplicity of voices and viewpoints can help to shape new ideas about the impact of social justice initiatives upon the criminal justice system, and the foundations of individual and collective community engagement.  
+  A student may receive practicum credit while holding the position and performing the duties of the main editor of: The Cosmos, The Acorn, Colere, or The Pearl, or a comparable publication sponsored by the rhetoric department. Students must arrange with a supervising faculty member the amount of credit and a practicum agreement specifying skill development goals and the projects to be undertaken for the development of those skills. S/U basis only. No more than 2.0 course credits may be applied to graduation requirements. A maximum of one course credit may be applied to a writing major or minor. (0.5 or 1.0 course credit per term)  
  **RHE 494 Internship in Writing**    
   An internship with a focus on writing supervised by a faculty member of the department. A minimum of 140 hours on-site experience is required. S/U basis only. A maximum of one credit may count toward a major or minor in communication studies or writing with the consent of department chair. Prerequisites: junior standing and consent of department chair.  
 
@@ -5317,7 +5309,7 @@ A major in Social & Criminal Justice requires a cumulative 2.0 GPA in all course
 	- HIS 257 Native American History
 	- HIS 297 Women in America
 	- HIS 325 Recent American History I
-	- IS 126 HumanRightsBurmeseMigrant
+	- IS 126 Human Rights Burmese Migrant
 	- PHL 128 Morality & Moral Controversies
 	- PHL 205 Environmental Ethics
 	- PHL 265 Political Philosophy
@@ -5343,7 +5335,7 @@ A major in Social & Criminal Justice requires a cumulative 2.0 GPA in all course
 	- SOC 247 Sociology of Race
 	- SOC 328 Urban Sociology
 	- SOC 338 Political Sociology
-	- SOC 355 Deviant Behavior
+	- SOC 355 Sociology of Deviance
 	- SOC 425 Social Change
 	- A course approved by the Social & Criminal Justice administrative coordinator
 
@@ -5351,7 +5343,7 @@ A major in Social & Criminal Justice requires a cumulative 2.0 GPA in all course
 	- SCJ 444 Independent Study in Social and Cri
 	- SCJ 494 Internship in Social and Criminal J
 	- OCC 323 OCC Chicago: Urban Studies (if internship/independent study has SCJ focus)
-	- WSH 464 Internship Seminar (if internship has SCJ focus)
+	- WSH 464 Washington Term Internship Seminar (if internship has SCJ focus)
 	- As a capstone experience, it is expected that students will carry out the project during the junior or senior year, after completing the majority of the required coursework. Students are expected to consult with the SCJ administrative coordinator prior to beginning their projects. 
 
 10. SCJ 490 Social & Criminal Just Colloquium -- Non-Credit Bearing
@@ -5359,25 +5351,25 @@ A major in Social & Criminal Justice requires a cumulative 2.0 GPA in all course
 ### Courses Social & Criminal Justice
 
  **SCJ 101 Intro to Social & Criminal Justice**  
-  Explores components of justice. Focus is on understanding the nature and goals of social and criminal justice issues and policies including an analysis of globalization, consumer culture, and social privilege. Considers the history, structure, functions, and philosophy of justice. This course includes a required civic engagement component.  
+  Explores components of justice with a focus on understanding the nature and goals of social and criminal justice issues and policies. Considers the history, structure, functions, and philosophy of justice.  
  **SCJ 190 Topics in Social & Criminal Justice**  
   A focused examination of an issue, problem, theory, or methodology related to social and criminal justice. Content varies and is determined by the instructor. May be taken more than once for credit, provided the topics are substantially different (0.5 or 1.0 course credit).  
  **SCJ 201 Law Enforcement & Corrections**  
   Examines the structure and function of law enforcement policies and techniques along with practices, policies, and agencies involved in corrections systems. Review the histrical development of law enforcement and corrections, including challenges facing correctional populations. Explores the principles and practices of treatment accorded to suspects and offenders in various settings. Prerequisite: Introduction to Social and Criminal Justice (SCJ-101).  
  **SCJ 220 Juvenile Delinq & the Justice Sys**  
-  Overview of delinquent behavior and juvenile justice system responses to delinquency. Addresses historical precedents and philosophical reasons for treating juveniles differently from adults. Also considers methodological problems and theoretical controversies in delinquency research, and the goals and effectiveness of juvenile justice systems. Prerequisite: Introduction to Social and Criminal Justice (SCJ-101).  
+  Overview of delinquent behavior and juvenile justice system responses to delinquency. Addresses historical precedents and philosophical reasons for treating juveniles differently from adults. Considers methodological problems and theoretical controversies in delinquency research, and the goals and effectiveness of juvenile justice systems. Prerequisite: Introduction to Social and Criminal Justice (SCJ-101).  
  **SCJ 301 Criminal Law & the 4th, 5th & 6th**  
   Study of criminal law including the general elements of crime, the specific criminal offenses, legal justification defenses, and conspiracy. Additionally, the course offers a general understanding of accused rights under the Fourth, Fifth, Sixth Amendments of the U.S. Constitution. Prerequisite: junior standing or consent of instructor.  
  **SCJ 350 Human Rights & Comparative Justice**  
   Introduces philosophical and legal questions surrounding "human rights", analyzing the ways that the language of human rights permeates questions of civil rights and social justice in both international and domestic settings.  
  **SCJ 390 Adv Topics in Soc & Crim Just**  
-  Advanced study of an issue, problem, theory, or methodology related to social and criminal justice. Content varies and is determined by the instructor. May be taken more than once for credit, provided the topics are substantally different. Prerequisite: Introduction to Social and Criminal Justice (SCJ-101) and Methods of Sociological Research (SOC-235). 0.5 or 1.0 course credit.  
+  Advanced study of an issue, problem, theory, or methodology related to social and criminal justice. Content varies and is determined by the instructor. May be taken more than once for credit, provided the topics are substantally different. Prerequisite: Introduction to Social and Criminal Justice (SCJ-101) and Methods of Sociological Research (SOC-235). (0.5 or 1.0 course credit)  
  **SCJ 444 Independent Study in Social and Cri**  
-  Independent study under faculty guidance of a research problem chosen by the student. May be taken for an X status grade with consent of instructor prior to registration. Prerequisites: Methods of Sociological Research (SOC-235), junior standing, and declared major in Social & Criminal Justice.  
+  Independent study under faculty guidance of a research problem chosen by the student. May be taken for an X status grade with consent of instructor prior to registration. Prerequisites: Methods of Sociological Research (WE) (SOC235) junior standing, and declared major in Social & Criminal Justice.  
  **SCJ 490 Social & Criminal Just Colloquium**  
   Majors discuss and present their work that is a requirement of their capstone projects. It is expected that Colloquium is taken during or following the completing of the capstone internship/independent study. Satisfactory completion of the Colloquium is required for graduation with a major in Social & Criminal Justice. S/U basis only. (0.0 course credit)  
  **SCJ 494 Internship in Social and Criminal J**  
-  Investigation of a career area related to the student’s interest in social and criminal justice supervised by a faculty member in cooperation with the Center for Creativity and Careers. A minimum 140 hours of on-site experience is required. S/U basis only. Prerequisites: junior standing, declared major in Social & Criminal Justice, and consent of Social & Criminal Justice administrative coordinator.  
+  Investigation of a career area related to the student’s interest in social and criminal justice supervised by a faculty member in cooperation with the Center for Creativity and Careers. A minimum 140 hours of on-site experience is required. P/NP basis only. Prerequisites: junior standing, declared major in Social & Criminal Justice, and consent of Social & Criminal Justice administrative coordinator.  
 
 
 ## Sociology
@@ -5394,7 +5386,7 @@ A major in Sociology requires a cumulative 2.0 GPA in all courses counted toward
  
 3. SOC 450 Sociological Theory
  
-4. SOC 464 Capstone Seminar in Sociology 
+4. SOC 464 Sociology Capstone 
 
 5. **Five** additional sociology courses, including at least one course numbered 400–449 (not including SOC-444 Independent Study, which does not count towards the major)
 
@@ -5409,48 +5401,48 @@ A major in Sociology requires a cumulative 2.0 GPA in all courses counted toward
 
 3. SOC 450 Sociological Theory
 
-4. **Three** additional sociology courses, including at least one course numbered 400–449 (not including SOC 444 Ind Study-Soc , which does not count towards the major)
+4. **Three** additional sociology courses, including at least one course numbered 400–449 (not including SOC 444 Independent Study , which does not count towards the major)
 
 The following courses do not satisfy any of the requirements for a major or minor in sociology:
 
 - SOC 275 Directed Readings in Sociology
 - SOC 365 Research Participation I or SOC 375 Research Participation II
-- SOC 444 Ind Study-Soc
+- SOC 444 Independent Study
 - SOC 494 Internship in Sociology
-- SOC 499 Career Related Independent Invest
+- SOC 499 Summer Internship in Sociology
 
 ### Courses in Sociology 
 
  **SOC 107 Introductory Sociology**  
-  An introduction to sociology, the scientific study of human social behavior. The course explores the place of the discipline in the social sciences and the interplay of theory and empirical evidence in building an understanding of society, and it provides exposure to a wide range of research topics and results from different areas of study in the field.  
+  Is an introduction to sociology, the scientific study of human social behavior. The course explores the place of the discipline in the social sciences and the interplay of theory and empirical evidence in building an understanding of society, and it provides exposure to a wide range of research topics and results from different areas of study in the field.  
  **SOC 207 Sociology of the Family**  
-  Sociological description and analysis of the family as a major social institution. Topics covered may include, but are not limited to: the various ways in which “families” are defined, and the different forms that families take; the relationship of family life to social processes such as socialization, stratification, and modernization, and the role of families in the interdependent network of social institutions. Prerequisite: Introductory Sociology (SOC-107) or consent of instructor.  
+  Focuses on the Sociological analysis of the family as a major social institution. Topics covered may include, but are not limited to: the various ways in which “families” are defined, and the different forms that families take; the relationship of family life to social processes such as socialization, stratification, and globalization, and the role of families in the interdependent network of social institutions. Prerequisite: Introductory Sociology (SOC-107)  
  **SOC 217 Sociology of Religion**  
-  Examines the ways in which religion affects—and is affected by—the social context in which it occurs. Although the primary emphasis is on religion in the contemporary United States, considerable cross-cultural and historical material is included as well. The concept of secularization (that both the public and private impact of religion decline as societies modernize) is examined in light of empirical evidence. Prerequisite: Introductory Sociology (SOC-107) or consent of instructor. (Offered on an occasional basis)  
+  Introduces sociological perspectives on religion and its role in society. Examines the ways in which religion affects—and is affected by—the social context in which it occurs. Although The primary emphasis is on religion in the contemporary United States, though considerable cross-cultural and historical material is may be included as well. The concept of secularization (that both the public and private impact of religion decline as societies modernize) is examined in light of empirical evidence. Examines topics such as religious pluralism, religion and politics, social change, new religious movements, and how religion interacts with other social structures. Prerequisite: Introductory Sociology (SOC-107)  
  **SOC 226 Gender and Globalizaton**  
   Examines processes of globalization through a gendered lens. Focus on the ways global issues such as labor, intimacy, poverty, pop culture, and environmental degradation affect people of different genders in various ways. Also notes how people respond to the forces of globalization and addresses the effects of globalization on the lives of people in the non-Western world. Prerequisite: Introductory Sociology (SOC-107), or consent of instructor.  
  **SOC 235 Methods of Sociological Research**  
-  An exploration of the various strategies researchers employ to gather information and test hypotheses about the social world. Topics include data collection, sampling, conceptualization and measurement, and both qualitative and quantitative methods of analysis. Prerequisite: Introductory Sociology (SOC-107), sophomore standing or consent of instructor.  
+  Explores various strategies social researchers employ to gather information and test hypotheses about the social world. Topics include data collection, sampling, conceptualization and measurement, and both qualitative and quantitative methods of analysis. Prerequisite: Introductory Sociology (SOC-107) or Introduction to Social and Criminal Justice (SCJ-101)  
  **SOC 236 Topics in Sociology NWP**  
-  Same as Topics in Sociology (SOC-237) except topic(s) relate to non-Western cultures. Prerequisite: Introductory Sociology (SOC-107) or consent of instructor.  
+  Is a course of selected focus that centers on a particular sociological issue, problem, theory, or methodology related to non-Western cultures. Content varies and is determined by the instructor. May be taken more than once for credit, provided the topics are substantially different. Prerequisite: Introductory Sociology (SOC-107).  
  **SOC 237 Topics in Sociology:U S Pluralism**  
-  A course of selected focus that centers on a particular sociological issue, problem, theory, or methodology related to United States Pluralism. Content varies and is determined by the instructor. May be repeated for credit, provided the topics are substantially different. Prerequisite: Introductory Sociology (SOC-107) or consent of instructor. (Offered on an occasional basis)  
- **SOC 238 Topics in Soc Div West Perspectives**  
+  Is a course of selected focus that centers on a particular sociological issue, problem, theory, or methodology related to United States Pluralism. Content varies and is determined by the instructor. May be repeated for credit, provided the topics are substantially different. Prerequisite: Introductory Sociology (SOC-107).  
+ **SOC 238 Topics in Sociology: DWP**  
   Same as Topics in Sociology (SOC-237) except topic(s) relate to diverse Western cultures.
-Prerequisite: Introductory Sociology (SOC 107)  
+Prerequisite: Introductory Sociology (SOC 107).  
  **SOC 247 Sociology of Race**  
-  The purpose of this course is twofold: first, students will develop an understanding of the social, political, and economic pressures shaping definitions of ‘race’ over time; second, we will explore the intersections of ‘race’ with ethnicity, gender, class, and sexuality. Students will examine these via in-depth evaluations of the following topics: the historical emergence of ‘race,’ contemporary and historical whiteness, harmonious and discordant inter-racial interactions, stereotyping, discrimination, racism, race and crime, economic inequality, and changing racial demographics. Efforts will be made throughout the course to make the material relevant to students’ lives.  
+  Examines the role that racial identity and racial inequality play in the contemporary United States. Explores the historical creation of race and racial categories. Focus is on application of theory to better understand the ways that race operates at both the interpersonal and institutional level. Prerequisite: Introductory Sociology (SOC-107)  
  **SOC 275 Directed Readings in Sociology**  
   Study of major literature on a selected topic in sociology directed by a sociology department faculty member. This course does not satisfy any of the requirements for a major or minor in sociology. Prerequisites: declared sociology major, minor, or elementary education emphasis, sophomore standing, or consent of department.  
  **SOC 328 Urban Sociology**  
   Analysis of cities as they affect social behavior, and the study of the urban form as it is produced and modified by wider changes in the world economy. Emphasis is theoretical, historical, and comparative. Problems addressed include restructuring, poverty, and underdevelopment. Prerequisites: Introductory Sociology (SOC-107), sophomore standing or consent of instructor.  
  **SOC 338 Political Sociology**  
   Examines the interconnections between politics and society. Emphasis is on the relationship between the state and social structures of capatalist societies. Theoretical, historical, and comparative materials are considered. Topics may include polititcal power, the polititcs of the welfare state, policy-making, and political participation.
-Prerequisite: Introductory Sociology (SOC 107) or consent of the instructor.  
+Prerequisite: Introductory Sociology (SOC 107)  
  **SOC 351 Criminology**  
-  Examines the social meaning of criminal behavior. Looks at the relationship between crime and society - in particular, how the production and destribution of economic, political, and cultural resources shape the construction of "law" and "crime". Includes a comparison of different types of crime, criminals, and victims, as well as at efforts to understand and control them. Prerequisite: Introductory Sociology (SOC-107).  
- **SOC 355 Deviant Behavior**  
-  Emphasis on theories and research in understanding deviant behaviors and deviant careers. Approaches include learning, strain, conflict, and labeling theories. Prerequisite: Introductory Sociology (SOC-107), consent of instructor.  
+  Examines the social meaning of criminal behavior. Looks at the relationship between crime and society—in particular, how the production and distribution of economic, political, and cultural resources shape the construction of “law” and “crime”. Includes a comparison of different types of crime, criminals, and victims, as well as at efforts to understand and control them. Prerequisite: Introductory Sociology (SOC-107)  
+ **SOC 355 Sociology of Deviance**  
+  Examines deviance through sociological theory, focusing on how norms are constructed, challenged, and enforced and how definitions of deviance shape, and are shaped by, social organization and inequality Prerequisite: Introductory Sociology (SOC-107)  
  **SOC 365 Research Participation I**  
   Individual or group investigation with a sociology department faculty member on a research topic or topics of mutual interest. The student must obtain approval for a specific project and make necessary arrangements prior to the term of registration for the course. This course does not satisfy any of the requirements for a major or minor in sociology. Prerequisites: Introductory Sociology (SOC-107) and consent of instructor. (Offered by arrangement)  
  **SOC 375 Research Participation II**  
@@ -5459,19 +5451,19 @@ Prerequisite: Introductory Sociology (SOC 107) or consent of the instructor.
   Examines how social contexts in the United States shape sexuality. Gender is a significant theme throughout the course, with a focus on topics such as past and current research about sexual behavior and identities; the social construction of sexual orientations; connections among thnicity, race, and sexulaity; domestic and international sex work; sexual violence. 
 Prerequisite: Methods of Sociological Research (SOC 235) or consent of instructor.  
  **SOC 425 Social Change**  
-  Theories of change applied to substantive areas (for example, modernization, economic development or restructuring, social values, and social definitions), selected by the instructor. The course addresses the differential experiences of the consequences of change among various social groups. Prerequisite: Methods of Social Research (SOC-235) or consent of instructor. (Offered alternate years)  
+  Theories of change applied to substantive areas (for example, modernization, economic development or restructuring, social values, and social definitions), selected by the instructor. The course addresses the differential experiences of the consequences of change among various social groups. Prerequisite: Methods of Social Research (SOC-235)  
  **SOC 435 Advanced Topics in Sociology**  
-  Examines a particular sociological issue, problem, theory, or methodology. Content varies and is determined by the instructor. May be taken more than once for credit, provided the topics are substantially different. Prerequisite: Methods of Sociological Research (SOC-235) or consent of instructor.  
- **SOC 444 Ind Study-Soc**  
-  None  
- **SOC 445 Small Groups**  
-  Theory and research on the processes of social interaction and social psychology with special application to studies of groups. Prerequisite: Methods of Social Research (SOC-235) or consent of instructor.  
+  Examines a particular sociological issue, problem, theory, or methodology. Content varies and is determined by the instructor. May be taken more than once for credit, provided the topics are substantially different. Prerequisite: Methods of Sociological Research (SOC-235)  
+ **SOC 444 Independent Study**  
+  Independent study under faculty guidance of a research problem chosen by the student. May be taken for an X status grade with consent of instructor prior to registration. This course does not satisfy any of the requirements for a major or minor in sociology. Prerequisite: Previous or concurrent enrollment in Sociological Theory (WE) (SOC-450) or consent of department chair.  
+ **SOC 445 Small Groups: Self and Society**  
+  Examines social interaction and the relationship between self and society, with emphasis on how patterns of interaction shape behavior, identity, and group processes. Prerequisite: Methods of Sociological Research (WE) (SOC-235)  
  **SOC 450 Sociological Theory**  
-  Examines the major paradigms and theories in contemporary sociology. The course places particular emphasis on the ways in which those paradigms and theories affect—and are affected by—the process of empirical research. Prerequisites: Methods of Sociological Research (SOC-235) and three other sociology courses above the introductory level or consent of instructor.  
- **SOC 464 Capstone Seminar in Sociology**  
-  Concepts, theories, and methodologies learned in previous sociology courses are applied to the intensive study of a topic selected by the instructor. Prerequisite: Sociological Theory (SOC-450), and senior standing, or consent of department chair.  
+  Examines the major paradigms and theories in contemporary sociology. The course places particular emphasis on the ways in which those paradigms and theories affect—and are affected by—the process of empirical research. Prerequisites: Methods of Sociological Research (SOC-235) and three other sociology courses above the introductory level.  
+ **SOC 464 Sociology Capstone**  
+  Focuses on exploring a contemporary social problem or issue using sociological concepts, theories, and methodologies learned in previous sociology courses. Additional emphasis on vocational and career exploration. Prerequisite: Sociological Theory (WE) (SOC-450), and senior standing  
  **SOC 494 Internship in Sociology**  
-  A field placement with a career-related organization. A minimum of 140 hours on-site experience is required. P/NP basis only. This course does not satisfy any of the requirements for a major or minor in sociology. Prerequisite: declared major in sociology, junior standing, or consent of department chair.  
+  A field placement with a career-related organization. A minimum of 140 hours on-site experience is required. P/NP basis only. This course does not satisfy any of the requirements for a major or minor in sociology. Prerequisite: declared major in sociology, junior standing, and consent of department chair.  
 
 
 
@@ -5496,7 +5488,7 @@ The minor in Spanish requires the completion of four courses beyond SPA 225 Inte
  
 A grade of “C” (2.0) or higher must be earned in all courses counted toward a major in Spanish Studies. 
 
-The Spanish Studies major requires: 1) successful completion of four courses beyond SPA 225 Intermediate Spanish II , with SPA 336 Hispanic Life/Cult-Latin America or SPA 338 Hispanic Life/Culture:Europe recommended as one of the four; and 2) successful completion of a departmentally approved list of five courses proposed by the student which exhibits both internal coherence and relevance to the coursework in Spanish. Typically, application to the department for the approval of the interdisciplinary elected courses is to be made no later than the Spring Term of the junior year. SPA 115 Elementary Spanish I , SPA 125 Elementary Spanish II , SPA 135 Spanish Review & Preparation, SPA 215 Intermediate Spanish I , and SPA 225 Intermediate Spanish II are regarded as skill-building courses, and do not count toward the major in Spanish Studies.
+The Spanish Studies major requires: 1) successful completion of four courses beyond SPA 225 Intermediate Spanish II , with SPA 336 Hispanic Life & Culture: Latin Amer or SPA 338 Hispanic Life & Culture: Europe recommended as one of the four; and 2) successful completion of a departmentally approved list of five courses proposed by the student which exhibits both internal coherence and relevance to the coursework in Spanish. Typically, application to the department for the approval of the interdisciplinary elected courses is to be made no later than the Spring Term of the junior year. SPA 115 Elementary Spanish I , SPA 125 Elementary Spanish II , SPA 135 Spanish Review & Preparation, SPA 215 Intermediate Spanish I , and SPA 225 Intermediate Spanish II are regarded as skill-building courses, and do not count toward the major in Spanish Studies.
 
 ### Courses in Spanish
  **SPA 115/125 Elementary Spanish I and II**  
@@ -5504,36 +5496,36 @@ The Spanish Studies major requires: 1) successful completion of four courses bey
  **SPA 129 Intensive Elementary Spanish I-II**  
   Offers students with no prior training a year’s worth of basic communicative skills in Spanish in a single term. Students will be introduced to beginning grammar based on a communicative and task-supported curriculum that helps them to develop skills in reading, listening, speaking, and writing in Spanish to engage in interpretive, interpersonal, and presentational modes of communication. (Offered in the summer)  
  **SPA 135 Spanish Review & Preparation**  
-  Designed to prepare students who have had some limited experience in Spanish to enter SPA-215 the following term. Strong students with one year of secondary school Spanish should enter this course. This class is also appropriate for students with two years of secondary school Spanish or for those for whom some time has elapsed since their earlier study of Spanish. This course provides review and elementary college-level preparation in Spanish grammar, vocabulary, speaking, and writing.  
+  Prepares students who have had some limited experience in Spanish to enter Intermediate Spanish SPA-215 the following term. It provides a complete review of college level elementary Spanish vocabulary, grammar, and oral and written communication. This course is appropriate for students with one recent year of secondary school Spanish or two years if there are significant gaps in learning or if some time has elapsed since their earlier study of Spanish. Prerequisite: appropriate Spanish Placement exam results or consent of instructor.  
  **SPA 148 Spanish Literature in Translation**  
-  Reading, in translation, of a selection of works by major Hispanic authors. Content varies from term to term. In most cases selections center on a theme, a time period, or a genre. Contact the instructor for specific information about course content. Students preparing a Spanish major or minor must write a paper in Spanish. Taught in English.  
+  Focuses on reading and analysis of selected works by major Hispanic authors, centering on a theme, author, time period, or genre. The content varies from term to term. Students pursuing a major or minor in Spanish must write a paper in Spanish. Taught in English.  
  **SPA 215 Intermediate Spanish I**  
-  Continuation of Elementary Spanish, with emphasis on oral practice and a review of grammatical structures. Prerequisite: Elementary Spanish II (SPA-125) or Spanish Review and Preparation (SPA-135) or consent of instructor.  
+  Follows and builds upon the skills and proficiencies acquired in Continuation of Elementary Spanish, with particular emphasis on oral practice and a review of grammatical structures. Prerequisite: Elementary Spanish II (SPA-125), Spanish Review and Preparation (SPA-135), appropriate Spanish Placement exam results or consent of instructor.  
  **SPA 258 Spanish Lang Learn in Spain**  
-  Features immersive leaning of Spanish in the context of a study abroad course supervised by a Coe faculty member. It includes three hours of daily instruction in Spanish with an additional hour studying the culture and traditions of the country. Prerequisite: consent of instructor. (Offered May Term only)  
+  Features immersive leaning of Spanish in the context of a study abroad course supervised by a Coe faculty member. It includes three hours of daily instruction in Spanish with an additional hour studying the culture and traditions of the country. Prerequisite: consent of instructor. (Offered May Experiential Term only)  
  **SPA 315 Spanish Composition & Conversation**  
-  A course stressing the skills of speaking and writing. Some third-year grammar is studied, with an emphasis on the key problematic structures of the Spanish language. Students write frequent compositions, and class time concentrates on conversational activities. Prerequisite: Intermediate Spanish II (SPA-225).  
+  Focuses on further development of oral and written communication skills in appropriate cultural contexts, and includes a review of key problematic structures of the Spanish language. Students write frequent compositions using a variety of structures of the Spanish language, and class time concentrates on conversational activities. Prerequisite: Intermediate Spanish II (SPA-225), appropriate Spanish Placement exam results or consent of instructor.  
  **SPA 325 Spanish Language & Literature**  
-  Continuation of Spanish Composition and Conversation, with an emphasis on speaking and writing. A wide range of short literary texts is also studied. Prerequisite: Intermediate Spanish II (SPA-315).  
+  Continues Spanish Composition and Conversation, with an emphasis on speaking and writing. A wide range of short literary texts is also studied. Prerequisite: Intermediate Spanish II (SPA-225), appropriate Spanish placement exam, or consent of instructor.  
  **SPA 330 Spanish for Heritage Speakers**  
   Focuses on the specific linguistic and communicative needs of heritage speakers of Spanish in the context of
 exploring issues of identity, immigration and community in contemporary Latino communities in the U.S.
 Assessments based on an exit interview and a portfolio of formal writing. Prerequisite: Spanish placement test or
 approval of the instructor.  
- **SPA 336 Hispanic Life/Cult-Latin America**  
-  An interdisciplinary overview of the culture and civilization of Latin America as portrayed in literature, art, architecture, and film. Particular attention is given to the way the past has created and shaped contemporary Hispanic culture in Latin America. Prerequisite: Spanish Composition and Conversation (SPA-325).  
- **SPA 338 Hispanic Life/Culture:Europe**  
-  Same as Hispanic Life and Culture (SPA-336) except focus of the course is European culture and civilization as portrayed in literature, art, architecture, and film. Particular attention is given to the way the past has created and shaped Hispanic culture in Spain.  
+ **SPA 336 Hispanic Life & Culture: Latin Amer**  
+  Offers an interdisciplinary overview of the culture and history of Latin America as portrayed in literature, art, architecture, and film. Particular attention is given to the way the past has created and shaped contemporary Hispanic culture in Latin America. Prerequisite: Spanish Composition and Conversation (WE) (SPA-315), Spanish for Heritage Speakers (SPA-304), or Spanish Language and Literature (WE) (SPA-325). (Offered alternate years)  
+ **SPA 338 Hispanic Life & Culture: Europe**  
+  Offers an interdisciplinary overview of the culture and history of Spanish in Europe as portrayed in literature, art, architecture, and film, with particular emphasis on how Spanish cultural history shapes the present. Particular attention is given to the way the past has created and shaped Hispanic culture in Spain. Prerequisite: Spanish Composition and Conversation (WE) (SPA-315), Spanish for Heritage Speakers (SPA-304), or Spanish Language and Literature (WE) (SPA-325). (Offered alternate years)  
  **SPA 339 Spanish for Health Care**  
   Focuses on providing Spanish language proficiency for students planning careers in the area of healthcare. Emphasis is placed on the healthcare vocabulary and the culture of the Latino population living in the United States. Local outreach is a required component of this course. Students visit local health clinics, where they are able to volunteer, using their knowledge of Spanish and working as translators. Prerequisite: Intermediate Spanish II (SPA-225) or consent of instructor.  
  **SPA 345 Introduction to Hispanic Literature**  
-  An introduction to the study of Peninsular and Spanish-American literary works, with an emphasis on basic critical concepts, terminology, and methods. A wide range of texts is studied, beginning with poems and short narratives, and ending with longer works. Prerequisite: Spanish Composition and Conversation (SPA-315) or Spanish Language and Literature (SPA-325). (Offered alternate years)  
+  Introduces Peninsular and Spanish-American literary works, with an emphasis on basic critical concepts, terminology, and methods. A wide range of texts is studied, beginning with poems and short narratives, and ending with longer works. Prerequisite: Spanish Composition and Conversation (WE) (SPA-315) or Spanish Language and Literature (WE) (SPA-325), or Spanish for Heritage Speakers (SPA-304).  
  **SPA 349 Business Spanish**  
-  Focuses on providing Spanish language proficiency for students planning careers in business. Emphasis is placed on the different cultures of Spanish-speaking countries in the business world. Local outreach is a required component of this course. Students visit local businesses, where they learn about the culture of the Spanish-speaking business world. Prerequisite: Intermediate Spanish II (SPA-225) or consent of instructor.  
+  Focuses on providing Spanish language proficiency for students planning careers in business with emphasis on the variety of Spanish-speaking cultures in the business world and requires local outreach and on-site learning. Prerequisite: Intermediate Spanish II (SPA-225) or consent of instructor.  
  **SPA 394 Directed Learning: Spanish**  
-  For students wishing to investigate a particular aspect of Spanish literature unavailable through the regular sequence of courses offered. Periodic conferences and papers are required. May be taken more than once for credit. Prerequisite: Spanish Composition and Conversation (SPA-315) or Spanish Language and Literature (SPA-325).  
+  Allows students to investigate a particular aspect of literature in Spanish unavailable through the regular sequence of courses offered. Periodic conferences and papers are required. May be taken more than once for credit. Prerequisite: Spanish Composition and Conversation (WE) (SPA-315) or Spanish Language and Literature (WE) (SPA-325).  
  **SPA 412 Ecologies:Latin America Environ Lit**  
-  Ecologies: Latin American Environmental Literature and Cultural Works (WE) Examines Latin American writers and artists who have long focused on nature as a means to address pressing political, social, and ethical issues through literature, ethnographic texts, film and the visual arts. Readings in this class will trace connections between environmental thought and the region's long and multi-layered history of colonialism. Prerequisite: Introduction to Hispanic Literature (SPA-345) or Hispanic Life and Culture (SPA-336 / SPA-338).  
+  Examines Latin American writers and artists who have long focused on nature as a means to address pressing political, social, and ethical issues through literature, ethnographic texts, film and the visual arts. Readings in this class will trace connections between environmental thought and the region's long and multi-layered history of colonialism. Prerequisite: Introduction to Hispanic Literature (WE) (SPA-345) or Hispanic Life and Culture (SPA-336 / SPA-338).  
  **SPA 418 Gender & Sexuality in Hispanic Wrld**  
   Examines constructions and representations of gender, sexuality, and power in Latin American and/or Spanish literature and cultures with particular emphasis on intersections with race/ethnic positioning, sexual identity, and social class. The course adopts an interdisciplinary approach to explore the role and contributions of artists, as well as the reception of their work, with regard to issues surrounding cultural representations of race and ethnicity, masculinity and femininity, gender and sexual identities and LGTBQ+ communities, nationalism and citizenship, and social movements. Prerequisite: Introduction to Hispanic Literature (WE) (SPA-345) or Hispanic Life and Culture (SPA-336 / SPA-338).  
  **SPA 421 Nation, History, and Literature**  
@@ -5552,26 +5544,26 @@ course. Prerequisite: Introduction to Hispanic Literature (SPA-345) or Hispanic 
  **SPA 443 Cinema & Politics of Representation**  
   Provides a historical and thematic overview of cinema in a selected time period and/or geographical region of the Spanish-speaking world to deepen understanding of and engagement with important and complex cultural issues in relation to both aesthetics and politics, and offers both offers tools and guidance for discussing and writing about film. May be taken more than once for credit, if focused on a different region or period. Prerequisite: Introduction to Hispanic Literature (WE) (SPA-345) or Hispanic Life and Culture (SPA-336 / SPA-338).  
  **SPA 444 Ind Study-Spanish**  
-  Independent investigation of a selected project in Spanish under the direction of a faculty member of the department. May be taken for an X status grade with consent of instructor prior to registration. Prerequisite: consent of department chair.  
+  Allows students to design and undertake a selected project in Spanish under the direction of a faculty member of the department. May be taken for an X status grade with consent of instructor prior to registration. Prerequisite: consent of department chair.  
  **SPA 446 Latin Am. & Spanish Short Stories**  
   Focuses on the rich and varied literary production of the short story in Latin America and/or Spain. Readings may include a wide range of short narratives with an emphasis on those of the 20th and 21st century. Prerequisite: Introduction to Hispanic Literature (SPA-345) or Hispanic Life and Culture (SPA-336 / SPA-338).  
  **SPA 451 Hispanic Cross-Over Literature**  
   Focuses on literature that is designed for children or for both adults and children. Texts for this class will intersect with notions of memory, education, censorship, and the dialogue between image and written text. The class will emphasize the picture-book (álbum ilustrado), and it will hold a workshop where the students learn techniques to develop their own. Prerequisite: Introduction to Hispanic Literature (WE) (SPA-345) or Hispanic Life and Culture (SPA-336 / SPA-338).  
  **SPA 455 Spanish Drama**  
-  Same as Hispanic Drama (SPA-455) except focus of course is Latin American theatre.
-An introduction to Spanish theatre and the various techniques, themes, and images used to express, criticize, or romanticize Hispanic society and life. Prerequisite: Spanish Composition and Conversation (SPA-315) or Spanish Language and Literature (SPA-325).  
+  Focuses on providing students with the elements to appreciate and analyze Spanish and US Latinx theatre and performance art. This class will introduce students to the various techniques, themes, and images used to express, criticize, or romanticize Hispanic society and life, and may include the staging of a play. Prerequisite: Introduction to Hispanic Literature (WE) (SPA-345) or Hispanic Life and Culture (SPA-336/ SPA-338).  
  **SPA 457 US LatinX Literature**  
   Focuses on the major trends of LatinX literature that highlight the experiences of LatinX people within the US. Topics will include bilingualism, code-switching, identity, borders, immigration, and exile in LatinX groups such as Chicano/a, Nuyorican, Boricuas, Dominicans, etc. Their cultural productions will be analyzed within their social and political context and texts assigned will be in English, Spanish or mixed. Prerequisite: Introduction to Hispanic Literature (SPA-345) or Hispanic Life and Culture (SPA-336 / SPA-338).  
  **SPA 458 Travel Writing & Transatlantic Lit**  
   Explores the varying perceptions of life, history, culture, traditions, and customs in Spain and Latin America across time and space through the accounts of travel narratives through interdisciplinary perspectives. Prerequisite: Introduction to Hispanic Literature (SPA-345) or Hispanic Life and Culture (SPA-336 / SPA-338).  
  **SPA 475 Topics in Hispanic Literature**  
-  A course of narrowed focus that centers on a theme, region, time period, or genre of Hispanic literature. Approach and content varies from term to term as determined by the instructor. May be taken twice, provided the topics are substantially different.  Prerequisite: Spanish Composition and Conversation (SPA-315) or Spanish Language and Literature (SPA-325).  
- **SPA 476 Topics in Hispanic Lit:Latin Amer**  
-  Same as Topics in Hispanic Literature (SPA-475, -485) except the focus of the course is Latin American culture.  
+  Centers on a particular theme, author, region, time period, or genre of Hispanic literature. Approach and content vary from term to term as determined by the instructor. May be taken more than once, provided the topics are substantially different. Prerequisite: Introduction to Hispanic Literature (WE) (SPA-345) or Hispanic Life and Culture (SPA-336/ SPA-338).  
+ **SPA 476 Topics in Hispanic Society &Culture**  
+  Topics in Hispanic Society and Culture (WE) 
+Centers on a particular theme, author, region, time period, or genre of Hispanic culture and society. May be taken more than once, provided the topics are substantially different. Prerequisite: Consent of instructor  
  **SPA 464 Capstone in Spanish**  
   Serves as the final requirement designed for Spanish majors who are graduating seniors. Students will polish a research paper written for any of the advanced classes in a previous semester. They will demonstrate the skills acquired throughout the major, such as: critical reading and writing, textual analysis, and original thinking regarding a historical and cultural topic related to Latin America and/or Spain. At the end of the course, students should present their research work on a conference-like panel open to the public. (Offered every spring)  
  **SPA 494 Internship in Spanish**  
-  Exploration of a career area related to Spanish. Application and supervision through the Internship Specialist. A minimum of 140 hours on-site experience is required. S/U basis only. This course does not satisfy any of the requirements for a major or minor in Spanish. Prerequisites: junior standing and consent of department chair.  
+  Allows students to explore a career area related to Spanish. Application and supervision through the Internship Specialist. A minimum of 140 hours on-site experience is required. P/NP basis only. This course does not satisfy any of the requirements for a major or minor in Spanish. Prerequisites: junior standing and consent of department chair.  
 
 
 ## Sports Management (Courses Only)
@@ -5585,9 +5577,9 @@ See Sports Management Concentration in Business, @sec-sports-management-concentr
  **SMT 300 Sport/Recreation Event Management**  
   An introduction to the principles and procedures for preparing, planning, operating, managing, and evaluating events and venues in sports settings. Students will gain a greater understanding of event and venue management and the total operation of sports organizations. Prerequisite: SMT-100: Introduction to Sports Management  
  **SMT 454 Seminar in Sports Management**  
-  A lecture/discussion-based course in which relevant and current research and industry trends are thoroughtly reviewed and analyzed. Students are encouraged to take this course near the end of their careers as undergraduate students in the sports management concentration.  
+  A lecture/discussion-based course in which relevant and current research and industry trends are thoroughly reviewed and analyzed. Students are encouraged to take this course near the end of their careers as undergraduate students in the sports management concentration. Prerequisite: Introduction to Sports Management (SMT-100).  
  **SMT 494 Internship in Sports Management**  
-  An internship with a focus on sports management supervised by a faculty member teaching within the sports management concentration. A minimum of 140 hours on-site experience is required. Students must document and analyze the experience through a journal and final report or through other written work as assigned by the faculty supervisor. S/U basis only. A maximum of one credit may count toward the concentration with the approval of the administrative coordinator(s) of the concentration. Prerequisites: junior standing and consent of administrative coordinator(s).  
+  An internship with a focus on sports management supervised by a faculty member teaching within the sports management concentration. A minimum of 140 hours on-site experience is required. Students must document and analyze the experience through a journal and final report or through other written work as assigned by the faculty supervisor. P/NP basis only. A maximum of one credit may count toward the concentration with the approval of the administrative coordinator(s) of the concentration. Prerequisites: junior standing and consent of administrative coordinator(s).  
 
 
 
@@ -5694,7 +5686,7 @@ Theatre Arts students select one of the following **emphases**: general, acting,
 *Strongly recommended:*
 	- ARH 118 History of Western Architecture 
 	- COM 237 Interpersonal Communication
-	- THE 220 Tech Theatre Lab  
+	- THE 220 Lighting Design  
 	- THE 242 Scene Design 
 	- THE 280 Costume Design 
 	- THE 350 Advanced Acting:Shakespeare 
@@ -5725,7 +5717,7 @@ Theatre Arts students select one of the following **emphases**: general, acting,
 1. **Eight** core courses (see @sec-theatre-arts-major )
 
 2. **Three*** of the following: 
-	- THE 220 Tech Theatre Lab 
+	- THE 220 Lighting Design 
 	- THE 230 Technical Production II 
 	- THE 232 Computer Aided Drafting and Design 
 	- THE 242 Scene Design 
@@ -5750,7 +5742,7 @@ Theatre Arts students select one of the following **emphases**: general, acting,
  **THE 112 Production Experience**  
   Practical involvement in a mainstage production as an actor (in a leading or secondary role), stage manager, assistant director, dramaturge, technical crew head (property master, master electrician, wardrobe master, etc.), or in another capacity as approved by the faculty (excluding run-crew positions). May be taken more than once. Prerequisite: consent of department chair. (0.5 course credit)  
  **THE 118 Theatre & Arts in Serbia**  
-  Explores the recent history and political realities of Belgrade, Serbia, through the lens of Theatre and other art forms, as well as visits to multiple cultural formations: museums, churches, monuments and schools. Offered May Term only. Prerequisite: consent of instructor.  
+  Explores the recent history and political realities of Belgrade, Serbia, through the lens of Theatre and other art forms, as well as visits to multiple cultural formations: museums, churches, monuments and schools. Prerequisite: consent of instructor. (Offered May Experiential Term only)  
  **THE 130 Technical Production I**  
   An introduction to the technical aspects of theatre production. Topics covered include safety, mechanical drawing, stage carpentry, craft techniques, stage lighting and electricity, costume construction, scene painting, and production organization. Class includes lecture-demonstration and practical application. Additional time outside of class is necessary to complete projects. (Offered Fall Term)  
  **THE 140 Design for the Stage**  
@@ -5767,7 +5759,7 @@ Theatre Arts students select one of the following **emphases**: general, acting,
   Designed to help students learn how to use the voice as a component of the acting process. The mechanics of vocal production and of speech are examined, along with various approaches for their improvement. A number of performance projects supplement a wide range of vocal exercises and drills. Students are introduced to the International Phonetic Alphabet (IPA) as the basis for determining correct pronunciation, both in standard speech and in preparing dialects and accents. Additional rehearsal time outside of class is required.  
  **THE 185 Production and Performance**  
   A “theatre company” consisting of actors, designers, a stage manager, costume, set, and lighting crew (plus an accompanist and choreographer, if needed). The company has as its goal the mounting of the chosen production in a fully-collaborative atmosphere. In addition to fulfilling their various creative functions, company members may be asked to take on, under the supervision of a faculty member of the department, dramaturgical assignments designed to provide research and study on selected aspects of the play or musical. This material is presented to the Coe community in the form of public displays throughout the campus. Company members need to audition prior to spring registration. The basis for student evaluation is completion of assigned duties and quality of work. May be taken more than once for credit. A maximum of two course credits may be counted toward a major or minor in theatre arts. (Offered Spring Term)  
- **THE 220 Tech Theatre Lab**  
+ **THE 220 Lighting Design**  
   A study of the equipment, mechanics, and theories used by lighting designers to produce lighting for theatre, dance, concerts, and architecture. Specific topics include design research and conceptualization, color, angle, cueing, and methods of presentation (sketches, storyboards, light plots, and associated paperwork). Class includes lecture/demonstration and practical application. Additional time outside of class is necessary to complete projects. Prerequisites: Design for the Stage (THE-140) and Technical Production I (THE-130) or consent of instructor. (Offered Spring Term, alternate years)  
  **THE 228 History of Theatre and Drama I**  
   A writing intensive course that provides students with an overview of World Theatre and Drama from cultures where oral traditions were the dominant forms of communication through and including those wherein the written word presented a new paradigm. The course provides a practical investigation of current critical discourses that examine dramatic literature and performance traditions from around the world. (Offered Fall Term in rotation with History of Theatre and Drama II (THE-238))  
@@ -5799,28 +5791,28 @@ See MU 270 Musical Theatre Acting , @sec-courses-in-music
   A performance-based studio course aimed at the development of advanced-level acting skills specifi- cally related to performing the playtexts of William Shakespeare. An eclectic approach to this complex material is offered, with emphasis divided between its verbal, physical, and psychological demands. Students prepare and perform several scenes and monologues throughout the term. Exercises and improvisations related to characterization and written character analyses are also components of this course. Additional rehearsal time outside of class is required. Prerequisite: Acting I (THE-150).  
  **THE 355 Playwriting Workshop 2**  
 See also CRW 355 Playwriting Workshop 2 , @sec-courses-in-creative-writing  
-  Focuses on the analysis and creation of play scripts of two acts or more. Emphasis is placed on the writing and marketing of the student’s own creative work, culminating in the completion and public reading of a full-length script. Prerequisite: Beginning Playwriting (CRW/THE-255).  
+  Focuses on the analysis and creation of play scripts of two acts or more. Emphasis is placed on the writing and marketing of the student’s own creative work, culminating in the completion and public reading of a full-length script. Prerequisite: Playwriting Workshop I (CRW/THE-255).  
  **THE 390 Directing II  WE**  
   An intermediate-level course or independent study expanding upon the work begun in Directing I by developing more complex analytical tools and deepening the work of conceptualization for production. Assigned readings guide the directing student to knowledge and understanding of a wide variety of 20th-century and contemporary directing theories and methodologies. The course culminates in the analysis and preparation with actors of a short one-act play or an extended scene from a full-length play that allows the student director to work in a non-realist style. Prerequisite: Directing I (THE-290). (Offered by arrangement)  
  **THE 442 Adv Proj-Design/Tech Production**  
   Individual work in a specific aspect of theatrical production: lighting design, costume design, scene design, sound design, technical direction, or stage management. A written proposal, conceptual statement, documentation of process, and self-evaluation are components of this upper-level course. May involve actual work for a departmental production. May be taken more than once, provided the emphasis varies. Prerequisite: consent of department chair. (Offered by arrangement)  
  **THE 444 Ind Study-Theatre**  
-  The faculty-supervised staging of an extended one-act or a full-length play as an advanced project. The production is staged in the Mills Experimental Theatre and may receive modest technical and design support, when appropriate. Comprehensive playtext analysis and documentation of process are components of this course. Prerequisite: Design for the Stage (THE-140), Directing II (THE-390), or consent of department chair. (Offered by arrangement)  
+  Independent study under the direction of a faculty member of the department. May be taken for an X status grade with consent of instructor prior to registration. Prerequisite: consent of instructor.  
  **THE 452 Advanced Projects in Acting**  
   A senior acting recital designed to demonstrate the proficiency level of majors with an acting emphasis. The recital may take the form of a one-person performance or a selection of scenes, monologues, and /or musical numbers demonstrating the student’s range and versatility. The project requires conceptualization, organization and selection of performance material, and adherence to a pre-arranged rehearsal process. Written components include a detailed proposal, a comprehensive statement of concept, thorough documentation of process, and analytical self-evaluation. Prerequisites: senior standing and consent of department chair. (Offered by arrangement)  
  **THE 455 Playwriting Workshop 3**  
 See also CRW 455 Playwriting Workshop 3 , @sec-courses-in-creative-writing  
-  Continued advanced writing, with an emphasis on producing finished poems. Prerequisite: Poetry Workshop 2 (CRW-380).  
+  Continued advanced writing, with an emphasis on producing finished plays. Prerequisite: Playwriting Workshop 2 (CRW/THE-355).  
  **THE 462 Advanced Projects in Directing**  
   The faculty-supervised staging of an extended one-act or a full-length play as an advanced project. The production is staged in the Mills Experimental Theatre and may receive modest technical and design support, when appropriate. Comprehensive playtext analysis and documentation of process are components of this course. Prerequisite: Design for the Stage (THE-140), Directing II (THE-390), or consent of department chair. (Offered by arrangement)  
  **THE 464 Senior Seminar**  
   Capstone course for theatre arts majors that requires students to synthesize their study of dramatic theory and literature and their experiences in theatre performance and production. Assignments center on dramaturgy, dramatic theory and criticism, and on the current state of the art. Required of theatre arts majors in their senior year. (Offered Fall Term)  
  **THE 486 Spc Top Theatre or Film: NWP**  
-  None  
- **THE 488 Special Topics in THE/ FLM**  
+  Focuses on specific aspects of theatre or film. Possible topics include: Asian Theatre in Perspective and Cinema of Japan. May be taken more than once, provided the topics are substantially different. With departmental approval, this course may be used to satisfy the requirements for a major in Theatre Arts.  
+ **THE 488 Special Topics in THE/ FLM:DWP**  
   Focuses on specific aspects of theatre or film. Possible topics include: Eastern European Theatre, Post-War Eastern European Cinema, Queer Cinema, Feminist Theatre. May be taken more than once, provided the topics are substantially different. With departmental approval, this course may be used to satisfy the requirements for a major in theatre arts.  
  **THE 494 Internship in Theatre Arts**  
-  An experience in professional or community theatre under the direction of an on-site supervisor in cooperation with a faculty member of the department and the Internship Specialist. A minimum of 140 hours on-site experience is required. S/U basis only. One internship credit may be used to satisfy the requirements for a major in theatre arts. Prerequisites: junior standing, declared major in theatre arts, and consent of department chair.  
+  An experience in professional or community theatre under the direction of an on-site supervisor in cooperation with a faculty member of the department and the Internship Specialist. A minimum of 140 hours on-site experience is required. P/NP basis only. One internship credit may be used to satisfy the requirements for a major in theatre arts. Prerequisites: junior standing, declared major in Theatre Arts, and consent of department chair.  
 
 
 
@@ -5846,14 +5838,14 @@ Workshops (0.25 and 0.5 course credit) are designed to allow hands-on, experient
   An introduction to vector graphics programs such as Adobe Illustrator as art-making tools though a series of self-directed creative projects (not tutorials). Students learn through hands on experience, guided with interactive demonstrations and assignments. (0.5 course credit).  
  **WKS 214 Workshop: Stop Motion**  
   An introduction to stop-motion animation as an art-making tool, through a series of self-directed creative projects (not tutorials). Students learn through hands on experience, guided with interactive demonstration and assignments. (0.5 course credit).  
- **WKS 221 Innovation Lab I**  
-  A workshop for students to engage in collaborative, innovative projects in the Center for Creativity. Students can work on smaller initiatives for 7 weeks (Innovation Lab I) or tackle more complex problems for an entire semester (Innovation Lab I and II)  
+ **WKS 221 Workshop: Woodshop**  
+  An overview of proper and safe use of all woodshop tools. Basic maintenance and care of equipment and tools are also addressed. (0.25 course credit)  
  **WKS 241 Workshop: Topics**  
   Investigates specific topics and/or tools in art-making. (0.5 course credit).  
  **WKS 251 Workshop: Sound**  
-  An introduction to sound as an art medium, using recording devices, software and installation, through a series of self-directed creative projects (not tutorials). Students learn through hands on experience, guided with interactive demonstrations and assignments. Prerequisite: Illuminated Pixels (ART-145), or Movement (ART-170), or Narratives (ART-251), or SpaceTime (ART-203). (0.5 course credit).  
+  An introduction to sound as an art medium, using recording devices, software and installation, through a series of self-directed creative projects (not tutorials). Students learn through hands on experience, guided with interactive demonstrations and assignments. Prerequisite: Digital Art (ART-145), or Time-Based Media (ART-150). (0.5 course credit)  
  **WKS 252 Workshop: Motion Graphics**  
-  An introduction to digital kinetic graphics programs, specifically Adobe AfterEffects among others, as art-making tools, through a series of self-directed creative projects (not tutorials). Students learn through hands on experience, guided with interactive demonstrations and assignments. Prerequisite: Illuminated Pixels (ART-145), or Movement (ART-170), or Narratives (ART-251), or SpaceTime (ART-203), or Vector Graphics (WKS-213). (0.5 course credit).  
+  An introduction to digital kinetic graphics programs, specifically Adobe AfterEffects among others, as art-making tools, through a series of self-directed creative projects (not tutorials). Students learn through hands on experience, guided with interactive demonstrations and assignments. Prerequisite: Digital Art (ART-145), or Time-Based Media (ART-150), or Workshop: Vector Graphics (WKS-213). (0.5 course credit)  
  **WKS 253 Workshop: Competitions**  
   This 7-week workshop is designed to prepare artists for submission, be that galleries, grants, festivals or graduate schools. Learn about what makes submissions attractive and improve your submission materials, including artist resumes, proposals, statements, etc. To be most successful, students should have a project in mind or already near completion. Prequisite: at least two ART- courses or consent of instructor.  
  **WKS 291 Workshop: Advanced Topics**  

@@ -38,7 +38,7 @@ The Non-Western Perspectives (NWP) group includes courses in which a preponderan
 - ANT 486 Advanced Topics in Anthropology:NWP
 - ARH 106 World Art
 - ARH 296 Topics in Art History:Global Persp
-- ASC 106 May Term in Asia
+- ASC 106 May Experiential Term in Asia
 - ASC 176 China and Japan
 - ASC 186 Modern South Asia
 - ASC 196 Modern South East Asia
@@ -53,7 +53,7 @@ The Non-Western Perspectives (NWP) group includes courses in which a preponderan
 - ENG 146 Intro Postcolonial Literature
 - ENG 206 Gender and Literature: NWP
 - FRE 146 French Literature Translation:NWP
-- FRE 446 Colonial & Multicultural Narratives
+- FRE 446 Francophone Voices
 - FSA 146 Turkey: History &Culture
 - GS 136 Gender in Non-Western World
 - HIS 136 East Asian Civilization
@@ -66,10 +66,10 @@ The Non-Western Perspectives (NWP) group includes courses in which a preponderan
 - HIS 316 Topics in History:Non-Western Persp
 - HIS 466 Seminar Modern East Asian History
 - IS 116 Intro to International Studies
-- IS 126 HumanRightsBurmeseMigrant
+- IS 126 Human Rights Burmese Migrant
 - IS 316 Top in Internl Stds:Non-West Persp
 - JPN 106 Images Foreign Culture
-- MU 166 Topics in Music:Non-Western Perspct
+- MU 166 Music of the World
 - PHL 206 Buddhist Thought
 - POL 266 Latin American Politics
 - POL 276 African Politics
@@ -81,7 +81,7 @@ The Non-Western Perspectives (NWP) group includes courses in which a preponderan
 - REL 136 Religions of China
 - REL 196 Hinduism
 - REL 206 Buddhist Thought
-- REL 226 Religions of China:Daoism
+- REL 226 Religions of China: Daoism
 - REL 236 Zen Buddhism
 - REL 296 Topics in Religion NWP
 - REL 306 Comparative Religion
@@ -90,9 +90,9 @@ The Non-Western Perspectives (NWP) group includes courses in which a preponderan
 - RHE 146 Creative Nonfiction:Global Perspect
 - SOC 226 Gender and Globalizaton
 - SOC 236 Topics in Sociology NWP
-- SPA 336 Hispanic Life/Cult-Latin America
+- SPA 336 Hispanic Life & Culture: Latin Amer
 - SPA 446 Latin Am. & Spanish Short Stories
-- SPA 486 Topics in Hispanic Lit:Latin Amer
+- SPA 486 Topics in Hispanic Society &Culture
 - THE 486 Spc Top Theatre or Film: NWP
 - WSH 286 Topics in Washington, D.C:NWP
 
@@ -106,7 +106,7 @@ The United States Pluralism (USP) group includes courses in which a preponderanc
 - AAM 217 Sport and Black Culture
 - AAM 227 Blackness & Identity in America
 - AAM 287 Topics in African American Studies
-- AAM 367 Topics in AfricanAmericanLiterature
+- AAM 367 Studies in African American Lit
 - AAM 387 Adv Topics in African American Stud
 - AAM 447 Drtd Learn in African American Stds
 - AAM 457 Drtd Learn in African American Stds
@@ -122,10 +122,10 @@ The United States Pluralism (USP) group includes courses in which a preponderanc
 - COM 237 Interpersonal Communication
 - COM 337 Persuasion
 - COM 357 Sex, Race, & Gender in Media
-- COM 437 Special Topic Applied Communication
+- COM 437 Ad Topics: Human Communication
 - COM 447 Special Topics Production
-- COM 457 Special Topics in Media Studies
-- COM 467 Special Topics in Public Discourse
+- COM 457 Advanced Topics in Media Studies
+- COM 467 Adv Top in Cultural & Crit Com (WE)
 - ECO 237 Labor Economics
 - ECO 247 Health Economics
 - ECO 447 Urban Economics
@@ -139,13 +139,13 @@ The United States Pluralism (USP) group includes courses in which a preponderanc
 - ENG 127 Social Justice and Literature
 - ENG 137 African American Literature
 - ENG 157 Latinx/Chicanx Literature
-- ENG 207 Gender & Lit:US Pluralism
+- ENG 207 Gender & Literature: US Pluralism
 - ENG 327 Literature of American Renaissance
 - ENG 337 American Realism & Naturalism
-- ENG 347 Study in Modern or Contemp Amer Lit
+- ENG 347 Modern/Contemp. American Literature
 - ENG 357 Studies in Latinx/ChicanxLiterature
-- ENG 367 Studies in African Am Literature
-- ENG 467 Seminar inLit:USPluralism
+- ENG 367 African American Literature
+- ENG 467 Seminar in Literature: USP
 - EVS 137 Environmental Law: The Wilderness Act and the Battle Over the Boundary Waters
 - GS 107 Intro Gender & Sexuality Studies
 - GS 127 Dress, Gender, and Identity
@@ -184,8 +184,8 @@ The United States Pluralism (USP) group includes courses in which a preponderanc
 
 The Diverse Western Perspectives (DWP) group includes courses in which a preponderance of the content addresses one or more subgroups of the Western world outside of the United States and the ways in which they experience Western culture. These courses increase students’ knowledge of the history of particular groups and the ways they have interacted with Western values. They typically address issues of difference and conflict between and within Western cultures by examining the influence of factors such as class, race, gender, and religion. 
 
-- ANT 288 Topics Anthropology/Archaeology:DWP
-- ANT 488 Adv Top Anthro/Archaeo:DWP
+- ANT 288 Topics in Anthropology:DWP
+- ANT 488 Adv Top Anthropology:DWP
 - ARH 128 Introduction to Art History
 - ARH 218 The World of Renaissance Art
 - ARH 248 Baroque, Rococo, and Neoclassicism
@@ -193,7 +193,7 @@ The Diverse Western Perspectives (DWP) group includes courses in which a prepond
 - ARH 298 Topics in Art History:Div West Pers
 - CLA 108 Images of Foreign Culture
 - ENG 108 Exp Lit:Diverse Western Perspective
-- ENG 208 Gender & Lit:DWP
+- ENG 208 Gender & Literature: DWP
 - ENG 378 Studies in Transatlantic Literature
 - ENG 388 Romantic Literature
 - FRE 148 French Literature Translation:DWP
@@ -206,7 +206,7 @@ The Diverse Western Perspectives (DWP) group includes courses in which a prepond
 - HIS 288 Renaissance & Reformation
 - HIS 308 Legacies of the Cold War inLatin Am
 - HIS 318 Topics in History :Div West Persp
-- HIS 328 Modern France
+- HIS 328 Sprt & Spect: Ancient Greece & Rome
 - MU 458 Music History & Literature III
 - NUR 268 Cult Diver & Health
 - PHL 128 Morality & Moral Controversies
@@ -224,12 +224,12 @@ The Diverse Western Perspectives (DWP) group includes courses in which a prepond
 - REL 178 Christianity
 - REL 278 Mysticism
 - REL 338 Modern Religious Thought
-- SOC 238 Topics in Soc Div West Perspectives
+- SOC 238 Topics in Sociology: DWP
 - SOC 328 Urban Sociology
 - SOC 338 Political Sociology
 - SPA 148 Spanish Literature in Translation
 - SPA 258 Spanish Lang Learn in Spain
-- SPA 338 Hispanic Life/Culture:Europe
+- SPA 338 Hispanic Life & Culture: Europe
 - SPA 418 Gender & Sexuality in Hispanic Wrld
 - SPA 428 Indigeneity, Blackness, & EthnicLit
 - SPA 458 Travel Writing & Transatlantic Lit
@@ -237,7 +237,7 @@ The Diverse Western Perspectives (DWP) group includes courses in which a prepond
 - THE 228 History of Theatre and Drama I
 - THE 238 History of Theatre and Drama II
 - THE 288 History of Dress
-- THE 488 Special Topics in THE/ FLM
+- THE 488 Special Topics in THE/ FLM:DWP
 
 ## Independent Studies {#sec-independent-studies}
 
@@ -257,7 +257,7 @@ Each internship must include the consent of an Internship Faculty Advisor and co
 
 Courses with an INT prefix and those on this list count as internship credit:
 
-- AAM 494 Internship in African American Stds
+- AAM 494 Internship in African Am Studies
 - ANT 494 Internship in Anthropolgy
 - ARH 494 Internship in Art History
 - ARH 494 Internship in Art History
@@ -295,7 +295,7 @@ Courses with an INT prefix and those on this list count as internship credit:
 - SMT 494 Internship in Sports Management
 - SPA 494 Internship in Spanish
 - THE 494 Internship in Theatre Arts
-- WSH 494 Washington Experience
+- WSH 494 The Washington Experience
 
 Students completing internships that are not department specific should register for one of the INT-494 or INT-499 courses on @sec-academic-programs-internships (see the ***Coe Student Accounts Handbook*** for fee).
 
@@ -316,15 +316,15 @@ Depending upon the type selected, some practica are graded A–F, while others a
 
 †A maximum of two course credits earned through any combination of Internships and Community-Based Projects may be included in the 32 course credits required for graduation.
 
-- AAM 444 Ind Study-Afr-Am St
-- ANT 205 Archaeological Field Schl
-- ANT 444 Independent Study: Anthropology
+- AAM 444 Independent Study
+- ANT 205 Archaeological Field School
+- ANT 444 Independent Study
 - ANT 474 Research Participation:Anthropology
 - ARH 444 Independent Study: Art History
 - ARH 474 Senior Seminar II
-- ART 394 Directed Learning  in Art
+- ART 394 Directed Learning in Art
 - ART 444 Independent Study in Art
-- ART 474 Senior Seminar II & Senior Exhibit
+- ART 474 Seminar in Art and Visual StudiesII
 - AT 40_ Clinical Athletic Training   
   (*successful completion of sequence of AT 20_/30_ and 40_ required to receive full credit*)
 - BIO 115 Marine Biology
@@ -362,13 +362,13 @@ Depending upon the type selected, some practica are graded A–F, while others a
 - FLM 464 Seminar in Film II:  (0.5 cc) and FLM 474 Senior Seminar II in Film & Senior (0.5 cc)
 - FRE 394 Directed Learning  in French
 - FRE 444 Ind Study-French
-- HIS 444 Ind Study-History
-- KIN 444 Ind Study-KIN
-- MTH 444 Ind Study-Math
+- HIS 444 Independent Study
+- KIN 444 Independent Study
+- MTH 444 Independent Study
 - MTH 454 Research in Mathematics
 - MU 421 Student Teaching Elementary Music
 - MU 422 Student Teaching Secondary Music
-- MU 444 Ind Study-Music
+- MU 444 Independent Study
 - MUA 490 Senior Recital
 - NUR 444 Ind Study-Nursing
 - NUR 455 Leadership & Cont Issues in Nursing
@@ -381,7 +381,7 @@ Depending upon the type selected, some practica are graded A–F, while others a
 - POL 444 Ind Study-Pol Sci
 - PSY 354 Research Participation
 - PSY 444 Ind Study-Psychology
-- PSY 455 Advanced Experimental Psychology
+- PSY 455 Directed Research Experience
 - REL 394 Directed Learning in Religion
 - REL 444 Ind Study-Relig
 - RHE 394 Drtd Learning in Writing & Rhetoric
@@ -389,7 +389,7 @@ Depending upon the type selected, some practica are graded A–F, while others a
 - RHE 490 Publications Practicum
 - SCJ 444 Independent Study in Social and Cri
 - SOC 365 Research Participation I
-- SOC 444 Ind Study-Soc
+- SOC 444 Independent Study
 - SPA 394 Directed Learning: Spanish
 - SPA 444 Ind Study-Spanish
 - THE 442 Adv Proj-Design/Tech Production

@@ -19,13 +19,13 @@ A major in African American studies requires a minimum cumulative 2.0 GPA in all
 	- **a.** Elective courses:
 		- AAM 217 Sport and Black Culture 
 		- AAM 287 Topics in African American Studies 
-		- AAM 367 Topics in AfricanAmericanLiterature 
+		- AAM 367 Studies in African American Lit 
 		- AAM 387 Adv Topics in African American Stud 
 		- AAM 447/457 Directed Studies in African American Studies 
 		- AAM 467 Seminar in African American Lit 
-		- AAM 494 Internship in African American Stds 
+		- AAM 494 Internship in African Am Studies 
 		- COM 236 Intercultural Communication 
-		- COM 257 LGBTQ + Television 
+		- COM 257 Sex, Race, and Gender in the Media 
 		- EDU 187 Human Relations 
 		- HIS 145 History of United States to 1865 
 		- HIS 155 History of United States since 1865 
@@ -39,20 +39,20 @@ A major in African American studies requires a minimum cumulative 2.0 GPA in all
 		- ARH 297 Topics in Art History: US Pluralism 
 		- COM 157 Introduction to Media Analysis 
 		- COM 161 Visual Rhetoric 
-		- +++MISSING INFO: c.com377.long +++ 
+		- COM 377 Language, Power, and Social Change 
 		- ENG 107 Exploring Literature:US Pluralism 
-		- ENG 207 Gender & Lit:US Pluralism 
-		- ENG 347 Study in Modern or Contemp Amer Lit 
+		- ENG 207 Gender & Literature: US Pluralism 
+		- ENG 347 Modern/Contemp. American Literature 
 		- ENG 394 Directed Learning in English 
 		- HIS 297 Women in America 
-		- HIS 444 Ind Study-History 
+		- HIS 444 Independent Study 
 		- HIS 472 Seminar American History I 
 		- HIS 473 Seminar American History II 
 		- SOC 237 Topics in Sociology:U S Pluralism 
-		- SOC 464 Capstone Seminar in Sociology 
-		- THE 488 Special Topics in THE/ FLM 
+		- SOC 464 Sociology Capstone 
+		- THE 488 Special Topics in THE/ FLM:DWP 
 
-6. AAM 444 Ind Study-Afr-Am St (completed during the senior year)
+6. AAM 444 Independent Study (completed during the senior year)
 
 ### African American Studies Minor 
 1. AAM 107 Intro to African American Studies     
@@ -86,16 +86,16 @@ institutions. Students will understand and evaluate the foundational concepts an
 synthesize their knowledge through research, presentation, and writing.  
  **AAM 287 Topics in African American Studies**  
 Examines an important theme or subject specific to African American experiences and culture. Content varies and is determined by the instructor. Students learn to understand African American experiences in context, to analyze texts and events from multiple disciplinary perspectives, and to write in clear, analytical prose. May be taken more than once for credit, provided the topics are substantially different.  
- **AAM 367 Topics in AfricanAmericanLiterature**  
+ **AAM 367 Studies in African American Lit**  
 See also English (ENG-367), @sec-courses-in-english  
-None  
+Course focuses on specific literary genres or time periods and functions as an intermediate course between the introductory African American Literature (AAM-/ENG-137) and the advanced English seminar (particularly Seminar in Literature: United States Pluralism (AAM-/ENG-467)). Students read and discuss both primary and secondary sources in an effort to gain a fuller understanding and appreciation of the artistic values and of the social and cultural significance of these writings. Specific topics vary from year to year. Possible topics include: African American Historical Fiction, African American Speculative Fiction, Literature of the Civil Rights Era, and the African American Bildungsroman. May be taken more than once, with consent of African American Studies administrative coordinator, provided the topics are substantially different. Prerequisite: Introduction to Literary Studies: The Art of Reading and Writing (ENG-111) or consent of instructor.  
  **AAM 387 Adv Topics in African American Stud**   
 Examines an important theme or subject specific to African American experiences and culture. Content varies and is determined by the instructor. Students learn to understand African American experiences in context, to analyze texts and events from multiple disciplinary perspectives, and to write in clear, analytical prose. May be taken more than once for credit, provided the topics are substantially different. Prerequisite: Introduction to African American Studies (AAM-107) or consent of instructor.  
- **AAM 444 Ind Study-Afr-Am St**  
+ **AAM 444 Independent Study**  
 Study of individually chosen research topics in African American studies under the direction of a faculty member in the area. May be taken for an X status grade with consent of instructor prior to registration. Prerequisites: Introduction to African American Studies (AAM-107) or African American Literature (AAM-137); consent of African American Studies administrative coordinator and submission of a written proposal for a project.  
  **AAM 447/457 Directed Studies in African American Studies**  
 Study of selected topics and primary texts not available within the regular offerings. Prerequisite: two courses in African American studies. Registration by consent of instructor, after submission of a written project proposal. Conferences with instructor and papers are required. May be taken more than once for credit with consent of African American Studies administrative coordinator.  
  **AAM 467 Seminar in African American Lit**  
 Intensive study of selected works and subjects in African American literature. May be taken more than once, with consent of African American Studies administrative coordinator, provided the topics are substantially different. Prerequisites: junior standing and The Art of Literary Research (ENG-301). May be taken more than once.  
- **AAM 494 Internship in African American Stds**   
-None  
+ **AAM 494 Internship in African Am Studies**   
+Exploration of a career area related to African American studies supervised by the African American Studies administrative coordinator in cooperation with the Internship Specialist. A minimum of 140 hours on-site experience is required. P/NP basis only. This course may count toward elective credit for a major or minor in African American studies with consent of African American Studies administrative coordinator. Prerequisite: junior standing.  

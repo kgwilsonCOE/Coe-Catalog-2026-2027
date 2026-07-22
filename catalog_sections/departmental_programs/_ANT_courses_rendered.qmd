@@ -7,5 +7,6 @@ Fairbanks (Administrative Coordinator), Ziskowski
 An introduction to cultural anthropology, presenting its place within the broader discipline of anthropology and outlining its characteristic methodological and theoretical approaches to the study of human life. The course emphasizes the diversity of approaches to common human experiences in a variety of cultural contexts.  
  **ANT 125 Art & Archaeology Classical World**  
 A survey of the art, architecture, and archaeological remains of the Greek and Roman civilizations from early Aegean Bronze Age cultures to the fall of the Roman empire.  
- **+++MISSING INFO: c.ant208.long +++**  
-+++MISSING INFO: c.ant208.desc +++  
+ **ANT 208 Archaeological Field School**  
+ANT-208 Archaeological Field School
+Engages in two key components in an interdisciplinary framework: 1) archaeological fieldwork and 2) study of Greece’s history and culture through visits to sites in the region. The course takes place in Greece for four to six weeks (late May into early July). Students learn the methodological principles of archaeological fieldwork by participating in activities such as excavation, geophysical survey, and artifact analysis. In addition to work in the field, students receive an introduction to the history and culture of Greece through visits to major archaeological sites in the region. Prerequisite: consent of instructor.  

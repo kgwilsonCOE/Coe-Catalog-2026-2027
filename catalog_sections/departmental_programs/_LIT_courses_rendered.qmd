@@ -21,7 +21,7 @@ The following requirements are designed to provide a framework within which the 
 	b) **One or more** courses from the following list of core courses to bring the total number of elective courses to six:
 		- AAM 137 African American Literature or ENG 137 African American Literature
 		- ENG 110 Ancient Mythology
-		- ENG 207 Gender & Lit:US Pluralism
+		- ENG 207 Gender & Literature: US Pluralism
 
 ### Senior Seminar Course
  **LIT 464 Seminar in World Literature**  

@@ -6,7 +6,7 @@ Students majoring in economics have two options: the **ECONOMICS** major (see @s
 2. ECO 215 Prin Microeconomics
 3. ECO 315 Intermediate Macroeconomic Theory
 4. ECO 336 Divergent Economic Growth
-5. ECO 345 Intermediate Price Theory
+5. ECO 345 Intermediate Microeconomics
 6. ECO 375 Econometrics
 7. ECO 436 Econ Development
 8. ECO 446 International Econ

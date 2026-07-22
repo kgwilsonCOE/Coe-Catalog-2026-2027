@@ -35,16 +35,16 @@ Teachers in elementary schools function as generalists who must draw upon a broa
 	- EDU 187 Human Relations
 	- EDU 195 Educ Psychology & Development
 	- EDU 215 Practicum in Education
-	- EDU 219 Educational Technology Lab
-	- EDU 237 English Language Learners **OR** EDU 270 Read & Explore Childrens/Adol Lit
+	- EDU 219 InstructTech for Teaching &Learning
+	- EDU 237 English Language Learners **OR** EDU 270 Literature K-12
 	- EDU 275 Math Comprehension for Teaching
 	- EDU 300 Expressive Methods
 	- EDU 305 Methods of Elementary Science
 	- EDU 335 Methods of Elementary Mathematics
 	- EDU 345 Methods of Elementary Language Arts
 	- EDU 355 Methods of Elementary Reading
-	- EDU 365 Methods of Elementary Social Studie
-	- KIN 112 Health Educ for Elementary Tchr
+	- EDU 365 Methods of Elementary Soc Studies
+	- KIN 112 Health Educ for Elementary Teacher
 
 **NOTE**: *As is true for all majors, elementary education students are responsible for completion of Coe’s general education requirements. Careful program planning may enable either greater breadth within the liberal arts or a deeper concentration within a specialty discipline. Programs containing such additional concentration may require more than four years of study.* 
 
@@ -59,18 +59,18 @@ Teachers in elementary schools function as generalists who must draw upon a broa
 	- EDU 187 Human Relations
 	- EDU 195 Educ Psychology & Development
 	- EDU 215 Practicum in Education
-	- EDU 219 Educational Technology Lab
+	- EDU 219 InstructTech for Teaching &Learning
 5. **One or more** of the following Methods courses: 
 	- ART 230 Art of Children & Adolescents
-	- EDU 310 Meth Secondary Business Educ
-	- EDU 311 Meth Secondary Language Arts
-	- EDU 312 Meth Secondary Social Studies
+	- EDU 310 Methods of Secondary Bus Education
+	- EDU 311 Methods of Secondary Language Arts
+	- EDU 312 Methods of Secondary Social Studies
 	- EDU 313 Methods Secondary Mathematics
 	- EDU 320 Methods of Secondary Science
 	- EDU 321 Methods of World Language K-12
-	- KIN 415 Meth Secondary School PE & Health
-	- MU 361 Choral Music Methods **AND** MU 362 InstrMusMethChrlTeachr
-	- MU 363 Instrumental Music Methods **AND** MU 364 ChrlMusMethInstTeach
+	- KIN 415 Methods of Secondary Schl PE & Hlth
+	- MU 361 Choral Music Methods **AND** MU 362 Instrumental Mus Methods for Choral
+	- MU 363 Instrumental Music Methods **AND** MU 364 Choral Music Methods for Instrument
 
 
 ### ADMISSION TO THE TEACHER EDUCATION PROGRAM
@@ -124,16 +124,16 @@ According to state regulations, all teachers in Iowa “shall acquire a core of 
 	- EDU 187 Human Relations
 	- EDU 195 Educ Psychology & Development
 	- EDU 215 Practicum in Education
-	- EDU 219 Educational Technology Lab
-	- EDU 237 English Language Learners **OR** EDU 270 Read & Explore Childrens/Adol Lit
+	- EDU 219 InstructTech for Teaching &Learning
+	- EDU 237 English Language Learners **OR** EDU 270 Literature K-12
 	- EDU 275 Math Comprehension for Teaching
 	- EDU 300 Expressive Methods
 	- EDU 305 Methods of Elementary Science
 	- EDU 335 Methods of Elementary Mathematics
 	- EDU 345 Methods of Elementary Language Arts
 	- EDU 355 Methods of Elementary Reading
-	- EDU 365 Methods of Elementary Social Studie
-	- KIN 112 Health Educ for Elementary Tchr
+	- EDU 365 Methods of Elementary Soc Studies
+	- KIN 112 Health Educ for Elementary Teacher
 4. A K–6 Iowa teaching license must be accompanied by at least one K–8 endorsement (state approved specialization in a particular subject area) available at Coe. K–8 endorsements include: Art, English/Language Arts, French, Spanish, Health, History, Mathematics, Music, Physical Education, Reading, Science, Social Studies, or Speech Communication and Theater. Students should consult their Education advisor for assistance in adding these endorsements to their elementary teaching license.
 5. Student Teaching (4 course credits):
 	- EDU 492 Student Teaching K-3
@@ -165,11 +165,11 @@ Those interested in teaching at the secondary level must major in one or more te
 	- EDU 187 Human Relations
 	- EDU 195 Educ Psychology & Development
 	- EDU 215 Practicum in Education
-	- EDU 219 Educational Technology Lab
+	- EDU 219 InstructTech for Teaching &Learning
  **One or more** of the following Methods courses:
-	- EDU 310 Meth Secondary Business Educ
-	- EDU 311 Meth Secondary Language Arts
-	- EDU 312 Meth Secondary Social Studies
+	- EDU 310 Methods of Secondary Bus Education
+	- EDU 311 Methods of Secondary Language Arts
+	- EDU 312 Methods of Secondary Social Studies
 	- EDU 313 Methods Secondary Mathematics
 	- EDU 320 Methods of Secondary Science
 	- EDU 321 Methods of World Language K-12
@@ -201,14 +201,14 @@ Preparation for teaching at the elementary (K–8) and secondary (5–12) levels
 	- EDU 187 Human Relations
 	- EDU 195 Educ Psychology & Development
 	- EDU 215 Practicum in Education
-	- EDU 219 Educational Technology Lab
+	- EDU 219 InstructTech for Teaching &Learning
  **One or more** of the following Methods courses:
 	- ART 230 Art of Children & Adolescents
 	- KIN 315 Methods Elementary Sch PE & Health
-	- KIN 415 Meth Secondary School PE & Health
+	- KIN 415 Methods of Secondary Schl PE & Hlth
 	- MU 360 Elementary & General Music Methods
-	- MU 361 Choral Music Methods **AND** MU 362 InstrMusMethChrlTeachr 
-	- MU 363 Instrumental Music Methods **AND** MU 364 ChrlMusMethInstTeach 
+	- MU 361 Choral Music Methods **AND** MU 362 Instrumental Mus Methods for Choral 
+	- MU 363 Instrumental Music Methods **AND** MU 364 Choral Music Methods for Instrument 
 5. Successful completion of Student Teaching:
 	- EDU 481 Stu Tchg Sec: ART
 	- EDU 482 Stu Tchg Sec: Phys Education
@@ -297,17 +297,17 @@ Exemptions from these requirements may be granted in unusual circumstances with 
     Introduces theories that address teaching and learning processes. Special attention is given to the following topics: the cognitive and emotional development of children and adolescents; learning and memory; intelligence and creativity; academic motivation; assessment; and classroom management. The course connects theories to practice by exploring the nature of formal learning environments that best serve the cognitive and emotional growth of students.  
  **EDU 215 Practicum in Education**  
     Integrates theory and pedagogical practice. Students spend a minimum of 60 hours of practical experience in an elementary or secondary school classroom assisting in a range of instructional activities. College classroom experience complements the field experience and focuses on instructional planning, differentiation, assessment, classroom management and reflective teacing practices. Prerequisites: Admission to the Teacher Education Program (approved or conditional).  
- **EDU 219 Educational Technology Lab**  
-    Focuses on strategies for integrating educational technology in K-12 classrooms. Through hands-on lab work, course readings, reflective writing, and exposure to professionals in the field (both local and afar) help students gain the knowledge, skills, and attitudes needed to select, implement, and manage technology. The goal of the course is to help students plan, implement, and evaluate educational technology for teaching and learning. Course projects focus on the use of instructional technology tools to develop materials that support teaching and learning. P/NP basis only. Corequisite: Practicum in Education (EDU-215) or Practicum in Music Education (MU-205). (0.0 course credit)  
+ **EDU 219 InstructTech for Teaching &Learning**  
+    Focuses on integrating educational technology for instructional design in the K–12 setting. Application of technological resources, course readings, reflective writing, and exposure to professionals in the field (both local and afar) help students gain the knowledge,skills, and dispositions needed to select, implement, and manage technology. Co-requisite: Recommended with Practicum in Education (WE) EDU-215, but must be taken with a Practicum or Methods course prior to student teaching. (0.5 course credit)  
  **EDU 220 Professional Writing for Teachers**  
-    Practical experience creating professional documents for a variety of educational purposes and for a range of educational constituents. This course provides intensive practice in composing and designing documents central to teachers' work lives. The goal of the course is to help students develop confidence and skill as teaching professionals who excel at written communication. Prerequisiites: Foundations of Education (EDU 105) or consent of instructor.  
+    Mentors students into the crafting of texts used in the professional settings common to K–12 teachers. The course will explore the approaches, strategies, and techniques used by teachers for successful document creation in a variety of educational settings. Emphasis will be placed on creating documents that effectively communicate with parents and other stakeholders, convey professional plans and perspectives, document teaching and learning strategies, and present educational information to a wide range of audiences.  
  **EDU 237 English Language Learners**  
-    Introduces the issues of language and literacy acquisition for English Language Learners. This class includes a focus on oral communication and K-12 literature. It is appropriate for teachers of non-native English students and international teaching of English. Prerequisite: sophomore standing or consent of instructor. (Offered Spring Term)  
+    Introduces the issues of language and literacy acquisition for English Language Learners. This class includes a focus on oral communication and instructional strategies to support English Language Learners in K-12 classrooms. It is appropriate for teachers of non-native English students and international teaching of English. Prerequisite: sophomore standing or consent of Education department chair (Offered Spring Term)  
  **EDU 241 Foundations of Reading**  
-    Explores past and current theories of language acquisition and development. Attention to the history of reading complements a focus on current research related to the psychological, socio-cultural, and linguistic foundations of reading and writing. This is the first course in the sequence leading to the reading endorsement. Prerequisite: admission to the Education Program or consent of Education Department Chair. (Offered Spring Term)  
+    Explores past and current theories of language acquisition and development. Attention to the history of reading complements a focus on current research related to the psychological, socio-cultural, and linguistic foundations of reading and writing. This is the first course in the sequence leading to the reading endorsement. Prerequisite: sophomore or consent of Education Department Chair. (Offered Spring Term)  
  **EDU 260 Content Area Reading**  
     Explores research-based instructional strategies for facilitating students’ textual comprehension. Major topics include best practices in the teaching of vocabulary, meaning making, text structure, genre, and types of writing. Attention to instructional strategies especially helpful to English language learners, as well as technological tools for language and literacy instruction. This is the second course in the sequence leading to the reading endorsement. Prerequisites: admission to the Education Program and Foundations of Reading (EDU-247) or consent of Education Department Chair. (Offered Fall Term)  
- **EDU 270 Read & Explore Childrens/Adol Lit**  
+ **EDU 270 Literature K-12**  
     Provides students pursuing literature-related studies with models of how teachers use literature to support various levels of readers and content areas in the classroom. The course focuses on the history of children’s literature, analyses of a variety of books for youths, creation of a functional bibliography, and using knowledge of child and adolescent development to assist in book selection for young readers. Includes study of the development of language skills, strategies to facilitate student learning of standard English, diversity issues, non-print materials, and technology tools. (Offered Fall Term)  
  **EDU 275 Math Comprehension for Teaching**  
     Enhances understanding of the discipline of mathematics for elementary classroom teachers. Content is aligned with the NCTM curriculum standards of Number, Algebra, Geometry, Measurement, and Data Analysis and Probability. Substantial attention is given to discrete mathematics, reasoning and proof, active problem solving, technology, and connections within mathematics and to other disciplines studied in schools. The ability to communicate mathematically and provide justification or rationale for quantitative reasoning is fostered across mathematical applications. (Offered Fall Term)  
@@ -321,33 +321,33 @@ instructor. (.5 course credit)
     Integrates art, music, and physical education into the regular elementary classroom. Students will study of instructional methods for incorporating visual, aesthetic, auditory, and kinesthetic teaching and learning strategies into the classroom. This course promotes the integration of art, music, and physical education into the regular elementary classroom. Topics include research on learning styles, development of lessons and classroom management strategies that incorporate movement and creative expression, and alternative assessment as it relates to these strategies. Diversity issues, non-print materials, and technology tools are integrated. Prerequisite: Practicum in Education (EDU-215) or consent of Education Department Chair. (0.5 course credit) (Offered Fall Term)  
  **EDU 305 Methods of Elementary Science**  
     Helps future teachers develop an integrated set of perspectives, attitudes, and skills, enabling them to give positive support to their students’ natural inclination to be curious, manipulate, observe, and interpret. Multiiple instructional strategies and methods will be studied in an outside of class sessions. Integration of relevant children’s literature is included. Prerequisite: Practicum in Education (EDU-215) or consent of Education Department Chair. (Offered Fall Term)  
- **EDU 310 Meth Secondary Business Educ**  
+ **EDU 310 Methods of Secondary Bus Education**  
     Prepares students for student teaching placement in a secondary business classroom. Students explore and
 examine approaches to teaching and learning. Among the topics studied are instructional strategies, lesson
 design, classroom management and learner assessment. Students will be exposed to strategies for
-teaching high school general business courses, including accounting, marketing, and economics. This course includes a 30-hour field experience. Prerequisite: Practicum in Education (EDU-215) or consent of Education Department Chair.  
- **EDU 311 Meth Secondary Language Arts**  
+teaching high school general business courses, including accounting, marketing, and economics. This course includes a 60 -hour field experience. Prerequisite: Practicum in Education (EDU-215) or consent of Education Department Chair.  
+ **EDU 311 Methods of Secondary Language Arts**  
     Prepares students for student teaching in a secondary language arts classroom. Students explore and
 examine approaches to teaching and learning. Among the topics studied are instructional strategies, lesson
 design, and learner assessment. Students also experience working with texts such as YA literature,
-podcasts, novels, poetry, drama, etc.. The course includes a 30-hour field experience. Prerequisite: Practicum in Education (EDU-215) or consent of Ecducation Department Chair.  
- **EDU 312 Meth Secondary Social Studies**    
+podcasts, novels, poetry, drama, etc.. The course includes a 60-hour field experience. Prerequisite: Practicum in Education (EDU-215) or consent of Ecducation Department Chair.  
+ **EDU 312 Methods of Secondary Social Studies**    
     Prepares students for student teaching in a secondary social studies classroom. Students explore and
 examine approaches to teaching and learning. Among the topics studied are instructional strategies, lesson
-design, classroom management and learner assessment. This course includes a 30-hour field experience. Prerequisite: Practicum in Education (EDU-215) or consent of Education Department Chair. (Offered Fall Term)  
+design, classroom management and learner assessment. This course includes a 60-hour field experience. Prerequisite: Practicum in Education (EDU-215) or consent of Education Department Chair. (Offered Fall Term)  
  **EDU 313 Methods Secondary Mathematics**  
-    Prepares students for student teaching in a secondary mathematics classroom. Students explore and examine approaches to teaching and learning. Among the topics studied are instructional strategies, lesson design, classroom management and learner assessment. This course includes a 30-hour field experience. Prerequisite: Practicum in Education (EDU-215) or consent of Education Department Chair.  
+    Prepares students for student teaching in a secondary mathematics classroom. Students explore and examine approaches to teaching and learning. Among the topics studied are instructional strategies, lesson design, classroom management and learner assessment. This course includes a 60-hour field experience. Prerequisite: Practicum in Education (EDU-215) or consent of Education Department Chair.  
  **EDU 320 Methods of Secondary Science**  
-    Prepares students for student teaching in a secondary science classroom. Students explore and examine approaches to teaching and learning. Among the topics studied are instructional strategies, lesson design, classroom management and learner assessment. This course includes a 30-hour field experience. Prerequisite: Practicum in Education (EDU-215) or consent of Education Department Chair. (Offered Fall Term)  
+    Prepares students for student teaching in a secondary science classroom. Students explore and examine approaches to teaching and learning. Among the topics studied are instructional strategies, lesson design, classroom management and learner assessment. This course includes a 60-hour field experience. Prerequisite: Practicum in Education (EDU-215) or consent of Education Department Chair. (Offered Fall Term)  
  **EDU 321 Methods of World Language K-12**  
-    Prepares students for student teaching in a world language classroom. Students explore and examine approaches to teaching and learning. Among the topics studied are instructional strategies, lesson design, classroom management and learner assessment. This course includes a 30-hour field experience. Prerequisite: Practicum in Education (EDU-215) or consent of Education Department Chair.  
+    Prepares students for student teaching in a world language classroom. Students explore and examine approaches to teaching and learning. Among the topics studied are instructional strategies, lesson design, classroom management and learner assessment. This course includes a 60-hour field experience. Prerequisite: Practicum in Education (EDU-215) or consent of Education Department Chair.  
  **EDU 335 Methods of Elementary Mathematics**  
     Examines basic concepts of curriculum and instruction for elementary school mathematics using the framework of the National Council of Teachers of Mathematics and the Iowa Core Curriculum, This course assists prospective teachers in developing effective instructional skills that foster problem solving abilities and the conceptual and procedural knowledge of mathematics. Instruction includes integration of math-related children’s literature. A field experience of 30 contact hours is included. Prerequisites: Mathematics Comprehension for Teaching (EDU-275), Practicum in Education (EDU-215) or consent of Education Department Chair. (Offered Spring Term)  
  **EDU 345 Methods of Elementary Language Arts**  
     Examines strategies for teaching the interrelated aspects of reading, writing, listening, speaking, spelling, and creative drama as they apply to the functional language of elementary school children. Assessing student literacy competence and planning for instruction are explored. Prerequisites: Concurrent registration in Teaching Reading (K-6) (EDU-355) and Practicum in Education (EDU-215) or consent of Education Department Chair. (Offered Spring Term)  
  **EDU 355 Methods of Elementary Reading**  
     Examines the five components of reading-phonological awareness, phonics, fluency, comprehension and vocabulary. Instruction is provided in the strategies for mastering pre-reading, decoding, and comprehension skills. Methods of organizing, maintaining, and evaluating reading programs are addressed. Substantial study of children’s literature is included. A field experience of 30 contact hours provides an opportunity to apply the content of the course. Prerequisites: Concurrent registration in Teaching Language Arts (K-6) (EDU-345). Practicum in Education (EDU-215) or consent of Education Department Chair. (Offered Spring Term)  
- **EDU 365 Methods of Elementary Social Studie**  
+ **EDU 365 Methods of Elementary Soc Studies**  
     Examines the content and teaching strategies that collectively form the scope and sequence of elementary school social studies. Geography and ecological anthropology provide a framework for integrating social science disciplines with other subject matter fields, such as children’s literature and science. Social issues are investigated on three levels: in relation to self, one’s immediate environment, and the global ecosystem. Prerequisite: Practicum in Eduation (EDU-215) or consent of Education Department Chair. (Offered Fall Term)  
  **EDU 395 Diagnostic Reading & Tutorial**  
     Intensively studies diagnostic and screening instruments as well as multiple strategies to improve reading and writing skills. This course includes direct application of assessment and instructional strategies with individual children through a supervised tutorial outside of regular class time.  Prerequisites: admission to the Education Program, Foundations of Reading (EDU-241), and Content Area Reading (EDU-260). (Offered Spring Term)  

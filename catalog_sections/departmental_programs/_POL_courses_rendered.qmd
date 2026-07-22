@@ -107,7 +107,7 @@ Satisfactory work in Topics in Political Science (POL-284/-296) may be used, wit
  **POL 286 Asian Politics**  
   Examines the broad variety of Asian political systems through case studies of selected countries that are authoritarian, communist, transitioning, or established democracies. Issues confronted include: the East Asian economic miracle, the character of Asian democracies, and the role of ethnicity and religion in politics. The tension in the region between economic growth and political control receives particular attention. Prerequisite: Introduction to Politics (POL-108) or consent of instructor. (Offered alternate years)  
  **POL 296 Topics Pol Sci: Non-West Persp**  
-  Same as Topics in Political Science (POL-284) except the course focuses on topics related to non-Western cultures.  
+  Same as Topics in Political Science (POL-284) except the course focuses on topics related to non-Western cultures. May be taken more than once for credit, provided the topics are substantially different.  
  **POL 298 European Politics**  
   Addresses political and economic continuities, changes, and challenges in modern Europe. The course examines the political structures and policy challenges of select states in the region including Great Britain, Germany and France. Other topics are the political dynamics of the expanding European Union as well as transitions to democracy and capitalism in Russia and Central and Eastern European states. Prerequisite: Introduction to Politics (POL-108) or consent of instructor. (Offered alternate years)  
  **POL 305 Terrorism**  
@@ -144,7 +144,7 @@ Satisfactory work in Topics in Political Science (POL-284/-296) may be used, wit
 See description, @washington-term  
  **WSH 286 Topics in Washington, D.C:NWP**  
 See description, @washington-term  
- **WSH 464 Internship Seminar**  
+ **WSH 464 Washington Term Internship Seminar**  
 See description, @washington-term  
- **WSH 494 Washington Experience**  
+ **WSH 494 The Washington Experience**  
 See description, @washington-term  

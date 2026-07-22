@@ -63,7 +63,7 @@ Recommended beginning courses for those contemplating a major in religion are: R
 	- REL 196 Hinduism
 	- REL 206 Buddhist Thought
 	- REL 215 The Rise of Christianity
-	- REL 226 Religions of China:Daoism
+	- REL 226 Religions of China: Daoism
 	- REL 236 Zen Buddhism
 	- REL 336 Tibetan Buddhist Cultrue
 :::
@@ -78,7 +78,7 @@ Recommended beginning courses for those contemplating a major in religion are: R
 	- REL 115 Introduction to New Testament
 	- REL 310 Early Christian Gospels
 	- REL 330 Topics in Hebrew Bible
-	- REL 365 The Letter of Paul
+	- REL 365 The Letters of Paul
 
 * **Topical courses**
 	- REL 217 Religion in America
@@ -110,7 +110,7 @@ Recommended beginning courses for those contemplating a major in religion are: R
 	- REL 196 Hinduism
 	- REL 206 Buddhist Thought
 	- REL 215 The Rise of Christianity
-	- REL 226 Religions of China:Daoism
+	- REL 226 Religions of China: Daoism
 	- REL 236 Zen Buddhism
 	- REL 336 Tibetan Buddhist Cultrue
  
@@ -119,7 +119,7 @@ Recommended beginning courses for those contemplating a major in religion are: R
 	- REL 115 Introduction to New Testament
 	- REL 310 Early Christian Gospels
 	- REL 330 Topics in Hebrew Bible
-	- REL 365 The Letter of Paul
+	- REL 365 The Letters of Paul
 
 * **Topical courses**
 	- REL 217 Religion in America
@@ -160,19 +160,19 @@ Recommended beginning courses for those contemplating a major in religion are: R
  **REL 196 Hinduism**  
   An introduction to the Hindu religion, including its history, philosophy, ritual, meditation, and popular practice. Course materials include Hindu histories and religious texts, as well as contemporary anthropological materials, literature, and film.  
  **REL 206 Buddhist Thought**  
-  A survey of major issues in Buddhist philosophy, including ethics, emptiness, idealism, the nature of mind, and the nature of reality. The course focuses on Indian Buddhist philosophical schools and also explores distinctive philosophical ideas from Buddhist traditions in China, Japan, and Tibet. Prerequisite: Eastern Religions (REL-036), or Buddhism (REL-116), or consent of instructor.  
+  A survey of major issues in Buddhist philosophy, including ethics, emptiness, idealism, the nature of mind, and the nature of reality. The course focuses on Indian Buddhist philosophical schools and also explores distinctive philosophical ideas from Buddhist traditions in China, Japan, and Tibet. Prerequisite: Eastern Religions (REL-036), or Buddhism (REL-116), or consent of instructor. (Offered on an occasional basis.)  
  **REL 215 The Rise of Christianity**  
   An examination of how Christianity grew from a small band of Jewish followers of Jesus to the dominant religion in the Roman Empire. Attention is paid to crucial figures such as Paul of Tarsus, Irenaeus of Lyons, and Augustine of Hippo, among others.  
  **REL 217 Religion in America**  
   Examines the varieties of American religious experience, from the religion of the Puritans to the 21st century. Attention is paid both to normative and minority traditions, with a look at the growing Evangelical and Muslim communities in America today.  
- **REL 226 Religions of China:Daoism**  
+ **REL 226 Religions of China: Daoism**  
   An introduction to China's Daoist tradition of Buddhism, beginning with its early literature like the Dao-de-jing and the Zhuang-zi and examining several later Daoist movements in China. The course also examines other Chinese religions and intellectual traditions that have influenced Daoism, including Confucianism and Buddhism. Course materials include histories, translations of Daoist literature, accounts of contemporary Daoists, and film.  
  **REL 236 Zen Buddhism**  
   An introduction to the Zen tradition of Buddhism beginning with its origins in China and also examining its traditions in Japan. The course examines other Chineses religious and intellectual traditions that helped shape the Zen tradition, with particular influence on Daoism. Course materials include histories, translations of Zen literature, autobiography, and film.  
  **REL 295 Topics in Religion**  
   An examination of a selected topic in religious studies. Content varies from year to year. May be taken for credit more than once.  
  **REL 296 Topics in Religion NWP**  
-  Same as Topics in Religion REL295, except the course focuses on topics related to non-western cultures. Content varies from year to year. May be taken for credit more than once.  
+  Same as Topics in Religion REL-295, except the course focuses on topics related to non-western cultures. Content varies from year to year. May be taken for credit more than once.  
  **REL 310 Early Christian Gospels**  
   An examination of the literary genre in early Christianity, focusing on both canonical (Mark, Matthew, Luke, John) and non-canonical Gospels, including the Gospel of Truth and the Gospel of Thomas.  Why did early Christians utilize this genre to communicate traditions about Jesus of Nazareth? Prerequisite: Introduction to Hebrew Bible (REL-105) or Introduction to New Testament (REL-115) or consent of instructor.  
  **REL 330 Topics in Hebrew Bible**  
@@ -181,7 +181,7 @@ Recommended beginning courses for those contemplating a major in religion are: R
   Introduces students to the lived experience of Buddhists on the Tibetan plateau and in Nepal. THe course discusses the history of religion in Tibet, as well as the major doctrines of Tibetan Buddhism. Particular attention is also paid toTibetan religious culture and popular religious practices. Course materials include Tibetan literature, histories, biographies, and film, as well as anthropological studies of Tibetan societies.  
  **REL 338 Modern Religious Thought**  
   A survey of the religious thinkers and themes of the 20th century. Various religious outlooks, ranging from conservative to radical, are explored, as are alternative conceptions of God, religion, and salvation. Prerequisite: one course in religion or consent of instructor.  
- **REL 365 The Letter of Paul**    
+ **REL 365 The Letters of Paul**    
   An examination of the 13 letters attributed to Paul of Tarsus in the New Testament as well as biblical and extra-biblical sources for the life of this crucial figure who spread Christianity around the Roman Empire. Prerequisite: Introduction to Hebrew Bible (REL-105) or Introduction to New Testament (REL-115) or consent of instructor.  
  **REL 385 Advanced Topics in Religion**  
   Seminar examining a selected topic in religious studies. Content varies from year to year. May be taken for credit more than once. Prerequisite: one course in religion or consent of instructor.  
@@ -192,4 +192,4 @@ Recommended beginning courses for those contemplating a major in religion are: R
  **REL 444 Ind Study-Relig**  
   Independent study under the direction of a faculty member of the department in an area selected by the student. May be taken for an X status grade with consent of instructor prior to registration. Prerequisite: consent of instructor.  
  **REL 494 Internship in Religion**  
-  Exploration of a career area related to the student’s interest in religion supervised by a Religion faculty member in cooperation with the Internship Specialist. A minimum of 140 hours on-site experience is required. S/U basis only. This course does not satisfy any of the requirements for a major in Religion. Prerequisites: declared major in Religion, junior standing, and consent of department chair.  
+  Exploration of a career area related to the student’s interest in religion supervised by a Religion faculty member in cooperation with the Internship Specialist. A minimum of 140 hours on-site experience is required. P/NP basis only. This course does not satisfy any of the requirements for a major in Religion. Prerequisites: declared major in Religion, junior standing, and consent of department chair.  

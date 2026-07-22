@@ -29,7 +29,7 @@ Concurrent completion of any of the majors listed under [Areas of Study](catalog
 7. EVS 484 Topics in Environmental Studies
 8. **Four** courses to be chosen as indicated from the three lists below. Courses with a substantial focus on environmental content and relevant to a student’s particular course of study may be substituted to fulfill this category, subject to prior approval by the Environmental Studies administrative coordinator.
 	a.  **One or more** of the following **Natural Science** courses:  
-		BIO 165 Ecology and Biology of Birds  
+		BIO 165 Introduction to Ornithology  
 		BIO 175 Field Botany  
 		BIO 185 Entomology  
 		BIO 285 Animal Behavior (**NOTE:** *Taught at the Wilderness Field Station*)  
@@ -53,7 +53,7 @@ Concurrent completion of any of the majors listed under [Areas of Study](catalog
 
 ### Courses in Environmental Studies (Collateral Major) 
  **BUS 170 Bus Sustainability & Environment**  
-  Examines the global trend of the increasing attention organizations are giving to environmental and sustainability issues, including evaluation of successful business practices being pursued by leading corporations. Consideration is given to why and how corporations are embracing such trends. Topics covered include eco-labeling, corporate environmental strategies, NGO-business partnerships, and emerging markets for environmental goods and services. Significant attention is given to global warming concerns and the emerging strategies for measuring and reducing the carbon footprint of business.   
+  See Environmental Studies, p. 141.   
  **ECO 195 Prin of Environmental Economics**  
   An introduction to the economics of the environment and natural resource allocation. This course is focused on optimal resource allocation and the problems associated with externalities and public goods in the context of a market economy. Environmental issues and policy are analyzed using standard economic models. This course may be used to satisfy the requirements for a major in Environmental Studies but does not satisfy any of the requirements for a major or minor in economics. Prerequisite: Principles of Macroeconomics (ECO-175).   
  **EVS 112 Environmental Law and Policy**  

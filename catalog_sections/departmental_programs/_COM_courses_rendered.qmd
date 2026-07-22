@@ -17,7 +17,7 @@ A major in communication studies requires a minimum cumulative 2.0 GPA in all co
     - COM 337 Persuasion
     - COM 435/437 Special Topics in Relational Communication (WE)
 5. One course in production:
-    - COM 241 Intro to Multimedia Journalism
+    - COM 241 Multimedia Journalism
     - COM 341 Digital Storytelling
     - COM 445/447 Special Topics in Production (WE)
     - RHE 225 Journalism/Media Wtg Wksp
@@ -60,14 +60,14 @@ A minor in communication studies requires a minimum cumulative 2.0 GPA in all co
   Exploration of the role of communication in constructing, navigating, and challenging various markers of similarity and difference.  
  **COM 237 Interpersonal Communication**  
   Examines the influence in interpersonal relationships of ethnicity, gender, family, and class on self-concept, perception, emotions, and verbal and non-verbal expression. Students practice specific techniques that facilitate building positive relationships, including such issues as clear language usage, supportive climate building, and conflict resolution.  
- **COM 241 Intro to Multimedia Journalism**  
+ **COM 241 Multimedia Journalism**  
   Develops journalistic writing skills in several styles (hard news, features, in-depth reporting) and across media (print, audio, video, online). Topics include information gathering, objectivity, audience, news convergence, news values, civic responsibility, and journalism ethics. Students investigate the state of news and the roles and responsibilities of journalists in contemporary American society.  
  **COM 332 Health Communication (WE)**  
   Examines the connections among communication, culture, and health. Course content and assignments focus on how one communicates about health in various contexts (family, end-of-life, patient-provider, etc.), cultural influences on healthcare practices, and the role of communication and storytelling in coping with one’s body, illness, disability, and death. Prerequisite: junior standing or consent of instructor.  
  **COM 337 Persuasion**  
   Investigation of the nature and process of persuasion. This course provides practice constructing and analyzing persuasive messages and campaigns. Prerequisite: junior standing or consent of instructor.  
  **COM 341 Digital Storytelling**  
-  Students practice adapting written language to oral and/or visual formats while learning to communicate news messages in a variety of broadcast formatss, ranging from audio to news-in-the-field to video productions.  
+  Students practice adapting written language to oral and/or visual formats while learning to communicate news messages in a variety of broadcast formats, ranging from audio to news-in-the-field to video productions. Continuing focus on professional standards emphasizing accuracy, conciseness, style, and the conventions of Standard English. Prerequisite: Multimedia Journalism (WE) (COM-241) or Introduction to Journalism (WE) (COM-141).  
  **COM 357 Sex, Race, & Gender in Media**  
   An introduction to analysis of representations of identities such as gender, race, sexual orientation, and the body in the mass media. As such, this course examines some of the relationships between the media in the U.S. and the social constructions of race, gender and sexuality. Students view, read about, analyze and discuss various forms of mass media and look at what these forms represent. An underlying understanding within the course is recognition of the inextricable interconnections of gender, race, and sexuality. Prerequisites: junior standing or consent of instructor.  
  **COM 361 Communication & Social Change**  
@@ -75,7 +75,7 @@ A minor in communication studies requires a minimum cumulative 2.0 GPA in all co
  **COM 362 U.S. Public Address**  
   Examnation of the rhetorical strategies deployed throughout US history to shape beliefs about community, public life, and American identity. Prerequisite: junior standing or consent of instructor.  
  **COM 381 Research Method Communication Study**  
-  Exploration of the major approaches to conducting research in Communication Studies. This course serves as the foundation for more complex forms of qualitative and/or quantitative analysis. Prerequisites: Rhetorical Theory & Practice (RHE 200)  
+  Explores one or more major approaches to conducting research in Communication Studies. This course serves as the foundation for more complex forms of qualitative and/or quantitative analysis.  
  **COM 382 ResearchMethods:Rhetorical/Critical**  
   See also Writing (RHE-382), @sec-courses-in-rhetoric  
   Exploration of the major approaches to conducting research in Communication Studies. This course serves as the foundation for more complex forms of critical and/or qualitative analysis. Prerequisite: Rhetorical Theory & Practice (RHE-200).  

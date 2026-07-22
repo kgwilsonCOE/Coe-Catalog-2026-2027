@@ -25,7 +25,7 @@ Biology majors:
 4. CHM 221 Organic Chemistry I  
 5. **Two** of the following with the associated laboratories:  
 	BIO 115 Marine Biology  
-	BIO 165 Ecology and Biology of Birds  
+	BIO 165 Introduction to Ornithology  
 	BIO 175 Field Botany  
 	BIO 185 Entomology  
 	BIO 275 Aquatic Ecology  

@@ -38,7 +38,7 @@ A major in film requires a minimum cumulative 2.0 GPA in all courses counted tow
 	RHE 257 Environmental Rhetoric  
 	THE 130 Technical Production I  
 	THE 140 Design for the Stage  
-	THE 220 Tech Theatre Lab  
+	THE 220 Lighting Design  
 	THE 290 Directing I  
 
 
@@ -68,7 +68,7 @@ A minor in film studies requires six courses chosen in consultation with the Fil
 	RHE 257 Environmental Rhetoric  
 	THE 130 Technical Production I  
 	THE 140 Design for the Stage  
-	THE 220 Tech Theatre Lab  
+	THE 220 Lighting Design  
 	THE 290 Directing I  
 6. **One** of the following:  
 	

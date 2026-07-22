@@ -14,7 +14,7 @@ A grade of "C" (2.0) or higher must be earned in all courses counted toward a ma
     - ART 201 Focus Course: Creative Process 
     - ART 202 Focus Course: Portfolio Development 
     - ART 203 Focus: ContemporaryArtisticPractice 
-    - ART 211 Focus:ArtistStatements 
+    - ART 211 Focus: Junior Review Preparation 
     - ART 212 Focus Course: Artist Websites 
     - ART 213 Focus Course: Critique 
     - ART 291 Focus Course: Topics in Studio Art 
@@ -33,8 +33,8 @@ A studio portfolio presentation for art majors that is assessed by the art and a
 history faculty. Students must complete 20 course credits to be eligible for the
 junior review, and it must be completed prior to enrolling in ART-464 Senior Seminar I.
 
-8. ART 464 Senior Seminar I 
-9. ART 474 Senior Seminar II & Senior Exhibit 
+8. ART 464 Seminar in Art & Visual Studies I 
+9. ART 474 Seminar in Art and Visual StudiesII 
 
 In addition to the course requirements, a student must participate in a Junior Review with the art and art history department’s faculty. This must be completed no later than April of the junior year. The material submitted at the Review will be related to the senior graduation requirement, which is a demonstration of proficiency through a public exhibition of artwork, including portfolio of slides, exhibit announcement, and résumé. 
 
@@ -56,7 +56,7 @@ Further information for all these requirements and programs is available from th
 **100-level courses** (*except ART-130, see below*) are open to any student and may offer the opportunity to explore two or more areas of art making in a studio environment.  ART-130 Art in the Elementary Classroom does not satisfy any of the requirements for a major or minor in Art or Art History.  It also does not count as a 100-level art course needed for some courses as a prerequisite.
 
  **ART101 Art Appreciation**  
-None  
+nan  
  **ART 102 Sculpture: Material Investigations**  
 Focuses on how material choices inform meaning. Students will use a variety of traditional and non-traditional materials to make sculptural art objects.  
  **ART 103 Ceramic Sculpture**  
@@ -71,10 +71,10 @@ Introduces a variety of drawing media, including graphite, charcoal, brush and i
 Introduces paint media to represent, amplify, and interpret the world. Students are also encouraged to discover the possibilities of color, shape, texture and mark-making.  
  **ART 130 Art in the Elementary Classroom**  
 Provides an overview of the role of art in the elementary curriculum. Students learn to incorporate art activities into other content areas and gain an understanding of the objective of elementary classes taught by elementary art specialist teachers. This course does not satisfy the College’s general education fine arts core group requirement nor does it satisfy major or minor requirements or prerequisites for Art or Art History. Prerequisite: admission to the Education Program or approval of the education department. (0.5 course credit)  
- **ART 131 Scultpure: Do, Undo, Redo**  
+ **ART 131 Sculpture: Do, Undo, Redo**  
 Practices the inherent creative aspects of making, unmaking and remaking in response to these various states of transformation. Artworks are made using clay and other sculptural materials while documenting the exploratory processes through drawing, photography and more.  
- **ART 135 Ceramics: Form, Function & Meaning**  
-Focuses on the creation of wheel thrown and handbuilt objects within the context of a social and cultural lens. Explores the relationship between making and meaning in the 21st century. Projects focus on fuctional work and its uses.  
+ **ART 135 Ceramics: Wheel-Throwing**  
+Introduces a variety of ceramic wheel-throwing techniques utilized to design and produce ceramic arts. Includes an introduction to clay, glazes, and kilns.  
  **ART 145 Digital Studio**  
 Explores contemporary digital imaging and design. Students produce a series of studio
 projects ranging from digital photography, collage, gif animation, vector graphics, and
