@@ -1,0 +1,9 @@
+# Individualized Study
+
+## Independent Study
+
+The one-credit independent study is a student-driven initiative that requires the completion of a minimum of 140 hours of academic work, including meeting with a faculty advisor and performing independent work between meetings. Developed and outlined by the student, an independent study supplements the existing departmental program through more intensive study of a present topic or through examination of topics not comprehensively covered in an existing course. An existing course taken by arrangement does not constitute an independent study. Independent studies are only offered at the 300- and 400- levels and are meant to foster a student’s pursuit of career and/or personal goals outside of the classroom. A proposed independent study must receive approval from the respective department chair and be registered through the Office of the Registrar in order to receive credit and count toward the practicum requirement. A student may receive a total of no more than 2.0 credits from independent studies. A student may only repeat an independent study with the same course code if approved by the relevant department chair. 
+
+## Directed Learning
+
+The one-credit directed learning is an instructor-driven initiative that requires the completion of a minimum of 140 hours of academic work, including meeting with a faculty advisor and performing independent work between meetings. Developed and outlined by the instructor, directed learning helps students specialize in a major or minor. A proposed directed learning must receive approval from the respective department chair and be registered through the Office of the Registrar to receive credit and does not count toward the practicum requirement. A student may receive a total of no more than 2.0 credits from directed learning. A student may only repeat a directed learning with the same course code if approved by the relevant department chair. 
