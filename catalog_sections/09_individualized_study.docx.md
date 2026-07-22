@@ -1,4 +1,4 @@
-# Individualized Study
+# INDIVIDUALIZED STUDY
 
 ## Independent Study
 
