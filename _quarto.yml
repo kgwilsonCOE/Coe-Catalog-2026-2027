@@ -39,7 +39,8 @@ book:
       - catalog_sections/08_college_regulations_and_policies_rendered.qmd
     - part: "COURSES OF INSTRUCTION"
       chapters:
-      - catalog_sections/09_academic_programs.qmd
+      - catalog_sections/09_individualized_study.qmd
+      - catalog_sections/10_academic_programs.qmd
       - catalog_sections/27_departmental_programs_rendered.qmd
       - catalog_sections/28_reserve_officer_training_corps_rendered.qmd
     - part: "ADMISSIONS"
