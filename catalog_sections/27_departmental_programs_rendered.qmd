@@ -138,16 +138,16 @@ A major in art or a minor in art, art history, or museum studies provides a foun
 A grade of "C" (2.0) or higher must be earned in all courses counted toward a major in art.
 
 1. ARH 128 Introduction to Art History
-2. Two 100-level ART- courses
+2. **Two** 100-level ART- courses
 3. ART 206 Professional Practice
-4. Two of the following 300-level ART courses:
+4. **Two** of the following 300-level ART courses:
     - ART 340 Advanced 2D Research I
     - ART 345 Advanced 2D Research II
     - ART 350 Advanced Digital Research I
     - ART 355 Advanced Digital Research II
     - ART 360 Advanced 3D Research I
     - ART 365 Advanced 3D Research II
-5. One additionl 200-level Art History course
+5. **One** additionl 200-level Art History course
 6. ARH 307 Modern and Contemporary Art
 7. ART 464 Seminar in Art & Visual Studies I
 8. ART 474 Seminar in Art and Visual StudiesII
@@ -174,15 +174,15 @@ To complete the Multimedia Graphic Design concentration, a student must meet the
 A grade of "C" (2.0) or higher must be earned in all courses counted toward a minor in art.
 
 1. ARH 128 Introduction to Art History
-2. Two 100-level ART- courses
-3. Two of the following 300-level ART- courses
+2. **Two** 100-level ART- courses
+3. **Two** of the following 300-level ART- courses
    - ART 340 Advanced 2D Research I
    - ART 345 Advanced 2D Research II
    - ART 350 Advanced Digital Research I
    - ART 355 Advanced Digital Research II
    - ART 360 Advanced 3D Research I
    - ART 365 Advanced 3D Research II
-4. One 200-level ARH- course 
+4. **One** 200-level ARH- course 
 
 Further information for all these requirements and programs is available from the Art and Art History Department.
 
@@ -199,9 +199,9 @@ pinch, coil building, soft and stiff slab construction, and additive and subtrac
 processes.  
  **ART 104 Digital Photography**  
 Introduces foundational techniques and processes of digital photography. Students explore the expressive potential of light, composition, and perspective while examining both the historical and contemporary issues associated with the practice. Course includes studio projects, lectures, assigned readings, class discussions, and critiques plus introductory-level instruction in DSLR cameras, light kits, Adobe Creative suite software.  
-**ART 110 Installation Art**  
+ **ART 110 Installation Art**  
 Creates art environments that offer a unique experience for the viewer. Projects will include research, planning, drafting, and exhibiting artistic creations in spaces across campus and throughout the local community.
-**ART 112 Screenprinting**  
+ **ART 112 Screenprinting**  
 Utilizes silkscreen printing as a medium that can be integrated with photography, digital imagery, and three-dimensional objects. The course offers an exploration of the formal elements of design with an emphasis on the use of color. Coursework includes studio production, lectures, demonstrations, and critiques.
  **ART 115 Drawing**  
 Introduces a variety of drawing media, including graphite, charcoal, brush and ink, pastels, and collage. Students are challenged to observe the visual world around them and to respond to that observation with interpretive choices in mark-making and composition to produce visual expression. Media may include graphite, charcoal, brush and ink, pastels, and collage.  
@@ -220,12 +220,111 @@ Explores the aesthetic and experiential qualities of time. The course includes r
 Focuses on traditional and contemporary printmaking techniques, introducing students to the fundamentals of materials including paper, ink, presses, and image processing. This course explores the development of technical, compositional, and conceptual skills through the evolution of printmaking’s history of multiplicity.  
  **ART 191 Topics in Studio Art**  
 Focuses on a specific theme or topic. Topics vary. May be taken more than once for credit, provided the topics are substantially different.  
-**ART 206 Professional Practice**  
+ **ART 206 Professional Practice**  
 Prepares students for advanced work in ART-464 Seminar in Art and Visual Studies. Art Majors will prepare portfolio materials, including an artist's statement, biography, and resume. Students will also learn how to exhibit and photograph their artwork, create an artist's website, price artwork, and manage an artist's inventory. This course is offered yearly in the fall. Prerequisites: Art Major and Sophomore or Junior Standing, consent of instructor.
 
 **300-level courses** offer students the opportunity to expand their technical and conceptual skills at a more advanced level.
 
+ **ART 305 Advanced Topics in Graphic Design**  
+Focuses on a specific advanced theme or topic in graphic design. Topics vary. May be taken more than once for credit, provided the topics are substantially different. Prerequisite: ART-145 Digital Studio or consent of instructor.
+ **ART 306 Branding for Non-Profits**  
+Branding for Non-Profits
+Introduce students to the process of creating brand identity for non-profit organizations. Through class assignments, client interactions, readings, and discussions, students will develop effective design solutions using design principles. Prerequisite: Digital Studio (ART-145)
+ **ART 307 Motion Graphics**  
+Motion Graphics
+Students learn how to combine animation, graphic design, and typography to create dynamic, time-based visual content. After Effects will be used to teach students how to animate logos, create kinetic typography, and create motion graphics for advertising. Prerequisite: ART-145 Digital Studio
+ **ART 330 Methods of Teaching Art K-12**  
+Includes discussion, lecture, and studio work on campus, as well as experience in public school classes off-campus. Designed principally for prospective art teachers. This course does not satisfy the College’s general education fine arts core group requirement nor does it
+satisfy major or minor requirements or prerequisites for Art or Art History. Prerequisite: art major or minor and admission to the Education Program.
+ **ART 340 Advanced 2D Research I**  
+Focuses on the conceptual, aesthetic, and technical skills necessary to create more advanced and sophisticated artworks. Designed to build upon the foundations provided in beginning-level work in one of the following prerequisite courses: ART-115 Drawing, ART-125 Painting, ART 175 Printmaking.
+ **ART 345 Advanced 2D Research II**  
+Focuses on the conceptual, aesthetic, and technical skills necessary to create more advanced and sophisticated artworks. Designed to build upon the foundations provided in ART 340 Advanced 2D Research I. Prerequisite: ART 340 Advanced 2D Research I.
+ **ART 350 Advanced Digital Research I**  
+Focuses on the conceptual, aesthetic, and technical skills necessary to create more advanced and sophisticated artworks. Designed to build upon the foundations provided in beginning-level work in one of the following prerequisite courses: ART 145 Digital Studio, ART 150 Time-Based Media, ART 104 Digital Photography.
+ **ART 355 Advanced Digital Research II**  
+Focuses on the conceptual, aesthetic, and technical skills necessary to create more advanced and sophisticated artworks. Designed to build upon the foundations provided in ART 350 Advanced Digital Research I. Prerequisite: ART 350 Advanced Digital Research I.
+ **ART 360 Advanced 3D Research I**  
+Focuses on the conceptual, aesthetic, and technical skills necessary to create more advanced and sophisticated artworks. Designed to build upon the foundations provided in beginning-level work in one of the following prerequisite courses: ART-135 Ceramics: Form, Function, and Meaning; ART-103 Ceramic Sculpture; ART-102 Sculpture: Material Investigations; ART-110 Installation Art.
+ **ART 363 Graphic Design Studio**  
+Introduces foundational concepts and practices applied in the visual communications industry. Students design projects using both traditional materials and Adobe Creative Suite software Prerequisite: Digital Studio (ART-145), or Workshop, or consent of instructor.
+ **ART 365 Advanced 3D Research II**  
+Focuses on the conceptual, aesthetic, and technical skills necessary to create more advanced and sophisticated artworks. Designed to build upon the foundations provided in ART 360 Advanced 3D Research I. Prerequisite: ART 360 Advanced 3D Research I
+ **ART 371 Typography and Design**  
+Investigates the history, theory and practice of letterforms and typography in graphics, advertising, design and visual communication. Projects address
+principles of typography, letter structure, typeface selection, fundamentals of computer typesetting, and typographic layout. Prerequisite: Digital Art (ART-145), or Workshop:Digital Toolbox (WKS-204), or Workshop: Vector Graphics (WKS-213), or consent of instructor.
+ **ART 391 Advanced Topics in Studio Art**  
+Focuses on a specific advanced studio art specific theme or topic. Topics vary. May be taken more
+than once for credit, provided the topics are substantially different. Prerequisite: any 100-or-200 level ART-course or consent of instructor.
+ **ART 394 Directed Learning in Art**  
+Investigates a topic in studio art selected by the student and instructor to fit the student’s particular interests and educational needs. May be taken more than once for credit. Prerequisites: junior standing and consent of department chair.
+ **ART 444 Independent Study in Art**  
+Focuses on a topic for independent work on a selected project under the direction of a
+faculty member of the department. Prerequisite: consent of instructor.
+ **ART 464 Seminar in Art & Visual Studies I**  
+Prepares students for advanced research in studio art. Emphasis is on preparation of work toward the senior exhibit. Only art majors are admitted to this course. Materials fee (where applicable) should be discussed with instructor. Prerequisite: declared major in art and successful completion of two 100-level ART courses, two 200-level ART courses one of which could be the ART/MS Arts Advocacy course, and one 300-level ART course.
+ **ART 474 Seminar in Art and Visual StudiesII**  
+Seminar in Art and Visual Studies II & Thesis Exhibition 
 
+Prepares students for advanced research in studio art. Emphasis is on the preparation of work toward the senior exhibit. Only art majors are admitted to this course. Materials fee (where applicable) should be discussed with instructor. Prerequisite: successful completion of Seminar in Art and Visual Studies I (ART-464).
+ **ART 494 Internship in Art**  
+Investigates an area of interest related to the major, through voluntary field placement supervised by a faculty member of the art and art history department. A minimum of 140 hours on-site experience is required. P/NP basis only. Prerequisites: declared major in art, junior standing, and consent of department chair.
+
+### Art History Minor
+
+A grade of “C” (2.0) or higher must be earned in all courses counted toward a minor in art history. An Art History minor may also complete an Art major, Art minor, or Museum studies minor, but only two courses may count toward both the major and the minors.
+
+1.	ARH 128 Introduction to Art History
+2.	**Three** additional Art History courses. One must be ARH-200 or above. One may be a course from the following list:
+	- ANT 125 Art & Archaeology Classical World
+	- HIS 318 Topics in History :Div West Persp
+	- COM 161 Visual Rhetoric
+	- COM 257 Sex, Race, and Gender in the Media
+	- MS 105 History of Museums
+3.	ARH 307 Modern and Contemporary Art
+4.	**One** 100- or 300-level ART- course
+
+### Courses in Art History
+
+ **ARH 106 World Art**  
+Traces key themes in art from a global perpective, focusing on the ways that cultures and civilizations across time have visually expressed social, religious and political values. Cross-cultural themes may include: religion and spirituality, word and image, violence and death, power and propaganda, gender and society, parks and memorials, and ritual and body decoration.
+ **ARH 107 Gender and Art**  
+Explores of the ways in which visual culture reflects and projects cultural biases and issues related to gender from prehistory to the modern era. Analyzes how gender identities can be shaped by politics, religion, and culture, as well as the effect of an artist's sex and/or sexual preferences on subject choices, media, and market values.
+ **ARH 128 Introduction to Art History**  
+Examines Western art and architecture from prehistory to the later 19th century, with emphasis on the ways in which visual culture both reflects and shapes societies and civilizations. Explores how works of art create and sustain meaning for their original audiences, and how some objects or visual solutions transcend their historical moment and surface throughout time as familiar cultural icons or references.
+ **ARH 191 Topics in Art History**  
+Focuses on a selected topic or theme in art history or visual culture. Topics vary. May be taken more than once for credit, provided the topics are substantially different.
+ **ARH 201 Art of the Middle Ages**  
+Explores the art and architecture of the medieval world both chronologically and thematically. The course examines issues such as patronage of the arts, pilgrimage, the cult of saints, the arts as a medium of cultural exchange, and the role of the artist in the Middle Ages. Prerequisite: Introduction to Art History (ARH-128) or consent of instructor.
+ **ARH 218 The World of Renaissance Art**  
+Explores the visual culture of Europe from the 14th through the 16th centuries, focusing on topics such as competition, display, devotion, portraits, the printing revolution, death, and gender issues. Prerequisite: Introduction to Art History (ART-128) or consent of instructor.
+ **ARH 231 Romanticism, Realism, Impressionism**  
+Focuses on the sweeping transformations in the creation, production and consumption of visual culture in the 19th century. The rapidly changing aesthetics of the dawning modern era generated passionate debates about the creation and reception of art during this period. This course uses these debates as a series of touchstones for understanding the visual and social landscape of the times. Prerequisite: Introduction to Art History (ARH-128) or consent of instructor.
+ **ARH 248 Baroque, Rococo, and Neoclassicism**  
+Focuses on a thematic exploration of the major art movements in the 17
+th and 18th centuries, emphasizing the pendulum swings of artistic practice, exploration, and
+institutional hierarchies. Inclusion of cultural phenomena—the Grand Tour, the
+Enlightenment, revolutions, and the establishment of academies—factor heavily in this
+course. Prerequisite: Introduction to Art History (ARH 128) or consent of instructor.
+ **ARH 268 History of Architecture**  
+Investigates major monuments of architectural history from prehistory to the present day, with an emphasis on formal and conceptual concepts. Key figures, theories, innovations, and functions (both original and altered throughout time) are also discussed.
+Prerequisite: Introduction to Art History (ARH 128) or consent of instructor.
+ **ARH 270 History of Design**  
+Discusses the who, what, and when of design practice from the eighteenth century to the present day. Good and innovative design produces creative solutions for a variety of complex social situations; therefore, works by major designers of applied, industrial, and the craft arts will be studied within their historical and cultural contexts.
+ **ARH 296 Topics in Art History:Global Persp**  
+Focuses on a selected topic or theme in art history. Topics vary. May be taken more than once for credit, provided the topics are substantially different. different. Prerequisite: Introduction to Art History (ARH-128) or consent of instructor.
+ **ARH 297 Topics in Art History: US Pluralism**  
+Examines a selected topic or theme in art history. Topics vary. May be taken more than once for credit, provided the topics are substantially different. Prerequisite: Introduction to Art History (ARH-128) or consent of instructor.
+ **ARH 307 Modern and Contemporary Art**  
+Traces the development of major artistic movements in the 20th centrury to the more contemporary trends of the 21st century. Topics include: Post-Impressionism, Cubism, Futurism, Surrealism, German Expressionism, Dada, Pop Art, Minimalism, Conceptual Art, Postmodernism, installation, new media, performance, and digital production and distribution. Prerequisite: Introduction to Art History (ARH-128) and a 200-level ARH- course or consent of instructor.
+ **ARH 391 Advanced Topics in Art History**  
+Focuses on an advanced study of a selected topic or theme in art history. Topics vary. May be taken more than once for credit, provided the topics are substantially different. Prerequisites: Introduction to Art History (ARH-128) and a 200-level ARH- course or consent of instructor.
+ **ARH 394 Directed Learning  in Art History**  
+Investigates topics in art history selected by the student and instructor to fit the student’s particular interests and educational needs. May be taken more than once for credit. Prerequisites: junior standing and consent of department chair.
+ **ARH 444 Independent Study: Art History**  
+Focuses on independent work on a selected project under the direction of a faculty member of the Art and Art History department. Prerequisite: consent of instructor.
+ **ARH 494 Internship in Art History**  
+Investigates an area of interest related to the major, through voluntary field placement supervised by a faculty member of the Art and Art History department. A minimum of 140 hours on-site experience is required. P/NP basis only. Prerequisites: declared major in art history, junior standing, and consent of department chair.
 
 
 ## Asian Studies {#sec-asian-studies}
