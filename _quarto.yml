@@ -66,6 +66,8 @@ format:
   html:
     theme: cosmo
     mainfont: "Garamond"
+    toc: true
+    toc-depth: 3
   docx:
     mainfont: "Garamond"
     keep-md: true
