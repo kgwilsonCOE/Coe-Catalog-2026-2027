@@ -12,7 +12,7 @@
 
 {{< include departmental_programs/_ASC_courses.qmd >}}
 
-{{< include departmental_programs/_AVSFO.qmd >}}
+{{< include departmental_programs/_AVSFO_courses.qmd >}}
 
 {{< include departmental_programs/_BioChe_courses.qmd >}}
 
