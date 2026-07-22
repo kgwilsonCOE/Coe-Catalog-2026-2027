@@ -6,27 +6,27 @@ Coe’s aviation program includes flight operations courses and aviation studies
 ### Aviation Studies Courses
 See the Aviation Studies Concentration and the Flight Operations Concentration, Business Administration (p. 81)
 
-**{{< var c.avs101.long >}}**
+ **{{< var c.avs101.long >}}**
 {{< var c.avs101.desc >}}
-**{{< var c.avs201_201L.long >}}**
+ **{{< var c.avs201_201L.long >}}**
 {{< var c.avs201_201L.desc >}}
-**{{< var c.avs250.long >}}**
+ **{{< var c.avs250.long >}}**
 {{< var c.avs250.desc >}}
-**{{< var c.avs301.long >}}**
+ **{{< var c.avs301.long >}}**
 {{< var c.avs301.desc >}}
-**{{< var c.avs302.long >}}**
+ **{{< var c.avs302.long >}}**
 {{< var c.avs302.desc >}}
-**{{< var c.avs315.long >}}**
+ **{{< var c.avs315.long >}}**
 {{< var c.avs315.desc >}}
-**{{< var c.avs394.long >}}**
+ **{{< var c.avs394.long >}}**
 {{< var c.avs394.desc >}}
-**{{< var c.avs401.long >}}**
+ **{{< var c.avs401.long >}}**
 {{< var c.avs401.desc >}}
-**{{< var c.avs402.long >}}**
+ **{{< var c.avs402.long >}}**
 {{< var c.avs402.desc >}}
-**{{< var c.avs403.long >}}**
+ **{{< var c.avs403.long >}}**
 {{< var c.avs403.desc >}}
-**{{< var c.avs494.long >}}**
+ **{{< var c.avs494.long >}}**
 {{< var c.avs494.desc >}}
 
 ### Flight Operations Courses
@@ -54,37 +54,37 @@ Additional Flight Operations Courses:
 -	AVI-441
 -	AVI-494 
 
-**{{< var c.avi111.long >}}**
+ **{{< var c.avi111.long >}}**
 {{< var c.avi111.desc >}}
-**{{< var c.avi121.long >}}**
+ **{{< var c.avi121.long >}}**
 {{< var c.avi121.desc >}}
-**{{< var c.avi131.long >}}**
+ **{{< var c.avi131.long >}}**
 {{< var c.avi131.desc >}}
-**{{< var c.avi211.long >}}**
+ **{{< var c.avi211.long >}}**
 {{< var c.avi211.desc >}}
-**{{< var c.avi221.long >}}**
+ **{{< var c.avi221.long >}}**
 {{< var c.avi221.desc >}}
-**{{< var c.avi231.long >}}**
+ **{{< var c.avi231.long >}}**
 {{< var c.avi231.desc >}}
-**{{< var c.avi240.long >}}**
+ **{{< var c.avi240.long >}}**
 {{< var c.avi240.desc >}}
-**{{< var c.avi311.long >}}**
+ **{{< var c.avi311.long >}}**
 {{< var c.avi311.desc >}}
-**{{< var c.avi321.long >}}**
+ **{{< var c.avi321.long >}}**
 {{< var c.avi321.desc >}}
-**{{< var c.avi331.long >}}**
+ **{{< var c.avi331.long >}}**
 {{< var c.avi331.desc >}}
-**{{< var c.avi341.long >}}**
+ **{{< var c.avi341.long >}}**
 {{< var c.avi341.desc >}}
-**{{< var c.avi394.long >}}**
+ **{{< var c.avi394.long >}}**
 {{< var c.avi394.desc >}}
-**{{< var c.avi411.long >}}**
+ **{{< var c.avi411.long >}}**
 {{< var c.avi411.desc >}}
-**{{< var c.avi421.long >}}**
+ **{{< var c.avi421.long >}}**
 {{< var c.avi421.desc >}}
-**{{< var c.avi431.long >}}**
+ **{{< var c.avi431.long >}}**
 {{< var c.avi431.desc >}}
-**{{< var c.avi441.long >}}**
+ **{{< var c.avi441.long >}}**
 {{< var c.avi441.desc >}}
-**{{< var c.avi494.long >}}**
+ **{{< var c.avi494.long >}}**
 {{< var c.avi494.desc >}}
