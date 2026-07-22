@@ -1,0 +1,90 @@
+## Aviation Studies and Flight Operations (Courses Only)
+Carstens (Administrative Coordinator)
+
+Coe’s aviation program includes flight operations courses and aviation studies courses. Students wishing to become qualified as professional pilots will complete a Business major with a Flight Operations concentration (see p. 82). These students will earn pilot certificates and ratings as part of their four-year degree. The flight operations courses may be taken by only those students who have been admitted into Coe’s aviation program. (Please contact the Coe College Office of Admission to learn how to apply to Coe’s aviation program and for more details about the program and its requirements.) Students wishing to learn about the aviation industry with a goal of working in an aviation-related field such as aviation studies or safety and compliance may choose to complete a Business major with an Aviation Studies concentration (see p. 82).
+
+### Aviation Studies Courses
+See the Aviation Studies Concentration and the Flight Operations Concentration, Business Administration (p. 81)
+
+**{{< var c.avs101.long >}}**
+{{< var c.avs101.desc >}}
+**{{< var c.avs201_201L.long >}}**
+{{< var c.avs201_201L.desc >}}
+**{{< var c.avs250.long >}}**
+{{< var c.avs250.desc >}}
+**{{< var c.avs301.long >}}**
+{{< var c.avs301.desc >}}
+**{{< var c.avs302.long >}}**
+{{< var c.avs302.desc >}}
+**{{< var c.avs315.long >}}**
+{{< var c.avs315.desc >}}
+**{{< var c.avs394.long >}}**
+{{< var c.avs394.desc >}}
+**{{< var c.avs401.long >}}**
+{{< var c.avs401.desc >}}
+**{{< var c.avs402.long >}}**
+{{< var c.avs402.desc >}}
+**{{< var c.avs403.long >}}**
+{{< var c.avs403.desc >}}
+**{{< var c.avs494.long >}}**
+{{< var c.avs494.desc >}}
+
+### Flight Operations Courses
+
+All flight operations courses require admission into Coe’s aviation program and a minimum grade of C (2.0) in each flight operations course before beginning the next level course. Students pursuing the Flight Operations concentration in Business Administration must complete all of the courses listed as Required Flight Operations Courses. Students may opt to take courses listed as Additional Flight Operations Courses.
+
+Require Flight Operations Courses:
+-	AVI-111
+-	AVI-121
+-	AVI-131
+-	AVI-211
+-	AVI-221
+-	AVI-231
+-	AVI-311
+-	AVI-321
+-	AVI-331
+-	AVI-341
+-	AVI-411
+-	AVI-421
+
+Additional Flight Operations Courses:
+-	AVI-240
+-	AVI-394
+-	AVI-431
+-	AVI-441
+-	AVI-494 
+
+**{{< var c.avi111.long >}}**
+{{< var c.avi111.desc >}}
+**{{< var c.avi121.long >}}**
+{{< var c.avi121.desc >}}
+**{{< var c.avi131.long >}}**
+{{< var c.avi131.desc >}}
+**{{< var c.avi211.long >}}**
+{{< var c.avi211.desc >}}
+**{{< var c.avi221.long >}}**
+{{< var c.avi221.desc >}}
+**{{< var c.avi231.long >}}**
+{{< var c.avi231.desc >}}
+**{{< var c.avi240.long >}}**
+{{< var c.avi240.desc >}}
+**{{< var c.avi311.long >}}**
+{{< var c.avi311.desc >}}
+**{{< var c.avi321.long >}}**
+{{< var c.avi321.desc >}}
+**{{< var c.avi331.long >}}**
+{{< var c.avi331.desc >}}
+**{{< var c.avi341.long >}}**
+{{< var c.avi341.desc >}}
+**{{< var c.avi394.long >}}**
+{{< var c.avi394.desc >}}
+**{{< var c.avi411.long >}}**
+{{< var c.avi411.desc >}}
+**{{< var c.avi421.long >}}**
+{{< var c.avi421.desc >}}
+**{{< var c.avi431.long >}}**
+{{< var c.avi431.desc >}}
+**{{< var c.avi441.long >}}**
+{{< var c.avi441.desc >}}
+**{{< var c.avi494.long >}}**
+{{< var c.avi494.desc >}}
