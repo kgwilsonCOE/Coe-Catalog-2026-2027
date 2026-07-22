@@ -34,6 +34,7 @@ See the Aviation Studies Concentration and the Flight Operations Concentration, 
 All flight operations courses require admission into Coe’s aviation program and a minimum grade of C (2.0) in each flight operations course before beginning the next level course. Students pursuing the Flight Operations concentration in Business Administration must complete all of the courses listed as Required Flight Operations Courses. Students may opt to take courses listed as Additional Flight Operations Courses.
 
 Require Flight Operations Courses:
+
 -	AVI-111
 -	AVI-121
 -	AVI-131
@@ -48,6 +49,7 @@ Require Flight Operations Courses:
 -	AVI-421
 
 Additional Flight Operations Courses:
+
 -	AVI-240
 -	AVI-394
 -	AVI-431
