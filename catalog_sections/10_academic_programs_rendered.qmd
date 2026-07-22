@@ -1,18 +1,6 @@
-# COURSES OF INSTRUCTION
+# ACADEMIC PROGRAMS
 
-## INDIVIDUALIZED STUDY
-
-### INDEPENDENT STUDY
-
-The one-credit independent study is a student-driven initiative that requires the completion of a minimum of 140 hours of academic work, including meeting with a faculty advisor and performing independent work between meetings. Developed and outlined by the student, an independent study supplements the existing departmental program through more intensive study of a present topic or through examination of topics not comprehensively covered in an existing course. An existing course taken by arrangement does not constitute an independent study. Independent studies are only offered at the 300- and 400- levels and are meant to foster a student’s pursuit of career and/or personal goals outside of the classroom. A proposed independent study must receive approval from the respective department chair and be registered through the Office of the Registrar in order to receive credit and count toward the practicum requirement. A student may receive a total of no more than 2.0 credits from independent studies. A student may only repeat an independent study with the same course code if approved by the relevant department chair. 
-
-### DIRECTED LEARNING
-
-The one-credit directed learning is an instructor-driven initiative that requires the completion of a minimum of 140 hours of academic work, including meeting with a faculty advisor and performing independent work between meetings. Developed and outlined by the instructor, directed learning helps students specialize in a major or minor. A proposed directed learning must receive approval from the respective department chair and be registered through the Office of the Registrar to receive credit and does not count toward the practicum requirement. A student may receive a total of no more than 2.0 credits from directed learning. A student may only repeat a directed learning with the same course code if approved by the relevant department chair. 
-
-## ACADEMIC PROGRAMS
-
-### Asia Term
+## Asia Term
 Carstens (Co-Program Director), Nordmann (Co-Program Director)
 
 **ASC-195 Asian Tonal Languages**  
@@ -24,7 +12,7 @@ An introduction to several Asian cultures such as Thai, Cambodian, and Vietnames
 **ASC-444 Independent Study**  
 A student-designed study of some feature of Asian culture, arranged in consultation with the supervising Coe faculty member. May be taken more than once for a maximum of 2.0 credits. Prerequisite: consent of instructor. 
 
-### World Language
+## World Language
 Rodríguez Moreno (Program Director)
 
 **FSA-100 Foreign Study Abroad**  
@@ -36,7 +24,7 @@ Study abroad course on the history and culture of Turkey.  An exploration of a u
 **WLC-108 Cultural Studies and Literature in Translation (WE)**
 A topics course, taught in English, that explores shared historical, literary, and cultural themes and experiences in the French and Spanish-speaking worlds. Topics may include the history and literature of slavery and colonization, environmental humanities, contemporary films and graphic novels, and social justice in globalized contexts. It may be counted for credit toward a Spanish or French and Francophone Studies majors and minors.
 
-### Internships
+## Internships
 
 The internship is a work or volunteer experience in the context of an independent academic investigation of site-related issues and personal aptitudes, values, and goals. Internships include a minimum of 140 hours of on-site or remote experience and the required documentation and/or academic journal or paper as determined by the faculty member.  The details of the academic component are determined by prior arrangement with the faculty internship advisor.
 
@@ -54,7 +42,7 @@ Explores a career area related to the sponsoring department. Application is subm
 **XXX-499 Summer Internship in Departmental Area**
 Explores a career area related to the sponsoring department. Application is submitted through C3: Creativity, Careers, Community, and supervision is provided by a faculty member in the department. A minimum of 140 hours on-site experience is required. Offered in the Summer Term on P/NP basis only. Prerequisites: Consent of faculty supervisor and Career Services registration. (0.0 course credit)
 
-### RESEARCH
+## RESEARCH
 
 Research is completed during the academic year for 1.0 credit, or during the Summer Term for either 1.0 credit or 0.0 credit determined by the course registration. Research courses may be taken more than once with departmental approval. Departments will determine whether research credits count towards their majors, minors, and concentrations. 
 
@@ -64,7 +52,7 @@ Engages students in a research program designed and directed by a faculty member
 **XXX-459 Summer Research in Departmental Area**
 Engages students in a research program designed and directed by a faculty member in the department. A minimum of 140 hours experience is required. Offered in the Summer Term on P/NP basis only. Prerequisite: Consent of faculty supervisor (0.0 course credit)
 
-### New York Term
+## New York Term
 Carson (Program Director)
 
 New York Term is offered every other Spring Term in odd-numbered years.  There is an extra fee for New York Term. All Coe financial aid applies, and students are eligible to apply for additional financial aid based on the additional costs of the term.
@@ -78,7 +66,7 @@ A plan of study designed by the student in consultation with the student’s fac
 **NYT-494 Internship in New York City**
 Investigates a student's career interests through work or volunteer experience. The internship is supervised by a faculty member of the relevant department, in consultation with Coe's Center for Creativity and Careers. Normally earns 2.0 credits, but may be taken for 1.0 credits when combined with NYT-444. 
 
-### Occasional Courses
+## Occasional Courses
 
 Additional courses, not found in the Catalog, may be offered occasionally and serve one or more of the following purposes: 
 
@@ -91,7 +79,7 @@ Additional courses, not found in the Catalog, may be offered occasionally and se
 The approved occasional courses include, but are not limited to, the courses listed under their respective departments and described as occasional. Additional approved occasional courses exist that are not listed in this catalog.
 Students should note that occasional courses do not necessarily count toward a given major or minor.
 
-### Skills Development
+## Skills Development
 
 **SKD-115 Summer Bridge**
 Engages students in a one-week course that takes place prior to Fall Orientation. Students participate in two mini-classes taught by college faculty. Each mini-class is followed by small group discussions regarding course content, learning strategies, college expectations, etc. Additional workshop sessions are held throughout Summer Bridge on topics such as: financial literacy, campus resources, goal setting and academic planning. Summer Bridge also offers opportunities to make social connections through a variety of informal and planned activities. P/NP basis only. Prerequisite: admission to TRIO Student Support Services. (0.3 course credit)
@@ -117,7 +105,7 @@ Introduces transfer students to resources across Coe College, including digital 
 **INT-100 Professionalism and Self Presentation**
 Introduces students to the fundamentals of job-seeking strategies and professional expectations. Students are guided through development of professional materials, networking techniques, and interviewing skills.  This course does not satisfy Coe’s practicum requirement.
 
-### Washington Term
+## Washington Term
 McNabb (Program Director)
 
 **WSH-284 Topics in Washington, D.C.**
