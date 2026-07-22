@@ -1,8 +1,7 @@
-## Asian Studies {#sec-asian-studies}
+## Asian Studies
+Nordmann (Administrative Coordinator)
 
-Nordmann (Administrative Coordinator).
-
-The Asian Studies program is designed to acquaint students with the great cultures of Asia, primarily those of China, India and Japan.
+The Asian Studies program is designed to acquaint students with the great cultures of Asia, primarily those of China, India and Japan. 
 
 ### Asian Studies Major
 
@@ -17,15 +16,14 @@ The major is interdisciplinary and requires that the students take courses in th
 
 2. Participation in one overseas study program in Asia:
 
-- an ACM overseas study program (India Studies or Japan Study)
-- a Coe foreign exchange program (Chiang Mai University of Thailand, Nagoya Gakuin University of Japan, or Sookmyung University in South Korea)
+-	a Coe foreign exchange program (Chiang Mai University or Rangsit University of Thailand, Nagoya-Gakuin University of Japan, Kongju National University or Sookmyung University in South Korea, or Jinan University in China)
 - Coe’s Asia Term (see @sec-asia-term)
 
 3. **Four** courses, chosen from the following, in consultation with the Asian Studies administrative coordinator:
 
 - {{< var c.asc106.long >}}
 - {{< var c.asc176.long >}}
-- {{< var c.eco436.long >}} or {{< var c.eco446.long >}}
+- {{< var c.eco436.long >}} **or** {{< var c.eco446.long >}}
 - {{< var c.his217.long >}}
 - {{< var c.his246.long >}}
 - {{< var c.his256.long >}}
@@ -50,7 +48,7 @@ The major is interdisciplinary and requires that the students take courses in th
 2. **Five** courses, chosen from the following, in consultation with the Asian Studies administrative coordinator:
 
 - {{< var c.asc176.long >}}
-- {{< var c.eco436.long >}} or {{< var c.eco446.long >}}
+- {{< var c.eco436.long >}} **or** {{< var c.eco446.long >}}
 - {{< var c.his217.long >}}
 - {{< var c.his246.long >}}
 - {{< var c.his256.long >}}
