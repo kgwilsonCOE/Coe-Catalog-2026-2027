@@ -9,16 +9,16 @@ A major in art or a minor in art, art history, or museum studies provides a foun
 A grade of "C" (2.0) or higher must be earned in all courses counted toward a major in art.
 
 1. {{< var c.arh128.long >}}
-2. Two 100-level ART- courses
+2. **Two** 100-level ART- courses
 3. {{< var c.art206.long >}}
-4. Two of the following 300-level ART courses:
+4. **Two** of the following 300-level ART courses:
     - {{< var c.art340.long >}}
     - {{< var c.art345.long >}}
     - {{< var c.art350.long >}}
     - {{< var c.art355.long >}}
     - {{< var c.art360.long >}}
     - {{< var c.art365.long >}}
-5. One additionl 200-level Art History course
+5. **One** additionl 200-level Art History course
 6. {{< var c.arh307.long >}}
 7. {{< var c.art464.long >}}
 8. {{< var c.art474.long >}}
@@ -45,15 +45,15 @@ To complete the Multimedia Graphic Design concentration, a student must meet the
 A grade of "C" (2.0) or higher must be earned in all courses counted toward a minor in art.
 
 1. {{< var c.arh128.long >}}
-2. Two 100-level ART- courses
-3. Two of the following 300-level ART- courses
+2. **Two** 100-level ART- courses
+3. **Two** of the following 300-level ART- courses
    - {{< var c.art340.long >}}
    - {{< var c.art345.long >}}
    - {{< var c.art350.long >}}
    - {{< var c.art355.long >}}
    - {{< var c.art360.long >}}
    - {{< var c.art365.long >}}
-4. One 200-level ARH- course 
+4. **One** 200-level ARH- course 
 
 Further information for all these requirements and programs is available from the Art and Art History Department.
 
@@ -68,9 +68,9 @@ Further information for all these requirements and programs is available from th
 {{< var c.art103.desc >}}  
  **{{< var c.art104.long >}}**  
 {{< var c.art104.desc >}}  
-**{{< var c.art110.long >}}**  
+ **{{< var c.art110.long >}}**  
 {{< var c.art110.desc >}}
-**{{< var c.art112.long >}}**  
+ **{{< var c.art112.long >}}**  
 {{< var c.art112.desc >}}
  **{{< var c.art115.long >}}**  
 {{< var c.art115.desc >}}  
@@ -86,9 +86,95 @@ Further information for all these requirements and programs is available from th
 {{< var c.art175.desc >}}  
  **{{< var c.art191.long >}}**  
 {{< var c.art191.desc >}}  
-**{{< var c.art206.long >}}**  
+ **{{< var c.art206.long >}}**  
 {{< var c.art206.desc >}}
 
 **300-level courses** offer students the opportunity to expand their technical and conceptual skills at a more advanced level.
 
+ **{{< var c.art305.long >}}**  
+{{< var c.art305.desc >}}
+ **{{< var c.art306.long >}}**  
+{{< var c.art306.desc >}}
+ **{{< var c.art307.long >}}**  
+{{< var c.art307.desc >}}
+ **{{< var c.art330.long >}}**  
+{{< var c.art330.desc >}}
+ **{{< var c.art340.long >}}**  
+{{< var c.art340.desc >}}
+ **{{< var c.art345.long >}}**  
+{{< var c.art345.desc >}}
+ **{{< var c.art350.long >}}**  
+{{< var c.art350.desc >}}
+ **{{< var c.art355.long >}}**  
+{{< var c.art355.desc >}}
+ **{{< var c.art360.long >}}**  
+{{< var c.art360.desc >}}
+ **{{< var c.art363.long >}}**  
+{{< var c.art363.desc >}}
+ **{{< var c.art365.long >}}**  
+{{< var c.art365.desc >}}
+ **{{< var c.art371.long >}}**  
+{{< var c.art371.desc >}}
+ **{{< var c.art391.long >}}**  
+{{< var c.art391.desc >}}
+ **{{< var c.art394.long >}}**  
+{{< var c.art394.desc >}}
+ **{{< var c.art444.long >}}**  
+{{< var c.art444.desc >}}
+ **{{< var c.art464.long >}}**  
+{{< var c.art464.desc >}}
+ **{{< var c.art474.long >}}**  
+{{< var c.art474.desc >}}
+ **{{< var c.art494.long >}}**  
+{{< var c.art494.desc >}}
 
+### Art History Minor
+
+A grade of “C” (2.0) or higher must be earned in all courses counted toward a minor in art history. An Art History minor may also complete an Art major, Art minor, or Museum studies minor, but only two courses may count toward both the major and the minors.
+
+1.	{{< var c.arh128.long >}}
+2.	**Three** additional Art History courses. One must be ARH-200 or above. One may be a course from the following list:
+	- {{< var c.ant125.long >}}
+	- {{< var c.his318.long >}}
+	- {{< var c.com161.long >}}
+	- {{< var c.com257.long >}}
+	- {{< var c.ms105.long >}}
+3.	{{< var c.arh307.long >}}
+4.	**One** 100- or 300-level ART- course
+
+### Courses in Art History
+
+ **{{< var c.arh106.long >}}**  
+{{< var c.arh106.desc >}}
+ **{{< var c.arh107.long >}}**  
+{{< var c.arh107.desc >}}
+ **{{< var c.arh128.long >}}**  
+{{< var c.arh128.desc >}}
+ **{{< var c.arh191.long >}}**  
+{{< var c.arh191.desc >}}
+ **{{< var c.arh201.long >}}**  
+{{< var c.arh201.desc >}}
+ **{{< var c.arh218.long >}}**  
+{{< var c.arh218.desc >}}
+ **{{< var c.arh231.long >}}**  
+{{< var c.arh231.desc >}}
+ **{{< var c.arh248.long >}}**  
+{{< var c.arh248.desc >}}
+ **{{< var c.arh268.long >}}**  
+{{< var c.arh268.desc >}}
+ **{{< var c.arh270.long >}}**  
+{{< var c.arh270.desc >}}
+ **{{< var c.arh296.long >}}**  
+{{< var c.arh296.desc >}}
+ **{{< var c.arh297.long >}}**  
+{{< var c.arh297.desc >}}
+ **{{< var c.arh307.long >}}**  
+{{< var c.arh307.desc >}}
+ **{{< var c.arh391.long >}}**  
+{{< var c.arh391.desc >}}
+ **{{< var c.arh394.long >}}**  
+{{< var c.arh394.desc >}}
+ **{{< var c.arh444.long >}}**  
+{{< var c.arh444.desc >}}
+ **{{< var c.arh494.long >}}**  
+{{< var c.arh494.desc >}}
