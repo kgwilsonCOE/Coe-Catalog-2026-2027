@@ -25,7 +25,7 @@ A major in African American studies requires a minimum cumulative 2.0 GPA in all
 		- {{< var c.aam467.long >}} 
 		- {{< var c.aam494.long >}} 
 		- {{< var c.com236.long >}} 
-   		- {{< var c.com357.long >}} 
+		- {{< var c.com257.long >}} 
 		- {{< var c.edu187.long >}} 
 		- {{< var c.his145.long >}} 
 		- {{< var c.his155.long >}} 
@@ -39,7 +39,7 @@ A major in African American studies requires a minimum cumulative 2.0 GPA in all
 		- {{< var c.arh297.long >}} 
 		- {{< var c.com157.long >}} 
 		- {{< var c.com161.long >}} 
-		- {{< var c.com361.long >}} 
+		- {{< var c.com377.long >}} 
 		- {{< var c.eng107.long >}} 
 		- {{< var c.eng207.long >}} 
 		- {{< var c.eng347.long >}} 
@@ -72,6 +72,8 @@ A major in African American studies requires a minimum cumulative 2.0 GPA in all
 {{< var c.aam107.desc >}}  
  **{{< var c.aam137.long >}}**  
 {{< var c.aam137.desc >}}  
+ **{{< var c.aam197.long >}}**
+{{< var c.aam197.desc >}}  
  **{{< var c.aam217.long >}}**  
 {{< var c.aam217.desc >}}  
  **{{< var c.aam227.long >}}**  
