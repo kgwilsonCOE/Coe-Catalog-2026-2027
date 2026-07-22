@@ -37,7 +37,7 @@ A major in African American studies requires a minimum cumulative 2.0 GPA in all
 		- AAM 467 Seminar in African American Lit 
 		- AAM 494 Internship in African American Stds 
 		- COM 236 Intercultural Communication 
-   		- COM 357 Sex, Race, & Gender in Media 
+		- COM 257 LGBTQ + Television 
 		- EDU 187 Human Relations 
 		- HIS 145 History of United States to 1865 
 		- HIS 155 History of United States since 1865 
@@ -51,7 +51,7 @@ A major in African American studies requires a minimum cumulative 2.0 GPA in all
 		- ARH 297 Topics in Art History: US Pluralism 
 		- COM 157 Introduction to Media Analysis 
 		- COM 161 Visual Rhetoric 
-		- COM 361 Communication & Social Change 
+		- +++MISSING INFO: c.com377.long +++ 
 		- ENG 107 Exploring Literature:US Pluralism 
 		- ENG 207 Gender & Lit:US Pluralism 
 		- ENG 347 Study in Modern or Contemp Amer Lit 
@@ -84,6 +84,8 @@ A major in African American studies requires a minimum cumulative 2.0 GPA in all
 What is African American culture, and what accounts for its cultural distinctions? This course introduces students to the study of African American culture and the field of African American Studies. through an interdiciplinary approach (literature, history, music, art and film) students will examine central themes and key debates pertinent to African American culture and history from its beginning to present.  
  **AAM 137 African American Literature**  
 Reading and discussion of the writings of African Americans, with emphasis on the 20th century. May include some relevant writings on African Americans by other groups. Study of the artistic values and of the social and cultural significance of these writings. May be taken more than once, with consent of African American Studies administrative coordinator, provided the topics are substantially different.  
+ **AAM 197 Tupac Shakur & Hip Hop Revolution**
+Introduces students to Tupac Shakur. This course will examine one of the most influential personalities in Hip Hop music and Cultural History. Students will engage in his legacy (Son of a Black Panther) and the culture of Hip Hop, analyze poetic lyrics, and explore his life and death.  
  **AAM 217 Sport and Black Culture**  
 Examines through cultural analysis the complex relationships between sport and Black culture.  This course addresses the way sport has evolved from being merely a physical activity to a cultural expression in Black communities.  This course emphasizes the historical patterns and current conditions of Blacks; participation in sport through various articles, videos, and books.  The course also examines how many Black people have used sport as a means of resistance, survival, and social mobility. Students learn to analyze cultural expression, to understand race and its continuing impact in American life, and to understand how various sports pursuits by Black athletes are invested with multiple meanings. Major topics and themes covered include: the concept of race, Black culture, the historical presence of Black athletes in sport, their current impact, and their dominance in certain sports.  
  **AAM 227 Blackness & Identity in America**  
@@ -111,68 +113,17 @@ Intensive study of selected works and subjects in African American literature. M
 None  
 
 
-## Anthropology (Minor Only)
-Fairbanks, Ziskowski
-
-### Anthropology Minor
-    
-1. **One** of the following:
-  - ANT 109 Intro to Archaeology:Method & Thry
-  - ANT 116 Cultural Anthropology
-
-2. ANT 215 Ethnographic Methods 
-3. **One** of the following:
-  - ANT 284 Topics in Anthropology/Archaeology
-  - ANT 286 Topics in Anthropology:NWP
-  - ANT 288 Topics Anthropology/Archaeology:DWP
-
-4. ANT 450 Anthropological Theory 
-5. **One** of the following:
-  - ANT 484 AdvTop: Anthropology or Archaeology
-  - ANT 486 Advanced Topics in Anthropology:NWP
-  - ANT 488 Adv Top Anthro/Archaeo:DWP
-
-6. One additional anthropology course
-Students must take at least one course focused on archaeology and one focused on anthropology.
-The following courses do **not** satisfy any of the requirements for a minor in anthropology:
-  - ANT 444 Independent Study: Anthropology
-  - ANT 474 Research Participation:Anthropology
-  - ANT 494 Internship in Anthropolgy
+## Anthropology (Courses Only)
+Fairbanks (Administrative Coordinator), Ziskowski
 
 ### Courses in Anthropology
 
- **ANT 109 Intro to Archaeology:Method & Thry**  
-An introduction to the theoretical approaches and field methodologies of archaeology. The goal of this class is to familiarize the student with the history and theoretical frameworks of archaeology, in addition to the scientific methods with which material culture is collected, investigated, and evaluated. Major topics and themes covered in this class include: archaeological theory, excavation and survey, artifact analysis, death, social systems, economy, religion, and ethical practices in cultural heritage management.  
- **ANT 115 Ancient Greece:Hist as Archaeology**  
-Explores the various ways in which archaeology can inform our understanding of ancient Greek history by visiting the monuments, museums, and archaeological sites in modern Greece. The course emphasizes the combination of the historical textual evidence and the ancient physical evidence to enrich our understanding of Greek social, political, and cultural history. THe course also involves an examination of the evolution of ancient institutions and practices that range from the rise of the Athenian democracy, to the first theatrical productions of comedy and tragedy, to the establishment of the ancient Olympics. Archaeological theory, archaeiligical practice, and historical process constitute the nexus around which the course revolves. (Offered May Term only)  
  **ANT 116 Cultural Anthropology**  
 An introduction to cultural anthropology, presenting its place within the broader discipline of anthropology and outlining its characteristic methodological and theoretical approaches to the study of human life. The course emphasizes the diversity of approaches to common human experiences in a variety of cultural contexts.  
  **ANT 125 Art & Archaeology Classical World**  
 A survey of the art, architecture, and archaeological remains of the Greek and Roman civilizations from early Aegean Bronze Age cultures to the fall of the Roman empire.  
- **ANT 215 Ethnographic Methods**  
-An introduction to ethnographic research methods, presenting a number of tools for collecting and analyzing ethnographic data. The course emphasizes the relationship between research questions and the methodological tools used by anthropologists to study those questions. Prerequisite: Cultural Anthropology (ANT-116) or consent of instructor.  
- **ANT 284 Topics in Anthropology/Archaeology**  
-A focused examination of an anthropological theme, theory or research method. Content varies and is determined by the instructor. May be taken more than once for credit, provided the topics are substantially different.  
- **ANT 286 Topics in Anthropology:NWP**  
-A focused examination of an anthropological theme, theory or research method. Content varies and is determined by the instructor. May be taken more than once for credit, provided the topics are substantially different.  
- **ANT 288 Topics Anthropology/Archaeology:DWP**  
-A focused examination of an archaeological theme, theory or research method. Content varies and is determined by the instructor. May be taken more than once for credit, provided the topics are substantially different.  
- **ANT 415 Ancient Greek Pottery Studies**  
-Considers Greek ceramics from both scientific and iconological perspectives. Students study issues of production, construction and distribution and then look at Greek pottery iconographically, focusing on the major stylistic periods but emphasizing regional variations through Greece. Discussions of connoisseurship and themes prevalent in Greek vase-painting such as death, myth, and gender round out the course's survey of evidence. Prerequisite: consent of instructor.  
- **ANT 444 Independent Study: Anthropology**  
-Independent study under faculty guidance of a research problem chosen by the student. May be taken for an X status grade with consent of instructor prior to registration. This course does not satisfy any of the requirements for a minor in anthropology. Prerequisites: Previous or concurrent enrollment in Anthropology Theory (ANT-450) and consent of department chair. (Offered by arrangement)  
- **ANT 450 Anthropological Theory**  
-An examination of the historical development of anthropological theory, emphasizing American, British and French traditions from the 19th century through the present. Prerequisite: Cultural Anthropology (ANT-116) or consent of instructor.  
- **ANT 474 Research Participation:Anthropology**  
-Individual or group investigation with a faculty member on a research topic or topics of mutual interest. The student must obtain approval for a specific project and make necessary arrangements prior to the term of registration for the course. May be taken for an X status grade with consent of instructor prior to registration.  This course does not satisfy any of the requirements for a minor in anthropology. Prerequisites: Cultural Anthropology (ANT-116) and consent of the instructor. (Offered by arrangement)  
- **ANT 484 AdvTop: Anthropology or Archaeology**  
-Same as ANT-284, except at an advanced level. Prerequisite: Introduction to Archaeology (ANT-109) or Cultural Anthropology (ANT-116) or consent of instructor.  
- **ANT 486 Advanced Topics in Anthropology:NWP**  
-Same as ANT-286, except at an advanced level. Prerequisite: Cultural Anthropology (ANT-116) or consent of instructor.  
- **ANT 488 Adv Top Anthro/Archaeo:DWP**  
-Same as ANT-228, except at an advanced level. Prerequisite: Introduction to Archaeology (ANT-109) or Cultural Anthropology (ANT-116) or consent of instructor.  
- **ANT 494 Internship in Anthropolgy**  
-Placement with a career-related organization. A minimum of 140 hours on-site experience is required. P/NP basis only. This course does not satisfy any of the requirements for a minor in anthropology. Prerequisites: declared minor in anthropology, junior standing and consent of department chair. (Offered by arrangement)  
+ **+++MISSING INFO: c.ant208.long +++**  
++++MISSING INFO: c.ant208.desc +++  
 
 
 ## Art and Art History
