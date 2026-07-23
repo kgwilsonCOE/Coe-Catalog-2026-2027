@@ -623,13 +623,6 @@
 	    "namelink": "", 
 	    "namelinklong": ""	
 	}, 
-	"bio335_335l": {
-	    "short": "'BIO 335/335L'",
-	    "long": "'BIO 335/335L Conservation and Ecology of Mammals and Laboratory'",
-	    "desc": "Studies mammals of Minnesota and the natural history, form/function relations, behavior, distributions, and interaction with their environment and other organisms. Investigation of how these variables impact conservation. Class activities include direct observations, reading tracks and “sign.” Live-trap mark and recapture studies supplemented by readings, lectures, and discussions. (Offered summers at the Wilderness Field Station)"
-		"namelink": "", 
-	    "namelinklong": ""	
-	}, 
 	"bio365_365l": {
 	    "short": "'BIO 365/365L'",
 	    "long": "'BIO 365/365L Comparative Chordate Anatomy and Laboratory'",
@@ -649,6 +642,13 @@
 	    "long": "'BIO 315/315L Conservation and Ecology of Mammals and Laboratory'",
 	    "desc": "Integrates macroscopic human anatomy at the organ and organ system levels with microscopic study of histology and development from a clinical perspective. Three lectures per week. Prerequisites: Organismal and Ecological Biology and Laboratory (WE) (BIO-155/155L).  Credit is given for Integrated Human Anatomy (BIO-315) or Human Anatomy (BIO-215), not both."
 		"namelink": "", 
+	    "namelinklong": ""	
+	}, 
+	"bio335_335L": {
+	    "short": "'BIO 335/335L'",
+	    "long": "'BIO 335/335L Conservation and Ecology of Mammals and Laboratory'",
+	    "desc": "Studies mammals of Minnesota and the natural history, form/function relations, behavior, distributions, and interaction with their environment and other organisms. Investigation of how these variables impact conservation. Class activities include direct observations, reading tracks and “sign.” Live-trap mark and recapture studies supplemented by readings, lectures, and discussions. (Offered summers at the Wilderness Field Station)",
+	    "namelink": "", 
 	    "namelinklong": ""	
     }
   }
