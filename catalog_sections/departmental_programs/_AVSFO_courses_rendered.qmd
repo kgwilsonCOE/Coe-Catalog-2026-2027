@@ -27,8 +27,8 @@ Introduces students to basic study of aircraft systems and components at the tec
  **AVS 403 Aviation Safety**  
 AVS-403 WE Aviation Safety
 Examines a variety of aviation safety topics and the roles of pilots, other aviation professionals, various agencies such as the Federal Aviation Association and the National Transportation Safety Board, and others in aviation safety. Specific topics include risk assessment and management; incident/accident prevention, causes, investigation procedures, analysis, and trends; air traffic control; and the use of technology in safety systems. Students learn relevant terminology, procedures, and regulations/codes, aided by discussion of real world examples and case studies. Prerequisite: Introduction to Aviation (AVS-101) or consent of instructor.  
- **+++MISSING INFO: c.avs494.long +++**  
-+++MISSING INFO: c.avs494.desc +++  
+ **AVS 494 Internship in Aviation Studies**  
+Investigates a career area related to aviation studies. Supervised by a faculty member of the department. A minimum of 140 hours of on-site experience is required. P/NP basis only. This course does not satisfy any of the requirements for a concentration in aviation studies or a concentration in flight operations. Prerequisites: junior standing and consent of supervising instructor.   
 
 ### Flight Operations Courses
 
