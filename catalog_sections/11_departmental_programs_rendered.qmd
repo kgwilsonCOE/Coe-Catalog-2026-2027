@@ -414,38 +414,28 @@ Coe’s aviation program includes flight operations courses and aviation studies
 ### Aviation Studies Courses
 See the Aviation Studies Concentration and the Flight Operations Concentration, Business Administration (p. 81)
 
-  **AVS 101 Introduction to Aviation**
+ **AVS 101 Introduction to Aviation**
 Introduces a variety of aviation topics ranging from the development of air transportation to the complexities of the aviation industry today. Students study the structure of and the players in the industry, along with specific operational areas and the macro- and microenvironmental factors that affect these operations. Specific topics include the birth of the aviation industry, aircraft manufacturing and maintenance, aviation operations, aviation regulation, aviation safety and security, air traffic control, contemporary challenges facing the commercial aviation sector, and careers in aviation. Prerequisite: admission into the aviation program.
-
-  **+++MISSING INFO: c.avs201_201L.long +++**
+ **+++MISSING INFO: c.avs201_201L.long +++**
 +++MISSING INFO: c.avs201_201L.desc +++
-
-  **AVS 250 Topics in Aviation**
+ **AVS 250 Topics in Aviation**
 Focuses on a major topic related to aviation and flight operations. in aviation management. Example topics: crew resource management, air traffic management, aviation security, crisis management, and advanced meteorology. May be taken more than once for credit, with consent of aviation management & flight operations administrative coordinator, provided the topics are substantially different. Prerequisite: Introduction to Aviation Management (AVS-101) or consent of instructor.
-
-  **AVS 301 Applied Aerodynamics**
+ **AVS 301 Applied Aerodynamics**
 Examines the principles of aerodynamic forces and their impact on aircraft performance and limitations. This course covers a broad spectrum of topics, including longitudinal, lateral, and directional stability and control, as well as low-speed and high-speed aerodynamics. The course also explores how these principles relate to transport design characteristics. Upon successful completion of the course, students will have a solid understanding of aerodynamic principles and their application in the field of aviation. They will be able to analyze and interpret aerodynamic forces and their effects on aircraft performance, stability, control, and design, preparing them for further study or roles within the aerospace industry. Prerequisite: Introduction to Aviation (AVS-101).
-
-  **AVS 302 Human Factors**
+ **AVS 302 Human Factors**
 Focuses on management principles as they relate to effective decision-making and safety issues in aviation. Topics include decision-making theory, contingency theory, group dynamics, teamwork, communication, workload management, crew resource management, and risk management, all in aviation settings. This course counts as an elective in the Business Administration major. Prerequisites: Introduction to Aviation (AVS101) and Principles of Management (BUS-250).
-
-  **AVS 315 Aviation Law**
+ **AVS 315 Aviation Law**
 Provides a strong foundation for understanding the legal and regulatory framework governing civil aviation in the United States legal system, including FAA regulations regarding pilots and flight operations across all certificate levels. The course includes constitutional, administrative, liability, criminal, contract and international law. It covers topics such as safe operating practices, airport operations, NTSB accident reporting, and procedures in the National Airspace System. Basic principles of tort law and risk management as related to aviation operations and organizations are covered. Prerequisite: Introduction to Aviation (AVS-101) or consent of instructor.
-
-  **AVS 394 Directed Learning in Aviation**
+ **AVS 394 Directed Learning in Aviation**
 Examines a topic in aviation not regularly offered through existing courses. Students work independently with a Coe instructor in aviation. Registration only after the student and instructor have agreed on the topic and goals of the course. Prerequisite: consent of administrative coordinator of aviation management & flight operations.
-
-  **AVS 401 Aviation Seminar**
+ **AVS 401 Aviation Seminar**
 Provides aviation students with the opportunity to synthesize and apply their learning to real-world aviation issues. This course builds on the information learned in earlier courses, particularly aviation law, aviation safety, and human factors. This course counts as an elective in the Business Administration major. Prerequisite: senior standing in the aviation program or consent of instructor.
-
-  **AVS 402 Aircraft Systems**
+ **AVS 402 Aircraft Systems**
 Introduces students to basic study of aircraft systems and components at the technical level. The course examines reciprocating and turbine engines; avionics systems; anti/de-icing systems; propellers; landing gear; pressurization; and the electrical, fuel, hydraulics, lubricating, cooling, instrumentation, and flight control systems associated with today’s aircraft. Prerequisite: Introduction to Aviation (AVS-101) or consent of instructor.
-
-  **AVS 403 Aviation Safety**
+ **AVS 403 Aviation Safety**
 AVS-403 WE Aviation Safety
 Examines a variety of aviation safety topics and the roles of pilots, other aviation professionals, various agencies such as the Federal Aviation Association and the National Transportation Safety Board, and others in aviation safety. Specific topics include risk assessment and management; incident/accident prevention, causes, investigation procedures, analysis, and trends; air traffic control; and the use of technology in safety systems. Students learn relevant terminology, procedures, and regulations/codes, aided by discussion of real world examples and case studies. Prerequisite: Introduction to Aviation (AVS-101) or consent of instructor.
-
-  **+++MISSING INFO: c.avs494.long +++**
+ **+++MISSING INFO: c.avs494.long +++**
 +++MISSING INFO: c.avs494.desc +++
 
 ### Flight Operations Courses
@@ -475,71 +465,55 @@ Additional Flight Operations Courses:
   -	AVI-441
   -	AVI-494 
 
-  **AVI 111 Private Pilot Ground**
+ **AVI 111 Private Pilot Ground**
 AVI-111 Private Pilot Ground
 Prepares students for the Federal Aviation Administration knowledge exam for a private pilot certificate. The course provides a minimum of 35 hours of ground instruction, consistent with Part 141 requirements. Topics include aerodynamics, airplane systems, airspace communications, Federal Aviation Regulations, navigation, aircraft performance, aeronautical decision-making, flight planning and flight physiology. Prerequisites: Admission into the aviation program and current medical certificate. (0.75 course credit)
-
-  **AVI 121 Private Pilot Lab 1**
+ **AVI 121 Private Pilot Lab 1**
 AVI-121 Private Pilot Lab 1 
 Provides, along with AVI-131: Private Pilot Lab 2, the knowledge and skills necessary to prepare for the Federal Aviation Administration private pilot practical exam. This lab begins students’ Part 141 private pilot flight training which requires a minimum of 35 hours of flight training, with a minimum of 20 hours of dual instruction, with an FAA certificated flight instructor. P/NP basis only. Prerequisites: Private Pilot Ground (AVI-111) (or concurrent registration), current medical certificate, and airport security clearance. (0.5 course credit)
-
-  **AVI 131 Private Pilot Lab 2**
+ **AVI 131 Private Pilot Lab 2**
 AVI-131: Private Pilot Lab 2 
 Continues students’ Part 141 private pilot flight training which, combined with AVI-121, provides a minimum of 35 hours of flight training, with a minimum of 20 hours of dual instruction, with an FAA certificated flight instructor. This course continues students’ preparation for the Federal Aviation Administration private pilot practical exam. P/NP basis only. Prerequisites: Private Pilot Ground (AVI-111), Private Pilot Lab 1 (AVI-121), current medical certificate, and airport security clearance. (0.25 course credit)
-
-  **AVI 211 Instrument Pilot Ground**
+ **AVI 211 Instrument Pilot Ground**
 AVI-211 Instrument Pilot Ground
 Prepares students for the Federal Aviation Administration knowledge exam for an instrument rating. The course provides a minimum of 30 hours of ground instruction, consistent with Part 141 requirements. Topics include Federal Aviation Regulations, air traffic control procedures, instrument navigation and approach procedures, weather considerations, and others needed to understand safe instrument navigation. Prerequisites: Current private pilot certificate, current medical certificate, and airport security clearance. (0.75 credit)
-
-  **AVI 221 Instrument Pilot Flight Lab 1**
+ **AVI 221 Instrument Pilot Flight Lab 1**
 AVI-221 Instrument Pilot Flight Lab 1 
 Provides, along with AVI-231: Instrument Pilot Flight Lab 2, the knowledge and skill necessary to prepare for the Federal Aviation Administration instrument rating practical exam. This lab begins students’ Part 141 instrument flight training which requires a minimum of 35 hours of flight training with a certificated flight instructor. P/NP basis only. Prerequisites: Instrument Pilot Ground (AVI-211) (or concurrent registration), current private pilot certificate, current medical certificate, and airport security clearance. (0.5 course credit)
-
-  **AVI 231 Instrument Pilot Flight Lab 2**
+ **AVI 231 Instrument Pilot Flight Lab 2**
 AVI-231 Instrument Pilot Flight Lab 2 
 Continues students’ Part 141 instrument rating training which, combined with AVI-221: Instrument Pilot Flight Lab 1, provides a minimum of 35 hours of flight training with an FAA certificated flight instructor. This course continues students’ preparation for the Federal Aviation Administration instrument rating practical exam. P/NP basis only. Prerequisites: Instrument Pilot Ground (AVI-211), Instrument Pilot Flight Lab 1 (AVI-221), current private pilot certificate, current medical certificate, and airport security clearance. (0.25 course credit)
-
-  **AVI 240 Career Explor:  Flight Operations**
+ **AVI 240 Career Explor:  Flight Operations**
 Explores career opportunities in aviation. Students learn about the skills, experiences, and certifications
 needed to pursue different career paths. May involve networking or job shadowing. P/NP basis only.
 Prerequisite: Introduction to Aviation Management (AVS-101) (.25 course credits)
-
-  **AVI 311 Commercial Pilot Ground**
+ **AVI 311 Commercial Pilot Ground**
 AVI-311 Commercial Pilot Ground
 Prepares students for the Federal Aviation Administration knowledge exam for a commercial pilot certificate. The course provides a minimum of 35 hours of ground instruction, consistent with Part 141 requirements. Topics include commercial pilot Federal Aviation Regulations, advanced meteorology, advanced airplane systems, advanced radio navigation, advanced weather, aeronautical decision making, and other advanced aeronautical topics needed for commercial privileges. Prerequisites: Current private pilot certificate with instrument rating, current medical certificate, and airport security clearance.
-
-  **AVI 321 Commercial Pilot Lab 1**
+ **AVI 321 Commercial Pilot Lab 1**
 AVI-321 Commercial Pilot Lab 1 
 Provides, along with AVI-331: Commercial Pilot Lab 2, the knowledge and skill necessary to prepare for the Federal Aviation Administration commercial certificate practical exam. This lab begins students’ Part 141 commercial flight training which requires a minimum of 120 hours of flight training, with at least 55 hours of dual instruction, with a certificated flight instructor. P/NP basis only. Prerequisites: Commercial Pilot Ground (AVI-311) (or concurrent registration), current private pilot certificate with instrument rating, current medical certificate, and airport security clearance. (0.5 course credit)
-
-  **AVI 331 Commercial Pilot Lab 2**
+ **AVI 331 Commercial Pilot Lab 2**
 AVI-331 Commercial Pilot Lab 2 
 Continues students’ Part 141 commercial pilot training which, combined with AVI-321: Commercial Pilot Lab 1, provides a minimum of 120 hours of flight training flight training, with at least 55 hours of dual instruction, with a certificated flight instructor. This course continues students’ preparation for the Federal Aviation Administration commercial certificate practical exam. P/NP basis only. Prerequisites: Commercial Pilot Ground (AVI-311), Commercial Pilot Lab 1 (AVI-321), current private pilot certificate with instrument rating, current medical certificate, and airport security clearance. (0.5 course credit)
-
-  **AVI 341 Commercial Multi-Engine Lab**
+ **AVI 341 Commercial Multi-Engine Lab**
 AVI-341 Commercial Multi-Engine Lab 
 Provides students with the training needed to prepare for the Federal Aviation Administration multi-engine commercial rating practical exam. This lab includes instruction in multi-engine operation, emergency procedures, airplane systems, and other topics needed to prepare for the multi-engine rating. Flight instruction with an FAA certificated flight instructor helps students gain the level of proficiency required to pass the practical test. P/NP basis only. Prerequisites: Current commercial certificate, current medical certificate, and airport security clearance. (0.5 course credit)
-
-  **AVI 394 Directed Learning: Flight Lab**
+ **AVI 394 Directed Learning: Flight Lab**
 AVI-394 Directed Studies: Flight Lab 
 Provides an opportunity for aviation flight operations students to complete fight hours that are not associated with other more specific flight lab courses. Students work independently with a Coe instructor. Registration only after the student and instructor have agreed on the flight-related goals of taking the course. May be taken more than once for credit with consent of Aviation Management & Flight Operations administrative coordinator. P/NP basis only. Prerequisite: consent of administrative coordinator of aviation management & flight operations. (0.0-1.0 course credits)
-
-  **AVI 411 Flight Instructor Ground**
+ **AVI 411 Flight Instructor Ground**
 AVI-411 Flight Instructor Ground
 Prepares students for the Federal Aviation Administration knowledge exam for a flight instructor certificate. This course includes instruction on teaching strategies, learning styles, evaluation techniques, and flight instructor responsibilities as well as relevant aeronautical knowledge.  Prerequisites: Current commercial pilot certificate, current medical certificate, and airport security clearance.
-
-  **AVI 421 Flight Instructor Lab**
+ **AVI 421 Flight Instructor Lab**
 AVI-421 Flight Instructor Lab 
 Provides the knowledge and skill necessary to prepare for the Federal Aviation Administration flight instructor certificate practical exam. This lab includes flight instruction in teaching techniques, evaluation techniques, and other relevant areas. P/NP basis only. Prerequisites: Current medical certificate, airport security clearance, Flight Instructor Ground (AVI-411) (or concurrent registration), and consent of instructor. (0.5 course credit)
-
-  **AVI 431 Flight Instructor Instrument**
+ **AVI 431 Flight Instructor Instrument**
 AVI-431 Flight Instructor Instrument
 Designed to prepare students for the Federal Aviation Administration (FAA) instrument instructor rating knowledge and practical exams. Students acquire the knowledge and skills needed to teach others how to fly in instrument meteorological conditions. P/NP basis only. Prerequisites: Current flight instructor certificate, current medical certificate, and airport security clearance. (0.5 course credit)
-
-  **AVI 441 Multiengine Instructor**
+ **AVI 441 Multiengine Instructor**
 Designed to prepare students for the Federal Aviation Administration (FAA) multi-engine instructor rating practical exam. Students acquire the knowledge and skills needed to teach others how to fly multi-engine airplanes. P/NP basis only. Prerequisites: Current flight instructor certificate, current medical certificate, and airport security clearance. (0.5 course credit)
-
-  **AVI 494 Internship in Flight Operations**
+ **AVI 494 Internship in Flight Operations**
 AVI-494 Internship in Flight Operations
 Investigates a career area related to flight operations. Supervised by a faculty member of the department. A minimum of 140 hours of on-site experience is required. P/NP basis only. Prerequisites: junior standing and consent of the supervising instructor.
 
