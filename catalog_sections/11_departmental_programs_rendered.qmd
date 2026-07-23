@@ -585,17 +585,17 @@ Concentrations are offered in environmental and ecological science, molecular bi
 2.	MTH 135 Calculus I  
 3.	**Three** of the following (with two being at the 300 level or higher):  
 - BIO 104 Biodiversity  
-- +++MISSING INFO: c.bio111_111l.long +++  
+- BIO 111/111L Urban Ecology  
 - BIO 115 Marine Biology  
 - BIO 203 Northwoods Ecology  
 - BIO 205/205L General Botany and Laboratory (WE)  
-- +++MISSING INFO: c.bio275_275l.long +++  
+- BIO 275/275L Aquatic Ecology and Laboratory  
 - BIO 285/285L Animal Behavior and Laboratory  
 - BIO 295/295L Spatial Ecology and Laboratory (WE)  
-- +++MISSING INFO: c.bio303_303l.long +++  
+- BIO 303/303L Advanced Topics in Ornithology and Laboratory  
 - +++MISSING INFO: c.bio335_335l.long +++  
 - BIO 355/355L Animal Physiology and Laboratory  
-- +++MISSING INFO: c.bio365_365l.long +++  
+- BIO 365/365L Comparative Chordate Anatomy and Laboratory  
 - BIO 385/385L Behavior and Ecology of Vertebrates  
 - BIO 425/425L Ecology and Laboratory (WE)  
 - BIO 455/455L Molecular Neurobiology and Laboratory  
@@ -610,7 +610,7 @@ Concentrations are offered in environmental and ecological science, molecular bi
 - BIO 415/415L Developmental Biology and Laboratory  
 - BIO 435/435L Cell Physiology and Laboratory  
 - BIO 455/455L Molecular Neurobiology and Laboratory  
-- +++MISSING INFO: c.bio465_465l.long +++  
+- BIO 465/465L Integrated Human Anatomy and Laboratory  
 - BIO 454 Research Participation  
 - CHM 321 Organic Chemistry II*  
 - CHM 431/431L Biochemistry and Laboratory*  
@@ -618,14 +618,14 @@ Concentrations are offered in environmental and ecological science, molecular bi
 
 **Pre-Health Sciences Concentration** *  
 1.	BIO 375/375L Integrated Human Physiology and Laboratory  
-2.	+++MISSING INFO: c.bio315_315l.long +++  
+2.	BIO 315/315L Conservation and Ecology of Mammals and Laboratory  
 3.	HSS 300 Learn Strategies  Health Profess  
 4.	**Three** of the following:   
 - BIO 325/325L Microbiology (WE) and Laboratory  
 - BIO 415/415L Developmental Biology and Laboratory  
 - BIO 435/435L Cell Physiology and Laboratory  
 - BIO 455/455L Molecular Neurobiology and Laboratory  
-- +++MISSING INFO: c.bio465_465l.long +++  
+- BIO 465/465L Integrated Human Anatomy and Laboratory  
 - CHM 221 Organic Chemistry I*  
 - CHM 321 Organic Chemistry II*  
 - CHM 431/431L Biochemistry and Laboratory*  
