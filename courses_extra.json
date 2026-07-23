@@ -587,10 +587,24 @@
 	    "desc": "Introduces students to Tupac Shakur. This course will examine one of the most influential personalities in Hip Hop music and Cultural History. Students will engage in his legacy (Son of a Black Panther) and the culture of Hip Hop, analyze poetic lyrics, and explore his life and death.",
 	    "namelink": "", 
 	    "namelinklong": ""
-	}
-	
+	}, 
+	"avs201_201l": {
+	    "short": "'AVS 201/201L'",
+	    "long": "'AVS 201/201L Principles of Meteorology and Laboratory'",
+	    "desc": "Examines the basic principles of meteorology and how these are applied to decision-making in aviation. Students gain an understanding of topics such as cloud formation, temperature, wind, precipitation, weather systems, hazardous weather, and others that are critical to flight planning and safe flight operations. This course includes three class meetings and one laboratory per week. Prerequisite: Introduction to Aviation (AVS-101).",
+	    "namelink": "", 
+	    "namelinklong": ""
+	}, 
+	"avs494": {
+	    "short": "'AVS 494'",
+	    "long": "'AVS 494 Internship in Aviation Studies'",
+	    "desc": "Investigates a career area related to aviation studies. Supervised by a faculty member of the department. A minimum of 140 hours of on-site experience is required. P/NP basis only. This course does not satisfy any of the requirements for a concentration in aviation studies or a concentration in flight operations. Prerequisites: junior standing and consent of supervising instructor. ",
+	    "namelink": "", 
+	    "namelinklong": ""
+	},    
 	    
-	    
-	
+
+
+		
     }
 }
