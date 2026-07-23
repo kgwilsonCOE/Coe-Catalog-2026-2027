@@ -8,18 +8,18 @@ In addition to a major or minor in biology, the department also offers a collate
 
 A major in biology requires a minimum cumulative 2.0 GPA over courses counted toward the major.
 
-1. {{< var c.bio145_145l.long >}}
-2. {{< var c.bio155_155l.long >}}
-3. {{< var c.bio202.long >}}
-4. {{< var c.bio235_235l.long >}}
-5. **Four** biology electives with the associated laboratories
-6. {{< var c.chm121_121l.long >}}
-7. {{< var c.chm122_122l.long >}}
-8. **One** of the following:
-    - {{< var c.mth135.long >}} (strongly recommended for students considering attending graduate school)
-    - {{< var c.sta100.long >}} **and** {{< var c.sta110.long >}}
-    - {{< var c.sta100.long >}} **and** {{< var c.sta130.long >}}
-9. Attendance at research seminars in junior and senior years
+1. {{< var c.bio145_145l.long >}}  
+2. {{< var c.bio155_155l.long >}}  
+3. {{< var c.bio202.long >}}  
+4. {{< var c.bio235_235l.long >}}  
+5. **Four** biology electives with the associated laboratories  
+6. {{< var c.chm121_121l.long >}}  
+7. {{< var c.chm122_122l.long >}}  
+8. **One** of the following:  
+    - {{< var c.mth135.long >}} (strongly recommended for students considering attending graduate school)  
+    - {{< var c.sta100.long >}} **and** {{< var c.sta110.long >}}  
+    - {{< var c.sta100.long >}} **and** {{< var c.sta130.long >}}  
+9. Attendance at research seminars in junior and senior years  
 
 *Strongly recommended:*
 
@@ -38,57 +38,57 @@ Concentrations are offered in environmental and ecological science, molecular bi
 1.	Completion of a major in Biology 
 2.	Completion of, at most, six additional courses in which a cumulative 2.0 GPA must be earned.  At least three of the additional courses must be completed at Coe.
 
-**Environmental and Ecological Science Concentration**
-1.	{{< var c.chm211_211l.long >}}
-2.	{{< var c.mth135.long >}}
-3.	**Three** of the following (with two being at the 300 level or higher):
-- {{< var c.bio104.long >}}
-- {{< var c.bio111_111l.long >}}
-- {{< var c.bio115.long >}}
-- {{< var c.bio203.long >}}
-- {{< var c.bio205_205l.long >}}
-- {{< var c.bio275_275l.long >}}
-- {{< var c.bio285_285l.long >}}
-- {{< var c.bio295_295l.long >}}
-- {{< var c.bio303_303l.long >}}
-- {{< var c.bio335_335l.long >}}
-- {{< var c.bio355_355l.long >}}
-- {{< var c.bio365_365l.long >}}
-- {{< var c.bio385_385l.long >}}
-- {{< var c.bio425_425l.long >}}
-- {{< var c.bio455_455l.long >}}
-- {{< var c.bio454.long >}}
+**Environmental and Ecological Science Concentration**  
+1.	{{< var c.chm211_211l.long >}}  
+2.	{{< var c.mth135.long >}}  
+3.	**Three** of the following (with two being at the 300 level or higher):  
+- {{< var c.bio104.long >}}  
+- {{< var c.bio111_111l.long >}}  
+- {{< var c.bio115.long >}}  
+- {{< var c.bio203.long >}}  
+- {{< var c.bio205_205l.long >}}  
+- {{< var c.bio275_275l.long >}}  
+- {{< var c.bio285_285l.long >}}  
+- {{< var c.bio295_295l.long >}}  
+- {{< var c.bio303_303l.long >}}  
+- {{< var c.bio335_335l.long >}}  
+- {{< var c.bio355_355l.long >}}  
+- {{< var c.bio365_365l.long >}}  
+- {{< var c.bio385_385l.long >}}  
+- {{< var c.bio425_425l.long >}}  
+- {{< var c.bio455_455l.long >}}  
+- {{< var c.bio454.long >}}  
 
-**Molecular Biology Concentration** *
-1.	{{< var c.bio345_345l.long >}}
-2.	{{< var c.chm221.long >}}
-3.	**Three** of the following: 
-- {{< var c.bio325_325l.long >}}
-- {{< var c.bio405.long >}}
-- {{< var c.bio415_415l.long >}}
-- {{< var c.bio435_435l.long >}}
-- {{< var c.bio455_455l.long >}}
-- {{< var c.bio465_465l.long >}}
-- {{< var c.bio454.long >}}
-- {{< var c.chm321.long >}}*
-- {{< var c.chm431_431l.long >}}*
-- {{< var c.chm432_432l.long >}}*
+**Molecular Biology Concentration** *  
+1.	{{< var c.bio345_345l.long >}}  
+2.	{{< var c.chm221.long >}}  
+3.	**Three** of the following:   
+- {{< var c.bio325_325l.long >}}  
+- {{< var c.bio405.long >}}  
+- {{< var c.bio415_415l.long >}}  
+- {{< var c.bio435_435l.long >}}  
+- {{< var c.bio455_455l.long >}}  
+- {{< var c.bio465_465l.long >}}  
+- {{< var c.bio454.long >}}  
+- {{< var c.chm321.long >}}*  
+- {{< var c.chm431_431l.long >}}*  
+- {{< var c.chm432_432l.long >}}*  
 
-**Pre-Health Sciences Concentration** *
-1.	{{< var c.bio375_375l.long >}}
-2.	{{< var c.bio315_315l.long >}}
-3.	{{< var c.hss300.long >}}
-4.	**Three** of the following: 
-- {{< var c.bio325_325l.long >}}
-- {{< var c.bio415_415l.long >}}
-- {{< var c.bio435_435l.long >}}
-- {{< var c.bio455_455l.long >}}
-- {{< var c.bio465_465l.long >}}
-- {{< var c.chm221.long >}}*
-- {{< var c.chm321.long >}}*
-- {{< var c.chm431_431l.long >}}*
-- {{< var c.chm432_432l.long >}}*
-- {{< var c.hss494.long >}}*
+**Pre-Health Sciences Concentration** *  
+1.	{{< var c.bio375_375l.long >}}  
+2.	{{< var c.bio315_315l.long >}}  
+3.	{{< var c.hss300.long >}}  
+4.	**Three** of the following:   
+- {{< var c.bio325_325l.long >}}  
+- {{< var c.bio415_415l.long >}}  
+- {{< var c.bio435_435l.long >}}  
+- {{< var c.bio455_455l.long >}}  
+- {{< var c.bio465_465l.long >}}  
+- {{< var c.chm221.long >}}*  
+- {{< var c.chm321.long >}}*  
+- {{< var c.chm431_431l.long >}}*  
+- {{< var c.chm432_432l.long >}}*  
+- {{< var c.hss494.long >}}*  
 
 * *Students interested in either the Molecular Biology or the Pre-Health Sciences Concentration are strongly encouraged to meet with a member of the Biology Department faculty for informal advising as soon as they have chosen this concentration. Additional coursework may be needed for those students pursuing admission to a graduate program in Molecular Biology or professional program in the Health Sciences. Check the required courses for admission for each school to which you are interested in applying.*
 
@@ -101,13 +101,13 @@ Laboratory and field experiences are essential to scientific understanding. They
 
 A minor in biology requires a minimum cumulative GPA of 2.0 over courses counted toward the minor.
 
-1.	{{< var c.bio145_145l.long >}}
-2.	{{< var c.bio155_155l.long >}}
-3.	**One** of the following series:
-- **Two** additional biology electives with the associated laboratories (one must be at least a 200-level)
-- **One** additional biology elective with the associated lab **and** {{< var c.bio202.long >}}
-4.	{{< var c.chm121_121l.long >}}
-5.	{{< var c.chm122_122l.long >}}
+1.	{{< var c.bio145_145l.long >}}  
+2.	{{< var c.bio155_155l.long >}}  
+3.	**One** of the following series:  
+- **Two** additional biology electives with the associated laboratories (one must be at least a 200-level)  
+- **One** additional biology elective with the associated lab **and** {{< var c.bio202.long >}}  
+4.	{{< var c.chm121_121l.long >}}  
+5.	{{< var c.chm122_122l.long >}}  
 
 ### Courses in Biology
 
