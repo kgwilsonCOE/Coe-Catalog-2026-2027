@@ -653,6 +653,7 @@ A minor in biology requires a minimum cumulative GPA of 2.0 over courses counted
 
 ### Courses in Biology
 
+ **BIO 100 Human Biology**  
 Studies Homo sapiens applying the same tools biologists use to study other organisms. Topics may include an overview of human evolution, reproduction, genetics, population genetics, adaptations of selected organs and organ systems, humans’ relationship to and impact on their environment, and other contemporary issues in human biology. This course does not satisfy any of the requirements for a major in biology.  
  **BIO 100L Human Biology Lab**  
 Three hours per week. Corequisite registration in BIO-100. This course does not satisfy any of the requirements for a major in biology. Nursing majors are not required to take BIO-100L. (0.2 course credit)  
@@ -660,6 +661,8 @@ Three hours per week. Corequisite registration in BIO-100. This course does not 
 Introduces the student to the structure, function, and organization of the human body. Designed for non-majors as well as students with health-related career interests. Corequisite registration in BIO-103L. This course does not satisfy any of the requirements for a major in biology or nursing.  
  **BIO 103L Anatomy and Physiology Lab**  
 Three hours per week. Corequisite registration in BIO-103. This course does not satisfy any of the requirements for a major in biology or nursing. (0.2 course credit)  
+ **BIO 104 Biodiversity**  
+Introduces students to the current state of terrestrial and aquatic biodiversity, the origin and extinction of species, the value of biodiversity, human effects on biodiversity, biodiversity hotspots, and policies and approaches to conserve biodiversity for the future.  
  **BIO105 Introductory Biology**  
 nan  
  **BIO 111 Urban Ecology**  
@@ -694,6 +697,8 @@ Studies elementary level principles of microbiology. Special attention is given 
 Three hours per week. Corequisite registration in BIO-195. (0.2 course credit)  
  **BIO 202 Topics in Evolution**  
 Investigates selective and non-selective evolutionary mechanisms operating on populations, especially as they affect adaptation, speciation, and extinction. Selected aspects of the fossil record and current theories of hominid evolution may also be part of the course. Instruction in presentation of scientific papers is also provided. Counts as a non-lab science course. Prerequisites: Cellular and Molecular Biology (BIO-145).  
+ **BIO 203 Northwoods Ecology**  
+Examines relationships between organisms and their biotic and abiotic environment with a focus on the near-boreal communities surrounding the field station. Field work augmented by readings, lectures, and discussion covers ecology at the population, community and ecosystem levels. Applications to human ecology in the Boundary Waters Canoe Area Wilderness is integrated into the course as appropriate. Prerequisite: 1 college class that includes ecological topics. (Offered on occasional basis)  
  **BIO 205 General Botany**  
 Explores the biology of plants at the cellular, tissue and whole plant levels. The influence of environment on metabolism, growth, development and reproduction are themes. Three lectures per week. Prerequisites: Cellular and Molecular Biology and Laboratory (BIO-145/-145L), and Organismal and Ecological Biology (BIO-155)  
  **BIO 205L General Botany Laboratory**  
@@ -720,6 +725,14 @@ Field work at the Wilderness Field Station. Three hours per week. Corequisite re
 Investigates spatial patterns of organisms in natural, agricultural, and urban landscapes. Emphasis is on how the arrangements of organisms both reflect and feedback on underlying resources and geography. Students learn how to capture spatial characteristics of individuals, populations, species, communities, and landscapes sampled in the field, integrate them with satellite imagery, and analyze them statistically. Use of global positioning system hardware to provide spatial reference for field ecology surveys and use of ArcView as a data management, display, and analysis tool are important features of the course. Three lectures per week. Prerequisites: Organismal and Ecological Biology and Laboratory (BIO-155/-155L).  
  **BIO 295L Spatial Ecology Laboratory**  
 Four hours per week. Corequisite registration with Spatial Ecology (BIO-295). (0.3 course credit)  
+ **BIO 303 Adv Topics in Ornithology**  
+BIO 303 Advanced Topics in Ornithology
+An in-depth investigation of the behavior, ecology, evolution and biology of birds, emphasizing identification
+of local species and such species’ adaptations to their biotic and abiotic environments. Binoculars
+furnished. Prerequisites: One college biology course. Credit is given for Ecology and Biology of Birds (BIO-165) or Advanced Topics in Ornithology (BIO-303), not both. Offered Spring Term on campus and Summer at the Wilderness Field Station.  
+ **BIO 303L Adv Topics in Ornithology Lab**  
+BIO 303L Advanced Topics in Ornithology Lab
+Four hours per week. Corequisite with Advanced Topics in Ornithology (BIO-303). (0.3 course credit)  
  **BIO 315 Integrated Human Anatomy**  
 Integrates macroscopic human anatomy at the organ and organ system levels with microscopic study of histology and development from a clinical perspective. Three lectures per week. Prerequisites: Organismal and Ecological Biology and Laboratory (BIO-155/155L). Credit is given for Integrated Human Anatomy (BIO-315) or Human Anatomy (BIO-215), not both.  
  **BIO 315L Integrated Human Anatomy Lab**  
@@ -786,13 +799,6 @@ An integrated series of lectures designed to familiarize students with cellular,
 Three hours per week. Corequisite registration with Immunology (BIO-465). (0.2 course credit)  
  **BIO 494 Internship in Biology**  
 Investigates an area of interest through voluntary field placement supervised by a faculty member of the department. A minimum of 140 hours on-site experience is required. P/NP basis only. This course does not satisfy any of the requirements for a major in biology. Prerequisites: declared major in biology, junior standing, and consent of department chair.  
-
- **OCC 365 Oak Ridge Science Semester**  
-See @sec-ACM-and-international-programs
-
- **HSS 494 Health Professions Externship**  
-Offers an intense exploration in the fields of human or animal healthcare, allied health, or auxiliary fields within the healthcare system. Students are placed at local sites and/or in nearby communities with one or more professionals in fields related to the student’s interests. A minimum of 140 hours on-site experience is required. P/NP basis only. Prerequisites: junior or senior standing, submission of application in Fall term, and consent of instructor. (Offered May Experiential Term only)
-
 
 
 ## Business Administration and Economics   {#sec-business-administration-and-economics}
