@@ -601,6 +601,55 @@
 	    "desc": "Investigates a career area related to aviation studies. Supervised by a faculty member of the department. A minimum of 140 hours of on-site experience is required. P/NP basis only. This course does not satisfy any of the requirements for a concentration in aviation studies or a concentration in flight operations. Prerequisites: junior standing and consent of supervising instructor. ",
 	    "namelink": "", 
 	    "namelinklong": ""
+	}, 
+	"bio111_111l": {
+	    "short": "'BIO 111/111L'",
+	    "long": "'BIO 111/111L Urban Ecology'",
+	    "desc": "Introduces the ecology of urban systems, investigating how humans and their built environments interact with and form ecosystems. Two main points of view will be represented: the city as an ecological system, and the responses and adaptations of organisms to this ecosystem. Students will also investigate how humans respond to and interact with this biotic and abiotic environment. Three hours per week (Occasional course, offered alternate years.) ",
+	    "namelink": "", 
+	    "namelinklong": ""		
+	}, 
+	"bio275_275l": {
+	    "short": "'BIO 275/275L'",
+	    "long": "'BIO 275/275L Aquatic Ecology and Laboratory'",
+	    "desc": "Study of the biota of lakes and streams in northern Minnesota and adjacent Ontario, and their abiotic environment. Extensive field sampling enables students to study predation, diel vertical migration, stream drift, induced morphological defenses, and food-web interactions. Regional and North American lake and stream biodiversity and the effects of introduced species and human intervention on aquatic ecosystems are reviewed. Prerequisites: Cellular and Molecular Biology and Laboratory (WE) (BIO-145/-145L), or Organismal and Ecological Biology Laboratory (WE) (BIO-155/-155L). (Offered summers at the Wilderness Field Station)",
+	    "namelink": "", 
+	    "namelinklong": ""
+	}, 
+	"bio303_303l": {
+	    "short": "'BIO 303/303L'",
+	    "long": "'BIO 303/303L Advanced Topics in Ornithology and Laboratory'",
+	    "desc": "An in-depth investigation of the behavior, ecology, evolution and biology of birds, emphasizing identification of local species and such species’ adaptations to their biotic and abiotic environments. Binoculars furnished. Prerequisites: One college biology course. Credit is given for Introduction to Ornithology (BIO-165) or Advanced Topics in Ornithology (BIO-303), not both. Offered Spring Term on campus and Summer at the Wilderness Field Station. (Offered on an occasional basis)",
+	    "namelink": "", 
+	    "namelinklong": ""	
+	}, 
+	"bio335_335l": {
+	    "short": "'BIO 335/335L'",
+	    "long": "'BIO 335/335L Conservation and Ecology of Mammals and Laboratory'",
+	    "desc": "Studies mammals of Minnesota and the natural history, form/function relations, behavior, distributions, and interaction with their environment and other organisms. Investigation of how these variables impact conservation. Class activities include direct observations, reading tracks and “sign.” Live-trap mark and recapture studies supplemented by readings, lectures, and discussions. (Offered summers at the Wilderness Field Station) "
+		"namelink": "", 
+	    "namelinklong": ""	
+	}, 
+	"bio365_365l": {
+	    "short": "'BIO 365/365L'",
+	    "long": "'BIO 365/365L Comparative Chordate Anatomy and Laboratory'",
+	    "desc": "Surveys the chordates and the development and evolution of form in vertebrates, using primarily the shark, mudpuppy, and cat in laboratory. Two lectures, one discussion recitation per week. Prerequisite: Cellular and Molecular Biology (BIO-145), Organismal and Ecological Biology (BIO-155) and Topics in Evolution (BIO-202). "
+		"namelink": "", 
+	    "namelinklong": ""	
+	}, 
+	"bio465_465l": {
+	    "short": "'BIO 465/465L'",
+	    "long": "'BIO 465/465L Integrated Human Anatomy and Laboratory'",
+	    "desc": "An integrated series of lectures designed to familiarize students with cellular, molecular and biochemical aspects of the development of the immune system and the immune response, including B- and T-cell function, antibody structure and function, complement, and major histocompatibility complex formation, with special emphasis on the integration of these parts during the response to infectious agents. Special topics include immunomodulation, vaccination, autoimmunity, and neuro-immune interactions. The laboratory component utilizes existing instrumentation in the biology department and cell culture to explore different aspects of the immune system. Three lectures and one three-hour laboratory period per week.  Prerequisites: General Chemistry II (CHM-122/-122L), Genetics (BIO-235), and Integrated Human Physiology (BIO-375) (or concurrent enrollment in BIO-375)."
+		"namelink": "", 
+	    "namelinklong": ""
+	}, 
+	"bio315_315l": {
+	    "short": "'BIO 315/315L'",
+	    "long": "'BIO 315/315L Conservation and Ecology of Mammals and Laboratory'",
+	    "desc": "Integrates macroscopic human anatomy at the organ and organ system levels with microscopic study of histology and development from a clinical perspective. Three lectures per week. Prerequisites: Organismal and Ecological Biology and Laboratory (WE) (BIO-155/155L).  Credit is given for Integrated Human Anatomy (BIO-315) or Human Anatomy (BIO-215), not both."
+		"namelink": "", 
+	    "namelinklong": ""	
     }
   }
 }
