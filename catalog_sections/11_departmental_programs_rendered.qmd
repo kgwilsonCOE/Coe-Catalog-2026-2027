@@ -550,18 +550,18 @@ In addition to a major or minor in biology, the department also offers a collate
 
 A major in biology requires a minimum cumulative 2.0 GPA over courses counted toward the major.
 
-1. BIO 145/145L Cellular and Molecular Biology and Laboratory (WE)
-2. BIO 155/155L Organismal and Ecological Biology and Laboratory (WE)
-3. BIO 202 Topics in Evolution
-4. BIO 235/235L Genetics and Laboratory
-5. **Four** biology electives with the associated laboratories
-6. CHM 121/121L General Chemistry I and Laboratory
-7. CHM 122/122L General Chemistry II and Laboratory
-8. **One** of the following:
-    - MTH 135 Calculus I (strongly recommended for students considering attending graduate school)
-    - STA 100 Statistical Reasoning I-Foundations **and** STA 110 Stats IIA: Inferential Reasoning
-    - STA 100 Statistical Reasoning I-Foundations **and** STA 130 Stats IIB: Experimental Design
-9. Attendance at research seminars in junior and senior years
+1. BIO 145/145L Cellular and Molecular Biology and Laboratory (WE)  
+2. BIO 155/155L Organismal and Ecological Biology and Laboratory (WE)  
+3. BIO 202 Topics in Evolution  
+4. BIO 235/235L Genetics and Laboratory  
+5. **Four** biology electives with the associated laboratories  
+6. CHM 121/121L General Chemistry I and Laboratory  
+7. CHM 122/122L General Chemistry II and Laboratory  
+8. **One** of the following:  
+    - MTH 135 Calculus I (strongly recommended for students considering attending graduate school)  
+    - STA 100 Statistical Reasoning I-Foundations **and** STA 110 Stats IIA: Inferential Reasoning  
+    - STA 100 Statistical Reasoning I-Foundations **and** STA 130 Stats IIB: Experimental Design  
+9. Attendance at research seminars in junior and senior years  
 
 *Strongly recommended:*
 
@@ -580,57 +580,57 @@ Concentrations are offered in environmental and ecological science, molecular bi
 1.	Completion of a major in Biology 
 2.	Completion of, at most, six additional courses in which a cumulative 2.0 GPA must be earned.  At least three of the additional courses must be completed at Coe.
 
-**Environmental and Ecological Science Concentration**
-1.	CHM 211/211L Analytical Chemistry and Laboratory (WE)
-2.	MTH 135 Calculus I
-3.	**Three** of the following (with two being at the 300 level or higher):
-- BIO 104 Biodiversity
-- +++MISSING INFO: c.bio111_111l.long +++
-- BIO 115 Marine Biology
-- BIO 203 Northwoods Ecology
-- BIO 205/205L General Botany and Laboratory (WE)
-- +++MISSING INFO: c.bio275_275l.long +++
-- BIO 285/285L Animal Behavior and Laboratory
-- BIO 295/295L Spatial Ecology and Laboratory (WE)
-- +++MISSING INFO: c.bio303_303l.long +++
-- +++MISSING INFO: c.bio335_335l.long +++
-- BIO 355/355L Animal Physiology and Laboratory
-- +++MISSING INFO: c.bio365_365l.long +++
-- BIO 385/385L Behavior and Ecology of Vertebrates
-- BIO 425/425L Ecology and Laboratory (WE)
-- BIO 455/455L Molecular Neurobiology and Laboratory
-- BIO 454 Research Participation
+**Environmental and Ecological Science Concentration**  
+1.	CHM 211/211L Analytical Chemistry and Laboratory (WE)  
+2.	MTH 135 Calculus I  
+3.	**Three** of the following (with two being at the 300 level or higher):  
+- BIO 104 Biodiversity  
+- +++MISSING INFO: c.bio111_111l.long +++  
+- BIO 115 Marine Biology  
+- BIO 203 Northwoods Ecology  
+- BIO 205/205L General Botany and Laboratory (WE)  
+- +++MISSING INFO: c.bio275_275l.long +++  
+- BIO 285/285L Animal Behavior and Laboratory  
+- BIO 295/295L Spatial Ecology and Laboratory (WE)  
+- +++MISSING INFO: c.bio303_303l.long +++  
+- +++MISSING INFO: c.bio335_335l.long +++  
+- BIO 355/355L Animal Physiology and Laboratory  
+- +++MISSING INFO: c.bio365_365l.long +++  
+- BIO 385/385L Behavior and Ecology of Vertebrates  
+- BIO 425/425L Ecology and Laboratory (WE)  
+- BIO 455/455L Molecular Neurobiology and Laboratory  
+- BIO 454 Research Participation  
 
-**Molecular Biology Concentration** *
-1.	BIO 345/345L Techniques in Molecular Biology and Laboratory
-2.	CHM 221 Organic Chemistry I
-3.	**Three** of the following: 
-- BIO 325/325L Microbiology (WE) and Laboratory
-- BIO 405 Current Topics in Molecular Biology
-- BIO 415/415L Developmental Biology and Laboratory
-- BIO 435/435L Cell Physiology and Laboratory
-- BIO 455/455L Molecular Neurobiology and Laboratory
-- +++MISSING INFO: c.bio465_465l.long +++
-- BIO 454 Research Participation
-- CHM 321 Organic Chemistry II*
-- CHM 431/431L Biochemistry and Laboratory*
-- CHM 432/432L Protein Biochemistry and Laboratory*
+**Molecular Biology Concentration** *  
+1.	BIO 345/345L Techniques in Molecular Biology and Laboratory  
+2.	CHM 221 Organic Chemistry I  
+3.	**Three** of the following:   
+- BIO 325/325L Microbiology (WE) and Laboratory  
+- BIO 405 Current Topics in Molecular Biology  
+- BIO 415/415L Developmental Biology and Laboratory  
+- BIO 435/435L Cell Physiology and Laboratory  
+- BIO 455/455L Molecular Neurobiology and Laboratory  
+- +++MISSING INFO: c.bio465_465l.long +++  
+- BIO 454 Research Participation  
+- CHM 321 Organic Chemistry II*  
+- CHM 431/431L Biochemistry and Laboratory*  
+- CHM 432/432L Protein Biochemistry and Laboratory*  
 
-**Pre-Health Sciences Concentration** *
-1.	BIO 375/375L Integrated Human Physiology and Laboratory
-2.	+++MISSING INFO: c.bio315_315l.long +++
-3.	HSS 300 Learn Strategies  Health Profess
-4.	**Three** of the following: 
-- BIO 325/325L Microbiology (WE) and Laboratory
-- BIO 415/415L Developmental Biology and Laboratory
-- BIO 435/435L Cell Physiology and Laboratory
-- BIO 455/455L Molecular Neurobiology and Laboratory
-- +++MISSING INFO: c.bio465_465l.long +++
-- CHM 221 Organic Chemistry I*
-- CHM 321 Organic Chemistry II*
-- CHM 431/431L Biochemistry and Laboratory*
-- CHM 432/432L Protein Biochemistry and Laboratory*
-- HSS 494 Health Professions Externship*
+**Pre-Health Sciences Concentration** *  
+1.	BIO 375/375L Integrated Human Physiology and Laboratory  
+2.	+++MISSING INFO: c.bio315_315l.long +++  
+3.	HSS 300 Learn Strategies  Health Profess  
+4.	**Three** of the following:   
+- BIO 325/325L Microbiology (WE) and Laboratory  
+- BIO 415/415L Developmental Biology and Laboratory  
+- BIO 435/435L Cell Physiology and Laboratory  
+- BIO 455/455L Molecular Neurobiology and Laboratory  
+- +++MISSING INFO: c.bio465_465l.long +++  
+- CHM 221 Organic Chemistry I*  
+- CHM 321 Organic Chemistry II*  
+- CHM 431/431L Biochemistry and Laboratory*  
+- CHM 432/432L Protein Biochemistry and Laboratory*  
+- HSS 494 Health Professions Externship*  
 
 * *Students interested in either the Molecular Biology or the Pre-Health Sciences Concentration are strongly encouraged to meet with a member of the Biology Department faculty for informal advising as soon as they have chosen this concentration. Additional coursework may be needed for those students pursuing admission to a graduate program in Molecular Biology or professional program in the Health Sciences. Check the required courses for admission for each school to which you are interested in applying.*
 
@@ -643,13 +643,13 @@ Laboratory and field experiences are essential to scientific understanding. They
 
 A minor in biology requires a minimum cumulative GPA of 2.0 over courses counted toward the minor.
 
-1.	BIO 145/145L Cellular and Molecular Biology and Laboratory (WE)
-2.	BIO 155/155L Organismal and Ecological Biology and Laboratory (WE)
-3.	**One** of the following series:
-- **Two** additional biology electives with the associated laboratories (one must be at least a 200-level)
-- **One** additional biology elective with the associated lab **and** BIO 202 Topics in Evolution
-4.	CHM 121/121L General Chemistry I and Laboratory
-5.	CHM 122/122L General Chemistry II and Laboratory
+1.	BIO 145/145L Cellular and Molecular Biology and Laboratory (WE)  
+2.	BIO 155/155L Organismal and Ecological Biology and Laboratory (WE)  
+3.	**One** of the following series:  
+- **Two** additional biology electives with the associated laboratories (one must be at least a 200-level)  
+- **One** additional biology elective with the associated lab **and** BIO 202 Topics in Evolution  
+4.	CHM 121/121L General Chemistry I and Laboratory  
+5.	CHM 122/122L General Chemistry II and Laboratory  
 
 ### Courses in Biology
 
