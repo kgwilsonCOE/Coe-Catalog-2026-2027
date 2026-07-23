@@ -111,6 +111,7 @@ A minor in biology requires a minimum cumulative GPA of 2.0 over courses counted
 
 ### Courses in Biology
 
+ **{{< var c.bio100.long >}}**  
 {{< var c.bio100.desc >}}  
  **{{< var c.bio100l.long >}}**  
 {{< var c.bio100l.desc >}}  
@@ -118,6 +119,8 @@ A minor in biology requires a minimum cumulative GPA of 2.0 over courses counted
 {{< var c.bio103.desc >}}  
  **{{< var c.bio103l.long >}}**  
 {{< var c.bio103l.desc >}}  
+ **{{< var c.bio104.long >}}**  
+{{< var c.bio104.desc >}}  
  **{{< var c.bio105.long >}}**  
 {{< var c.bio105.desc >}}  
  **{{< var c.bio111.long >}}**  
@@ -152,6 +155,8 @@ A minor in biology requires a minimum cumulative GPA of 2.0 over courses counted
 {{< var c.bio195l.desc >}}  
  **{{< var c.bio202.long >}}**  
 {{< var c.bio202.desc >}}  
+ **{{< var c.bio203.long >}}**  
+{{< var c.bio203.desc >}}  
  **{{< var c.bio205.long >}}**  
 {{< var c.bio205.desc >}}  
  **{{< var c.bio205l.long >}}**  
@@ -178,6 +183,10 @@ A minor in biology requires a minimum cumulative GPA of 2.0 over courses counted
 {{< var c.bio295.desc >}}  
  **{{< var c.bio295l.long >}}**  
 {{< var c.bio295l.desc >}}  
+ **{{< var c.bio303.long >}}**  
+{{< var c.bio303.desc >}}  
+ **{{< var c.bio303l.long >}}**  
+{{< var c.bio303l.desc >}}  
  **{{< var c.bio315.long >}}**  
 {{< var c.bio315.desc >}}  
  **{{< var c.bio315l.long >}}**  
@@ -244,10 +253,3 @@ A minor in biology requires a minimum cumulative GPA of 2.0 over courses counted
 {{< var c.bio465l.desc >}}  
  **{{< var c.bio494.long >}}**  
 {{< var c.bio494.desc >}}  
-
- **{{< var c.occ365.long >}}**  
-See @sec-ACM-and-international-programs
-
- **{{< var c.hss494.long >}}**  
-{{< var c.hss494.desc >}}
-
