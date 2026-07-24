@@ -650,6 +650,13 @@
 	    "desc": "Studies mammals of Minnesota and the natural history, form/function relations, behavior, distributions, and interaction with their environment and other organisms. Investigation of how these variables impact conservation. Class activities include direct observations, reading tracks and “sign.” Live-trap mark and recapture studies supplemented by readings, lectures, and discussions. (Offered summers at the Wilderness Field Station)",
 	    "namelink": "", 
 	    "namelinklong": ""	
+	}, 
+	"bio105": {
+	    "short": "'BIO 105'",
+	    "long": "'BIO 105 Introduction to Environmental Studies'",
+	    "desc": "Examines interactions between human population density and natural resources, biodiversity, and human health; emphasizing the ecological concepts that underlie selected environmental problems, but also drawing methods and viewpoints from the social sciences. The focus of the course is global and uses case studies reflecting diverse political, economic, and cultural perspectives. Sustainability is a central theme. Three hours per week. Counts as a non-lab science course.  (This course does not satisfy any of the requirements for a major in biology.)",
+	    "namelink": "", 
+	    "namelinklong": ""		
     }
   }
 }
