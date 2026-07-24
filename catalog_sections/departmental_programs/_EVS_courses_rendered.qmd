@@ -11,7 +11,7 @@ Students choosing a collateral major in environmental studies may not select the
 A major in environmental studies requires a minimum cumulative 2.0 GPA in all courses counted toward the major.
 Concurrent completion of any of the majors listed under [Areas of Study](catalog_sections/areas_of_study.qmd#Areas Of Study) of the Catalog is required.  
 
-1. BIO105 Introductory Biology
+1. BIO 105 Introduction to Environmental Studies
 2. BIO 155/155L Organismal and Ecological Biology and Laboratory (WE)
 3. ECO 175 Principles of Macroeconomics
 4. ECO 195 Prin of Environmental Economics

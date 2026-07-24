@@ -39,7 +39,7 @@ Biology majors:
 *Recommended:*  
 
 >Any course taught at the Wilderness Field Station  
-	BIO105 Introductory Biology  
+	BIO 105 Introduction to Environmental Studies  
 	MTH 145 Calculus II  
 	RHE 257 Environmental Rhetoric  
 	STA 100 Statistical Reasoning I-Foundations **and** STA 110 Stats IIA: Inferential Reasoning  

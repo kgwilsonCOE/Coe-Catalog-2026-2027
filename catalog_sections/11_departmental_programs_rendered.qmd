@@ -663,8 +663,8 @@ Introduces the student to the structure, function, and organization of the human
 Three hours per week. Corequisite registration in BIO-103. This course does not satisfy any of the requirements for a major in biology or nursing. (0.2 course credit)  
  **BIO 104 Biodiversity**  
 Introduces students to the current state of terrestrial and aquatic biodiversity, the origin and extinction of species, the value of biodiversity, human effects on biodiversity, biodiversity hotspots, and policies and approaches to conserve biodiversity for the future.  
- **BIO105 Introductory Biology**  
-nan  
+ **BIO 105 Introduction to Environmental Studies**  
+Examines interactions between human population density and natural resources, biodiversity, and human health; emphasizing the ecological concepts that underlie selected environmental problems, but also drawing methods and viewpoints from the social sciences. The focus of the course is global and uses case studies reflecting diverse political, economic, and cultural perspectives. Sustainability is a central theme. Three hours per week. Counts as a non-lab science course.  (This course does not satisfy any of the requirements for a major in biology.)  
  **BIO 111 Urban Ecology**  
 Introduces the ecology of urban systems, investigating how humans and their built environments interact with and form ecosystems. Two main points of view will be represented: the city as an ecological system, and the responses and adaptations of organisms to this ecosystem. We will also investigate how humans respond to and interact with this biotic and abiotic environment. Labs will visit relevant areas of Cedar Rapids. One three hour workshop and one four-hour lab per week. (Offered alternate years.)  
  **BIO 111L Urban Ecology Lab**  
@@ -2308,7 +2308,7 @@ Biology majors:
 *Recommended:*  
 
 >Any course taught at the Wilderness Field Station  
-	BIO105 Introductory Biology  
+	BIO 105 Introduction to Environmental Studies  
 	MTH 145 Calculus II  
 	RHE 257 Environmental Rhetoric  
 	STA 100 Statistical Reasoning I-Foundations **and** STA 110 Stats IIA: Inferential Reasoning  
@@ -2335,7 +2335,7 @@ Students choosing a collateral major in environmental studies may not select the
 A major in environmental studies requires a minimum cumulative 2.0 GPA in all courses counted toward the major.
 Concurrent completion of any of the majors listed under [Areas of Study](catalog_sections/areas_of_study.qmd#Areas Of Study) of the Catalog is required.  
 
-1. BIO105 Introductory Biology
+1. BIO 105 Introduction to Environmental Studies
 2. BIO 155/155L Organismal and Ecological Biology and Laboratory (WE)
 3. ECO 175 Principles of Macroeconomics
 4. ECO 195 Prin of Environmental Economics
