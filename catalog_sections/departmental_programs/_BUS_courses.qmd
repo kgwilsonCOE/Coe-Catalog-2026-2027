@@ -1,11 +1,10 @@
-## Business Administration and Economics   {#sec-business-administration-and-economics}
-Baranowski, Carstens, Chen, J. Christensen, Crain, Eichhorn (Co-Chair), Hall, Hayes, D., Knudson, Kuennen, Melcher, Nguyen (Co-Chair), Perry, Trout, Westberg.
+## Business Administration and Economics
+Baranowski, Calman, Carstens (Administrative Coordinator, Aviation Studies & Flight Operations), Chen, J. Christensen, Eichhorn (Co-Chair), Hayes, Kuennen (Co-Chair), Lensing, Lutz, Melcher, Nguyen, Perry, Westberg
 
-The Stead Department of Business Administration and Economics offers majors in **ACCOUNTING**, **BUSINESS ADMINISTRATION**, **ECONOMICS**, **INTERNATIONAL BUSINESS**, and **INTERNATIONAL ECONOMICS**, and minors in economics and international economics. Students pursuing one or more of these are strongly encouraged to consult with departmental faculty to develop specific plans of study. 
+The Stead Department of Business Administration and Economics offers majors in **ACCOUNTING, BUSINESS ADMINISTRATION, ECONOMICS, and INTERNATIONAL ECONOMICS,** and minors in economics and international economics. Students pursuing one or more of these are strongly encouraged to consult with departmental faculty to develop specific plans of study. 
 
-### BUSINESS ADMINISTRATION  
-The study of business administration is designed to develop in its students a high degree of competence in the application of business theories and sound judgment to the solution of business operating problems. Graduates are able to contribute effectively to the activities of their organizations by applying business skills required to plan, analyze, and control company activities. Beyond enhancing the value of a firm, the graduate should have a firm knowledge from which to achieve professional growth in the workplace and/or graduate school. Students majoring in business administration have two options: the business administration major and the international business major (see @sec-international-business). The business major is designed to prepare students in the core areas of business administration, with specific focus on management, finance, and marketing. Students are also provided the opportunity to specialize in a particular area through selection of elective courses. The international business major is designed to prepare students for specific challenges related to operating an organization in an international context.   
-Because of significant overlap in the business administration and the international business requirements, only one of the two majors may be elected by a student.  See @sec-international-business for the International Business major requirements.
+### Business Administration
+The study of business administration is designed to develop in its students a high degree of competence in the application of business theories and sound judgment to the solution of business operating problems. Graduates are able to contribute effectively to the activities of their organizations by applying business skills required to plan, analyze, and control company activities. Beyond enhancing the value of a firm, the graduate should have a firm knowledge from which to achieve professional growth in the workplace and/or graduate school. The business major is designed to prepare students in the core areas of business administration, with specific focus on management, finance, and marketing. Students are also provided the opportunity to specialize in a particular area through selection of elective courses. 
 
 ### Business Administration Major  
 
@@ -17,66 +16,167 @@ A major in business administration requires a minimum cumulative 2.0 GPA in all 
 4. {{< var c.acc215.long >}}
 5. {{< var c.eco215.long >}}
 6. {{< var c.bus315.long >}}
-7. One of the following Management courses:    
+7. **One** of the following Management courses:    
    {{< var c.bus250.long >}}  
    {{< var c.bus300.long >}}  
    {{< var c.bus387.long >}}  
    {{< var c.bus470.long >}}    
-8. One of the following Marketing courses:   
+8. **One** of the following Marketing courses:   
    {{< var c.bus330.long >}}  
    {{< var c.bus460.long >}}  
    {{< var c.bus465.long >}}  
    {{< var c.bus467.long >}}  
-9. One of the following Finance courses
+9. **One** of the following Finance courses
    {{< var c.eco225.long >}}  
    {{< var c.bus350.long >}}  
    {{< var c.bus352.long >}}  
-   {{< var c.bus495.long >}}  
-   {{< var c.eco495.long >}}  
-10. Two additional business courses numbered 200 or above
+   {{< var c.bus495.long >}}   
+10. **Two** additional business courses numbered 200 or above
 
-Students planning to attend graduate school in business are strongly encouraged to take calculus, additional statistics courses, intermediate level macro/microeconomics, quantitative management courses, and strategic management. Students should also discuss their graduate school plans with a member of the department to determine other courses that may be expected for admission to specific graduate programs
+Students planning to attend graduate school in business are strongly encouraged to take calculus, additional statistics courses, intermediate level macro/microeconomics, quantitative management courses, and strategic management. Students should also discuss their graduate school plans with a member of the department to determine other courses that may be expected for admission to specific graduate programs. 
 
 ### Concentrations in Business
 
-Students completing a major in Business Administration may elect to also complete a concentration of courses within a specific discipline in the major. Courses taken to fulfill requirements in the business major may be used to also fulfill requirements in an area of concentration. Students may declare only one concentration. 
+Students completing a major in Business Administration may elect to also complete a concentration of courses within a specific discipline in the major. Courses taken to fulfill requirements in the business major may be used to also fulfill requirements in an area of concentration. Students may declare only one concentration.  
 
-Concentrations are offered in management, marketing, and sports management. To complete a concentration, a student must meet the following requirements:
+Concentrations are offered in aviation studies; flight operations; finance; international business; management; marketing; risk management/insurance; healthcare administration; supply chain management; and sports management. To complete a concentration, a student must meet the following requirements:
 1.	Completion of a major in Business Administration
-2.	Completion of five additional courses in which a cumulative 2.0 GPA must be earned.  At least three of the five courses must be completed at Coe.
+2.	Completion of **five** additional courses in which a cumulative 2.0 GPA must be earned.  At least three of the five courses must be completed at Coe.
 
-### Management Concentration in Business 
+#### Aviation Studies Concentration in Business  
+**(This concentration is intended for Coe students who do not plan to complete the flight operations courses.)**
+
+1.	{{< var c.avs101.long >}}
+2.	{{< var c.avs201_201L.long >}}
+3.	{{< var c.avs301.long >}}
+4.	{{< var c.avs302.long >}}
+5. {{< var c.avs401.long >}}
+
+#### Flight Operations Concentration in Business  
+**(This concentration is intended for only those Coe students who have been admitted into Coe’s aviation program and who plan to take the flight operations courses.)**
+
+1.	{{< var c.avs101.long >}}
+2.	{{< var c.avs201_201L.long >}}
+3.	{{< var c.avs301.long >}}
+4.	{{< var c.avs302.long >}}
+5.	{{< var c.avs315.long >}}
+6.	{{< var c.avs402.long >}}
+7.	{{< var c.avs403.long >}}
+8.	**All** courses listed under Required Flight Operations courses (See course descriptions starting on p. 68.) 
+
+#### Finance Concentration in Business
+1.	{{< var c.bus350.long >}}
+2.	{{< var c.bus472.long >}}
+3.	{{< var c.bus495.long >}}
+4.	**Two** of the following:
+   - {{< var c.eco225.long >}}
+   - {{< var c.acc301.long >}}
+   - {{< var c.eco375.long >}}
+   - {{< var c.eco435.long >}}
+   - {{< var c.bus454.long >}}
+   - {{< var c.eco457.long >}}
+   - {{< var c.bus472.long >}} (if the topic is substantially different from when taken to fulfill requirement #2)
+
+#### Healthcare Administration Concentration in Business
+1.	{{< var c.eco247.long >}} **or** {{< var c.hss200.long >}}
+2.	{{< var c.bus300.long >}}
+3.	**One** of the following:
+   - {{< var c.ds100.long >}}
+   - {{< var c.phl200.long >}}
+   - {{< var c.com332.long >}}
+   - {{< var c.pol350.long >}}
+4.	**Two** of the following through an online partnership with Rize Education: 
+   - {{< var c.bus312.long >}}
+   - {{< var c.bus342.long >}}
+   - {{< var c.bus353.long >}}
+   - {{< var c.bus390.long >}}  
+
+Students planning to attend graduate school in Healthcare Administration are strongly encouraged to take more than the five required courses to complete the concentration. Students should discuss their graduate school plans with the program director. 
+
+The Healthcare Administration concentration is offered online through a consortium of accredited colleges and universities. All courses within the program are delivered by faculty employed by partner institutions in the consortium, with technology and administrative support provided by Rize Education. Oversight of courses offered through the consortium are reviewed and approved by Coe College. Students register through Coe College and receive academic credit from Coe College.
+
+#### International Business Concentration in Business
+1.	{{< var c.bus446.long >}} 
+2.	**Two** of the following:
+   - {{< var c.bus456.long >}} 
+   - {{< var c.eco336.long >}} 
+   - {{< var c.eco436.long >}}
+   - {{< var c.eco446.long >}}
+3.	**One** of the following:
+   - One course in a world language numbered 115 or above
+   - {{< var c.com236.long >}}
+   - {{< var c.is116.long >}}
+   - {{< var c.pol258.long >}}
+   - One course with an international focus outside of the department, with approval of the department chair
+4.	**One** of the following:
+   - A semester abroad
+   - A May Experiential Term abroad
+   - A capstone project in international business, supervised by a business faculty member
+   - An internship in international business, supervised by a business faculty member
+
+#### Management Concentration in Business 
 1. {{< var c.bus250.long >}}
-2. Four of the following:   
+2. **Four** of the following:   
    {{< var c.bus300.long >}}      
    {{< var c.bus375.long >}}      
    {{< var c.bus387.long >}}      
    {{< var c.bus395.long >}}      
-   {{< var c.bus446.long >}}      
-   {{< var c.bus464.long >}}      
-   {{< var c.bus454.long >}}      
+   {{< var c.bus446.long >}}        
+   {{< var c.bus454.long >}}
+   {{< var c.bus464.long >}}
    {{< var c.bus470.long >}}      
 
-### Marketing Concentration in Business
-1. {{< var c.bus355.long >}}  
-2. Four of the following: 
+#### Marketing Concentration in Business
+1. {{< var c.bus330.long >}}  
+2. **Four** of the following: 
    {{< var c.bus280.long >}} **and** {{< var c.bus281.long >}}  
    {{< var c.bus420.long >}}  
    {{< var c.bus460.long >}}  
    {{< var c.bus461.long >}}  
    {{< var c.bus465.long >}}  
    {{< var c.bus470.long >}}  
-   {{< var c.bus454.long >}}  
+   {{< var c.bus454.long >}} (when topic is appropriate to marketing concentration) 
    {{< var c.pr205.long >}}  
 
-### Sports Management Concentration in Business {#sec-sports-management-concentration}
+#### Risk Management/Insurance Concentration in Business
+1.	{{< var c.bus350.long >}} 
+2.	{{< var c.ds100.long >}} 
+3.	{{< var c.bus310.long >}} 
+4.	{{< var c.bus311.long >}} 
+5.	**One** of the following:
+   - {{< var c.eco247.long >}} 
+   - {{< var c.bus341.long >}} 
+   - {{< var c.bus411.long >}} 
+   - {{< var c.bus454.long >}} (when topic is appropriate to Risk Management/Insurance concentration)
+   - {{< var c.bus494.long >}} (when internship is appropriate to Risk Management/Insurance concentration)
+   - {{< var c.bus495.long >}}
+
+#### Sports Management Concentration in Business {#sec-sports-management-concentration}
 1. {{< var c.smt100.long >}}  
-2. Four of the following:   
+2. **Four** of the following:   
+   {{< var c.ds120.long >}} 
    {{< var c.bus400.long >}}   
    {{< var c.bus420.long >}}  
-   {{< var c.bus454.long >}}  
-   {{< var c.eco125.long >}}  
+   {{< var c.bus454.long >}} (when topic is appropriate to sports management concentration)  
    {{< var c.smt300.long >}}  
-   {{< var c.smt454.long >}}  
+   {{< var c.smt450.long >}}  
    {{< var c.smt494.long >}}  
  
+#### Supply Chain Management Concentration in Business 
+1.	**One** of the following data analysis courses:
+   - {{< var c.bus340.long >}} 
+   - {{< var c.bus341.long >}} 
+   - {{< var c.eco375.long >}} 
+   - {{< var c.ds260.long >}} 
+2.	**One** of the following global strategy courses:
+   - {{< var c.bus446.long >}} 
+   - {{< var c.eco446.long >}} 
+3.	**Two** required courses through an online partnership with Rize Education:
+   - {{< var c.bus346.long >}} 
+   - {{< var c.bus381.long >}} 
+4.	**One** of the following through an online partnership with Rize Education:
+   - {{< var c.bus442.long >}} 
+   - {{< var c.bus459.long >}} 
+   - {{< var c.bus463.long >}} 
+
+The Supply Chain Management concentration is offered online through a consortium of accredited colleges and universities. All courses within the program are delivered by faculty employed by partner institutions in the consortium, with technology and administrative support provided by Rize Education. Oversight of courses offered through the consortium are reviewed and approved by Coe College. Students register through Coe College and receive academic credit from Coe College.
