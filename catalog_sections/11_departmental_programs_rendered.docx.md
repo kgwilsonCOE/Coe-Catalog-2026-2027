@@ -850,7 +850,7 @@ Concentrations are offered in aviation studies; flight operations; finance; inte
 **(This concentration is intended for Coe students who do not plan to complete the flight operations courses.)**
 
 1.	AVS 101 Introduction to Aviation
-2.	+++MISSING INFO: c.avs201_201L.long +++
+2.	AVS 201/201L Principles of Meteorology and Laboratory
 3.	AVS 301 Applied Aerodynamics
 4.	AVS 302 Human Factors
 5. AVS 401 Aviation Seminar
@@ -859,7 +859,7 @@ Concentrations are offered in aviation studies; flight operations; finance; inte
 **(This concentration is intended for only those Coe students who have been admitted into Coe’s aviation program and who plan to take the flight operations courses.)**
 
 1.	AVS 101 Introduction to Aviation
-2.	+++MISSING INFO: c.avs201_201L.long +++
+2.	AVS 201/201L Principles of Meteorology and Laboratory
 3.	AVS 301 Applied Aerodynamics
 4.	AVS 302 Human Factors
 5.	AVS 315 Aviation Law
@@ -872,27 +872,27 @@ Concentrations are offered in aviation studies; flight operations; finance; inte
 2.	BUS 472 Advanced Topics in Finance
 3.	BUS 495 Investment Analysis
 4.	**Two** of the following:
-   - ECO 225 Money & Banking
-   - ACC 301 Intermediate Accounting I
-   - ECO 375 Econometrics
-   - ECO 435 Time Series Analysis
-   - BUS 454 Research in Business
-   - ECO 457 US Econ History
-   - BUS 472 Advanced Topics in Finance (if the topic is substantially different from when taken to fulfill requirement #2)
+   ECO 225 Money & Banking
+   ACC 301 Intermediate Accounting I
+   ECO 375 Econometrics
+   ECO 435 Time Series Analysis
+   BUS 454 Research in Business
+   ECO 457 US Econ History
+   BUS 472 Advanced Topics in Finance (if the topic is substantially different from when taken to fulfill requirement #2)
 
 #### Healthcare Administration Concentration in Business
 1.	ECO 247 Health Economics **or** HSS 200 Comparative Health Systems
 2.	BUS 300 Human Resource Management
 3.	**One** of the following:
-   - DS 100 Introduction to Data Science
-   - PHL 200 Bio-Medical Ethics
-   - COM 332 Health Communication (WE)
-   - POL 350 US Social Policy Process
+   DS 100 Introduction to Data Science
+   PHL 200 Bio-Medical Ethics
+   COM 332 Health Communication (WE)
+   POL 350 US Social Policy Process
 4.	**Two** of the following through an online partnership with Rize Education: 
-   - BUS 312 Healthcare Justice, Law, and Ethics
-   - BUS 342 Data-Driven Healthcare
-   - BUS 353 Healthcare Finance
-   - BUS 390 Strategic Healthcare Operations  
+   BUS 312 Healthcare Justice, Law, and Ethics
+   BUS 342 Data-Driven Healthcare
+   BUS 353 Healthcare Finance
+   BUS 390 Strategic Healthcare Operations  
 
 Students planning to attend graduate school in Healthcare Administration are strongly encouraged to take more than the five required courses to complete the concentration. Students should discuss their graduate school plans with the program director. 
 
@@ -901,21 +901,21 @@ The Healthcare Administration concentration is offered online through a consorti
 #### International Business Concentration in Business
 1.	BUS 446 International Business Management 
 2.	**Two** of the following:
-   - BUS 456 Advanced Topics in Global Business 
-   - ECO 336 Divergent Economic Growth 
-   - ECO 436 Econ Development
-   - ECO 446 International Econ
+   BUS 456 Advanced Topics in Global Business 
+   ECO 336 Divergent Economic Growth 
+   ECO 436 Econ Development
+   ECO 446 International Econ
 3.	**One** of the following:
-   - One course in a world language numbered 115 or above
-   - COM 236 Intercultural Communication
-   - IS 116 Intro to International Studies
-   - POL 258 World Politics
-   - One course with an international focus outside of the department, with approval of the department chair
+   One course in a world language numbered 115 or above
+   COM 236 Intercultural Communication
+   IS 116 Intro to International Studies
+   POL 258 World Politics
+   One course with an international focus outside of the department, with approval of the department chair
 4.	**One** of the following:
-   - A semester abroad
-   - A May Experiential Term abroad
-   - A capstone project in international business, supervised by a business faculty member
-   - An internship in international business, supervised by a business faculty member
+   A semester abroad
+   A May Experiential Term abroad
+   A capstone project in international business, supervised by a business faculty member
+   An internship in international business, supervised by a business faculty member
 
 #### Management Concentration in Business 
 1. BUS 250 Principles of Management
@@ -947,12 +947,12 @@ The Healthcare Administration concentration is offered online through a consorti
 3.	BUS 310 Insurance Company Operations 
 4.	BUS 311 Personal and Business Risk Manageme 
 5.	**One** of the following:
-   - ECO 247 Health Economics 
-   - BUS 341 Introductory Business Analytics 
-   - BUS 411 Adv Topics:Risk Management/Insuranc 
-   - BUS 454 Research in Business (when topic is appropriate to Risk Management/Insurance concentration)
-   - BUS 494 Internship in Business (when internship is appropriate to Risk Management/Insurance concentration)
-   - BUS 495 Investment Analysis
+   ECO 247 Health Economics 
+   BUS 341 Introductory Business Analytics 
+   BUS 411 Adv Topics:Risk Management/Insuranc 
+   BUS 454 Research in Business (when topic is appropriate to Risk Management/Insurance concentration)
+   BUS 494 Internship in Business (when internship is appropriate to Risk Management/Insurance concentration)
+   BUS 495 Investment Analysis
 
 #### Sports Management Concentration in Business {#sec-sports-management-concentration}
 1. SMT 100 Introduction to Sports Management  
@@ -967,20 +967,20 @@ The Healthcare Administration concentration is offered online through a consorti
  
 #### Supply Chain Management Concentration in Business 
 1.	**One** of the following data analysis courses:
-   - BUS 340 Applied Regression Analysis 
-   - BUS 341 Introductory Business Analytics 
-   - ECO 375 Econometrics 
-   - DS 260 Data Analysis and Visualization 
+   BUS 340 Applied Regression Analysis 
+   BUS 341 Introductory Business Analytics 
+   ECO 375 Econometrics 
+   DS 260 Data Analysis and Visualization 
 2.	**One** of the following global strategy courses:
-   - BUS 446 International Business Management 
-   - ECO 446 International Econ 
+   BUS 446 International Business Management 
+   ECO 446 International Econ 
 3.	**Two** required courses through an online partnership with Rize Education:
-   - BUS 346 Forecasting & Logistics 
-   - BUS 381 Sourcing & Operations 
+   BUS 346 Forecasting & Logistics 
+   BUS 381 Sourcing & Operations 
 4.	**One** of the following through an online partnership with Rize Education:
-   - BUS 442 Supply Chain Mgmt Technologies 
-   - BUS 459 Supply Chain in Action 
-   - BUS 463 Capstone in Supply Chain Management 
+   BUS 442 Supply Chain Mgmt Technologies 
+   BUS 459 Supply Chain in Action 
+   BUS 463 Capstone in Supply Chain Management 
 
 The Supply Chain Management concentration is offered online through a consortium of accredited colleges and universities. All courses within the program are delivered by faculty employed by partner institutions in the consortium, with technology and administrative support provided by Rize Education. Oversight of courses offered through the consortium are reviewed and approved by Coe College. Students register through Coe College and receive academic credit from Coe College.
 
