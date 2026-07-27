@@ -4,6 +4,7 @@
 ### Business Administration Major
 
 A major in business administration requires a minimum cumulative 2.0 GPA in all courses counted toward the major. At least 40% of the courses must be completed at Coe.
+
 1.	{{< var c.acc171.long >}}
 2.	{{< var c.eco175.long >}}
 3.	{{< var c.bus190.long >}}
