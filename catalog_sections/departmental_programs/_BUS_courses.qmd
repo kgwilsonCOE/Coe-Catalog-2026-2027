@@ -47,7 +47,7 @@ Concentrations are offered in aviation studies; flight operations; finance; inte
 **(This concentration is intended for Coe students who do not plan to complete the flight operations courses.)**
 
 1.	{{< var c.avs101.long >}}
-2.	{{< var c.avs201_201L.long >}}
+2.	{{< var c.avs201_201l.long >}}
 3.	{{< var c.avs301.long >}}
 4.	{{< var c.avs302.long >}}
 5. {{< var c.avs401.long >}}
@@ -56,7 +56,7 @@ Concentrations are offered in aviation studies; flight operations; finance; inte
 **(This concentration is intended for only those Coe students who have been admitted into Coe’s aviation program and who plan to take the flight operations courses.)**
 
 1.	{{< var c.avs101.long >}}
-2.	{{< var c.avs201_201L.long >}}
+2.	{{< var c.avs201_201l.long >}}
 3.	{{< var c.avs301.long >}}
 4.	{{< var c.avs302.long >}}
 5.	{{< var c.avs315.long >}}
