@@ -1228,6 +1228,77 @@ A work experience with a business organization involving opportunities, experien
 A study of the fundamental principles underlying investment decisions. The course offers a basic understanding of the nature of risk and return considerations, the valuation framework for financial assets and derivatives, and introduction to the concepts of modern portfolio theory. Prerequisite: Principles of Finance (BUS-350).  
 
 
+## Online RC-B.A. Degree in Business Administration with a Strategic Leadership Concentration  
+(This degree may be taken only by those Coe students who have been admitted into this program. See p. 22.)
+
+### Business Administration Major
+
+A major in business administration requires a minimum cumulative 2.0 GPA in all courses counted toward the major. At least 40% of the courses must be completed at Coe.
+1.	ACC 171 Principles of Accounting I
+2.	ECO 175 Principles of Macroeconomics
+3.	BUS 190 Statistical Analysis
+4.	ACC 215 Principles of Accounting II
+5.	ECO 215 Prin Microeconomics
+6.	BUS 315 Business Law I
+7.	BUS 250 Principles of Management
+8.	BUS 330 Principles of Marketing
+9.	BUS 350 Principles of Finance
+10.	**Two** additional business courses numbered 200 or above
+
+#### Concentration in Strategic Leadership  
+
+To complete this concentration, a student must meet the following requirements:
+-	Completion of a major in Business Administration
+-	Completion of seven additional courses (listed below).  At least five of the seven courses must be completed at Coe.
+-	A minimum cumulative 2.0 GPA in all courses counted in the concentration.
+
+1.	BUS 300 Human Resource Management
+2.	BUS 355 Leadership Principles
+3.	BUS 360 Project Management (0.5 course credit) 
+4.	BUS 361 Leadership Ethics (0.5 course credit)
+5.	BUS 362 Teams (0.5 course credit)
+6.	BUS 405 Leadership Seminar (0.5 course credit)
+7.	BUS 471 Capstone in Strategic Leadership
+
+### Online-only Courses in Business
+
+ **BUS 355 Leadership Principles**  
+Explores the core concepts and strategies essential for effective leadership. Students develop
+self-awareness, learn how to create purpose and meaning, inspire themselves and others,
+make ethical decisions, and navigate change effectively. Emphasizing the practical application
+of leadership theories, the course incorporates readings, exercises, videos, and case studies
+to equip students with the tools needed to lead confidently and successfully. Prerequisite:
+Principles of Management (BUS-250)  
+ **BUS 360 Project Management**  
+Introduces the fundamentals of project management. Students study how to plan, execute,
+lead, and close projects within time and budget constraints. Topics covered also include
+managing risk, monitoring quality, allocating resources, and communicating with project
+stakeholders. Prerequisite: Principles of Management (BUS-250) (0.5-credit course)  
+ **BUS 361 Leadership Ethics**  
+Focuses on the role of leaders in managing conflicts and ethical risks within their
+organizations. Through readings and case studies, students learn about ethical theory,
+common ethical dilemmas in business, and the importance of strong moral leadership in
+ethical decision-making. Prerequisite: Principles of Management (BUS-250) (0.5-credit course)  
+ **BUS 362 Teams**  
+Focuses on the use of work teams in organizations and how leaders can effectively build and
+manage teams. Students study the importance of collaboration, interpersonal dynamics,
+goal-setting, motivation, conflict resolution, and effective communication within teams.
+Prerequisite: Principles of Management (BUS-250) (0.5-credit course)  
+ **BUS 405 Leadership Seminar**  
+Examines one or more advanced topics in leadership. Example topics include conflict
+resolution, crisis management, organizational change, negotiation, leadership skills, and
+organizational communication. With faculty permission, this course may be taken more than
+once for credit, provided the topics are substantially different. Prerequisite: Principles of
+Management (BUS-250) (0.5-credit course)  
+ **BUS 471 Capstone in Strategic Leadership**  
+Integrates key leadership and business strategy concepts using case studies, simulations,
+and strategic projects. This course prepares students for leadership roles and professional
+advancement by sharpening their analytical skills, decision-making capabilities, and strategic
+thinking. The course fulfills the Coe College general education practicum requirement.
+Prerequisite: Satisfactory completion of four or more courses from the concentration or
+consent of instructor.  
+
+
 ## Economics
 Economics is a social science concerning the study of how economic agents make choices in the face of scarcity. Economists study a broad variety of topics ranging from the theory of the consumer to economic growth and the wealth of nations. Students majoring in economics have two options: the economics major and the international economics major (see @sec-international-economics). The economics major is designed to permit a broad enough selection of courses for students to develop a general competence in economics, and to prepare students for graduate work in economics or other disciplines, such as law or business. The international economics major is designed to allow students who are interested in international studies to explore issues of development, growth, and international finance, using the tools of economic analysis.  
 Because of significant overlap in the economics and the international economics requirements, only one of the two majors may be elected by a student. Students majoring in economics or international economics may not minor in either economics or international economics.  See @sec-international-economics for the International Economics major and minor requirements.
