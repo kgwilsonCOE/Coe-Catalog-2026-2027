@@ -69,27 +69,27 @@ Concentrations are offered in aviation studies; flight operations; finance; inte
 2.	{{< var c.bus472.long >}}
 3.	{{< var c.bus495.long >}}
 4.	**Two** of the following:
-   - {{< var c.eco225.long >}}
-   - {{< var c.acc301.long >}}
-   - {{< var c.eco375.long >}}
-   - {{< var c.eco435.long >}}
-   - {{< var c.bus454.long >}}
-   - {{< var c.eco457.long >}}
-   - {{< var c.bus472.long >}} (if the topic is substantially different from when taken to fulfill requirement #2)
+   {{< var c.eco225.long >}}
+   {{< var c.acc301.long >}}
+   {{< var c.eco375.long >}}
+   {{< var c.eco435.long >}}
+   {{< var c.bus454.long >}}
+   {{< var c.eco457.long >}}
+   {{< var c.bus472.long >}} (if the topic is substantially different from when taken to fulfill requirement #2)
 
 #### Healthcare Administration Concentration in Business
 1.	{{< var c.eco247.long >}} **or** {{< var c.hss200.long >}}
 2.	{{< var c.bus300.long >}}
 3.	**One** of the following:
-   - {{< var c.ds100.long >}}
-   - {{< var c.phl200.long >}}
-   - {{< var c.com332.long >}}
-   - {{< var c.pol350.long >}}
+   {{< var c.ds100.long >}}
+   {{< var c.phl200.long >}}
+   {{< var c.com332.long >}}
+   {{< var c.pol350.long >}}
 4.	**Two** of the following through an online partnership with Rize Education: 
-   - {{< var c.bus312.long >}}
-   - {{< var c.bus342.long >}}
-   - {{< var c.bus353.long >}}
-   - {{< var c.bus390.long >}}  
+   {{< var c.bus312.long >}}
+   {{< var c.bus342.long >}}
+   {{< var c.bus353.long >}}
+   {{< var c.bus390.long >}}  
 
 Students planning to attend graduate school in Healthcare Administration are strongly encouraged to take more than the five required courses to complete the concentration. Students should discuss their graduate school plans with the program director. 
 
@@ -98,21 +98,21 @@ The Healthcare Administration concentration is offered online through a consorti
 #### International Business Concentration in Business
 1.	{{< var c.bus446.long >}} 
 2.	**Two** of the following:
-   - {{< var c.bus456.long >}} 
-   - {{< var c.eco336.long >}} 
-   - {{< var c.eco436.long >}}
-   - {{< var c.eco446.long >}}
+   {{< var c.bus456.long >}} 
+   {{< var c.eco336.long >}} 
+   {{< var c.eco436.long >}}
+   {{< var c.eco446.long >}}
 3.	**One** of the following:
-   - One course in a world language numbered 115 or above
-   - {{< var c.com236.long >}}
-   - {{< var c.is116.long >}}
-   - {{< var c.pol258.long >}}
-   - One course with an international focus outside of the department, with approval of the department chair
+   One course in a world language numbered 115 or above
+   {{< var c.com236.long >}}
+   {{< var c.is116.long >}}
+   {{< var c.pol258.long >}}
+   One course with an international focus outside of the department, with approval of the department chair
 4.	**One** of the following:
-   - A semester abroad
-   - A May Experiential Term abroad
-   - A capstone project in international business, supervised by a business faculty member
-   - An internship in international business, supervised by a business faculty member
+   A semester abroad
+   A May Experiential Term abroad
+   A capstone project in international business, supervised by a business faculty member
+   An internship in international business, supervised by a business faculty member
 
 #### Management Concentration in Business 
 1. {{< var c.bus250.long >}}
@@ -144,12 +144,12 @@ The Healthcare Administration concentration is offered online through a consorti
 3.	{{< var c.bus310.long >}} 
 4.	{{< var c.bus311.long >}} 
 5.	**One** of the following:
-   - {{< var c.eco247.long >}} 
-   - {{< var c.bus341.long >}} 
-   - {{< var c.bus411.long >}} 
-   - {{< var c.bus454.long >}} (when topic is appropriate to Risk Management/Insurance concentration)
-   - {{< var c.bus494.long >}} (when internship is appropriate to Risk Management/Insurance concentration)
-   - {{< var c.bus495.long >}}
+   {{< var c.eco247.long >}} 
+   {{< var c.bus341.long >}} 
+   {{< var c.bus411.long >}} 
+   {{< var c.bus454.long >}} (when topic is appropriate to Risk Management/Insurance concentration)
+   {{< var c.bus494.long >}} (when internship is appropriate to Risk Management/Insurance concentration)
+   {{< var c.bus495.long >}}
 
 #### Sports Management Concentration in Business {#sec-sports-management-concentration}
 1. {{< var c.smt100.long >}}  
@@ -164,19 +164,19 @@ The Healthcare Administration concentration is offered online through a consorti
  
 #### Supply Chain Management Concentration in Business 
 1.	**One** of the following data analysis courses:
-   - {{< var c.bus340.long >}} 
-   - {{< var c.bus341.long >}} 
-   - {{< var c.eco375.long >}} 
-   - {{< var c.ds260.long >}} 
+   {{< var c.bus340.long >}} 
+   {{< var c.bus341.long >}} 
+   {{< var c.eco375.long >}} 
+   {{< var c.ds260.long >}} 
 2.	**One** of the following global strategy courses:
-   - {{< var c.bus446.long >}} 
-   - {{< var c.eco446.long >}} 
+   {{< var c.bus446.long >}} 
+   {{< var c.eco446.long >}} 
 3.	**Two** required courses through an online partnership with Rize Education:
-   - {{< var c.bus346.long >}} 
-   - {{< var c.bus381.long >}} 
+   {{< var c.bus346.long >}} 
+   {{< var c.bus381.long >}} 
 4.	**One** of the following through an online partnership with Rize Education:
-   - {{< var c.bus442.long >}} 
-   - {{< var c.bus459.long >}} 
-   - {{< var c.bus463.long >}} 
+   {{< var c.bus442.long >}} 
+   {{< var c.bus459.long >}} 
+   {{< var c.bus463.long >}} 
 
 The Supply Chain Management concentration is offered online through a consortium of accredited colleges and universities. All courses within the program are delivered by faculty employed by partner institutions in the consortium, with technology and administrative support provided by Rize Education. Oversight of courses offered through the consortium are reviewed and approved by Coe College. Students register through Coe College and receive academic credit from Coe College.
