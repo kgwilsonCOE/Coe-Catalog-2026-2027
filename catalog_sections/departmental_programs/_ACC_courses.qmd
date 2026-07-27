@@ -1,8 +1,10 @@
-## Accounting {#sec-accounting}
+## Accounting
 
 Students majoring in accounting have two options: the managerial accounting major and the public accounting major. The managerial accounting major is designed for students interested in pursuing a career in private industry or the not-for-profit sector. The public accounting major is designed for students interested in practicing public accounting and those desiring the Certified Public Accounting (CPA) designation. Because of the identical core course requirements in the managerial accounting and public accounting majors, only one of the two majors can be elected by a student. A student receiving a managerial accounting major may pursue a post-baccalaureate major in public accounting, but when completed, the public accounting major would replace the managerial accounting major in the student’s records. 
 
-Requirements for becoming a CPA differ from state to state. All states require that students pass the Uniform CPA examination and many require the completion of 150 semester hours of education prior to certification. The 150 hours can be completed in undergraduate or graduate programs. To become a CPA in Iowa, the Iowa State Board of Accountancy requires that students pass the CPA examination, complete 150 semester hours of education, and complete specified course work in accounting and business subjects. Students majoring in accounting, business, or economics are required to have a minimum of 24 of their 150 semester hours in financial accounting, auditing, taxation, and management accounting courses above the elementary level. If students majoring in any other field wish to become a CPA in Iowa, they must, in addition, complete at least 24 semester hours in business-related courses (not including internships). (One course credit completed at Coe is counted as four semester hours.)  Accounting students at Coe should work closely with faculty in the department to determine their plan of study. Students wishing to become a CPA should also check the state board’s education requirements for the state in which they wish to practice.
+Requirements for becoming a CPA differ from state to state. All states require that students pass the Uniform CPA examination and many require the completion of 150 semester hours of education prior to certification. The 150 hours can be completed in undergraduate or graduate programs. To become a CPA in Iowa, the Iowa State Board of Accountancy requires that students pass the CPA examination, complete 120 semester hours of education, and complete specified course work in accounting and business subjects. Students majoring in accounting, business, or economics are required to have a minimum of 24 of their 120 semester hours in financial accounting, auditing, taxation, and management accounting courses above the elementary level. If students majoring in any other field wish to become a CPA in Iowa, they must, in addition, complete at least 24 semester hours in business-related courses (not including internships). (One course credit completed at Coe is counted as four semester hours.) 
+
+Accounting students at Coe should work closely with faculty in the department to determine their plan of study. Students wishing to become a CPA should also check the state board’s education requirements for the state in which they wish to practice. 
 
 ### Managerial Accounting Major
 
@@ -20,12 +22,15 @@ A major in managerial accounting requires a minimum cumulative 2.0 GPA in all co
 10. {{< var c.acc351.long >}}
 11. {{< var c.acc413.long >}}
 12. {{< var c.acc415.long >}}
+13. {{< var c.acc422.long >}}
 
 ### Public Accounting Major
 
-A major in public accounting requires a minimum cumulative 2.0 GPA in all courses counted toward the major. Students wishing to prepare for the examination to become a Certified Public Accountant should select the Public Accounting major, which meets the guidelines for the breadth of business and accounting courses recommended by The American Institute of Certified Public Accountants. Students at Coe can meet the 150-semester hour requirement by completing 37.5 credits.
+A major in public accounting requires a minimum cumulative 2.0 GPA in all courses counted toward the major.
 
-If degree requirements are not completed by the end of four years, students pursuing a major in public accounting, who are in good academic standing, and who are full-time students, receive a 60% discount on tuition in the consecutive fifth year. They continue to be eligible to apply for student loans and any available federal and state government grants
+Students wishing to prepare for the examination to become a Certified Public Accountant should select the Public Accounting major, which meets the guidelines for the breadth of business and accounting courses recommended by The American Institute of Certified Public Accountants. Students at Coe can meet the 150-semester hour requirement by completing 37.5 credits. 
+
+If degree requirements are not completed by the end of four years, students pursuing a major in public accounting, who are in good academic standing, and who are full-time students, receive a 60% discount on tuition in the consecutive fifth year. They continue to be eligible to apply for student loans and any available federal and state government grants.
 
 1. {{< var c.acc171.long >}}
 2. {{< var c.eco175.long >}}
@@ -41,18 +46,15 @@ If degree requirements are not completed by the end of four years, students purs
 12. {{< var c.acc422.long >}}
 13. {{< var c.acc463.long >}}
 14. **One** of the following:
-
-    - {{< var c.bus410.long >}}
-    - {{< var c.bus412.long >}}
-    - {{< var c.bus464.long >}}
-    - {{< var c.bus470.long >}}
-
+    {{< var c.bus410.long >}}
+    {{< var c.bus412.long >}}
+    {{< var c.bus464.long >}}
+    {{< var c.bus470.long >}}
 15. **Three** of the following:
-
-    - {{< var c.acc313.long >}}
-    - {{< var c.acc401.long >}}
-    - {{< var c.acc451.long >}}
-    - {{< var c.acc472.long >}}
+    {{< var c.acc313.long >}}
+    {{< var c.acc401.long >}}
+    {{< var c.acc451.long >}}
+    {{< var c.acc472.long >}}
 
 ### Courses in Accounting
 
@@ -89,8 +91,14 @@ If degree requirements are not completed by the end of four years, students purs
 
  **{{< var c.bus105.long >}}**  
 {{< var c.bus105.desc >}}  
+ **{{< var c.bus113.long >}}**  
+{{< var c.bus113.desc >}}  
+ **{{< var c.bus115.long >}}**  
+{{< var c.bus115.desc >}}  
  **{{< var c.bus125.long >}}**  
 {{< var c.bus125.desc >}}  
+ **{{< var c.bus130.long >}}**  
+{{< var c.bus130.desc >}}  
  **{{< var c.bus145.long >}}**  
 {{< var c.bus145.desc >}}  
  **{{< var c.bus170.long >}}**  
@@ -111,6 +119,12 @@ If degree requirements are not completed by the end of four years, students purs
 {{< var c.bus300.desc >}}  
  **{{< var c.bus305.long >}}**  
 {{< var c.bus305.desc >}}  
+ **{{< var c.bus310.long >}}**  
+{{< var c.bus310.desc >}}  
+ **{{< var c.bus311.long >}}**  
+{{< var c.bus311.desc >}}  
+ **{{< var c.bus312.long >}}**  
+{{< var c.bus312.desc >}}  
  **{{< var c.bus315.long >}}**  
 {{< var c.bus315.desc >}}  
  **{{< var c.eco315.long >}}**  
@@ -125,28 +139,38 @@ See @sec-economics
 {{< var c.bus340.desc >}}  
  **{{< var c.bus341.long >}}**  
 {{< var c.bus341.desc >}}  
+ **{{< var c.bus342.long >}}**  
+{{< var c.bus342.desc >}}  
  **{{< var c.bus345.long >}}**  
 {{< var c.bus345.desc >}}  
  **{{< var c.eco345.long >}}**  
 See @sec-economics  
+ **{{< var c.bus346.long >}}**  
+{{< var c.bus346.desc >}}  
  **{{< var c.bus350.long >}}**  
 {{< var c.bus350.desc >}}  
  **{{< var c.bus352.long >}}**  
 {{< var c.bus352.desc >}}  
- **{{< var c.bus365.long >}}**  
-{{< var c.bus365.desc >}}  
+ **{{< var c.bus353.long >}}**  
+{{< var c.bus353.desc >}}  
  **{{< var c.bus375.long >}}**  
 {{< var c.bus375.desc >}}  
  **{{< var c.eco375.long >}}**  
 See @sec-economics  
+ **{{< var c.bus381.long >}}**  
+{{< var c.bus381.desc >}}  
  **{{< var c.bus387.long >}}**  
 {{< var c.bus387.desc >}}  
+ **{{< var c.bus390.long >}}**  
+{{< var c.bus390.desc >}}  
  **{{< var c.bus395.long >}}**  
 {{< var c.bus395.desc >}}  
  **{{< var c.bus400.long >}}**  
 {{< var c.bus400.desc >}}  
  **{{< var c.bus410.long >}}**  
 {{< var c.bus410.desc >}}  
+ **{{< var c.bus411.long >}}**  
+{{< var c.bus411.desc >}}  
  **{{< var c.bus412.long >}}**  
 {{< var c.bus412.desc >}}  
  **{{< var c.bus420.long >}}**  
@@ -155,6 +179,8 @@ See @sec-economics
 {{< var c.bus437.desc >}}  
  **{{< var c.bus441.long >}}**  
 {{< var c.bus441.desc >}}  
+ **{{< var c.bus442.long >}}**  
+{{< var c.bus442.desc >}}  
  **{{< var c.bus444.long >}}**  
 {{< var c.bus444.desc >}}  
  **{{< var c.bus446.long >}}**  
@@ -163,18 +189,22 @@ See @sec-economics
 See @sec-economics  
  **{{< var c.bus454.long >}}**  
 {{< var c.bus454.desc >}}  
+ **{{< var c.bus456.long >}}**  
+{{< var c.bus456.desc >}}  
  **{{< var c.bus457.long >}}**  
 {{< var c.bus457.desc >}}  
+ **{{< var c.bus459.long >}}**  
+{{< var c.bus459.desc >}}  
  **{{< var c.bus460.long >}}**  
 {{< var c.bus460.desc >}}  
  **{{< var c.bus461.long >}}**  
 {{< var c.bus461.desc >}}  
+ **{{< var c.bus463.long >}}**  
+{{< var c.bus463.desc >}}  
  **{{< var c.bus464.long >}}**  
 {{< var c.bus464.desc >}}  
  **{{< var c.bus465.long >}}**  
 {{< var c.bus465.desc >}}  
- **{{< var c.bus466.long >}}**  
-{{< var c.bus466.desc >}}  
  **{{< var c.bus467.long >}}**  
 {{< var c.bus467.desc >}}  
  **{{< var c.bus470.long >}}**  
@@ -193,5 +223,3 @@ See @sec-economics
 {{< var c.bus494.desc >}}  
  **{{< var c.bus495.long >}}**  
 {{< var c.bus495.desc >}}  
- **{{< var c.eco495.long >}}**  
-See @sec-economics  
