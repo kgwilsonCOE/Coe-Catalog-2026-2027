@@ -985,11 +985,13 @@ The Healthcare Administration concentration is offered online through a consorti
 The Supply Chain Management concentration is offered online through a consortium of accredited colleges and universities. All courses within the program are delivered by faculty employed by partner institutions in the consortium, with technology and administrative support provided by Rize Education. Oversight of courses offered through the consortium are reviewed and approved by Coe College. Students register through Coe College and receive academic credit from Coe College.
 
 
-## Accounting {#sec-accounting}
+## Accounting
 
 Students majoring in accounting have two options: the managerial accounting major and the public accounting major. The managerial accounting major is designed for students interested in pursuing a career in private industry or the not-for-profit sector. The public accounting major is designed for students interested in practicing public accounting and those desiring the Certified Public Accounting (CPA) designation. Because of the identical core course requirements in the managerial accounting and public accounting majors, only one of the two majors can be elected by a student. A student receiving a managerial accounting major may pursue a post-baccalaureate major in public accounting, but when completed, the public accounting major would replace the managerial accounting major in the student’s records. 
 
-Requirements for becoming a CPA differ from state to state. All states require that students pass the Uniform CPA examination and many require the completion of 150 semester hours of education prior to certification. The 150 hours can be completed in undergraduate or graduate programs. To become a CPA in Iowa, the Iowa State Board of Accountancy requires that students pass the CPA examination, complete 150 semester hours of education, and complete specified course work in accounting and business subjects. Students majoring in accounting, business, or economics are required to have a minimum of 24 of their 150 semester hours in financial accounting, auditing, taxation, and management accounting courses above the elementary level. If students majoring in any other field wish to become a CPA in Iowa, they must, in addition, complete at least 24 semester hours in business-related courses (not including internships). (One course credit completed at Coe is counted as four semester hours.)  Accounting students at Coe should work closely with faculty in the department to determine their plan of study. Students wishing to become a CPA should also check the state board’s education requirements for the state in which they wish to practice.
+Requirements for becoming a CPA differ from state to state. All states require that students pass the Uniform CPA examination and many require the completion of 150 semester hours of education prior to certification. The 150 hours can be completed in undergraduate or graduate programs. To become a CPA in Iowa, the Iowa State Board of Accountancy requires that students pass the CPA examination, complete 120 semester hours of education, and complete specified course work in accounting and business subjects. Students majoring in accounting, business, or economics are required to have a minimum of 24 of their 120 semester hours in financial accounting, auditing, taxation, and management accounting courses above the elementary level. If students majoring in any other field wish to become a CPA in Iowa, they must, in addition, complete at least 24 semester hours in business-related courses (not including internships). (One course credit completed at Coe is counted as four semester hours.) 
+
+Accounting students at Coe should work closely with faculty in the department to determine their plan of study. Students wishing to become a CPA should also check the state board’s education requirements for the state in which they wish to practice. 
 
 ### Managerial Accounting Major
 
@@ -1007,12 +1009,15 @@ A major in managerial accounting requires a minimum cumulative 2.0 GPA in all co
 10. ACC 351 Intermediate Accounting II
 11. ACC 413 Auditing
 12. ACC 415 Adv Managerial Accounting
+13. ACC 422 Tax Accounting
 
 ### Public Accounting Major
 
-A major in public accounting requires a minimum cumulative 2.0 GPA in all courses counted toward the major. Students wishing to prepare for the examination to become a Certified Public Accountant should select the Public Accounting major, which meets the guidelines for the breadth of business and accounting courses recommended by The American Institute of Certified Public Accountants. Students at Coe can meet the 150-semester hour requirement by completing 37.5 credits.
+A major in public accounting requires a minimum cumulative 2.0 GPA in all courses counted toward the major.
 
-If degree requirements are not completed by the end of four years, students pursuing a major in public accounting, who are in good academic standing, and who are full-time students, receive a 60% discount on tuition in the consecutive fifth year. They continue to be eligible to apply for student loans and any available federal and state government grants
+Students wishing to prepare for the examination to become a Certified Public Accountant should select the Public Accounting major, which meets the guidelines for the breadth of business and accounting courses recommended by The American Institute of Certified Public Accountants. Students at Coe can meet the 150-semester hour requirement by completing 37.5 credits. 
+
+If degree requirements are not completed by the end of four years, students pursuing a major in public accounting, who are in good academic standing, and who are full-time students, receive a 60% discount on tuition in the consecutive fifth year. They continue to be eligible to apply for student loans and any available federal and state government grants.
 
 1. ACC 171 Principles of Accounting I
 2. ECO 175 Principles of Macroeconomics
@@ -1028,18 +1033,15 @@ If degree requirements are not completed by the end of four years, students purs
 12. ACC 422 Tax Accounting
 13. ACC 463 Advanced Auditing
 14. **One** of the following:
-
-    - BUS 410 Business Law II
-    - BUS 412 Entrepreneurship & New Business Frm
-    - BUS 464 Seminar in Management
-    - BUS 470 Strategic Management
-
+    BUS 410 Business Law II
+    BUS 412 Entrepreneurship & New Business Frm
+    BUS 464 Seminar in Management
+    BUS 470 Strategic Management
 15. **Three** of the following:
-
-    - ACC 313 Fraud Examination
-    - ACC 401 Fund Acctg & Adv Top
-    - ACC 451 Advanced Accounting
-    - ACC 472 Advanced Tax Accounting
+    ACC 313 Fraud Examination
+    ACC 401 Fund Acctg & Adv Top
+    ACC 451 Advanced Accounting
+    ACC 472 Advanced Tax Accounting
 
 ### Courses in Accounting
 
@@ -1076,8 +1078,14 @@ A continuation of Tax Accounting (ACC-422) with an emphasis on taxation of corpo
 
  **BUS 105 Colloquium in Business**  
 A study of the dynamic world of business, with emphasis on the role of the individual as a consumer, a manager, an employee, and an investor. Such topics as the social responsibility of business, business environment, and the relationship of business to governments and to people are included.  
+ **BUS 113 Intro to Mgmt Info Systems (MIS)**  
+Familiarizes students with management information systems (MIS) used by businesses and organizations to help meet their goals. Students explore the extensive role of information technology in the professional workplace, including technical and managerial aspects. This course does not, on its own nor in combination with another 0.5 credit course, count as one of the two business electives required for a business major. (0.5 course credit) (Offered on an occasional basis)  
+ **BUS 115 Business and Society**  
+Introduces students to the role of business in modern society. Topics include various forms of business organizations, the major functional areas of business, relationships between businesses and their internal and external stakeholders, and how businesses adapt to current issues such as changing societal expectations, diversity in the workplace, influencer culture, generational differences, and technology changes. This course does not satisfy any of the requirements for a major in Business Administration.  
  **BUS 125 Computers in Business**  
 An introduction to computers in business. Topics covered include the most commonly encountered software used for word processing, database management, and spreadsheets.  
+ **BUS 130 Personal Finance for College Studen**  
+Introduces college students to managing personal finances and making financial decisions that they encounter. Areas of study for this project-oriented course include student loans, credit cards, savings and investments, cars, living on campus versus apartment living, savings needed for life immediately following graduation, and travel. Students who have received credit for taking SKD-130 Personal Finance for College Students are not eligible to enroll in this course. (0.5 course credit)  
  **BUS 145 Personal Financial Analysis & Plan**  
 A study of important personal financial decisions made over an individual’s lifetime. This course provides the perspective and tools needed to make intelligent personal financial decisions. The course also challenges students to look at current events affecting personal finance from a public policy perspective, allowing them to develop informed opinions. Topics covered include understanding personal income taxes, buying a home, using credit wisely, and planning for retirement, among others. Open to all students. This course does not satisfy any of the requirements for a major in Business Administration.  
  **BUS 170 Bus Sustainability & Environment**  
@@ -1098,6 +1106,13 @@ Advanced computer applications courses on selected topics covered in business. E
 A study of the theories, policies, and institutional forces that affect the human resource manager. This course analyzes managerial decisions regarding staffing, compensation, training, appraising, safety/ health, industrial relations, and the employment laws and environmental factors affecting human resource management. Prerequisite: sophomore standing.  
  **BUS 305 Production & Operations Mgmt**  
 A study of the design, planning, and control of the factors that affect operations, including how to use labor, facilities, and equipment to manufacture finished goods or provide services. Prerequisites: competency in algebra and junior standing or consent of instructor.  
+ **BUS 310 Insurance Company Operations**  
+Examines the internal operations of insurance companies and the insurance industry as a whole. Students explore fundamental concepts, including financial operations, underwriting, claims management, risk assessment, regulatory compliance, and marketing within the insurance industry. Emphasis is placed on operational efficiency, financial performance, and emerging industry trends.  
+ **BUS 311 Personal and Business Risk Manageme**  
+Studies the foundational knowledge and practical skills necessary for identifying, assessing, and managing risks encountered in both personal and business contexts. Students examine insurance policy considerations for life, health, property, liability, and casualty insurance.  
+ **BUS 312 Healthcare Justice, Law, and Ethics**  
+Healthcare Justice, Law, and Ethics
+This course examines ethical, legal, and justice-based issues in healthcare decision-making. Topics may include definitions of death, the allocation of scarce medical resources, cost versus effectiveness in treatment approval, and emerging challenges such as genetic engineering. Students will engage with frameworks used to evaluate fairness, patient rights, and policy decisions in contexts where outcomes may be life-altering. This course is offered online through a consortium of accredited colleges and universities. Instruction is provided by faculty employed by partner institutions within the consortium, with technology and administrative support provided by Rize Education. Oversight of courses offered through Coe College and receive academic credit from Coe College.  
  **BUS 315 Business Law I**  
 An introduction to law as an agency of control in the business world. Course topics include: an introduction to business ethics, the sources of law in the United States and their impact on the business community, the role of the judiciary and its impact on social change, basic tort law as it relates to business, contract terminology and functions, the elements of a valid contract, and the law as it relates to agency, employment, and labor. Prerequisite: sophomore standing.  
  **ECO 315 Intermediate Macroeconomic Theory**  
@@ -1112,28 +1127,43 @@ A study of the basic principles of marketing including the analysis of market op
 Introduction to the construction and use of regression models. Topics include estimation and inferential techniques in Simple and Multiple Regression; consequences of violations of the assumptions of the Classical Linear Regression model; regression with qualitative dependent variables.  
  **BUS 341 Introductory Business Analytics**  
 A spreadsheet-based introductory course to business analytics. Emphasis is placed on fundamental knowledge and practical skills for applying data analysis to business decision making. Topics include data collection, statistical distributions, linear regression, forecasting, simulation, and optimization. Prerequisite: Statistical Analysis (BUS-190) or consent of instructor  
+ **BUS 342 Data-Driven Healthcare**  
+Examines the role of information systems, data analytics, and emerging technologies in healthcare organizations. Focuses on the use of data to inform clinical and administrative decision-making, including applications of artificial intelligence, health informatics, and cloud-based systems. Emphasizes analysis of healthcare data, evaluation of technology infrastructure, and issues of security, privacy, and organizational performance. This course is offered online through a consortium of accredited colleges and universities. Instruction is provided by faculty employed by partner institutions within the consortium, with technology and administrative support provided by Rize Education. Oversight of courses offered through Coe College and receive academic credit from Coe College. Prerequisites: BUS-190 Statistical Analysis and BUS-312 Healthcare Justice, Law, and Ethics  
  **BUS 345 Regulation of Business**  
 Includes an examination of the social and economic impact of control legislation such as the Sherman Act, Clayton Act, Federal Trade Commission Act, Wagner Act, Securities Exchange Act, and many others. Prerequisites: Principles of Macroeconomics (ECO-175) and Principles of Microeconomics (ECO-215).  
  **ECO 345 Intermediate Microeconomics**  
 See @sec-economics  
+ **BUS 346 Forecasting & Logistics**  
+BUS-346 Forecasting & Logistics 
+
+Examines the movement of goods and services from point of origin to point of consumption. The course focuses on using quantitative forecasting techniques to match supply with demand and the design of logistics networks to minimize costs. Topics addressed include transportation modes, warehousing, and inventory management. At the end of this class, a student will be able to critically assess the costs and logistical requirements of setting up a physical goods supply chain. This course is offered online through a consortium of accredited colleges and universities. Instruction is provided by faculty employed by partner institutions within the consortium, with technology and administrative support provided by Rize Education. Oversight of courses offered through Coe College and receive academic credit from Coe College. Prerequisite: Principles of Management (BUS-250). (1.0 Credit)  
  **BUS 350 Principles of Finance**  
 A survey of securities markets and financial institutions and an introduction to finance and development in finance theory. Practices of personal and business finance decisions are also included. Prerequisites: Principles of Macroeconomics (ECO-175), Principles of Microeconomics (ECO-215), and Principles of Accounting II (ACC-215).  
  **BUS 352 Corporate Finance**  
 A study of the major theories and models for planning and analyzing the working capital position, the financial structure, the cost of capital, and the capital budgeting of a business firm. Prerequisite: Principles of Finance (BUS-350).  
- **BUS 365 Principles of Insurance**  
-Insurance as a method of dealing with business and personal hazards. Types of insurance in the life, fire, and casualty fields. Social Security measures and personal insurance programs. Social and economic significance of the insurance industry. Prerequisite: junior standing.  
+ **BUS 353 Healthcare Finance**  
+Healthcare Finance
+Examines financial management principles and practices within healthcare organizations. Focuses on budgeting, revenue cycle management, financial analysis, regulatory compliance, and strategic financial planning. Emphasizes the relationship between financial sustainability, organizational performance, and the delivery of high-quality, ethical patient care. This course is offered online through a consortium of accredited colleges and universities. Instruction is provided by faculty employed by partner institutions within the consortium, with technology and administrative support provided by Rize Education. Oversight of courses offered through Coe College and receive academic credit from Coe College.  
  **BUS 375 Business Ethics**  
 A study of some of the central ethical issues in the business world and some of the various ethical theories that might be employed in thinking about solutions to these problems. Topics likely to be covered include affirmative action, sexual harassment, whistleblowing, product safety standards, labor relations, advertising, and environmental issues. Prerequisite: sophomore standing or consent of instructor.  
  **ECO 375 Econometrics**  
 See @sec-economics  
+ **BUS 381 Sourcing & Operations**  
+BUS-381 Sourcing & Operations:
+Investigates the complexities of global procurement and manufacturing. The course focuses on supplier selection, negotiation strategies, and ethical considerations within a multi-country supply chain. Topics reviewed include contract management, lean principles, and quality control. At the end of this class, a student will be able to use popular methodologies, such as Six Sigma, to make and implement practical sourcing decisions. This course is offered online through a consortium of accredited colleges and universities. Instruction is provided by faculty employed by partner institutions within the consortium, with technology and administrative support provided by Rize Education. Oversight of courses offered through Coe College and receive academic credit from Coe College. Prerequisite: Principles of Management (BUS-250). (1.0 Credit)  
  **BUS 387 Adv Top:Human Res Mgt**  
 Expands on some of the traditional material presented in the Human Resource Management course. Contemporary issues in the workplace which affect the nature of the relationship between the organization and the employee are discussed. May be taken more than once for credit, provided the topics are substantially different. Prerequisite: Human Resource Management (BUS-300).  
+ **BUS 390 Strategic Healthcare Operations**  
+Strategic Healthcare Operations
+Examines strategic management and operational decision-making in healthcare organizations. Focuses on the analysis of complex healthcare systems, resource allocation, staffing, patient satisfaction, financial sustainability, and emergency preparedness. Emphasizes problem identification, strategic planning, and evidence-based approaches to improving organizational performance and patient care outcomes. This course is offered online through a consortium of accredited colleges and universities. Instruction is provided by faculty employed by partner institutions within the consortium, with technology and administrative support provided by Rize Education. Oversight of courses offered through Coe College and receive academic credit from Coe College. Prerequisites: HSS-200 Comparative Health Systems.  
  **BUS 395 Organizational Behavior**  
 Combines theory and practice to investigate human behavior in organizations. Topics at the macrolevel (history, culture, design, communications, total quality), human-level (perception, personality, attitudes, learning, stress), and group-level (team and organization development), and their influences on organizational effectiveness are examined. Prerequisite: Principles of Management (BUS-250).  
  **BUS 400 Legal Issues in Sports**  
 A study of the legal aspects for the operations and administration of sports programs, competitive athletic programs, and community and commercial fitness programs. Topics such as risk management, gender equity, dipute resolution, and negotiation are included. Prerequisites: SMT-100: Introduction to Sports Management and BUS-315: Business Law I.  
  **BUS 410 Business Law II**  
 An extended study of traditional business law subjects, with the addition of Federal Securities Regulation, secured transactions, suretyship, and accountant’s legal responsibility. Special attention is also given to agency, bankruptcy, and estates and trusts. Prerequisite: Business Law I (BUS-315).  
+ **BUS 411 Adv Topics:Risk Management/Insuranc**  
+Examines one or more advanced topics in risk management/insurance. May be taken more than once for credit, provided the topics are substantially different. Prerequisite: Insurance Company Operations (BUS-310) and Personal and Business Risk Management (BUS-311).  
  **BUS 412 Entrepreneurship & New Business Frm**  
 Analysis of the role of the entrepreneur in the capitalist economy. Development of the procedural system for establishing a new business. Establishment and operation of a “small business” by teams of students, including presentation of a business plan in order to secure financing with a local financial institution, acquisition of tax information necessary for start-up and continued operations, and analysis of problems confronting the new or small enterprise. Prerequisite: senior standing or consent of instructor.  
  **BUS 420 Sports Marketing and Communications**  
@@ -1142,6 +1172,11 @@ An introduction to the field of sports marketing and its role within sports orga
 A study of compensation systems used in organizations. This course looks at ways to develop, administer, and maintain compensation plans that attract and motivate employees while controlling labor costs. It covers such topics as the strategic importance of compensation; different types of compensation; designing competitive pay systems and employee benefits; and compensation for executives, expatriates, and contingent employees. Prerequisite: Human Resource Management (BUS-300).  
  **BUS 441 Advanced Business Analytics**  
 A project-based, advanced study of buysiness analytics. The course offers training of coding with a computer programming language. No prior knowledge of coding is required. Topics learned in Introductory Business Analytics will be implemented in the context of computer coding. A term project with real-world applications is also required. Prerequisite: Introductory Business Analytics (BUS 341).  
+ **BUS 442 Supply Chain Mgmt Technologies**  
+BUS-442 Supply Chain Management Technologies 
+
+
+Surveys the major systems and technologies that enable best-in-class supply chain organizations. The course focuses on how information flows throughout the supply chain—from procurement through delivery—and how digital tools improve efficiency and decision-making at each stage. Topics include enterprise resource planning (ERP), artificial intelligence, IoT, and blockchain applications in supply chain contexts. At the end of this class, a student will be able to evaluate how supply chain technologies function and articulate how they enhance operational performance. This course is offered online through a consortium of accredited colleges and universities. Instruction is provided by faculty employed by partner institutions within the consortium, with technology and administrative support provided by Rize Education. Oversight of courses offered through Coe College and receive academic credit from Coe College. Prerequisites: Forecasting & Logistics (BUS-346) and Sourcing & Operations (BUS-381). (1.0 Credit)  
  **BUS 444 Ind Study-Bus Admin**  
 Independent studies under the direction of a faculty member in some area of business administration. May be taken more than once for a maximum of 2.0 credits. May be taken for an X status grade with consent of instructor prior to registration. Prerequisite: consent of instructor.  
  **BUS 446 International Business Management**  
@@ -1150,18 +1185,29 @@ An introduction to the concepts of international business and the global economy
 See @sec-economics  
  **BUS 454 Research in Business**  
 Research on a selected topic in business, independently or in participation with a business department faculty member. May be taken more than once for a maximum of 2.0 credits. May be taken for an X status grade with consent of instructor prior to registration. Prerequisites: junior standing and consent of instructor.  
+ **BUS 456 Advanced Topics in Global Business**  
+BUS-456 Advanced Topics in Global Business
+Examines one or more topics in international business. Example topics include international marketing, international business law, international leadership, international human resource management, and global strategy. May be taken more than once for credit, with consent of department chair, provided the topics are substantially different. Prerequisite: International Business Management (BUS-446).  
  **BUS 457 Employment and Discrimination Law**  
 Examines the legal regulation of the employment relationship. Extensive coverage of federal workplace discrimination statutes is featured, with particular consideration of Title VII, the ADEA, and the ADA. Significant attention placed on recent Supreme Court decisions and Congressional responses. Additional issues addressed may include employment-at-will and its exceptions, vicarious liability of employers for employee tort, and employee privacy concerns. Prerequisites: Human Resource Management (BUS-300) and Business Law I (BUS-315).  
+ **BUS 459 Supply Chain in Action**  
+BUS-459 Supply Chain In Action 
+
+
+Explores the application of supply chain systems to vital real-world functions, ranging from global health crises to large-scale event logistics. The course analyzes how supply chains intersect with business, national, and global interests through case-based problem solving. Emphasis is placed on real-time decision-making and the financial impact of operational trade-offs. At the end of this class, a student will be able to solve real-world supply chain problems and clearly articulate end-to-end considerations for a proposed solution. This course is offered online through a consortium of accredited colleges and universities. Instruction is provided by faculty employed by partner institutions within the consortium, with technology and administrative support provided by Rize Education. Oversight of courses offered through Coe College and receive academic credit from Coe College. Prerequisites: Forecasting & Logistics (BUS-346) and Sourcing & Operations (BUS-381). (1.0 Credit)  
  **BUS 460 Advertising**  
 A study of the basic practices and concepts of advertising. Advertising is studied in the broader context of integrated marketing communications, including public relations and sales promotion. Topics to be covered include historical, legal, and ethical concepts of advertising and other forms of promotion, the management and planning of advertising, creativity in advertising, media planning, and advertising research. Prerequisite: Principles of Marketing (WE) (BUS330).  
  **BUS 461 Marketing Decision Making/Analysis**  
 A continuation of the study of marketing principles with special emphasis on understanding marketing as the basis for management decision-making. Topics to be covered include customer relationship management, market-oriented strategic planning, brand asset management, buyer behavior analysis, the use of marketing research to identify and target customers, and integrated marketing communications planning. Prerequisites: Principles of Marketing (WE) (BUS-330).  
+ **BUS 463 Capstone in Supply Chain Management**  
+BUS-463 Capstone
+
+
+Applies supply chain management principles to a series of actual problems faced by a real-world corporate partner. Working from company-provided background materials and video commentary from industry professionals, students develop original solutions—including plans of action, memos, and forecasts—and compare their work against the decisions made by practitioners. Topics span supply chain strategy, transportation, warehousing and inventory, supplier selection and risk, manufacturing capacity, forecasting, demand spikes, sustainability, and information technology. At the end of this class, a student will be able to create effective solutions for common types of supply chain issues and explain those solutions to both expert and lay audiences. This course is offered online through a consortium of accredited colleges and universities. Instruction is provided by faculty employed by partner institutions within the consortium, with technology and administrative support provided by Rize Education. Oversight of courses offered through Coe College and receive academic credit from Coe College. Prerequisites: Forecasting & Logistics (BUS-346) and Sourcing & Operations (BUS-381). (1.0 Credit)  
  **BUS 464 Seminar in Management**  
 Development of written and oral communication proficiency through an intensive study of one or more selected topics in management. Topics are studied through the use of readings, class discussions, writings, and presentations, and vary from term to term. May be taken more than once for credit, provided the topics are substantially different. Prerequisites: senior standing and at least one course in management [Principles of Management (BUS-250), Human Resource Management (BUS-300), or Organizational Behavior (BUS-395)], or consent of instructor.  
  **BUS 465 Advanced Topics in Marketing**  
 An advanced study of a major topic in marketing. May be taken more than once for credit, provided the topics are substantially different. Example topics: marketing research, international marketing, and sales management. Prerequisite: Principles of Marketing (WE) (BUS-330).  
- **BUS 466 Adv Top Mrktg:non-west persp**  
-Same as Advanced Topics in Marketing (BUS-465), except the course focuses on topics related to non-Western cultures. May be taken more than once for credit, provided the topics are substantially different. Prerequisite: Principles of Marketing (WE) (BUS-330).  
  **BUS 467 Consumer Behavior**  
 A study of the behavioral aspects of marketing with an emphasis on consumer markets. Various models of consumer decision-making are examined. Influences on consumer behavior are studied from both an individual perspective, including topics such as personality, perception, learning and attitudes, and a social perspective, including topics such as culture, social class, reference groups, and family. Prerequisite: Principles of Marketing (WE) (BUS-330).  
  **BUS 470 Strategic Management**  
@@ -1180,8 +1226,6 @@ See @sec-economics
 A work experience with a business organization involving opportunities, experiences, and personal growth which can be evaluated in equivalent terms to traditional course work. In most circumstances such experience shall count for one course credit. On-site work plus academic work must total a minimum of 160 hours (140 of which must be spent on-site.) In exceptional situations where an internship presents significant theoretical or practical ways to augment or extend traditional classroom experiences, two course credits are available (see p. 37). P/NP basis only. This course does not satisfy any of the requirements for a major in business administration. Prerequisites: Candidates must meet GPA and departmental residency requirements. All candidates must have the consent of a supervising faculty member of the department and consent of department chair. Students seeking more than one course credit must further have approval of the Department Internship Review Committee.  
  **BUS 495 Investment Analysis**  
 A study of the fundamental principles underlying investment decisions. The course offers a basic understanding of the nature of risk and return considerations, the valuation framework for financial assets and derivatives, and introduction to the concepts of modern portfolio theory. Prerequisite: Principles of Finance (BUS-350).  
- **ECO 495 International Finance**  
-See @sec-economics  
 
 
 ## Economics
