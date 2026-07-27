@@ -1234,6 +1234,7 @@ A study of the fundamental principles underlying investment decisions. The cours
 ### Business Administration Major
 
 A major in business administration requires a minimum cumulative 2.0 GPA in all courses counted toward the major. At least 40% of the courses must be completed at Coe.
+
 1.	ACC 171 Principles of Accounting I
 2.	ECO 175 Principles of Macroeconomics
 3.	BUS 190 Statistical Analysis
