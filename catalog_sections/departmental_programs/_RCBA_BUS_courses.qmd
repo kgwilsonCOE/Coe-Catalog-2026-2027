@@ -1,0 +1,46 @@
+## Online RC-B.A. Degree in Business Administration with a Strategic Leadership Concentration  
+(This degree may be taken only by those Coe students who have been admitted into this program. See p. 22.)
+
+### Business Administration Major
+
+A major in business administration requires a minimum cumulative 2.0 GPA in all courses counted toward the major. At least 40% of the courses must be completed at Coe.
+1.	{{< var c.acc171.long >}}
+2.	{{< var c.eco175.long >}}
+3.	{{< var c.bus190.long >}}
+4.	{{< var c.acc215.long >}}
+5.	{{< var c.eco215.long >}}
+6.	{{< var c.bus315.long >}}
+7.	{{< var c.bus250.long >}}
+8.	{{< var c.bus330.long >}}
+9.	{{< var c.bus350.long >}}
+10.	**Two** additional business courses numbered 200 or above
+
+#### Concentration in Strategic Leadership  
+
+To complete this concentration, a student must meet the following requirements:
+-	Completion of a major in Business Administration
+-	Completion of seven additional courses (listed below).  At least five of the seven courses must be completed at Coe.
+-	A minimum cumulative 2.0 GPA in all courses counted in the concentration.
+
+1.	{{< var c.bus300.long >}}
+2.	{{< var c.bus355.long >}}
+3.	{{< var c.bus360.long >}} (0.5 course credit) 
+4.	{{< var c.bus361.long >}} (0.5 course credit)
+5.	{{< var c.bus362.long >}} (0.5 course credit)
+6.	{{< var c.bus405.long >}} (0.5 course credit)
+7.	{{< var c.bus471.long >}}
+
+### Online-only Courses in Business
+
+ **{{< var c.bus355.long >}}**  
+{{< var c.bus355.desc >}}  
+ **{{< var c.bus360.long >}}**  
+{{< var c.bus360.desc >}}  
+ **{{< var c.bus361.long >}}**  
+{{< var c.bus361.desc >}}  
+ **{{< var c.bus362.long >}}**  
+{{< var c.bus362.desc >}}  
+ **{{< var c.bus405.long >}}**  
+{{< var c.bus405.desc >}}  
+ **{{< var c.bus471.long >}}**  
+{{< var c.bus471.desc >}}  
