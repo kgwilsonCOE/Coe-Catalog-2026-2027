@@ -1892,8 +1892,8 @@ Continued advanced writing, with an emphasis on producing finished fiction. Prer
 The capstone of the Creative Writing major. Students in this intensive workshop complete a thoroughly revised, polished major manuscript, suitable for an MFA writing sample or to submit for publication. Manuscripts usually are in a single genre. Students also write reflections on their manuscript and prepare for the senior reading. Prerequisites: completion of all writing courses required for the major or minor and consent of creative writing administrative coordinator.  
 
 
-## Dance (Courses Only) {#sec-dance}
-Rezabek, Wolverton.
+## Dance (Courses Only)
+Rezabek
 
 ### Courses in Dance
 
