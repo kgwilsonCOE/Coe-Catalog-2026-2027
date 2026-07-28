@@ -1,83 +1,93 @@
-## Creative Writing {#sec-creative-writing}
-Aspengren, Ferguson, LeMay, McQueen, Shaw (Administrative Coordinator). 
+## Creative Writing
+Ferguson, LeMay, Shaw. For chair, see English, Creative Writing, and Communication Studies (p. 133)
 
-The creative writing program (within the English Department) offers instruction in writing fiction, poetry, playwriting, and screenwriting.  Students who wish to develop skills in writing non-fiction prose – journalism, personal essays, etc. – should consider the writing major offered by the rhetoric department. Workshop students are required to submit a collection of finished work at the end of each course. Included in this collection is reflective discussion of the composition history of the finished work.
+The creative writing program (within the English Department) offers instruction in writing fiction, poetry, playwriting, and screenwriting.  Workshop students are required to submit a collection of finished work at the end of each course. Included in this collection is reflective discussion of the composition history of the finished work.
 
 ### Creative Writing Major
 A major in creative writing requires a minimum cumulative 2.0 GPA in all courses counted toward the major.
 
-1. {{< var c.crw125.long >}}
-2. {{< var c.eng111.long >}}
-3. Two of the following:
-    - CRW/{{< var c.the255.long >}}
-    - {{< var c.crw280.long >}}
-    - {{< var c.crw290.long >}}
-4. Two of the following: 
-	  - CRW/{{< var c.the355.long >}}
-	  - {{< var c.crw380.long >}}
-	  - {{< var c.crw390.long >}}
-	  - CRW/{{< var c.the455.long >}}
-	  - {{< var c.crw480.long >}}
-	  - {{< var c.crw484.long >}}
-	  - {{< var c.crw490.long >}}
-5. Two courses in English (ENG-___) one of which must be ENG-281 or above.
-6. One of the following: 
-    - One elective from Creative Writing (CRW-___)
-    - One elective from English (ENG-___)
-    - Two terms of {{< var c.crw112.long >}}
-    - {{< var c.rhe255.long >}}
-    - {{< var c.rhe257.long >}}
-    - {{< var c.rhe377.long >}}
-7. {{< var c.crw492.long >}}
-8. Senior Reading: a public reading from the final manuscript completed in {{< var c.crw492.short >}}.
+1. {{< var c.crw125.long >}}  
+2. {{< var c.eng111.long >}}  
+3. **Two** of the following:  
+    {{< var c.crw_the255.long >}}  
+	{{< var c.crw225.long >}}  
+    {{< var c.crw280.long >}}  
+    {{< var c.crw290.long >}}  
+4. **Two** of the following:  
+	{{< var c.crw_the355.long >}}  
+	{{< var c.crw325.long >}}  
+	{{< var c.crw380.long >}}  
+	{{< var c.crw390.long >}}  
+ 	{{< var c.crw_the455.long >}}  
+	{{< var c.crw480.long >}}  
+ 	{{< var c.crw484.long >}}  
+	{{< var c.crw490.long >}}  
+5. **Two** courses in English (ENG-___) one of which must be ENG-281 or above.  
+6. **One** of the following:  
+  	One elective from Creative Writing (CRW-___)  
+    One elective from English (ENG-___)  
+  	Two terms of {{< var c.crw112.long >}}  
+	One 1.0 elective from English, Creative Writing, and Communication Studies (ECC-___)
+7. {{< var c.crw492.long >}}  
+8. Senior Reading: a public reading from the final manuscript completed in {{< var c.crw492.short >}}.  
 
 ### Creative Writing Minor
-1. {{< var c.crw125.long >}}
-2. Three of the following: 
-	  - CRW/{{< var c.the255.long >}}
-	  - {{< var c.crw280.long >}}
-	  - {{< var c.crw290.long >}}
-	  - CRW/{{< var c.the355.long >}}
-	  - {{< var c.crw380.long >}}
-	  - {{< var c.crw390.long >}}
-	  - CRW/{{< var c.the455.long >}}
-	  - {{< var c.crw480.long >}}
-	  - {{< var c.crw484.long >}}	
-	  - {{< var c.crw490.long >}}
-	  - {{< var c.crw492.long >}}
-3. One course in English (ENG-___) 
-4. One of the following: 
-    - One elective from Creative Writing (CRW-___)
-    - One elective from English (ENG-___)
-    - Two terms of {{< var c.crw112.long >}}
-    - {{< var c.rhe255.long >}}
-    - {{< var c.rhe257.long >}}
-    - {{< var c.rhe377.long >}}
+1. {{< var c.crw125.long >}}  
+2. **Three** of the following:  
+	{{< var c.crw_the255.long >}}
+	{{< var c.crw225.long >}}  
+	{{< var c.crw280.long >}}  
+	{{< var c.crw290.long >}}  
+	{{< var c.crw_the355.long >}}  
+	{{< var c.crw380.long >}}  
+	{{< var c.crw390.long >}}  
+	{{< var c.crw_the455.long >}}  
+	{{< var c.crw480.long >}}  
+	{{< var c.crw484.long >}}  
+	{{< var c.crw490.long >}}  
+	{{< var c.crw492.long >}}  
+3. **One** course in English (ENG-___)  
+4. **One** of the following:  
+    One elective from Creative Writing (CRW-___)  
+    One elective from English (ENG-___)  
+	One 1.0 elective from English, Creative Writing, and Communication Studies (ECC-___)  
+    Two terms of {{< var c.crw112.long >}}    
+    {{< var c.com267.long >}}  
+    {{< var c.com377.long >}}  
 
-### WORKSHOPS IN CREATIVE WRITING
-Workshop students are required to submit a collection of finished work at the end of each course. Included in this collection is reflective discussion of the composition history of the finished work.
- 
-- {{< var c.crw255.long >}}
-- {{< var c.crw280.long >}} 
-- {{< var c.crw290.long >}} 
-- {{< var c.crw355.long >}} 
-- {{< var c.crw380.long >}}
-- {{< var c.crw390.long >}} 
-- {{< var c.crw455.long >}} 
-- {{< var c.crw480.long >}} 
-- {{< var c.crw490.long >}} 
-- {{< var c.crw492.long >}}
- 
+### WORKSHOPS IN CREATIVE WRITING  
+Workshop students are required to submit a collection of finished work at the end of each course. Included in this collection is reflective discussion of the composition history of the finished work.  
 
+- {{< var c.crw225.long >}}  
+- {{< var c.crw255.long >}}  
+- {{< var c.crw280.long >}}   
+- {{< var c.crw290.long >}}   
+- {{< var c.crw325.long >}}  
+- {{< var c.crw355.long >}}  
+- {{< var c.crw380.long >}}  
+- {{< var c.crw390.long >}}  
+- {{< var c.crw455.long >}}  
+- {{< var c.crw480.long >}}  
+- {{< var c.crw490.long >}}  
+- {{< var c.crw492.long >}}  
+ 
 ### COURSES IN CREATIVE WRITING {#sec-courses-in-creative-writing}
+ **{{< var c.crw105.long >}}**  
+{{< var c.crw105.desc >}}  
+ **{{< var c.crw106.long >}}**  
+{{< var c.crw106.desc >}}  
+ **{{< var c.crw107.long >}}**  
+{{< var c.crw107.desc >}}  
  **{{< var c.crw111.long >}}**  
 {{< var c.crw111.desc >}}  
  **{{< var c.crw112.long >}}**  
 {{< var c.crw112.desc >}}  
- **{{< var c.crw115.long >}}**  
-{{< var c.crw115.desc >}}  
  **{{< var c.crw125.long >}}**  
 {{< var c.crw125.desc >}}  
+ **{{< var c.crw135.long >}}**  
+{{< var c.crw135.desc >}}  
+ **{{< var c.crw225.long >}}**  
+{{< var c.crw225.desc >}}  
  **{{< var c.crw255.long >}}**  
 See also Theatre Arts (THE-255), @sec-courses-in-theatre-arts  
 {{< var c.crw255.desc >}}  
@@ -85,6 +95,10 @@ See also Theatre Arts (THE-255), @sec-courses-in-theatre-arts
 {{< var c.crw280.desc >}}  
  **{{< var c.crw290.long >}}**  
 {{< var c.crw290.desc >}}  
+ **{{< var c.crw325.long >}}**  
+{{< var c.crw325.desc >}}  
+ **{{< var c.crw345.long >}}**  
+{{< var c.crw345.desc >}}  
  **{{< var c.crw350.long >}}**  
 {{< var c.crw350.desc >}}  
  **{{< var c.crw355.long >}}**  
@@ -107,6 +121,3 @@ See also Theatre Arts (THE-455), @sec-courses-in-theatre-arts
 {{< var c.crw490.desc >}}  
  **{{< var c.crw492.long >}}**  
 {{< var c.crw492.desc >}}  
- **{{< var c.crw494.long >}}**  
-{{< var c.crw494.desc >}}  
-For additional Writing and Journalism courses, see Rhetoric, @sec-courses-in-rhetoric  
