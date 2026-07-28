@@ -2000,235 +2000,217 @@ problems. Topics will include linear and multiple regression, quadratic discrimi
 See Business Administration and Economics p. 81
 
 
-## Education {#sec-education}
+## Education
 
-N. Hayes, Haynes-Moore, Kigin (Placement Coordinator) Kress (Chair), Russell
+Christofferson, Haynes-Moore (Chair), Kigin (Placement Coordinator), Kress, Staeheli
 
-Art: Rogers; Music: Carson, Shanley; Physical Education: Atwater.
+Art: Rogers; Music: Carson; Physical Education: Libby
 
-Content Specialists (Part-time): Bakas, Christofferson, Dabroski, Gaylord Robertson, Hanson J., Hanson M., Hynek, Johnson,
-Neilly, Zahn, Zrudsky
-
-Student Teaching Supervisors: Bartlett, Lanich, Oberbroeckling
+Content Specialists (Part-time): Dykes, Gaylord Robertson, Geers, Hynek, Jameson, Neilly, Sheronick, Zahn
 
 Coe College believes that the most effective preparation for teaching is one that combines a liberal arts education with courses in the theory and practice of teaching. The Education Department has the responsibility for coordinating the efforts of the College to provide such a program.  
 
 Basic college requirements and those for a major area give students a well-rounded general education. Professional courses in education provide a foundation in principles and practices of teaching. Students gain practical experience in applying professional and general education through field experiences and, if pursuing licensure, through student teaching in area schools. 
 
-Students who successfully complete Coe’s Teacher Education Program and student teaching are eligible to apply for an Iowa Initial Teacher License. Teaching licensure is governed by State of Iowa regulations. When changes in licensure requirements occur at the state level, they take precedence over College policies. For the most current policy information, students should consult the *Guide to Teacher Education*, available from the Education Department. The Education Department maintains records regarding Iowa licensure requirements. Students should consult a faculty member in the Education Department to arrange their respective courses of study. 
+Students who successfully complete Coe’s Teacher Education Program and student teaching are eligible to apply for an Iowa Initial Teacher License. Teaching licensure is governed by State of Iowa regulations. When changes in licensure requirements occur at the state level, they take precedence over College policies. For the most current policy information, students should consult the Guide to Teacher Education, available from the Education Department. The Education Department maintains records regarding Iowa licensure requirements. Students should consult a faculty member in the Education Department to arrange their respective courses of study. 
 
-The Teacher Education Program at Coe College is approved by the Iowa Department of Education. Copies of the annual report filed with the Iowa Department of Education are available on request.
-
+The Teacher Education Program at Coe College is approved by the Iowa Department of Education. Copies of the annual report filed with the Iowa Department of Education are available on request. 
 
 ### Elementary Education Major
 Teachers in elementary schools function as generalists who must draw upon a broad knowledge base from multiple disciplines. In recognition of this, the elementary teacher licensure program at Coe College consists of two components: content knowledge gained from the liberal arts classes and pedagogy learned in EDU courses. This program of undergraduate preparation to teach in elementary schools is intended to promote exploration and a balanced education drawn from a variety of fields. 
 
-1. At least one course in each of the four fields of mathematics, natural sciences, social sciences, and humanities. **Iowa Distribution Requirements** - a “C” or better in the following courses:
-	- **One** mathematics course with a prefix of MTH or STA
-	- **One** American History course
-	- **One** lab science in BIO or PHY-114 Modern Astronomy
-	- **One** social science course with a prefix of ANT, ECO, POL, PSY, or SOC
+1. At least one course in each of the four fields of mathematics, natural sciences, social sciences, and humanities. **Iowa Distribution Requirements-** a “C” or better in the following courses:  
+	**One** mathematics course with a prefix of MTH or STA  
+	**One** American History course  
+	**One** lab science in BIO or PHY-114 Modern Astronomy  
+	**One** social science course with a prefix of ANT, ECO, POL, PSY, or SOC  
+2. A K–8 endorsement in Art, English/Language Arts, Spanish, Health, History, Mathematics, Music, Physical Education, Reading, Science, Social Studies, or Speech Communication and Theater  
+3. GPA of 2.7 or higher and a “C” or better in the following professional education courses:  
+	EDU 105 Foundations of Education  
+	EDU 117 Exceptional Learners  
+	EDU 187 Human Relations  
+	EDU 215 Practicum in Education  
+	EDU 217 Principles of Effective Instruction  
+	EDU 219 InstructTech for Teaching &Learning  
+	EDU 270 Literature K-12  
+	EDU 275 Math Comprehension for Teaching  
+	EDU 300 Expressive Methods  
+	EDU 305 Methods of Elementary Science  
+	EDU 335 Methods of Elementary Mathematics  
+	EDU 345 Methods of Elementary Language Arts  
+	EDU 355 Methods of Elementary Reading  
+	EDU 365 Methods of Elementary Soc Studies  
+	KIN 112 Health Educ for Elementary Teacher  
 
-2. A K–8 endorsement in Art, English/Language Arts, French, Spanish, Health, History, Mathematics, Music, Physical Education, Reading, Science, Social Studies, or Speech Communication and Theater.
-
-3. GPA of 2.7 or higher and a “C” or better in the following professional education courses:
-	- EDU 105 Foundations of Education
-	- EDU 117 Exceptional Learners
-	- EDU 187 Human Relations
-	- EDU 195 Educ Psychology & Development
-	- EDU 215 Practicum in Education
-	- EDU 219 InstructTech for Teaching &Learning
-	- EDU 237 English Language Learners **OR** EDU 270 Literature K-12
-	- EDU 275 Math Comprehension for Teaching
-	- EDU 300 Expressive Methods
-	- EDU 305 Methods of Elementary Science
-	- EDU 335 Methods of Elementary Mathematics
-	- EDU 345 Methods of Elementary Language Arts
-	- EDU 355 Methods of Elementary Reading
-	- EDU 365 Methods of Elementary Soc Studies
-	- KIN 112 Health Educ for Elementary Teacher
-
-**NOTE**: *As is true for all majors, elementary education students are responsible for completion of Coe’s general education requirements. Careful program planning may enable either greater breadth within the liberal arts or a deeper concentration within a specialty discipline. Programs containing such additional concentration may require more than four years of study.* 
+**NOTE**: *As is true for all majors, elementary education students are responsible for completion of Coe’s general education requirements. Careful program planning may enable either greater breadth within the liberal arts or a deeper concentration within a specialty discipline. Programs containing such additional concentration may require more than four years of study.*  
 
 
 ### Secondary Education Minor
-1. *Iowa Distribution Requirements*: a “C” or better in at least one course of the four fields of mathematics, natural sciences, social sciences, and humanities.
-2. A grade of “C” or better must be earned in all courses counted toward a major or minor in education and in subject areas in which students intend to teach.
-3. Completion of a major in one or more teaching fields with a GPA of 2.7 or higher. Teaching field(s) must be in subjects ordinarily taught in the secondary schools and for which Coe has approval by the Iowa Department of Education. Approved teaching fields include American Government, American History, Art, Basic Science, Biology, Business, Chemistry, Economics, English/Language Arts, French, Health, Math, Music, Physical Education, Physics, Psychology, Sociology, Spanish, Speech Communication and Theater, and World History.
-4. GPA of 2.7 or higher and a “C” or better in the following professional education courses:
-	- EDU 105 Foundations of Education
-	- EDU 117 Exceptional Learners
-	- EDU 187 Human Relations
-	- EDU 195 Educ Psychology & Development
-	- EDU 215 Practicum in Education
-	- EDU 219 InstructTech for Teaching &Learning
-5. **One or more** of the following Methods courses: 
-	- ART 230 Art of Children & Adolescents
-	- EDU 310 Methods of Secondary Bus Education
-	- EDU 311 Methods of Secondary Language Arts
-	- EDU 312 Methods of Secondary Social Studies
-	- EDU 313 Methods Secondary Mathematics
-	- EDU 320 Methods of Secondary Science
-	- EDU 321 Methods of World Language K-12
-	- KIN 415 Methods of Secondary Schl PE & Hlth
-	- MU 361 Choral Music Methods **AND** MU 362 Instrumental Mus Methods for Choral
-	- MU 363 Instrumental Music Methods **AND** MU 364 Choral Music Methods for Instrument
-
+1. *Iowa Distribution Requirements*: a “C” or better in at least one course of the four fields of mathematics, natural sciences, social sciences, and humanities.  
+2. A grade of “C” or better must be earned in all courses counted toward a major or minor in education and in subject areas in which students intend to teach.  
+3. Completion of a major in one or more teaching fields with a GPA of 2.7 or higher. Teaching field(s) must be in subjects ordinarily taught in the secondary schools and for which Coe has approval by the Iowa Department of Education. Approved teaching fields include American Government, American History, Art, Basic Science, Biology, Business, Chemistry, Economics, English/Language Arts, Health, Math, Music, Physical Education, Physics, Psychology, Sociology, Spanish, Speech Communication and Theater, and World History.  
+4. GPA of 2.7 or higher and a “C” or better in the following professional education courses:  
+	EDU 105 Foundations of Education  
+	EDU 117 Exceptional Learners  
+	EDU 187 Human Relations  
+	EDU 215 Practicum in Education  
+	EDU 217 Principles of Effective Instruction  
+	EDU 219 InstructTech for Teaching &Learning  
+5. **One or more** of the following Methods courses:  
+	ART 230 Art of Children & Adolescents  
+	EDU 310 Methods of Secondary Bus Education  
+	EDU 311 Methods of Secondary Language Arts  
+	EDU 312 Methods of Secondary Social Studies  
+	EDU 313 Methods Secondary Mathematics  
+	EDU 320 Methods of Secondary Science  
+	EDU 321 Methods of World Language K-12  
+	KIN 415 Methods of Secondary Schl PE & Hlth  
+	MU 361 Choral Music Methods  
+	MU 363 Instrumental Music Methods  
 
 ### ADMISSION TO THE TEACHER EDUCATION PROGRAM
+
 The Education Department offers a major in **elementary education**, a minor in **secondary education**, and courses leading to three types of teacher licensure: K-6 classroom (elementary education); 5–12 content area (secondary education) and K-12 “specials” content area (art, music, physical education). Students pursuing any of these options must be admitted to the Teacher Education Program before being allowed to enroll in a practicum course or methods course. Admission to Coe College does not guarantee admission to the Teacher Education Program. Information related to applying to the Teacher Education Program is found in the *Guide to Teacher Education* available from the Education Department. 
 
 State of Iowa licensure requirements specify that a minimum of 80 hours of field experience be completed after admission to the Teacher Education Program and prior to student teaching. Teacher Education Program applications are available online; contact your Education advisor. 
 
 The Teacher Education Committee has responsibility for review of the Teacher Education Program, including admission of students into the program. In reviewing applications for admission to the program, the committee considers the following: 
+1.	A “C” or better in two core EDU courses (EDU-105 Foundations of Education (WE) strongly recommended)
+2.	GPA (a minimum of 2.7 is required in education core courses, courses in the major and overall)
+3.	A grade of “C” or higher must be earned in all courses counted toward a major or minor in education and in subject areas in which students intend to teach. 
+4.	Performance in education courses taken. 
+5.	The essay included on the program application.
+6.	Other relevant information as provided by the faculty of the Education Department and comments from faculty in classes the student is enrolled in or has recently taken.
 
-1. A “C” or better in two core EDU courses (EDU 105 Foundations of Education strongly recommended)
-2. GPA (a minimum of 2.7 is required in education core courses, courses in the major and overall)
-3. A grade of “C” or higher must be earned in all courses counted toward a major or minor in education and in subject areas in which students intend to teach. 
-4. Performance in education courses taken. 
-5. The essay included on the program application.
-6. Other relevant information as provided by the faculty of the Education Department and comments from faculty in classes the student is enrolled in or has recently taken.
-
-The Teacher Education Committee reviews applications at the conclusion of each semester. Students are notified in writing regarding the committee’s decision. Appeals may be made to the committee in writing. The committee evaluates such appeals on an individual basis, using its best judgment of the student’s suitability to enter the teaching profession. The process for further appeals is detailed in the *Guide to Teacher Education*.
-
+The Teacher Education Committee reviews applications at the conclusion of each semester. Students are notified in writing regarding the committee’s decision. Appeals may be made to the committee in writing. The committee evaluates such appeals on an individual basis, using its best judgment of the student’s suitability to enter the teaching profession. The process for further appeals is detailed in the *Guide to Teacher Education.*
 
 ### Graduates/Transfers from Other Institutions
-Graduates/transfers from other institutions should submit transcripts and all other relevant materials for
-review to the Education department chair. In most cases, applicants are required to take a minimum of four EDU courses at Coe, in which at least a 2.7 GPA or higher and a “C” or better is earned, prior to student teaching. 
+
+Graduates/transfers from other institutions should submit transcripts and all other relevant materials for review to the Education department chair. In most cases, applicants are required to take a minimum of four EDU courses at Coe, in which at least a 2.7 GPA or higher and a “C” or better is earned, prior to student teaching. 
+
 Students who received the highest degree more than 10 years prior to application to the Teacher Education Program must complete two additional courses at Coe in the major area, with a grade of “C” or better, in addition to the required professional education courses. 
 
-
 ### Elementary Education/Non-Licensure
-The majority of students who major in elementary education intend to become licensed K–6 classroom teachers and complete one term of full-time student teaching after completing the major requirements. Occasionally, however, a student may wish to work with young children in settings other than those for which certification is required. Such students may complete all of the required coursework for the elementary education major without student teaching and are advised on supplementary coursework to support their goals.
-
+The majority of students who major in elementary education intend to become licensed K–6 classroom teachers and complete one term of full-time student teaching after completing the major requirements. Occasionally, however, a student may wish to work with young children in settings other than those for which certification is required. Such students may complete all of the required course work for the elementary education major without student teaching and are advised on supplementary course work to support their goals.
 
 ### REQUIREMENTS FOR STUDENTS PURSUING TEACHING LICENSES
 To be recommended for licensure in any of the categories listed below, a student must have a baccalaureate degree, a cumulative GPA of at least 2.7, and at least a 2.7 GPA in each teaching field. The department can refuse to recommend for licensure a student who has been found to have violated the College’s Academic Integrity Policy.  
 
-
 ### Iowa Distribution Requirements for All Students Seeking Licensure
-According to state regulations, all teachers in Iowa “shall acquire a core of liberal arts knowledge including, but not limited to, English composition, mathematics, natural sciences, social sciences, and humanities.” While the state’s distribution requirements are consistent with Coe’s general education requirements, they are not automatically met by these requirements. Education students should consult with their Education advisor to coordinate this mandate with the selection of courses for general education.
+According to state regulations, all teachers in Iowa “shall acquire a core of liberal arts knowledge including, but not limited to, English composition, mathematics, natural sciences, social sciences, and humanities.” While the state’s distribution requirements are consistent with Coe’s distributional requirements, they are not automatically met by these requirements. Education students should consult with their Education advisor to coordinate this mandate with the selection of courses for Coe’s distributional requirements.
 
+### Elementary Licensure
 
+**Requirements:**  
+1. Students licensed at the elementary level, must have a 2.7 GPA or higher and a “C” or better in all courses in their major and in endorsement areas.  
+2. **Iowa Distribution Requirements** - a “C” or better in the following courses:  
+	**One** mathematics course with a prefix of MTH or STA  
+	**One** American History course  
+	**One** lab science in BIO or Modern Astronomy  
+	**One** social science course  
+3. GPA of 2.7 or higher and a “C” or better in the following professional education courses:  
+	EDU 105 Foundations of Education  
+	EDU 117 Exceptional Learners  
+	EDU 187 Human Relations  
+	EDU 215 Practicum in Education  
+	EDU 217 Principles of Effective Instruction  
+	EDU 219 InstructTech for Teaching &Learning  
+	EDU 270 Literature K-12  
+	EDU 275 Math Comprehension for Teaching  
+	EDU 300 Expressive Methods  
+	EDU 305 Methods of Elementary Science  
+	EDU 335 Methods of Elementary Mathematics  
+	EDU 345 Methods of Elementary Language Arts  
+	EDU 355 Methods of Elementary Reading  
+	EDU 365 Methods of Elementary Soc Studies  
+	KIN 112 Health Educ for Elementary Teacher  
+4. A K–6 Iowa teaching license must be accompanied by at least one K–8 endorsement (state approved specialization in a particular subject area) available at Coe. K–8 endorsements include: Art, English/Language Arts, Spanish, Health, History, Mathematics, Music, Physical Education, Reading, Science, Social Studies, or Speech Communication and Theater. Students should consult their Education advisor for assistance in adding these endorsements to their elementary teaching license.
+5.	Elementary Education students will demonstrate content area knowledge and pedagogical knowledge of reading by successfully completing the state-required Foundations of Reading exam prior to their student teaching semester. If a passing score has not been achieved, students will be required to take EDU-301 Reading Foundations: Development, Assessment and Instruction and successfully pass with a C or better during the student teaching semester, or before program completion.  
+6. Student Teaching (4 course credits): 
+	EDU 491 Student Teaching 4-6  
+	EDU 492 Student Teaching K-3  
+6. Successful completion of Student Teaching Seminar  
+	- Active engagement in and regular attendance in seminar  
+	- Dyslexia training  
+	- Ethics training  
+	- Mock evaluations  
+	- CPR card (PE and coaching candidates)  
+	- Successful completion and presentation of e-portfolio  
 
-## Elementary Licensure
-**Requirements:**
-
-1. Students licensed at the elementary level, must have a 2.7 GPA or higher and a “C” or better in all courses in their major and in endorsement areas.
-2. **Iowa Distribution Requirements** - a “C” or better in the following courses:
-	- **One** mathematics course with a prefix of MTH or STA
-	- **One** American History course
-	- **One** lab science in BIO or Modern Astronomy
-	- **One** social science course
-3. GPA of 2.7 or higher and a “C” or better in the following professional education courses:
-	- EDU 105 Foundations of Education
-	- EDU 117 Exceptional Learners
-	- EDU 187 Human Relations
-	- EDU 195 Educ Psychology & Development
-	- EDU 215 Practicum in Education
-	- EDU 219 InstructTech for Teaching &Learning
-	- EDU 237 English Language Learners **OR** EDU 270 Literature K-12
-	- EDU 275 Math Comprehension for Teaching
-	- EDU 300 Expressive Methods
-	- EDU 305 Methods of Elementary Science
-	- EDU 335 Methods of Elementary Mathematics
-	- EDU 345 Methods of Elementary Language Arts
-	- EDU 355 Methods of Elementary Reading
-	- EDU 365 Methods of Elementary Soc Studies
-	- KIN 112 Health Educ for Elementary Teacher
-4. A K–6 Iowa teaching license must be accompanied by at least one K–8 endorsement (state approved specialization in a particular subject area) available at Coe. K–8 endorsements include: Art, English/Language Arts, French, Spanish, Health, History, Mathematics, Music, Physical Education, Reading, Science, Social Studies, or Speech Communication and Theater. Students should consult their Education advisor for assistance in adding these endorsements to their elementary teaching license.
-5. Student Teaching (4 course credits):
-	- EDU 492 Student Teaching K-3
-	- EDU 491 Student Teaching 4-6
-6. Successful completion of Student Teaching Seminar
-	- Active engagement in and regular attendance in seminar
-	- Dyslexia training
-	- Ethics training
-	- Mock evaluations
-	- CPR card (PE and coaching candidates)
-	- Successful completion and presentation of e-portfolio
-7. Demonstrate content-area knowledge and pedagogical knowledge by successfully passing state-required Praxis II exams.
-
-**NOTE:** ***Students seeking elementary licensure must have an advisor in the Education Department with whom they meet regularly (at least twice per year) to ensure timely completion of all graduation, general education, and licensure requirements.***
-
+**NOTE:** ***Students seeking elementary licensure must have an advisor in the Education Department with whom they meet regularly (at least twice per year) to ensure timely completion of all graduation, general education, and licensure requirements.***  
 
 ## Secondary Licensure
 Those interested in teaching at the secondary level must major in one or more teaching fields, minor in education, and meet the state requirements for a 5–12 endorsement (state-approved specialization in a particular subject area).  Teaching field(s) must be in subjects taught in the secondary schools and for which Coe has approval by the Iowa Department of Education.  
 	
->>**5–12 endorsements include**: American Government, American History, Art, Biology, Business, Chemistry, Coaching (see Kinesiology), Economics, English/Language Arts, French, Health, Math, Music, Physical Education, Physics, Psychology, Science, Social Studies, Sociology, Spanish, Speech Communication and Theater or World History. 
+>>**5–12 endorsements include**: American Government, American History, Art, Biology, Business, Chemistry, Coaching (see Kinesiology), Economics, English/Language Arts, Health, Math, Music, Physical Education, Physics, Psychology, Science, Social Studies, Sociology, Spanish, Speech Communication and Theater or World History. 
 
 **Requirements:**
+1. Students licensed at the secondary level, must have a 2.7 GPA or higher and a “C” or better in all courses in their major and in endorsement areas.  
+2. Iowa Distribution Requirements: a “C” or better in at least one course in each of the four fields of mathematics, natural sciences, social sciences, and humanities.  
+3. GPA of 2.7 or higher and a “C” or better in the following professional education courses:  
+	EDU 105 Foundations of Education  
+	EDU 117 Exceptional Learners  
+	EDU 187 Human Relations  
+	EDU 215 Practicum in Education  
+	EDU 217 Principles of Effective Instruction  
+	EDU 219 InstructTech for Teaching &Learning  
+ **One or more** of the following Methods courses:  
+	EDU 310 Methods of Secondary Bus Education  
+	EDU 311 Methods of Secondary Language Arts  
+	EDU 312 Methods of Secondary Social Studies  
+	EDU 313 Methods Secondary Mathematics  
+	EDU 320 Methods of Secondary Science  
+	EDU 321 Methods of World Language K-12  
+5. Successful completion of Student Teaching:  
+	EDU 489 Student Teaching Sr HS  
+	EDU 490 Student Teaching Jr HS  
+6. Successful completion of Student Teaching Seminar  
+	- Active engagement in and regular attendance in seminar  
+	- Dyslexia training  
+	- Ethics training  
+	- Mock evaluations  
+	- CPR card (PE and coaching candidates)  
+	- Successful completion and presentation of e-portfolio  
+7. Demonstrate content-area knowledge and pedagogical knowledge by successfully passing state-required Praxis II exams.  
 
-1. Students licensed at the secondary level, must have a 2.7 GPA or higher and a “C” or better in all courses in their major and in endorsement areas.
-2. Iowa Distribution Requirements: a “C” or better in at least one course in each of the four fields of mathematics, natural sciences, social sciences, and humanities.
-3. GPA of 2.7 or higher and a “C” or better in the following professional education courses:
-	- EDU 105 Foundations of Education
-	- EDU 117 Exceptional Learners
-	- EDU 187 Human Relations
-	- EDU 195 Educ Psychology & Development
-	- EDU 215 Practicum in Education
-	- EDU 219 InstructTech for Teaching &Learning
- **One or more** of the following Methods courses:
-	- EDU 310 Methods of Secondary Bus Education
-	- EDU 311 Methods of Secondary Language Arts
-	- EDU 312 Methods of Secondary Social Studies
-	- EDU 313 Methods Secondary Mathematics
-	- EDU 320 Methods of Secondary Science
-	- EDU 321 Methods of World Language K-12
-5. Successful completion of Student Teaching:
-	- EDU 489 Student Teaching Sr HS
-	- EDU 490 Student Teaching Jr HS
-6. Successful completion of Student Teaching Seminar
-	- Active engagement in and regular attendance in seminar
-	- Dyslexia training
-	- Ethics training
-	- Mock evaluations
-	- CPR card (PE and coaching candidates)
-	- Successful completion and presentation of e-portfolio
-7. Demonstrate content-area knowledge and pedagogical knowledge by successfully passing state-required Praxis II exams.
+**NOTE:** ***Not all Coe majors align perfectly with State of Iowa requirements for 5–12 endorsements. Students seeking secondary licensure should also have an advisor in the Education Department with whom they meet regularly (at least once per year) to ensure timely completion of all graduation, General Education, and licensure requirements.***
 
-**NOTE:** ***Not all Coe majors align perfectly with State of Iowa requirements for 5–12 endorsements. Students seeking secondary licensure should also have an advisor in the Education Department with whom they meet regularly (at least once per year) to ensure timely completion of all graduation, general education, and licensure requirements.***
-
-
-### Art, Music and Physical Education (K–12 licensure)
-Preparation for teaching at the elementary (K–8) and secondary (5–12) levels in the subject areas of art, music, and physical education includes state licensure requirements, in addition to work students complete in their major.
+### Art, Music and Physical Education (K–12 licensure)  
+Preparation for teaching at the elementary (K–8) and secondary (5–12) levels in the subject areas of art, music, and physical education includes state licensure requirements, in addition to work students complete in their major.  
 
 **Requirements:**
-
 1. Students licensed in art, music, or physical education must earn a 2.7 GPA or higher and a “C” or better in all courses in their major and in endorsement areas (state approved specialization in a particular subject area).
 2. Iowa Distribution Requirements: A “C” or better in at least one course in each of the four fields of mathematics, natural sciences, social sciences, and humanities.
-3. GPA of 2.7 or higher and a “C” or better in the following professional educational courses: 
-	- EDU 105 Foundations of Education
-	- EDU 117 Exceptional Learners
-	- EDU 187 Human Relations
-	- EDU 195 Educ Psychology & Development
-	- EDU 215 Practicum in Education
-	- EDU 219 InstructTech for Teaching &Learning
- **One or more** of the following Methods courses:
-	- ART 230 Art of Children & Adolescents
-	- KIN 315 Methods Elementary Sch PE & Health
-	- KIN 415 Methods of Secondary Schl PE & Hlth
-	- MU 360 Elementary & General Music Methods
-	- MU 361 Choral Music Methods **AND** MU 362 Instrumental Mus Methods for Choral 
-	- MU 363 Instrumental Music Methods **AND** MU 364 Choral Music Methods for Instrument 
-5. Successful completion of Student Teaching:
-	- EDU 481 Stu Tchg Sec: ART
-	- EDU 482 Stu Tchg Sec: Phys Education
-	- EDU 483 Std Teaching Elem: ART
-	- EDU 485 Std Teaching Elem: Phys Ed
-	- MU 421 Student Teaching Elementary Music
-	- MU 422 Student Teaching Secondary Music
-6. Successful completion of Student Teaching Seminar
-	- Active engagement in and regular attendance in seminar
-	- Dyslexia training
-	- Ethics training
-	- Mock evaluations
-	- CPR card (PE and coaching candidates)
-	- Successful completion and presentation of e-portfolio
-7. Demonstrate content-area knowledge and pedagogical knowledge by successfully passing state-required Praxis II exams.
+3. GPA of 2.7 or higher and a “C” or better in the following professional educational courses:   
+	EDU 105 Foundations of Education  
+	EDU 117 Exceptional Learners  
+	EDU 187 Human Relations  
+	EDU 215 Practicum in Education  
+	EDU 217 Principles of Effective Instruction  
+	EDU 219 InstructTech for Teaching &Learning  
+ **One or more** of the following Methods courses:  
+	ART 330 Methods of Teaching Art K-12  
+	KIN 315 Methods Elementary Sch PE & Health  
+	KIN 415 Methods of Secondary Schl PE & Hlth  
+	MU 360 Elementary & General Music Methods  
+	MU 361 Choral Music Methods
+	MU 363 Instrumental Music Methods
+4. Successful completion of Student Teaching:  
+	EDU 481 Stu Tchg Sec: ART  
+	EDU 482 Stu Tchg Sec: Phys Education  
+	EDU 483 Std Teaching Elem: ART  
+	EDU 485 Std Teaching Elem: Phys Ed  
+	EDU 478 Student Teaching Music Elementary  
+	EDU 479 Student Teaching Music Secondary  
+5. Successful completion of Student Teaching Seminar  
+	- Active engagement in and regular attendance in seminar  
+	- Dyslexia training  
+	- Ethics training  
+	- Mock evaluations  
+	- CPR card (PE and coaching candidates)  
+	- Successful completion and presentation of e-portfolio  
 
-**NOTE:** ***Not all Coe majors align perfectly with State of Iowa requirements for licensure. Students seeking licensure should also have an advisor in the Education Department with whom they meet regularly (at least once per year) to ensure timely completion of all graduation, general education, and licensure requirements.***
-
+**NOTE:** ***Not all Coe majors align perfectly with State of Iowa requirements for licensure. Students seeking licensure should also have an advisor in the Education Department with whom they meet regularly (at least once per year) to ensure timely completion of all graduation, General Education, and licensure requirements.***
 
 ### Student Teaching
 Permission to student teach requires approval of the Teacher Education Committee. Applications are due by February 1 for student teaching the following Fall Term and by September 1 for student teaching the following Spring Term. Applications are available from the Education Office.
