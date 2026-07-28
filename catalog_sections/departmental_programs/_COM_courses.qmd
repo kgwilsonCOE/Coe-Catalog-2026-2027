@@ -13,7 +13,7 @@ A major in communication studies requires a minimum cumulative 2.0 GPA in all co
     {{< var c.com381.long >}}  
 4. **One** course in Human Communication:  
     {{< var c.com137.long >}}  
-    {{< var c.com231.long >}} 
+    {{< var c.com231.long >}}  
     {{< var c.com225_227.long >}}  
     {{< var c.com322.long >}}  
     {{< var c.com327.long >}}  
@@ -21,7 +21,7 @@ A major in communication studies requires a minimum cumulative 2.0 GPA in all co
     {{< var c.com323.long >}}  
     {{< var c.com332.long >}}  
     {{< var c.com435_437.long >}}  
-5. **One** course in Mass Media:
+5. **One** course in Mass Media:  
     {{< var c.com141.long >}}  
     {{< var c.com151.long >}}  
     {{< var c.com157.long >}}  
