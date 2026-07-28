@@ -1995,9 +1995,9 @@ problems. Topics will include linear and multiple regression, quadratic discrimi
   Investigates a career area related to the student’s interest in data science supervised by a faculty member of the department in cooperation with the Internship Specialist. A minimum of 140 hours on-site experience is required. P/NP basis only. This course does not satisfy any of the requirements for any major or minor. Prerequisites: junior standing and consent of supervising instructor. (Offered by arrangement)  
 
 
-## Economics {#sec-economics}
+## Economics
 
-See @sec-business-administration-and-economics
+See Business Administration and Economics p. 81
 
 
 ## Education {#sec-education}
