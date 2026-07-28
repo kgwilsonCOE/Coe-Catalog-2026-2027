@@ -1564,7 +1564,7 @@ A major in communication studies requires a minimum cumulative 2.0 GPA in all co
     COM 381 Research Method Communication Study  
 4. **One** course in Human Communication:  
     COM 137 Interpersonal Communication  
-    COM 231 Communication in Teams (WE) 
+    COM 231 Communication in Teams (WE)  
     +++MISSING INFO: c.com225_227.long +++  
     COM 322 Prof Communication & Writing (WE)  
     COM 327 Organizational Communication (WE)  
@@ -1572,7 +1572,7 @@ A major in communication studies requires a minimum cumulative 2.0 GPA in all co
     COM 323 Relational Com:Theory & App (WE)  
     COM 332 Health Communication (WE)  
     COM 435/437 Special Topics in Relational Communication (WE)  
-5. **One** course in Mass Media:
+5. **One** course in Mass Media:  
     COM 141 Intro to Journalism  
     COM 151 Introduction to New Media Studies  
     COM 157 Introduction to Media Analysis  
