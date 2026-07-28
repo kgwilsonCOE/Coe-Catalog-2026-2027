@@ -656,7 +656,35 @@
 	    "long": "'BIO 105 Introduction to Environmental Studies'",
 	    "desc": "Examines interactions between human population density and natural resources, biodiversity, and human health; emphasizing the ecological concepts that underlie selected environmental problems, but also drawing methods and viewpoints from the social sciences. The focus of the course is global and uses case studies reflecting diverse political, economic, and cultural perspectives. Sustainability is a central theme. Three hours per week. Counts as a non-lab science course.  (This course does not satisfy any of the requirements for a major in biology.)",
 	    "namelink": "", 
-	    "namelinklong": ""		
+	    "namelinklong": ""	
+	}, 
+	"com225_227_245_247_275_277": {
+	    "short": "'COM 225/227, 245/247, 275/277'",
+	    "long": "'COM 225/227, 245/247, 275/277 Topics in Communication Studies'",
+	    "desc": "Offers selected topics on specific concerns, problems, or trends in writing and rhetoric. Content varies as determined by instructor. May be taken more than once for credit, provided topics are distinct.",
+	    "namelink": "", 
+	    "namelinklong": ""	
+	}, 
+	"com225_227": {
+	    "short": "'COM 225/227'",
+	    "long": "'COM 225/227 Topics in Communication Studies'",
+	    "desc": "Offers selected topics on specific concerns, problems, or trends in writing and rhetoric. Content varies as determined by instructor. May be taken more than once for credit, provided topics are distinct.",
+	    "namelink": "", 
+	    "namelinklong": ""
+	}, 
+	"com245_247": {
+	    "short": "'COM 245/247'",
+	    "long": "'COM 245/247 Topics in Communication Studies'",
+	    "desc": "Offers selected topics on specific concerns, problems, or trends in writing and rhetoric. Content varies as determined by instructor. May be taken more than once for credit, provided topics are distinct.",
+	    "namelink": "", 
+	    "namelinklong": ""
+	}, 
+	"com275_277": {
+	    "short": "'COM 275/277'",
+	    "long": "'COM 275/277 Topics in Communication Studies'",
+	    "desc": "Offers selected topics on specific concerns, problems, or trends in writing and rhetoric. Content varies as determined by instructor. May be taken more than once for credit, provided topics are distinct.",
+	    "namelink": "", 
+	    "namelinklong": ""
     }
   }
 }
