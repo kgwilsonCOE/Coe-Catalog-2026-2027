@@ -1,84 +1,59 @@
-## Chemistry {#sec-chemistry}
+## Chemistry
 
-Ibrahim, Noreuil, St. Clair (Chair), Singleton, Stead, Stoudt.
+Edvenson, Singleton, Stead, Stoudt (Chair)
 
-The chemistry department seeks to support Coe's mission by providing students with top-quality instruction and research opportunities.  The department offers a major and minor in **Chemistry** as well as collateral majors in **Biochemistry** (see @sec-biochemistry), **Environmental Science** (see @sec-environmental-science), and **Neuroscience** (see @sec-neuroscience).  Students considering a chemistry major may continue research in a graduate program, pursue a career in the health sciences or teach science at the secondary level.
+The chemistry department seeks to support Coe’s mission by providing students with top-quality instruction and research opportunities.  The department offers a major and minor in **Chemistry** as well as collateral majors in **Biochemistry** (see p. 72) and **Neuroscience** (see p. 169).  Students considering a chemistry major may continue research in a graduate program, pursue a career in the health sciences or teach science at the secondary level.
 
-Students who receive a grade of less than "C--" in a prerequisite course are expected to consult with the instructor of the subsequent course prior to continuing in the chemistry curriculum.
+Students who receive a grade of less than “C–” in a prerequisite course are expected to consult with the instructor of the subsequent course prior to continuing in the chemistry curriculum. 
 
-In addition to a major in **Chemistry**, the chemistry department also offers an **American chemical society certified chemistry major**. This major might be considered by students interested in chemistry as a career.
+In addition to a major in **Chemistry**, the chemistry department also offers an **American Chemical Society Certified Chemistry Major**. This major might be considered by students interested in chemistry as a career.
 
-### Chemistry Major 
-A major in chemistry requires a minimum cumulative 2.0 GPA in all courses counted toward the major.
+### Chemistry Major  
+A major in chemistry requires a minimum cumulative 2.0 GPA in all courses counted toward the major.  
 
-1. CHM 121/121L General Chemistry I and Laboratory
-
-2. CHM 122/122L General Chemistry II and Laboratory
-
-3. CHM 211/211L Analytical Chemistry and Laboratory (WE)
-
-4. CHM 221 Organic Chemistry I
-
-5. CHM 341/341L Physical Chemistry I (WE) and Laboratory
-
+1. CHM 121/121L General Chemistry I and Laboratory  
+2. CHM 122/122L General Chemistry II and Laboratory  
+3. CHM 211/211L Analytical Chemistry and Laboratory (WE)  
+4. CHM 221 Organic Chemistry I  
+5. CHM 341/341L Physical Chemistry I (WE) and Laboratory  
 6. **Three** additional courses to be chosen from the list of advanced chemistry electives below:
+    CHM 321 Organic Chemistry II  
+    CHM 322 Organic Laboratory  
+    CHM 421 Advanced Organic Chemistry  
+    CHM 422 Synthesis Laboratory I  
+    CHM 431/431L Biochemistry and Laboratory  
+    CHM 432/432L Protein Biochemistry and Laboratory  
+    CHM 441 Physical Chemistry II  
+    CHM 451/ 451L Inorganic Chemistry and Laboratory (WE)  
+7. MTH 145 Calculus II  
+8. PHY 185/185L General Physics I & Laboratory  
+9. PHY 195/195L General Physics II & Laboratory  
+10. CHM 464 Seminar in Chemistry I **and** CHM 474 Seminar in Chemistry II  
 
-    - CHM 321 Organic Chemistry II
-    - CHM 322 Organic Laboratory
-    - CHM 411 Advanced Analytical Chemistry
-    - CHM 421 Advanced Organic Chemistry
-    - CHM 422 Synthesis Laboratory I
-    - CHM 431/431L Biochemistry and Laboratory
-    - CHM 432/432L Protein Biochemistry and Laboratory
-    - CHM 441 Physical Chemistry II
-    - CHM 442 Materials Physics and Chemistry
-    - CHM 451/ 451L Inorganic Chemistry and Laboratory (WE)
-
-7. MTH 145 Calculus II
-
-8. PHY 185/185L General Physics I & Laboratory
-
-9. PHY 195/195L General Physics II & Laboratory
-
-10. **One** of the following combinations:
-      - CHM 464 Seminar in Chemistry I **and** CHM 474 Seminar in Chemistry II
-      - OCC 365 Oak Ridge Science Semester **and** CHM 474 Seminar in Chemistry II
-
-*Recommended:*
-
-  - MTH 255 Calculus III
+*Recommended:*  
+    MTH 255 Calculus III  
 
 ### Chemistry Minor
 
-1. CHM 121/121L General Chemistry I and Laboratory
+1. CHM 121/121L General Chemistry I and Laboratory  
+2. CHM 122/122L General Chemistry II and Laboratory  
+3. **Four** 1.0-credit chemistry electives numbered 200 or above
 
-2. CHM 122/122L General Chemistry II and Laboratory
-
-3. **Four** chemistry electives numbered 200 or above
-
-### American Chemical Society Certified Chemistry Major 
-1. Completion of a major in chemistry, including Calculus II and two General Physics courses 
-2. All of the following:
-
-    - CHM 321 Organic Chemistry II
-    - CHM 322 Organic Laboratory
-    - CHM 422 Synthesis Laboratory I
-    - CHM 431/431L Biochemistry and Laboratory
-    - CHM 451/ 451L Inorganic Chemistry and Laboratory (WE)
-    
-3. Two of the following:
-
-    - CHM 411 Advanced Analytical Chemistry
-    - CHM 421 Advanced Organic Chemistry
-    - CHM 432/432L Protein Biochemistry and Laboratory
-    - CHM 441 Physical Chemistry II
-    - CHM 442 Materials Physics and Chemistry
-    
-4.	One of the following:
-
-    - CHM 444 Independent Study Chemistry
-    - CHM 454 Undergraduate Summer Research
-    - OCC 365 Oak Ridge Science Semester
+### American Chemical Society Certified Chemistry Major  
+1. Completion of a major in chemistry, including Calculus II and two General Physics courses  
+2. **All** of the following:
+    CHM 321 Organic Chemistry II  
+    CHM 322 Organic Laboratory  
+    CHM 422 Synthesis Laboratory I  
+    CHM 431/431L Biochemistry and Laboratory  
+    CHM 451/ 451L Inorganic Chemistry and Laboratory (WE)      
+3. **Two** of the following:  
+    CHM 421 Advanced Organic Chemistry  
+    CHM 432/432L Protein Biochemistry and Laboratory  
+    CHM 441 Physical Chemistry II  
+4.	**One** of the following:  
+    CHM 444 Independent Study Chemistry  
+    CHM 454 Undergraduate Summer Research  
 
 ### Courses in Chemistry
 
@@ -94,14 +69,14 @@ A major in chemistry requires a minimum cumulative 2.0 GPA in all courses counte
   A study of the theory of equilibria as they apply to quantitative chemical analysis. The basic principles of spectroscopy, potentiometry, and chromatography are introduced. Three class meetings per week. Prerequisite: General Chemistry II and Laboratory (CHM-122/-122L). Corequisite: Analytical Chemistry Laboratory (CHM-211L).  
  **CHM 211L Analytical Chemistry Laboratory**  
   An introduction to experimental analytical chemistry, including titrimetric, potentiometric, spectroscopic, and chromatographic techniques. Two three-hour laboratories per week. Prerequisite: General Chemistry II and Laboratory (CHM-122/-122L). Corequisite: Analytical Chemistry (CHM-211). (0.5 course credit)  
+ **CHM 221 Organic Chemistry I**  
+  A study of the chemistry of carbon compounds, emphasizing reaction mechanisms and the influence of structure on the physical and chemical properties of these substances. Topics include alkanes, alkenes, alkynes, and other functional groups, as well as stereochemistry, ring systems, spectroscopy, and substitution and elimination reactions. This course is the first of a two-term organic chemistry sequence appropriate for students in chemistry and biological sciences, as well as those pursuing pre-medical, pre-dental, and pre-veterinary programs. Prerequisite: General Chemistry II and Laboratory (CHM-122/-122L) or consent of instructor.  
  **CHM 321 Organic Chemistry II**  
   Covers reactions of aromatic and carbonyl compounds, amines, and carbohydreates in a continuation of Organic Chemistry I (CHM - 221). Prerequisite: Organic Chemistry I (CHM-221).  
  **CHM 322 Organic Laboratory**  
   Introduces techniques for the separation, purification, and synthesis of organic compounds, in addition to chemical and spectroscopic methods of characterization. Two three-hour laboratories and one ninety-minute discussion per week. Prerequisite: previous or concurrent registration in Organic Chemistry II (CHM-321).  
  **CHM 341/341L Physical Chemistry I (WE) and Laboratory**  
   Study of chemical systems from a molecular basis. Basic concepts of kinetic molecular theory, quantum mechanics and thermodynamics applied to molecular structure and chemical change. Fundamentals of electronic structure of atoms and molecules and interaction of matter with light. Three class meetings and one three-hour, (0.0 course credit) laboratory per week. Prerequisites: General Chemistry II & Laboratory (CHM-122/-122L), General Physics I & Laboratory (PHY-185/-185L), and Calculus II (MTH-145).  
- **CHM 411 Advanced Analytical Chemistry**  
-  Theory and applications of instrumental methods for chemical analysis. Methods include spectroscopy, voltammetry, advanced chromatographic methods, and mass spectrometry. Prerequisite: Physical Chemistry I & Laboratory (CHM341/-341L). (Offered alternate years)  
  **CHM 421 Advanced Organic Chemistry**  
   Extensive survey of synthetic and mechanistic implications of many organic reactions. Recent chemical developments and the use of the original scientific literature emphasized. Prerequisite: Organic Laboratory (CHM-322). (Offered alternate years)  
  **CHM 422 Synthesis Laboratory I**  
