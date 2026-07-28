@@ -1,46 +1,66 @@
 ## Economics
-Economics is a social science concerning the study of how economic agents make choices in the face of scarcity. Economists study a broad variety of topics ranging from the theory of the consumer to economic growth and the wealth of nations. Students majoring in economics have two options: the economics major and the international economics major (see @sec-international-economics). The economics major is designed to permit a broad enough selection of courses for students to develop a general competence in economics, and to prepare students for graduate work in economics or other disciplines, such as law or business. The international economics major is designed to allow students who are interested in international studies to explore issues of development, growth, and international finance, using the tools of economic analysis.  
-Because of significant overlap in the economics and the international economics requirements, only one of the two majors may be elected by a student. Students majoring in economics or international economics may not minor in either economics or international economics.  See @sec-international-economics for the International Economics major and minor requirements.
+Economics is a social science concerning the study of how economic agents make choices in the face of scarcity. Economists study a broad variety of topics ranging from the theory of the consumer to economic growth and the wealth of nations. Students majoring in economics have two options: the economics major and the international economics major (see p. 147). The economics major is designed to permit a broad enough selection of courses for students to develop a general competence in economics, and to prepare students for graduate work in economics or other disciplines, such as law or business. The international economics major is designed to allow students who are interested in international studies to explore issues of development, growth, and international finance, using the tools of economic analysis.
+
+Because of significant overlap in the economics and the international economics requirements, only one of the two majors may be elected by a student. Students majoring in economics or international economics may not minor in either economics or international economics.  
 
 ### Economics Major 
+
 A major in economics requires a minimum cumulative 2.0 GPA in all courses counted toward the major.  
+
 1. ECO 175 Principles of Macroeconomics  
 2. ECO 215 Prin Microeconomics  
 3. ECO 315 Intermediate Macroeconomic Theory  
 4. ECO 345 Intermediate Microeconomics  
 5. ECO 375 Econometrics  
-6. One of the following Microeconomics Field courses:   
-  ECO 237 Labor Economics  
-  ECO 247 Health Economics  
-  ECO 446 International Econ  
-  ECO 447 Urban Economics  
-7. One of the following Macroeconomics Field courses:  
-  ECO 225 Money & Banking  
-  ECO 336 Divergent Economic Growth  
-  ECO 422 Macroeconomics Policy  
-  ECO 465 Public Finance  
-8. One of the following Quantitative or History courses:  
+6. **One** of the following Microeconomics Field courses:   
+    ECO 237 Labor Economics  
+    ECO 247 Health Economics  
+    ECO 447 Urban Economics  
+7. **One** of the following Macroeconomics Field courses:  
+    ECO 225 Money & Banking  
+    ECO 336 Divergent Economic Growth  
+    ECO 422 Macroeconomics Policy  
+    ECO 446 International Econ  
+8. **One** of the following Quantitative or History courses:  
   Quantitative courses:  
     ECO 435 Time Series Analysis  
     ECO 445 Econometrics II  
+    ECO 485 Mathematical Economics 
+  History courses:
+    ECO 395 History of Economic Thought  
+    ECO 424 Political Economy  
+    ECO 457 US Econ History  
+9.	**One** of the following Seminars:  
+    ECO 436 Econ Development  
+    ECO 401 Seminar in Macroeconomics   
+    ECO 402 Seminar in Microeconomics  
+10.	**Two** additional economics courses numbered 200 or higher, with at least one of the two courses numbered 300 or higher  
+
+**NOTE:** Students intending to pursue a graduate degree in economics are strongly encouraged to complete the following: 
+    MTH 135 Calculus I  
+    MTH 145 Calculus II  
+    MTH 255 Calculus III  
+    MTH 365 Abstract Linear Algebra  
+    ECO 435 Time Series Analysis  
+    ECO 444 Ind Study-Economics  
+    ECO 454 Research in Economics  
     ECO 485 Mathematical Economics  
 
 ### Economics Minor 
 1. ECO 175 Principles of Macroeconomics
 2. ECO 215 Prin Microeconomics
-3. One of the following Microeconomics courses:   
+3. **One** of the following Microeconomics courses:   
    ECO 237 Labor Economics  
    ECO 247 Health Economics  
    ECO 345 Intermediate Microeconomics  
-   ECO 446 International Econ  
    ECO 447 Urban Economics  
-4.	One of the following Macroeconomics courses:   
+4. **One** of the following Macroeconomics courses:   
    ECO 225 Money & Banking  
    ECO 315 Intermediate Macroeconomic Theory  
    ECO 336 Divergent Economic Growth  
    ECO 422 Macroeconomics Policy  
-   ECO 495 International Finance  
-5. Two additional Economics courses numbered 200 or higher, with at least one of the two courses numbered 300 or higher.
+   ECO 446 International Econ  
+5. **Two** additional Economics courses numbered 200 or higher, with at least one of the two courses numbered 300 or higher.
 
 ### Courses in Economics
 
@@ -49,6 +69,7 @@ A major in economics requires a minimum cumulative 2.0 GPA in all courses counte
 **BUS 441 Advanced Business Analytics**;  
 **BUS 495 Investment Analysis**;  
 See Business Administration, Section 25.11  
+
 **ECO 105 Econ & Public Int**   
   Designed to give students the opportunity to learn the fundamentals of the economic approach to problems and enable them to apply elementary concepts such as supply and demand, marginal costs and benefits, and the national income identity to problems like the environment, public choice, the budget deficit, the trade deficit, etc. The core of the course consists of the analytics of the economic way of thinking; the applications change from time to time. This course does not satisfy any of the requirements for a major or minor in economics or international economics.   
 **ECO 115 Intro Political Econ**   
@@ -125,6 +146,3 @@ See Business Administration, Section 25.11
   An introduction to mathematics as a tool to formulate economic models. Includes elementary matrix operations, use of derivatives in utility and production theory, and constrained optimization solutions. Little mathematical preparation required; familiarity with economics a necessity. Prerequisites: Intermediate Macroeconomic Theory (ECO-315), and Intermediate Price Theory (ECO-345) or equivalent.   
 **BUS 495 Investment Analysis**  
 See Business Administration, Section 25.11  
-**ECO 495 International Finance**  
-  A study of the theory of exchange rate determination and the balance of payments. Attention is given to how changes in the exchange rates affect international assets and portfolios. Prerequisites: Principles of Macroeconomics (ECO175) and Principles of Microeconomics (ECO-215).  
-
