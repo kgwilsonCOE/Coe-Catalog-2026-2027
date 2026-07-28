@@ -1,77 +1,89 @@
 ## Computer Science
-Hostetler, Hughes, Stobb.  
+Hughes, Saha, Stobb
 
-Computer Science is the study of abstractions and algorithmic processes and how they can be applied to fulfill human information needs. The department of mathematical sciences offers a complete range of courses, with majors and minors available in **COMPUTER SCIENCE**, **DATA SCIENCE**, and **MATHEMATICS**, as well as courses in statistics for additional breadth. The department adheres to its belief that the mathematical sciences and the habits of mind that they engender are components of a fine liberal arts education
+Computer Science is the study of abstractions and algorithmic processes and how they can be applied to fulfill human information needs. The department of mathematical sciences offers a complete range of courses, with majors and minors available in **COMPUTER SCIENCE, DATA SCIENCE,** and **MATHEMATICS**, as well as courses in statistics for additional breadth. The department adheres to its belief that the mathematical sciences and the habits of mind that they engender are components of a fine liberal arts education.
 
 ### Computer Science Major
 
 A major in computer science requires a minimum cumulative 2.0 GPA in all courses counted toward the major.
 
-1. CS 125 Computer Science I, or commensurate programming experience
-2. CS 135 Data Structures
-3. MTH 135 Calculus I
-4. CS 215 Analysis of Algorithms
-5. CS 220 Principles of Computer Systems
-6. One of the following:  
-   CS 235 Net-Centric Computing  
+1. CS 110 Introduction to Programming, **or** commensurate programming experience  
+2. CS 115 Data Structures  
+3. CS 210 Object Oriented Software Developmen  
+4. CS 215 Analysis of Algorithms  
+5. CS 220 Principles of Computer Systems  
+6. **One** Introductory Mathematics course:
+   MTH 135 Calculus I  
+   MTH 165 Computational Linear Algebra  
+7. MTH 215 Foundations of Advanced Mathematics  
+8. **One** of the following:   
+   CS 230 Web Programming  
    DS 230 Data-Centric Computing  
-7. CS 245 Object Oriented Programming  
-8. MTH 215 Foundations of Advanced Mathematics  
-9. One Software Development Course  
-   CS 390 Software Engineering  
-   CS 452 Interactive System Design  
-   CS 490 Mobile Computing  
-10. One Systems Course   
+9. **Three** Computer Science Application courses: 
    CS 320 Operating Systems  
+   CS 330 Cyber-Physical Systems  
    CS 340 Programming Languages  
-11. One additional Computer Science or Data Science Course numbered 300 or higher
+   CS 350 Computer Graphics  
+   CS 384 Special Topics:Applications  
+   DS 315 Machine Learning  
+   DS 370 Database Systems and Data Managemen  
+10. **One** Advanced Software Development course:
+   CS 410 Interactive Systems Design  
+   CS 430 Software Development for Web Applic  
+   CS 440 Mobile Computing  
+11. CS 480 Software Engineering Capstone  
 
 ### Computer Science Minor 
 
-1. CS 125 Computer Science I
-2. CS 135 Data Structures
-3. CS 215 Analysis of Algorithms
-4. CS 245 Object Oriented Programming
-5. One of the following:  
-   CS 235 Net-Centric Computing  
-   DS 230 Data-Centric Computing  
-6. One additional Computer Science or Data Science Course numbered 300 or higher
+1. CS 110 Introduction to Programming   
+2. CS 115 Data Structures  
+3. CS 210 Object Oriented Software Developmen  
+4. **Two** additional Computer Science courses numbered 200 or higher
+5. **One** additional Computer Science course numbered 300 or higher
+
+The following courses do not satisfy any of the requirements for a major or minor in Computer Science:
+CS 105 Computers & Society   
+CS 205 Competitive Programming   
 
 ### Courses in Computer Science 
 
  **CS 105 Computers & Society**   
   Examines the impact of emerging computer technologies on western culture. Topics include computer ethics, intellectual property rights, the transformation of work, electronic communities, free speech, privacy, and security.   
- **CS 125 Computer Science I**   
-  Introduces computer programming as a methodology for problem solving and articulating solutions. Students learn to conceptualize, plan and implement programs in a modern programming language. Topics include data representation and manipulation, control structures, and subtask decomposition. Students experiment with basic concepts during regularly scheduled laboratory sessions   
- **CS 135 Data Structures**   
-  Continues the development of programming by focusing on the design and implementation of more complex software structures. This course covers the basics of recursion, pointers, and dynamically allocated data structures. Other topics include efficiency analysis, abstract data types, and the software development life cycle. Prerequisite: Introduction to Programming (CS-125)   
+ **CS 110 Introduction to Programming**   
+  Introduces computer programming as a methodology for problem solving and articulating solutions. Students learn to conceptualize, plan and implement programs in a modern programming language. Topics include data representation and manipulation, control structures, and subtask decomposition. Students experiment with basic concepts during regularly scheduled laboratory sessions.   
+ **CS 115 Data Structures**   
+  Continues the development of foundational programming concepts by focusing on the design and implementation of more complex software structures. Students will examine essential data structures including arrays, linked lists, stacks, queues, trees, graphs, and hash tables. Emphasis is placed on solving computational problems efficiently and recognizing implementation trade-offs in practical applications. Prerequisite: Introduction to Programming (CS-110)   
+ **CS 205 Competitive Programming**   
+  Provides structured time for students to develop competitive programming and technical interview skills through hands-on practice. Students work independently on weekly problem sets that expose them to essential programming techniques, algorithms and data structures. May be taken more than once. (.25 course credit). Prerequisite: CS 110   
+ **CS 210 Object Oriented Software Developmen**   
+  Studies the structure and design of larger scale programs using an object-oriented approach. Students learn to apply appropriate design techniques and patterns to implement robust, maintainable, and scalable software systems. Additional contemporary code mechanisms, such as events, exceptions, user interfaces and concurrency are also explored. Prerequisite: Data Structures (CS-115).   
  **CS 215 Analysis of Algorithms**   
   Studies fundamental algorithm design paradigms including divide-and-conquer, dynamic programming, greedy algorithms, and backtracking. The course examines classical algorithms involving searching, sorting, optimized tree structures, graph traversal, and path-finding problems. Emphasis is placed on analyzing and comparing worst-case and average-case performance. Advanced topics include complexity classes and the theoretical limits of computation. Prerequisite: Data Structures (CS-115).   
  **CS 220 Principles of Computer Systems**  
   Studies the low-level operation of computer systems to gain perspective on how computers encode, process and store information in the machine’s hardware.  Students will progress from the digital logic level through assembly language. Topics include, data representation, computer arithmetic, elementary circuit design, computer organization, instruction sets, memory addressing and control flow. Prerequisite: Introduction to Programming (CS-110)  
- **CS 235 Net-Centric Computing**  
-  A study of the structure, design and implementation of applications enabled by networking technologies. This course examines the fundamentals of network programming and the client-server architecture as well as exploring the role of protocols, authentication, distributed objects and security. Students also gain experience building and deploying web-based applications. Prerequisite: previous or concurrent enrollment in Computer Science II (CS-135) or consent of instructor.  
- **CS 245 Object Oriented Programming**  
-  A study of the structure and design of larger scale programs using an object-oriented approach. Emphasizes key concepts of object-oriented programming including: encapsulation, inheritance, and polymorphism. Additional contemporary code mechanisms, such as events, exceptions and interfaces are also explored. Prerequisite: Computer Science II (CS-135).  
+ **CS 230 Web Programming**   
+  Provides a comprehensive introduction to modern web programming, focusing on both client-side and server-side technologies. Students will learn to design and implement interactive web applications using HTML, CSS, and JavaScript, progressing from fundamental web page structure to dynamic, data-driven interfaces. The course also explores the fundamentals of network programming including protocol structure, client-server architectures and RESTful API development. Prerequisite: Introduction to Programming (CS-110)   
+ **CS 280 Algorithms in Society**  
+  Explores the impact computer algorithms have on our lives, including the gathering of large collections of personal data by both corporations and governments, and the resulting ethical issues of use and privacy. Topics include: targeted advertising in commerce and politics, artificial intelligence algorithms, machine-human interactions and behavior, and the social power and influence of big data. Prerequisite: Analysis of Algorithms (CS-215).  
  **CS 320 Operating Systems**  
   Explores the role of the operating system as an intermediary between the user, software and hardware of a computer system. Includes a system-level view of how the machine resources such as the processor, memory, and storage are managed. Prerequisite: Data Structures (CS-115) and Principles of Computer Systems (CS-220)  
+ **CS 330 Cyber-Physical Systems**  
+  Explores the design, implementation, and analysis of systems that integrate computational processes with the physical environment. Students will investigate how embedded computers interact with the physical world through sensors, actuators, microcontrollers and communication networks to create intelligent, responsive systems. Prerequisite: Principles of Computer Systems (CS-220) and Web Programming (CS-230)  
  **CS 340 Programming Languages**  
   Explores the fundamental principles of programming language design and implementation. Through comparative analysis and programming in multiple paradigms, students develop the ability to quickly learn new languages and make informed choices about language selection. Additional topics include lexical analysis, parsing, and code generation. Prerequisite: Analysis of Algorithms (CS-215)  
- **CS 390 Software Engineering**  
-  An introduction to the principal models that govern the design and implementation of large software systems. Topics include the software development process, specifications, verification, and validation. Students are also exposed to modern software development tools to facilitate activities such as unit testing and version control. Prerequisite: Object Oriented Programming (CS-245) or consent of instructor.  
- **CS 420 Algorithms in Society**  
-  Explores the impact computer algorithms have on our lives, including the gathering of large collections of personal data by both corporations and governments, and the resulting ethical issues of use and privacy. Topics include: targeted advertising in commerce and politics, artificial intelligence algorithms, machine-human interactions and behavior, and the social power and influence of big data. Prerequisite: Analysis of Algorithms (CS-215).  
+ **CS 350 Computer Graphics**  
+  Introduces the fundamentals of computer graphics. Topics include user interface design, input/ output devices, and basic graphics concepts. Prerequisite: Object Oriented Software Development (CS-210)  
+ **CS 384 Special Topics:Applications**  
+  Offers an opportunity to study current and topical material unavailable through the regular catalog offerings. The specific topic varies by offering and may reflect current research directions, specialized subfields, or interdisciplinary applications of computing. Prerequisite: Object Oriented Software Development (CS-210)  
+ **CS 410 Interactive Systems Design**  
+  Explores the design, implementation, and evaluation of interactive systems through study of both mainstream and emerging interface technologies. Examines how human cognitive and ergonomic constraints drive the success or failure of technological solutions. Prerequisite: Object Oriented Software Development (CS-210)  
+ **CS 430 Software Development for Web Applic**  
+  Explores the design and development of full-scale web applications using modern software engineering practices. Students will apply principles of software architecture, modular design, and maintainability to build robust, secure, and scalable web systems. Topics include server-side frameworks, RESTful APIs, authentication and authorization, database integration, testing, deployment, and performance considerations. Prerequisite: Object-Oriented Software Development (CS-210) and Web Programming (CS-230)  
+ **CS 440 Mobile Computing**  
+  Studies the opportunities and constraints associated with developing applications intended to run on mobile and pervasive platforms. Students learn to utilize several core APIs (e.g. connectivity, location-based services, and multimedia) as they develop and deploy mobile applications. Prerequisite: Object Oriented Software Development (CS-210); Web Programming (CS-230) is strongly recommended.  
  **CS 444 Ind Study-Comp Sci**  
   An opportunity for independent and intensive study in computer science. May be taken for an X status grade with consent of instructor prior to registration.  Prerequisite: consent of supervising instructor. (Offered by arrangement)  
- **CS 450 Principles of Computer Graphics**  
-  An introduction to the fundamentals of computer graphics. Topics include user interface design, input/ output devices, and basic graphics concepts. Prerequisite: Data Structures and Algorithms (CS-215) or consent of instructor.  
- **CS 452 Interactive System Design**  
-  Explores the design, implementation, and evaluation of interactive systems through study of both mainstream and emerging interface technologies. Examines how human cognitive and ergonomic constraints drive the success or failure of technological solutions.  Prerequisite: Object Oriented Programming (CS-245) or consent of instructor.  
- **CS 454 Research in Computer Science**   
-  Individual or group investigation with a computer science faculty member on a research topic of mutual interest. The student must obtain approval for a specific project and make necessary arrangements prior to the term of registration for the course. This course is offered on an S/U basis and does not satisfy any of the requirements for a major or minor in computer science. May be taken more than once for credit for a maximum of 2.0 credits. Prerequisites: Data Structures and Algorithms (CS-215) and consent of supervising instructor. (1.0 credit; Offered by arrangement)  
+ **CS 480 Software Engineering Capstone**  
+  Provides advanced Computer Science majors the opportunity to integrate and apply knowledge acquired throughout the degree program in a comprehensive, semester-long project. Students work individually or in teams to design, implement, test, and deliver a substantial software system or research-based solution to an open-ended problem. Emphasis is placed on professional practices including requirements analysis, system architecture, project management, version control workflows, documentation, and effective communication with both technical and non-technical audiences. Prerequisite: One 300-level Applications course and One 400-level Software Development course.  
  **CS 484 Special Topics:Software Development**  
   Offers an opportunity to study advanced topics unavailable through the regular catalog offerings. The course will explore alternate processes, frameworks or approaches to modern software development. Prerequisite: Object Oriented Software Development (CS-210)  
- **CS 490 Mobile Computing**  
-  A study of the opportunities and constraints associated with developing applications intended to run on mobile platforms. Students learn to utilize several core APIs (e.g. connectivity, location-based services, and multimedia) as they develop and deploy mobile applications.  Additional emphasis is placed on user interface design. Prerequisite: Object Oriented Programming (CS-245) or consent of instructor.  
- **CS 494 Internship in Computer Science**  
-  Investigation of a career area related to the student’s interest in computer science supervised by a faculty member of the department in cooperation with the Internship Specialist. A minimum of 140 hours on-site experience is required. S/U basis only. This course does not satisfy any of the requirements for a major or minor in computer science. Prerequisites: junior standing and consent of supervising instructor. (Offered by arrangement).  
