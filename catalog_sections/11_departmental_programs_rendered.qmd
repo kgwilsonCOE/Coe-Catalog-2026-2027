@@ -1549,101 +1549,126 @@ A major in chemistry requires a minimum cumulative 2.0 GPA in all courses counte
   Examines the origins of contemporary medical terminology, in part by studying the development of a distinct technical vocabulary, with historical roots in the Greco-Roman, Arabic, and Modern-European worlds, which developed as physicians discovered distinct ways of communicating both with their patients and with each other.  
 
 
-## Communications Studies {#sec-communication-studies}
-Carr (Chair), Donofrio, Harmsen, , J. Nesmith, Opayemi, Spikes
+## Communications Studies
+Carr, Harmsen, Opayemi (Chair)
 
 The aim of the major in communication studies is to provide a background of theory and practice in oral and mediated communication.  In their study of formal and informal oral, print and digital environments, students will learn to communicate ethically, responsibly and effectively for diverse audiences in multiple contexts.
 
 ### Communication Studies Major
 A major in communication studies requires a minimum cumulative 2.0 GPA in all courses counted toward the major.
 
-1. COM-125 Fundamentals of Public Speaking
-2. One methods course:
-    - COM 381 Research Method Communication Study
-    - RHE 382/COM 382 ResearchMethods:Rhetorical/Critical
-3. RHE-200 Rhetorical Theory & Practice
-4. One course in relational communication:
-    - COM 236 Intercultural Communication
-    - COM 237 Interpersonal Communication
-    - COM 337 Persuasion
-    - COM 435/437 Special Topics in Relational Communication (WE)
-5. One course in production:
-    - COM 241 Multimedia Journalism
-    - COM 341 Digital Storytelling
-    - COM 445/447 Special Topics in Production (WE)
-    - RHE 225 Journalism/Media Wtg Wksp
-6. One course in media studies:
-    - COM 151 Introduction to New Media Studies
-    - COM 157 Introduction to Media Analysis
-    - COM 357 Sex, Race, & Gender in Media
-    - COM 455/457 Special Topics in Media Studies (WE)
-7. One course in public discourse:
-    - COM 161 Visual Rhetoric
-    - COM 361 Communication & Social Change
-    - COM 362 U.S. Public Address
-    - COM 465/467 Special Topics in Public Discourse (WE)
-8.	A Communication Studies course numbered 400 or above (if not used to satisfy a requirement above), excluding COM 494 Internship in Journalism/Communicat
-9.	Two additional Communication Studies courses
+1. COM 101 Intro to Communication Studies  
+2. COM 125 Fundamentals of Public Speaking  
+3. **One** methods course:  
+    COM 281 Intro to Research Methods (WE)  
+    COM 381 Research Method Communication Study  
+4. **One** course in Human Communication:  
+    COM 137 Interpersonal Communication  
+    COM 231 Communication in Teams (WE) 
+    +++MISSING INFO: c.com225_227.long +++  
+    COM 322 Prof Communication & Writing (WE)  
+    COM 327 Organizational Communication (WE)  
+    COM 236 Intercultural Communication  
+    COM 323 Relational Com:Theory & App (WE)  
+    COM 332 Health Communication (WE)  
+    COM 435/437 Special Topics in Relational Communication (WE)  
+5. **One** course in Mass Media:
+    COM 141 Intro to Journalism  
+    COM 151 Introduction to New Media Studies  
+    COM 157 Introduction to Media Analysis  
+    COM 241 Multimedia Journalism  
+    +++MISSING INFO: c.com245_247.long +++  
+    COM 257 Sex, Race, and Gender in the Media  
+    COM 341 Digital Storytelling  
+    COM 445/447 Special Topics in Production (WE)  
+6. **One** course in Cultural and Critical Communications:
+    COM 160 Rhetorical Theory and Practice  
+    COM 161 Visual Rhetoric  
+    COM 267 Environmental Rhetoric  
+    +++MISSING INFO: c.com275_277.long +++  
+    COM 377 Language, Power, and Social Change  
+    COM 465/467 Special Topics in Public Discourse (WE)
+7. A Communication Studies (COM) course numbered 400 or above (if not used to satisfy requirement 4, 5, or 6)
+8. **Three** additional courses with a COM prefix; students may count up to 1.0 credits with ECC prefix toward this requirement, including ECC-494 Internship in English, Creative Writing, and Communication Studies
 
 ### Communication Studies Minor
 A minor in communication studies requires a minimum cumulative 2.0 GPA in all courses counted toward the minor. 
 
-1. COM-125 Fundamentals of Public Speaking COM 125 Fundamentals of Public Speaking
-2. One methods course:
-    - COM 381 Research Method Communication Study
-    - COM 382/RHE 382 Research Methods:Rhetorical/Critica
-3. RHE 200 Rhetorical Theory and Practice
-4.	Two additional Communication Studies courses (any of the courses that count toward the Communication Studies major or any COM prefix courses)
+1. COM 101 Intro to Communication Studies  
+2. COM 125 Fundamentals of Public Speaking  
+3. **Three** additional courses with a COM prefix; students may count up to 1.0 credits with ECC prefix toward this requirement, including ECC-494 Internship in English, Creative Writing, and Communication Studies  
 
 ### COURSES IN COMMUNICATION STUDIES
 
+ **COM 101 Intro to Communication Studies**  
+  COM-101 Introduction to Communication Studies
+
+Offers an introduction to the field of communication studies, including areas such as interpersonal, health care, organizational, speech, and mass communication enabling students to delve into the intricacies of how individuals coordinate social meaning and achieve communicative objectives through various channels across diverse contexts. This course offers a solid foundation to pursue upper-level courses in the program, as well as a broader understanding of how to create and evaluate communication in everyday life.  
  **COM 125 Fundamentals of Public Speaking**  
   Explores the basic processes of speech making: audience analysis and adaptation, idea and organizational development, use of effective supporting material and reasoning, and presentation. Critical thinking and listening skills developed by analysis of public speeches. Speaking and writing skills developed through introductory, informative, persuasive, and ceremonial speeches.  
+ **COM 137 Interpersonal Communication**  
+  COM-137 Interpersonal Communication (WE)
+Examines the influence in interpersonal relationships of ethnicity, gender, family, and class on self-concept, perception, emotions, and verbal and non-verbal expression. Students practice specific techniques that facilitate building positive relationships, including such issues as clear language usage, supportive climate building, and conflict resolution.  
+ **COM 141 Intro to Journalism**  
+  Introduces and analyzes several forms of writing for media in a digital age. In addition to print format, students create and analyze interactive and web-based texts while acquiring a systematic approach to compositions in a variety of media.  
  **COM 151 Introduction to New Media Studies**  
   Exploration of the theoretical and practical questions surrounding digital or computer-mediated communication technologies. This introductory course examines how changes to the technologies for the creation, display, and circulation of messages influence meaning making.  
  **COM 157 Introduction to Media Analysis**  
   Exploration of important theories, concepts and terms in media studies. This course examines the production, circulation, and reception of content and provides an introduction to media analysis.  
+ **COM 160 Rhetorical Theory and Practice**  
+  COM-160 Rhetorical Theory and Practice
+Explores underlying forms and functions of written and spoken language, including the study of classical rhetoric (Plato, Aristotle, Quintilian) and recent developments in rhetorical theory.  
  **COM 161 Visual Rhetoric**  
   Examination of the persuasive power of visual symbols. The course provides an introduction to foundational concepts in the study of rhetoric and cultivates ways of thinking needed to critically analyze visual forms of symbolic expression.  
- **COM 210 Presentation Strategies**  
-  Provides advanced experience in researching, preparing, and delivering public presentations in different contexts with particular attention to connecting public speaking to the workplace. Prerequisite: Fundamentals of Public Speaking (COM-125)  
+ **COM 212 Journalism Practicum**  
+  COM-212 Journalism Practicum 
+For Cosmos staff members. Introduction to college newspaper production, with discussions on professionalism, news gathering, ethics, advertising, layout, and computer skills. May be taken each term a student serves on the Cosmos staff. Advanced students assist with instructing beginners. To receive credit, students complete a term of service to the Cosmos and participate in the workshops at the level agreed upon among the instructor, the editor-in-chief, and the staff member. P/NP basis only. A maximum of one course credit may count toward a writing minor and no more than one course credit may count toward graduation. Credit for Journalism Practicum is regarded as internship credit. (0.2 course credit)  
+ **+++MISSING INFO: c.com225_227_245_247_275_277.long +++**  
+  +++MISSING INFO: c.com225_227_245_247_275_277.desc +++  
+ **COM 231 Communication in Teams (WE)**  
+  COM-231 Communication in Teams (WE)
+Studies the crucial role of interpersonal communication in enhancing productivity in small groups and work teams. Students will examine topics such as group norms, trust, collaboration, defensive and supportive group communication, conflict management strategies, decision-making, problem-solving and creativity techniques for small groups and teams, and leadership styles. By the end of the course, students will learn about and practice small group communication processes to excel in group settings and drive success in team-oriented projects.  
  **COM 236 Intercultural Communication**  
   Exploration of the role of communication in constructing, navigating, and challenging various markers of similarity and difference.  
- **COM 237 Interpersonal Communication**  
-  Examines the influence in interpersonal relationships of ethnicity, gender, family, and class on self-concept, perception, emotions, and verbal and non-verbal expression. Students practice specific techniques that facilitate building positive relationships, including such issues as clear language usage, supportive climate building, and conflict resolution.  
  **COM 241 Multimedia Journalism**  
   Develops journalistic writing skills in several styles (hard news, features, in-depth reporting) and across media (print, audio, video, online). Topics include information gathering, objectivity, audience, news convergence, news values, civic responsibility, and journalism ethics. Students investigate the state of news and the roles and responsibilities of journalists in contemporary American society.  
+ **COM 257 Sex, Race, and Gender in the Media**  
+  An introduction to analysis of representations of identities such as gender, race, sexual orientation, and the body in the mass media. As such, this course examines some of the relationships between the media in the U.S. and the social constructions of race, gender and sexuality. Students view, read about, analyze and discuss various forms of mass media and look at what these forms represent. An underlying understanding within the course is recognition of the inextricable interconnections of gender, race, and sexuality. Prerequisites: junior standing or consent of instructor.  
+ **COM 267 Environmental Rhetoric**  
+  COM-267 Environmental Rhetoric (WE)
+Examines how authors and organizations have attempted to define and influence the political, economic, social, and ethical debates on key environmental issues with particular attention to the birth and progress of global environmental movements. Students engage in close reading and analysis of a range of arguments and messaging pertaining to such movements.  
+ **COM 281 Intro to Research Methods (WE)**  
+  COM-281 Introduction to Research Methods (WE)
+Introduces students to a toolbox for understanding the methods scholars use to address questions pertinent to the field of communication studies. Students will read, interpret, and evaluate studies and reports in a range of methodologies.  
+ **COM 322 Prof Communication & Writing (WE)**  
+  COM-322 Professional Communication and Writing (WE)
+Introduces students to essential communication skills for workplace and professional business success. The course will cover interviewing principles and provide opportunities for students to practice relevant skills for achieving specific interviewing goals. By the end of the course, students will learn how to compose various texts—memos, letters/emails, formal/progress and activity reports, sales proposals, plan and execute effective presentations, and adapt their communication style to suit different audiences and workplace settings.  
+ **COM 323 Relational Com:Theory & App (WE)**  
+  COM-323 Relational Communication: Theory and Application (WE)
+Studies the complex dynamics of interpersonal communication within close relationships, including those with family, romantic partners, friends, and kin. Students will explore topics on personal and shared experiences with close relationship partners, such as identity (re)construction, uncertainty management, expectancy violation, self-disclosure, privacy management, and stressful life transitions. By the end of the course, students will learn how to use effective interpersonal communication skills to navigate relationship initiation, repair, reconciliation, and termination.  
+ **COM 327 Organizational Communication (WE)**  
+  COM-327 Organizational Communication (WE)
+Examines concepts, theories, and approaches to examine communication within organizational contexts such as government, non-profit organizations, in-person and the virtual workplace. The topics covered in this course include emotional intelligence, conflict, intercultural communication, globalization, crisis, and leadership. Students will learn how to implement appropriate communication practices within everyday organizational life.  
  **COM 332 Health Communication (WE)**  
   Examines the connections among communication, culture, and health. Course content and assignments focus on how one communicates about health in various contexts (family, end-of-life, patient-provider, etc.), cultural influences on healthcare practices, and the role of communication and storytelling in coping with one’s body, illness, disability, and death. Prerequisite: junior standing or consent of instructor.  
- **COM 337 Persuasion**  
-  Investigation of the nature and process of persuasion. This course provides practice constructing and analyzing persuasive messages and campaigns. Prerequisite: junior standing or consent of instructor.  
  **COM 341 Digital Storytelling**  
   Students practice adapting written language to oral and/or visual formats while learning to communicate news messages in a variety of broadcast formats, ranging from audio to news-in-the-field to video productions. Continuing focus on professional standards emphasizing accuracy, conciseness, style, and the conventions of Standard English. Prerequisite: Multimedia Journalism (WE) (COM-241) or Introduction to Journalism (WE) (COM-141).  
- **COM 357 Sex, Race, & Gender in Media**  
-  An introduction to analysis of representations of identities such as gender, race, sexual orientation, and the body in the mass media. As such, this course examines some of the relationships between the media in the U.S. and the social constructions of race, gender and sexuality. Students view, read about, analyze and discuss various forms of mass media and look at what these forms represent. An underlying understanding within the course is recognition of the inextricable interconnections of gender, race, and sexuality. Prerequisites: junior standing or consent of instructor.  
- **COM 361 Communication & Social Change**  
-  Study of the role of communication as a wehicle for social change. Analysis of the discourse used in social movements from the 1960s to the present. Course combines an emphasis on discourse analysis with opportunities for contemporary application. Prerequisite: junior standing or consent of instructor.  
- **COM 362 U.S. Public Address**  
-  Examnation of the rhetorical strategies deployed throughout US history to shape beliefs about community, public life, and American identity. Prerequisite: junior standing or consent of instructor.  
+ **COM 347 Persuasion**  
+  Investigation of the nature and process of persuasion. This course provides practice constructing and analyzing persuasive messages and campaigns. Prerequisite: junior standing or consent of instructor.  
+ **COM 377 Language, Power, and Social Change**  
+  A survey of advanced theory in Cultural Studies, aiming to familiarize students with the range of questions, artifacts, conditions, and problems scholars of Cultural Studies strive to understand. Anchoring itself in linguistic and rhetorical theories about discourse and meaning, this course is specifically centered on questions of power: how is it constituted, acquired, distributed, and wielded to influence our shared culture of economics, politics, media, identity, and interpersonal relations.  
  **COM 381 Research Method Communication Study**  
   Explores one or more major approaches to conducting research in Communication Studies. This course serves as the foundation for more complex forms of qualitative and/or quantitative analysis.  
- **COM 382 ResearchMethods:Rhetorical/Critical**  
-  See also Writing (RHE-382), @sec-courses-in-rhetoric  
-  Exploration of the major approaches to conducting research in Communication Studies. This course serves as the foundation for more complex forms of critical and/or qualitative analysis. Prerequisite: Rhetorical Theory & Practice (RHE-200).  
  **COM 394 Directed Learning  in Communication**  
   Designed to explore an area of the discipline that is not covered by existing course offerings. Students create the reading list for the course in consultation with a faculty advisor, prepare for weekly meetings, and regular writing assignments. Prerequisites: junior standing, written consent of the instructor and the departmental petition form.  
  **COM 435/437 Special Topics in Relational Communication (WE)**  
   Exploration of a topic within the field of relational communication. Course work includes a substantive research project, and oral presentations. May be taken more than once for credit with consent of department chair. Can satisfy the DCP requirement when topic is appropriate. Prerequisites: Rhetorical Theory and Practice (RHE-200) and either Research Methods in Communication Studies (COM-381) or Research Methods: Rhetorical/Critical (COM-382).  
  **COM 444 Independent Study in Comm Studies**  
   Independent research projects in communication studies. May be taken for an X status grade with consent of instructor prior to registration. May be taken more than once for credit for a maximum of 2.0 credits. A maximum of one course credit may count toward a communication studies major or minor. Prerequisite: consent of instructor. (0.5 or 1.0 course credit)  
- **COM 445/447 Special Topics in Production (WE)**  
-  Exploration of a topic within the field of production. Course work includes a substantive research project, and oral presentations. May be taken more than once for credit with consent of department chair. Can satisfy the DCP requirement when topic is appropriate. Prerequisites: Rhetorical Theory and Practice (RHE-200) and either Research Methods in Communication Studies (COM-381) or Research Methods: Rhetorical/Critical (COM-382).  
  **COM 455/457 Special Topics in Media Studies (WE)**  
   Exploration of a topic within the field of media studies. Course work includes a substantive research project, and oral presentations. May be taken more than once for credit with consent of department chair. Can satisfy the DCP requirement when topic is appropriate. Prerequisites: Rhetorical Theory and Practice (RHE-200) and either Research Methods in Communication Studies (COM-381) or Research Methods: Rhetorical/Critical (COM-382).  
  **COM 465/467 Special Topics in Public Discourse (WE)**  
   Exploration of a topic within the field of public discourse. Course work includes a substantive research project, and oral presentations. May be taken more than once for credit with consent of department chair. Can satisfy the DCP requirement when topic is appropriate. Prerequisites: Rhetorical Theory and Practice (RHE-200) and either Research Methods in Communication Studies (COM-381) or Research Methods: Rhetorical/Critical (COM-382).  
- **COM 494 Internship in Journalism/Communicat**  
-  An internship with a focus on journalism or communication supervised by a faculty member of the department. A minimum of 140 hours on-site experience is required. S/U basis only. A maximum of one credit may count toward a major or minor in communication studies or writing with the consent of department chair. Prerequisites: junior standing and consent of department chair.  
 
 
 ## Computer Science
