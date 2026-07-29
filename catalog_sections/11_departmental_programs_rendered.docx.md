@@ -2498,61 +2498,6 @@ ECC-494 Internship in English, Creative Writing, and Communication Studies
 Explores a career area related to English, Creative Writing, or Communication Studies. Application and supervision through the Internship Specialist. A minimum of 140 hours on-site experience is required. P/NP basis only. A maximum of one credit may count toward a major or minor in English, Creative Writing, or Communication Studies. Prerequisites: junior standing and consent of department chair.  
 
 
-## Environmental Science (Collateral Major) {#sec-environmental-science}
-St. Clair, Sanchini (Administrative Coordinators).
-
-### Collateral Major in Environmental Science
-A major in environmental science requires a minimum cumulative 2.0 GPA in all courses counted toward the major. 
-Concurrent completion of a primary major in biology or chemistry is required.
-
-1. **One** of the following combinations:  
-Biology majors:  
-
->>MTH 135 Calculus I    
->>BIO 445/445L Environmental Microbiology and Lab
-	
->>>**or**    
-
->Chemistry majors:  
-
->>MTH 145 Calculus II    	
->>PHY 185/185L General Physics I & Laboratory    
->>PHY 195/195L General Physics II & Laboratory  
->>BIO 445/445L Environmental Microbiology and Lab
-
-2. BIO 295/295L Spatial Ecology and Laboratory (WE)
-3. CHM 211/211L Analytical Chemistry and Laboratory (WE)
-4. CHM 221 Organic Chemistry I  
-5. **Two** of the following with the associated laboratories:  
-	BIO 115 Marine Biology  
-	BIO 165 Introduction to Ornithology  
-	BIO 175 Field Botany  
-	BIO 185 Entomology  
-	BIO 275 Aquatic Ecology  
-	BIO 325/325L Microbiology (WE) and Laboratory  
-	BIO 385/385L Behavior and Ecology of Vertebrates  
-	BIO 425/425L Ecology and Laboratory (WE)  
-	CHM 411 Advanced Analytical Chemistry  
-	CHM 444 Independent Study Chemistry  
-	Any course taught at the Wilderness Field Station with BIO prefix.
-
-*Recommended:*  
-
->Any course taught at the Wilderness Field Station  
-	BIO 105 Introduction to Environmental Studies  
-	MTH 145 Calculus II  
-	RHE 257 Environmental Rhetoric  
-	STA 100 Statistical Reasoning I-Foundations **and** STA 110 Stats IIA: Inferential Reasoning  
-	STA 100 Statistical Reasoning I-Foundations **and** STA 130 Stats IIB: Experimental Design  
-
-**NOTE:**  *Students should select courses from the economics, political science, and philosophy departments as part of their general education program.*
-
-
-
-
-
-
-
 ## Environmental Studies (Collateral Major) {#sec-environmental-studies}
 St. Clair (Administrative Coordinator).
 
