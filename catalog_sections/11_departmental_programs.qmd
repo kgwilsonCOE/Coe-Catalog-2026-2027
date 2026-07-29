@@ -46,6 +46,8 @@
 
 {{< include departmental_programs/_ENG_courses.qmd >}}
 
+{{< include departmental_programs/_ECC_courses.qmd >}}
+
 {{< include departmental_programs/_ENV_courses.qmd >}}
 
 {{< include departmental_programs/_EVS_courses.qmd >}}
