@@ -713,6 +713,27 @@
 	    "desc": "Explores works by a variety of world authors outside the United States with the purposes of stimulating the appreciation of literary art and considering the various functions of literature in the contemporary world.",
 	    "namelink": "", 
 	    "namelinklong": ""
+	}, 	
+	"bio165_165l": {
+	    "short": "'BIO 165/165L'",
+	    "long": "'BIO 165/165L Introduction to Ornithology and Lab'",
+	    "desc": "Introduces the behavior, ecology and biology of birds, emphasizing identification of local species and such species’ adaptations to their biotic and abiotic environments. Binoculars furnished. This course satisfies the lab science course requirement. Credit is given for Introduction to Ornithology (BIO-165) or Advanced Topics in Ornithology (BIO-303), not both. Offered Spring Term on campus and Summer at the Wilderness Field Station. (This course does not satisfy the requirements for a major in biology.)",
+	    "namelink": "", 
+	    "namelinklong": ""
+	}, 	
+	"bio185_185l": {
+	    "short": "'BIO 185/185L'",
+	    "long": "'BIO 185/185L Entomology and Lab'",
+	    "desc": "Introduces the biology of insects and related arthropods, focusing on how homeostatic problems common to all organisms have been solved. Topics include physiology, morphology, systematics, and the relationship among insects, plants, and humans.",
+	    "namelink": "", 
+	    "namelinklong": ""
+	}, 	
+	"bio285_285l": {
+	    "short": "'BIO 285/285L'",
+	    "long": "'BIO 285/285L Animal Behavior and Lab'",
+	    "desc": "Considers principles and methods in ethology with emphasis on temporal and spatial patterns, adaptive significances, communication, aggression and territoriality, social organization, and the nature of regulatory mechanisms. Prerequisites: One of the following: Cellular and Molecular Biology and Laboratory (BIO-145/-145L); Organismal and Ecological Biology and Laboratory (BIO-155/-155L); or Statistical Methods and Data Analysis (PSY-300). (Offered summers at the Wilderness Field Station)",
+	    "namelink": "", 
+	    "namelinklong": ""
     }
   }
 }
