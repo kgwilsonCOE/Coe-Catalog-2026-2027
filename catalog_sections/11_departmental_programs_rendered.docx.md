@@ -2349,7 +2349,8 @@ The study of English allows students to explore a wide range of literary and cul
 In consultation with their advisors, English majors are able to design personalized programs of study that attend to the historical and geographical range of literatures in English.  Students considering graduate work in literature should consult with English faculty to plan a rigorous course of study that would typically include an honors thesis and coursework in a world language.
 
 ### English Major  
-A major in English requires a minimum cumulative 2.0 GPA in all courses counted toward the major.    
+A major in English requires a minimum cumulative 2.0 GPA in all courses counted toward the major.   
+
 1. ENG 111 Intro to Lit:Art of Rdng & Writing    
 2. ENG 281 Literatures in English to 1800    
 3. ENG 291 Literatures in English after 1800    
