@@ -30,7 +30,18 @@ jobs:
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-      - uses: actions/checkout@v4
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      # Set up Python explicitly to pin the version used
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      # Build the courses.json file each time
+      - name: Generate Course JSON
+        run: python build_courses_json.py
 
       # Install and setup quarto
       - name: "Setup Quarto"
