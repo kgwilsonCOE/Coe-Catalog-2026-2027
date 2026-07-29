@@ -590,7 +590,7 @@ Concentrations are offered in environmental and ecological science, molecular bi
 - BIO 203 Northwoods Ecology  
 - BIO 205/205L General Botany and Laboratory (WE)  
 - BIO 275/275L Aquatic Ecology and Laboratory  
-- BIO 285/285L Animal Behavior and Laboratory  
+- BIO 285/285L Animal Behavior and Lab  
 - BIO 295/295L Spatial Ecology and Laboratory (WE)  
 - BIO 303/303L Advanced Topics in Ornithology and Laboratory  
 - +++MISSING INFO: c.bio335_335l.long +++  
@@ -2537,9 +2537,9 @@ Concurrent completion of any of the majors for a B.A. degree listed on p. 21 of 
 6. **One** of the following Natural Science courses, if not used to satisfy #2 or #4  
 	BIO 111/111L Urban Ecology   
 	BIO 115 Marine Biology (Note: Offered May Term)  
-	+++MISSING INFO: c.bio165_165l.long +++  
+	BIO 165/165L Introduction to Ornithology and Lab  
 	BIO 175 Field Botany  
-	+++MISSING INFO: c.bio185_185l.long +++ (Note: Taught at the Wilderness Field Station)  
+	BIO 185/185L Entomology and Lab (Note: Taught at the Wilderness Field Station)  
 	+++MISSING INFO: c.bio285_185l.long +++ (Note: Taught at the Wilderness Field Station)  
 	BIO 203 Northwoods Ecology (Note: Taught at the Wilderness Field Station)  
 	BIO 275 Aquatic Ecology (Note: Taught at the Wilderness Field Station)  
@@ -2584,9 +2584,9 @@ Concurrent completion of any of the majors for a B.A. degree listed on p. 21 of 
 4. **One** of the following Natural Science courses, if not used to satisfy #2 or #3  
 	BIO 111/111L Urban Ecology   
 	BIO 115 Marine Biology (Note: Offered May Term)  
-	+++MISSING INFO: c.bio165_165l.long +++  
+	BIO 165/165L Introduction to Ornithology and Lab  
 	BIO 175 Field Botany  
-	+++MISSING INFO: c.bio185_185l.long +++ (Note: Taught at the Wilderness Field Station)  
+	BIO 185/185L Entomology and Lab (Note: Taught at the Wilderness Field Station)  
 	+++MISSING INFO: c.bio285_185l.long +++ (Note: Taught at the Wilderness Field Station)  
 	BIO 203 Northwoods Ecology (Note: Taught at the Wilderness Field Station)  
 	BIO 275 Aquatic Ecology (Note: Taught at the Wilderness Field Station)  
@@ -4442,7 +4442,7 @@ Concurrent completion of a primary major in biology, chemistry, or psychology is
 		- BIO 202 Topics in Evolution
 		- BIO 215 Human Anatomy
 		- BIO 235 Genetics
-		- BIO 285/285L Animal Behavior and Laboratory
+		- BIO 285/285L Animal Behavior and Lab
 		- BIO 345/345L Techniques in Molecular Biology and Laboratory
 		- BIO 415 Developmental Biology
 		- BIO 435 Cell Physiology

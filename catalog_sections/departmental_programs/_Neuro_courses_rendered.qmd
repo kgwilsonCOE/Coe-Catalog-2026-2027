@@ -18,7 +18,7 @@ Concurrent completion of a primary major in biology, chemistry, or psychology is
 		- BIO 202 Topics in Evolution
 		- BIO 215 Human Anatomy
 		- BIO 235 Genetics
-		- BIO 285/285L Animal Behavior and Laboratory
+		- BIO 285/285L Animal Behavior and Lab
 		- BIO 345/345L Techniques in Molecular Biology and Laboratory
 		- BIO 415 Developmental Biology
 		- BIO 435 Cell Physiology

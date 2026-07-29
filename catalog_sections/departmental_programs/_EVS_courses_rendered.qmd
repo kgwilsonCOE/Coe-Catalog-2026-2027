@@ -37,9 +37,9 @@ Concurrent completion of any of the majors for a B.A. degree listed on p. 21 of 
 6. **One** of the following Natural Science courses, if not used to satisfy #2 or #4  
 	BIO 111/111L Urban Ecology   
 	BIO 115 Marine Biology (Note: Offered May Term)  
-	+++MISSING INFO: c.bio165_165l.long +++  
+	BIO 165/165L Introduction to Ornithology and Lab  
 	BIO 175 Field Botany  
-	+++MISSING INFO: c.bio185_185l.long +++ (Note: Taught at the Wilderness Field Station)  
+	BIO 185/185L Entomology and Lab (Note: Taught at the Wilderness Field Station)  
 	+++MISSING INFO: c.bio285_185l.long +++ (Note: Taught at the Wilderness Field Station)  
 	BIO 203 Northwoods Ecology (Note: Taught at the Wilderness Field Station)  
 	BIO 275 Aquatic Ecology (Note: Taught at the Wilderness Field Station)  
@@ -84,9 +84,9 @@ Concurrent completion of any of the majors for a B.A. degree listed on p. 21 of 
 4. **One** of the following Natural Science courses, if not used to satisfy #2 or #3  
 	BIO 111/111L Urban Ecology   
 	BIO 115 Marine Biology (Note: Offered May Term)  
-	+++MISSING INFO: c.bio165_165l.long +++  
+	BIO 165/165L Introduction to Ornithology and Lab  
 	BIO 175 Field Botany  
-	+++MISSING INFO: c.bio185_185l.long +++ (Note: Taught at the Wilderness Field Station)  
+	BIO 185/185L Entomology and Lab (Note: Taught at the Wilderness Field Station)  
 	+++MISSING INFO: c.bio285_185l.long +++ (Note: Taught at the Wilderness Field Station)  
 	BIO 203 Northwoods Ecology (Note: Taught at the Wilderness Field Station)  
 	BIO 275 Aquatic Ecology (Note: Taught at the Wilderness Field Station)  

@@ -48,7 +48,7 @@ Concentrations are offered in environmental and ecological science, molecular bi
 - BIO 203 Northwoods Ecology  
 - BIO 205/205L General Botany and Laboratory (WE)  
 - BIO 275/275L Aquatic Ecology and Laboratory  
-- BIO 285/285L Animal Behavior and Laboratory  
+- BIO 285/285L Animal Behavior and Lab  
 - BIO 295/295L Spatial Ecology and Laboratory (WE)  
 - BIO 303/303L Advanced Topics in Ornithology and Laboratory  
 - +++MISSING INFO: c.bio335_335l.long +++  
