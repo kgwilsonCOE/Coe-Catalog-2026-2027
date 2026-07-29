@@ -54,7 +54,7 @@ A major in English requires a minimum cumulative 2.0 GPA in all courses counted 
  **{{< var c.eng127.long >}}**  
     {{< var c.eng127.desc >}}  
  **{{< var c.eng137.long >}}**  
-    Cross-listed with {{< var c.aam137.long >}}  
+Cross-listed with {{< var c.aam137.long >}}  
     {{< var c.eng137.desc >}}  
  **{{< var c.eng146.long >}}**  
     {{< var c.eng146.desc >}}  
@@ -81,14 +81,14 @@ A major in English requires a minimum cumulative 2.0 GPA in all courses counted 
  **{{< var c.eng337.long >}}**  
     {{< var c.eng337.desc >}}  
  **{{< var c.eng328.long >}}**  
-    Cross-listed with {{< var c.rel328.long >}} 
+Cross-listed with {{< var c.rel328.long >}}  
     {{< var c.eng328.desc >}}  
  **{{< var c.eng347.long >}}**  
     {{< var c.eng347.desc >}}  
  **{{< var c.eng357.long >}}**  
     {{< var c.eng357.desc >}}  
  **{{< var c.eng367.long >}}**  
-    Cross-listed with {{< var c.aam367.long >}} 
+Cross-listed with {{< var c.aam367.long >}}  
     {{< var c.eng367.desc >}}  
  **{{< var c.eng375.long >}}**  
     {{< var c.eng375.desc >}}  
