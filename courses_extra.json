@@ -706,6 +706,13 @@
 	    "desc": "Continued advanced writing, with an emphasis on producing finished plays. Prerequisite: Playwriting Workshop 2 (WE) (CRW/THE-355).",
 	    "namelink": "", 
 	    "namelinklong": ""
+	}, 	
+	"eng105": {
+	    "short": "'ENG 105'",
+	    "long": "'ENG 105 Exploring Literature: Humanities'",
+	    "desc": "Explores works by a variety of world authors outside the United States with the purposes of stimulating the appreciation of literary art and considering the various functions of literature in the contemporary world.",
+	    "namelink": "", 
+	    "namelinklong": ""
     }
   }
 }
