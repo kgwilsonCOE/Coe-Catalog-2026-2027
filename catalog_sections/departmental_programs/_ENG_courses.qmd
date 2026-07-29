@@ -115,7 +115,7 @@ Cross-listed with {{< var c.aam367.long >}}
  **{{< var c.eng394.long >}}**  
     {{< var c.eng394.desc >}}  
 
-### ADVANCED STUDY IN ENGLISH
+### Advanced Study in English
 Students registering for these courses must fulfill the prerequisites first and should consult with English department faculty if they have questions. 
 
  **{{< var c.eng454.long >}}**  
