@@ -40,7 +40,7 @@ Concurrent completion of any of the majors for a B.A. degree listed on p. 21 of 
 	BIO 165/165L Introduction to Ornithology and Lab  
 	BIO 175 Field Botany  
 	BIO 185/185L Entomology and Lab (Note: Taught at the Wilderness Field Station)  
-	+++MISSING INFO: c.bio285_185l.long +++ (Note: Taught at the Wilderness Field Station)  
+	BIO 285/285L Animal Behavior and Lab (Note: Taught at the Wilderness Field Station)  
 	BIO 203 Northwoods Ecology (Note: Taught at the Wilderness Field Station)  
 	BIO 275 Aquatic Ecology (Note: Taught at the Wilderness Field Station)  
 	BIO 295/295L Spatial Ecology and Laboratory (WE)  
@@ -87,7 +87,7 @@ Concurrent completion of any of the majors for a B.A. degree listed on p. 21 of 
 	BIO 165/165L Introduction to Ornithology and Lab  
 	BIO 175 Field Botany  
 	BIO 185/185L Entomology and Lab (Note: Taught at the Wilderness Field Station)  
-	+++MISSING INFO: c.bio285_185l.long +++ (Note: Taught at the Wilderness Field Station)  
+	BIO 285/285L Animal Behavior and Lab (Note: Taught at the Wilderness Field Station)  
 	BIO 203 Northwoods Ecology (Note: Taught at the Wilderness Field Station)  
 	BIO 275 Aquatic Ecology (Note: Taught at the Wilderness Field Station)  
 	BIO 295/295L Spatial Ecology and Laboratory (WE)  
