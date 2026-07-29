@@ -20,7 +20,7 @@ A major in English requires a minimum cumulative 2.0 GPA in all courses counted 
     d.	1.0 ECC credit  
     e.	{{< var c.com267.long >}}  
     f.	{{< var c.com377.long >}}  
-7.{{< var c.eng464.long >}} **or** {{< var c.eng467.long >}}  
+7. {{< var c.eng464.long >}} **or** {{< var c.eng467.long >}}  
 
 ### English Minor  
 1.	{{< var c.eng111.long >}}  
