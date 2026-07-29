@@ -2363,7 +2363,7 @@ A major in English requires a minimum cumulative 2.0 GPA in all courses counted 
     d.	1.0 ECC credit  
     e.	COM 267 Environmental Rhetoric  
     f.	COM 377 Language, Power, and Social Change  
-7.ENG 464 Seminar in Literature **or** ENG 467 Seminar in Literature: USP  
+7. ENG 464 Seminar in Literature **or** ENG 467 Seminar in Literature: USP  
 
 ### English Minor  
 1.	ENG 111 Intro to Lit:Art of Rdng & Writing  
