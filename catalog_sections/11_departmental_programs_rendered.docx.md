@@ -2462,7 +2462,7 @@ Course focuses on specific literary genres or time periods and functions as an i
  **ENG 394 Directed Learning in English**  
     Study of individually chosen topics in literature or execution of projects in writing under the direction of a faculty member of the department. Registration only after the instructor has approved a written proposal for the project. Prerequisite: three courses in literature.  
 
-### ADVANCED STUDY IN ENGLISH
+### Advanced Study in English
 Students registering for these courses must fulfill the prerequisites first and should consult with English department faculty if they have questions. 
 
  **ENG 454 Honors Research**  
