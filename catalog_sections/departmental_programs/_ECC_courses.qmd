@@ -1,0 +1,19 @@
+## English, Creative Writing, and Communication Studies  
+Carr, Ferguson, Harmsen, Hausknecht, LeMay, Opayemi (Chair), Shaw, Sodeman  
+
+### Courses in English, Creative Writing, and Communication Studies  
+
+ **{{< var c.ecc100.long >}}** 
+{{< var c.ecc100.desc >}}  
+ **{{< var c.ecc112.long >}}** 
+{{< var c.ecc112.desc >}}  
+ **{{< var c.ecc230.long >}}** 
+{{< var c.ecc230.desc >}}  
+ **{{< var c.ecc312.long >}}** 
+{{< var c.ecc312.desc >}}  
+ **{{< var c.ecc325.long >}}** 
+{{< var c.ecc325.desc >}}  
+ **{{< var c.ecc345.long >}}** 
+{{< var c.ecc345.desc >}}  
+ **{{< var c.ecc494.long >}}** 
+{{< var c.ecc494.desc >}}  
