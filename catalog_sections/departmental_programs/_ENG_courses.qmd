@@ -12,13 +12,13 @@ A major in English requires a minimum cumulative 2.0 GPA in all courses counted 
 3. {{< var c.eng291.long >}}    
 4. {{< var c.eng301.long >}}    
 5. **Three** English courses numbered 305 or above, one of which must be in British literature before 1800. COM-377 Language, Power, and Social Change (WE) can count for this requirement.   
-6. **Two** credits from the following options:   
-        a.	additional English courses  
-        b.	one Creative Writing course  
-        c.	{{< var c.spa148.long >}} or {{< var c.spa457.long >}}  
-        d.	1.0 ECC credit  
-        e.	{{< var c.com267.long >}}  
-        f.	{{< var c.com377.long >}}  
+6.	**Two** credits from the following options  
+    a.	additional English courses  
+    b.	one Creative Writing course  
+    c.	{{< var c.spa148.long >}} or {{< var c.spa457.long >}}  
+    d.	1.0 ECC credit  
+    e.	{{< var c.com267.long >}}  
+    f.	{{< var c.com377.long >}}  
 7.{{< var c.eng464.long >}} **or** {{< var c.eng467.long >}}  
 
 ### English Minor  
