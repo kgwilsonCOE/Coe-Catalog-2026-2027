@@ -40,7 +40,7 @@ Concurrent completion of any of the majors for a B.A. degree listed on p. 21 of 
 	{{< var c.bio165_165l.long >}}  
 	{{< var c.bio175.long >}}  
 	{{< var c.bio185_185l.long >}} (Note: Taught at the Wilderness Field Station)  
-	{{< var c.bio285_185l.long >}} (Note: Taught at the Wilderness Field Station)  
+	{{< var c.bio285_285l.long >}} (Note: Taught at the Wilderness Field Station)  
 	{{< var c.bio203.long >}} (Note: Taught at the Wilderness Field Station)  
 	{{< var c.bio275.long >}} (Note: Taught at the Wilderness Field Station)  
 	{{< var c.bio295_295l.long >}}  
@@ -87,7 +87,7 @@ Concurrent completion of any of the majors for a B.A. degree listed on p. 21 of 
 	{{< var c.bio165_165l.long >}}  
 	{{< var c.bio175.long >}}  
 	{{< var c.bio185_185l.long >}} (Note: Taught at the Wilderness Field Station)  
-	{{< var c.bio285_185l.long >}} (Note: Taught at the Wilderness Field Station)  
+	{{< var c.bio285_285l.long >}} (Note: Taught at the Wilderness Field Station)  
 	{{< var c.bio203.long >}} (Note: Taught at the Wilderness Field Station)  
 	{{< var c.bio275.long >}} (Note: Taught at the Wilderness Field Station)  
 	{{< var c.bio295_295l.long >}}  
