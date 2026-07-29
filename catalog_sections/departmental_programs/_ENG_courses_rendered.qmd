@@ -1,28 +1,38 @@
-## English {#sec-english}
-
-Aspengren, Ferguson, Hausknecht, LeMay, McQueen, Shaw (Chair), Sodeman, Valderrama
+## English
+Brown, Ferguson, Hausknecht, LeMay, Shaw, Sodeman. For chair, see English, Creative Writing, and Communication Studies (p. 133)
 
 The study of English allows students to explore a wide range of literary and cultural productions from varied parts of the world. Our courses develop habits of mind that are fundamental to liberal education, including the ability to read critically, to think creatively, and to write clearly and with verve.
 
 In consultation with their advisors, English majors are able to design personalized programs of study that attend to the historical and geographical range of literatures in English.  Students considering graduate work in literature should consult with English faculty to plan a rigorous course of study that would typically include an honors thesis and coursework in a world language.
 
-
-### English Major
+### English Major  
 A major in English requires a minimum cumulative 2.0 GPA in all courses counted toward the major.    
 1. ENG 111 Intro to Lit:Art of Rdng & Writing    
 2. ENG 281 Literatures in English to 1800    
 3. ENG 291 Literatures in English after 1800    
 4. ENG 301 The Art of Literary Research    
-5. Three English courses numbered 305 or above, one of which must be in British literature before 1800.     
-6. Two additional English course credits, one of which may be in Creative Writing or in French, or Spanish literature in translation (FRE 145, FRE 146, FRE 148, SPA 148)    
-7.ENG 464 Seminar in Literature _OR_ ENG 467 Seminar in Literature: USP  
+5. **Three** English courses numbered 305 or above, one of which must be in British literature before 1800. COM-377 Language, Power, and Social Change (WE) can count for this requirement.   
+6. **Two** credits from the following options:  
+    a.	additional English courses  
+    b.	one Creative Writing course  
+    c.	SPA 148 Spanish Literature in Translation or SPA 457 US LatinX Literature  
+    d.	1.0 ECC credit  
+    e.	COM 267 Environmental Rhetoric  
+    f.	COM 377 Language, Power, and Social Change  
+7.ENG 464 Seminar in Literature **or** ENG 467 Seminar in Literature: USP  
 
+### English Minor  
+1.	ENG 111 Intro to Lit:Art of Rdng & Writing  
+2.	**Two** English courses numbered 300 or above  
+3.	**Two** credits from the following options  
+    a.	additional English courses  
+    b.	one Creative Writing course  
+    c.	SPA 148 Spanish Literature in Translation or SPA 457 US LatinX Literature  
+    d.	1.0 ECC credit  
+    e.	COM 267 Environmental Rhetoric  
+    f.	COM 377 Language, Power, and Social Change  
 
-### English Minor
-The minor in English consists of five course credits, including ENG 111 Intro to Lit:Art of Rdng & Writing and two English courses numbered 300 or above. One course in Creative Writing (CRW-) or in French, or Spanish literature in translation (FRE 145, FRE 146, FRE 148, SPA 148) may count toward the five course credits.
-
-
-### Courses in Literature {#sec-courses-in-english}
+### Courses in Literature
 
  **ENG105 Composition I**  
     nan  
@@ -44,7 +54,7 @@ and expository writing. This course introduces terms and skills necessary for fu
  **ENG 127 Social Justice and Literature**  
     Study of literary works that represent and reimagine issues of human rights in the twentieth and twenty-first centuries.  
  **ENG 137 African American Literature**  
-    See also African American Studies (AAM-137), @sec-courses-in-african-american-studies  
+    Cross-listed with AAM 137 African American Literature  
     Reading and discussion of the writings of African Americans, with emphasis on the twentieth century. May include some relevant writings on African Americans by other groups. Study of the artistic values and of the social and cultural significance of these writings. May be taken more than once, with consent of African American Studies administrative coordinator, provided the topics are substantially different.  
  **ENG 146 Intro Postcolonial Literature**  
     Study of twentieth-century prose and poetry arising out of the cultural, social, economic, and legal harms of imperialism and colonization.  
@@ -70,12 +80,17 @@ and expository writing. This course introduces terms and skills necessary for fu
     Study of literature from 1830 to the Civil War or of an author, topic, or genre of the period. Prerequisite: Introduction to Literary Studies: The Art of Reading and Writing (ENG-101) or consent of instructor.  
  **ENG 337 American Realism & Naturalism**  
     Study of literature from the Civil War to World War I, or of an author, topic, or genre of the period. Prerequisite: Introduction to Literary Studies: The Art of Reading and Writing (ENG-101) or consent of instructor.  
+ **ENG 328 Dantes Divine Comedy (WE)**  
+    Cross-listed with REL 328 Dantes Divine Comedy (WE) 
+    ENG-328 Dante’s Divine Comedy (WE)
+See also Religion (REL-328).
+Explores the vision of the afterlife as imagined by the Florentine poet Dante Alighieri (1265-1320) in his great epic The Divine Comedy. Examines historical, literary, theological, and philosophical issues as our guide takes us through realms of the damned (Hell), the penitent (Purgatory) and the blessed (Heaven). Seminar consists of close reading and discussion. Prerequisites: Introduction to Literary Studies: The Art of Reading and Writing (ENG-111) or one course in REL, or consent of instructor.  
  **ENG 347 Modern/Contemp. American Literature**  
     Study of novels, short fiction, and poetry by American writers of the twentieth and twenty-first centuries or of an author, topic, or genre of the period. Prerequisite: Introduction to Literary Studies: The Art of Reading and Writing (ENG-101) or consent of instructor.  
  **ENG 357 Studies in Latinx/ChicanxLiterature**  
     Reviews selected works of literature by Latina/os and Chicana/os. Students explore through reading and discussion methods and concepts relating to human rights, coloniality, diaspora, Latinidad and/or linguistic philosophy to better understand the lived experiences, identities, and cultures of Latinx and Chicanx communities in the U.S. Specific topics vary from year to year.  
  **ENG 367 African American Literature**  
-    See Also African American Studies (AAM-367), @sec-courses-in-african-american-studies  
+    Cross-listed with AAM 367 Studies in African American Lit 
     See also African American Studies (AAM-367), 
 Course focuses on specific literary genres or time periods and functions as an intermediate course between the introductory African American Literature (AAM/ENG-267) and the advanced English seminar (particularly Seminar in Literature: United States Pluralism (ENG-707)). Students read and discuss both primary and secondary sources in an effort to gain a fuller understanding and appreciation of the artistic values and of the social and cultural significance of these writings. Specific topics vary from year to year. Possible topics include African American Historical Fiction, African American Speculative Fiction, Literature of the Civil Rights Era, and the African American Bildungsroman. May be taken more than once, with consent of African American Studies administrative coordinator, provided the topics are substantially different. Prerequisite: Introduction to Literary Studies: The Art of Reading and Writing (ENG-101) or consent of instructor.  
  **ENG 375 Study in European Literature**  
@@ -104,7 +119,7 @@ Course focuses on specific literary genres or time periods and functions as an i
     Study of individually chosen topics in literature or execution of projects in writing under the direction of a faculty member of the department. Registration only after the instructor has approved a written proposal for the project. Prerequisite: three courses in literature.  
 
 ### ADVANCED STUDY IN ENGLISH
-Students registering for these courses must fulfill the **prerequisites** first and should consult with English department faculty if they have questions. 
+Students registering for these courses must fulfill the prerequisites first and should consult with English department faculty if they have questions. 
 
  **ENG 454 Honors Research**  
     Development and completion of an honors thesis under the direction of a faculty member of the department. Normally taken in Fall Term of the senior year for an X status grade. Prerequisites: Seminar in Literature (ENG-464) or Seminar in Literature: United States Pluralism (ENG-467) and consent of instructor.  
@@ -112,7 +127,3 @@ Students registering for these courses must fulfill the **prerequisites** first 
     Advanced study of a specialized topic in literature. As a capstone experience, the seminar fosters student-driven inquiry and requires students to present their work-in-progress and to complete a culminating project (typically, an extensive research paper). To be taken at or near the end of the English major. May be counted toward the upper-level early British literature requirement for the English major when topic is appropriate. May be taken more than once for credit toward the English major. Prerequisites: junior standing, The Art of Literary Research (ENG-301), and an English course numbered 305 or above.  
  **ENG 467 Seminar in Literature: USP**  
     Advanced study of a specialized topic in literature. As a capstone experience, the seminar fosters student-driven inquiry and requires students to present their work-in-progress and to complete a culminating project (typically, an extensive research paper). To be taken at or near the end of the English major. May be taken more than once for credit toward the English major. Prerequisites: junior standing, The Art of Literary Research (WE) (ENG-301), and an English course numbered 305 or above.  
- **ENG 494 Internship in English**  
-    Exploration of a career area related to English. Application and supervision through the Internship Specialist. A minimum of 140 hours on-site experience is required. S/U basis only. This course does not satisfy any of the requirements for a major in English, but with consent of rhetoric department chair, one credit from an appropriate internship may satisfy the requirements for a minor in writing. Prerequisites: junior standing and consent of department chair.  
-
-
