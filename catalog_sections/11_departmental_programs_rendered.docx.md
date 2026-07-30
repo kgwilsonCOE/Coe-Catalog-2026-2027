@@ -2654,7 +2654,7 @@ A minor in gender studies requires a minimum cumulative 2.0 GPA in all courses c
 	-	GS 327 Thry&Mthds/Gender &Sexuality Stdy  
 	-	GS 387 Topics: Gender & Sexuality Studies  
 	-	HIS 297 Women in America  
-	-	+++MISSING INFO: c.nur_psy137.long +++  
+	-	NUR/PSY 137 Human Sexuality  
 	-	POL 277 Women & Poltics in US  
 	-	PSY 208 Gender Psychology  
 	-	SOC 207 Sociology of the Family  
