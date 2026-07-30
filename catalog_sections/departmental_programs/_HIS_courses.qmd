@@ -1,59 +1,54 @@
-## History {#sec-history}
-Swenson Arnold, Buckaloo, Keenan (Chair), Nordmann, Ziskowski. 
+## History
+Swenson Arnold, Buckaloo, Keenan (Chair), Nordmann, Ziskowski
 
 The history department allows students the opportunity to study history broadly, while also focusing on specific interests. Students learn how to express themselves, both orally and in writing, and, in the liberal arts tradition, are taught to learn quickly, communicate clearly, and build a rewarding career and life in their chosen field.
 
 ### History Major
-A major in history requires a minimum cumulative 2.0 GPA in all courses counted toward the major.
+A major in history requires a minimum cumulative 2.0 GPA in all courses counted toward the major
 
-1. **Four** courses in one of these two combinations:
+1. **Four** courses in one of these two combinations:  
+	- {{< var c.his115.long >}}  
+	- {{< var c.his125.long >}}  
+	- {{< var c.his145.long >}} **or** {{< var c.his155.long >}}  
+	- **One** additional U.S. History course  
+
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **or**
+
+	- {{< var c.his145.long >}}  
+	- {{< var c.his155.long >}}  
+	- {{< var c.his115.long >}} **or** {{< var c.his125.long >}}  
+	- **One** additional European History course  
+
+2. {{< var c.his205.long >}}  
+3. **One** of the following:  
+	- {{< var c.his136.long >}}  
+	- {{< var c.his216.long >}}  
+	- {{< var c.his246.long >}}  
+	- {{< var c.his256.long >}}  
+4. **One** of the following:  
+	- {{< var c.his465.long >}}  
+	- {{< var c.his466.long >}}  
+	- {{< var c.his472.long >}}  
+	- {{< var c.his473.long >}}  
+	- {{< var c.his474.long >}}  
+5. **Three** additional history courses  
+
+### History Minor
+
+**One** of the following combinations:
 	- {{< var c.his115.long >}}
 	- {{< var c.his125.long >}}
-	- {{< var c.his145.long >}} **or** {{< var c.his155.long >}}
-	- One additional U.S. History course
+	- **One** course in United States history
+	- **One** course in Asian history
+	- **Two** additional history courses approved by the department
 
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **or**
 
 	- {{< var c.his145.long >}}
 	- {{< var c.his155.long >}}
-	- {{< var c.his115.long >}} **or** {{< var c.his125.long >}}
-	- One additional European History course
-
-2. {{< var c.his205.long >}}
-3. **One** of the following:
-	- {{< var c.his136.long >}}
-	- {{< var c.his246.long >}}
-	- {{< var c.his256.long >}}
-
-4. **One** of the following:
-	- {{< var c.his465.long >}}
-	- {{< var c.his466.long >}}
-	- {{< var c.his472.long >}}
-	- {{< var c.his473.long >}}
-	- {{< var c.his474.long >}}
-
-5. **Three** additional history courses
-
-**NOTE:** *With departmental approval, successful completion of the ACM Newberry Seminar: Research in the Humanities Program off-campus study experience may be used to satisfy #4 above.*
-
-
-### History Minor
-
-**One** of the following combinations:
-
-- {{< var c.his115.long >}}
-- {{< var c.his125.long >}}
-- **One** course in United States history
-- **One** course in Asian history
-- **Two** additional history courses approved by the department
-
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **or**
-
-- {{< var c.his145.long >}}
-- {{< var c.his155.long >}}
-- **One** course in European history
-- **One** course in Asian history
-- **Two** additional history courses approved by the department
+	- **One** course in European history
+	- **One** course in Asian history
+	- **Two** additional history courses approved by the department
 
 ### Courses in History by Content Area
 
@@ -115,7 +110,7 @@ A major in history requires a minimum cumulative 2.0 GPA in all courses counted 
         - {{< var c.his444.long >}}  
         - {{< var c.his494.long >}}  
 
-### Courses in History
+### Courses in History  
  **{{< var c.his115.long >}}**    
   {{< var c.his115.desc >}}  
  **{{< var c.his125.long >}}**  
@@ -212,5 +207,4 @@ A major in history requires a minimum cumulative 2.0 GPA in all courses counted 
   {{< var c.his474.desc >}}  
  **{{< var c.his494.long >}}**  
   {{< var c.his494.desc >}}  
-
 
