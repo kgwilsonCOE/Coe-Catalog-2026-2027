@@ -28,6 +28,7 @@ A minor in gender studies requires a minimum cumulative 2.0 GPA in all courses c
 	-	{{< var c.soc207.long >}}  
 	-	{{< var c.soc227.long >}}  
 	-	{{< var c.spa418.long >}}  
+
 	**Component Courses**  
 	-	{{< var c.ant116.long >}}  
 	-	{{< var c.com236.long >}}  
