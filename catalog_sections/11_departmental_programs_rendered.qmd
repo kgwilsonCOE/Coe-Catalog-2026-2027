@@ -2737,62 +2737,57 @@ Explores and reviews interdisciplinary topics that are essential for progressing
 
 
 
-## History {#sec-history}
-Swenson Arnold, Buckaloo, Keenan (Chair), Nordmann, Ziskowski. 
+## History
+Swenson Arnold, Buckaloo, Keenan (Chair), Nordmann, Ziskowski
 
 The history department allows students the opportunity to study history broadly, while also focusing on specific interests. Students learn how to express themselves, both orally and in writing, and, in the liberal arts tradition, are taught to learn quickly, communicate clearly, and build a rewarding career and life in their chosen field.
 
 ### History Major
-A major in history requires a minimum cumulative 2.0 GPA in all courses counted toward the major.
+A major in history requires a minimum cumulative 2.0 GPA in all courses counted toward the major
 
-1. **Four** courses in one of these two combinations:
+1. **Four** courses in one of these two combinations:  
+	- HIS 115 History of Europe to 1500  
+	- HIS 125 History of Europe Since 1500  
+	- HIS 145 History of United States to 1865 **or** HIS 155 History of United States since 1865  
+	- **One** additional U.S. History course  
+
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **or**
+
+	- HIS 145 History of United States to 1865  
+	- HIS 155 History of United States since 1865  
+	- HIS 115 History of Europe to 1500 **or** HIS 125 History of Europe Since 1500  
+	- **One** additional European History course  
+
+2. HIS 205 The Historians Craft  
+3. **One** of the following:  
+	- HIS 136 East Asian Civilization  
+	- HIS 216 History of Modern Korea (WE)  
+	- HIS 246 History of Modern China  
+	- HIS 256 History of Modern Japan  
+4. **One** of the following:  
+	- HIS 465 Seminar in Ancient History  
+	- HIS 466 Seminar Modern East Asian History  
+	- HIS 472 Seminar American History I  
+	- HIS 473 Seminar American History II  
+	- HIS 474 Seminar Modern European History  
+5. **Three** additional history courses  
+
+### History Minor
+
+**One** of the following combinations:
 	- HIS 115 History of Europe to 1500
 	- HIS 125 History of Europe Since 1500
-	- HIS 145 History of United States to 1865 **or** HIS 155 History of United States since 1865
-	- One additional U.S. History course
+	- **One** course in United States history
+	- **One** course in Asian history
+	- **Two** additional history courses approved by the department
 
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **or**
 
 	- HIS 145 History of United States to 1865
 	- HIS 155 History of United States since 1865
-	- HIS 115 History of Europe to 1500 **or** HIS 125 History of Europe Since 1500
-	- One additional European History course
-
-2. HIS 205 The Historians Craft
-3. **One** of the following:
-	- HIS 136 East Asian Civilization
-	- HIS 246 History of Modern China
-	- HIS 256 History of Modern Japan
-
-4. **One** of the following:
-	- HIS 465 Seminar in Ancient History
-	- HIS 466 Seminar Modern East Asian History
-	- HIS 472 Seminar American History I
-	- HIS 473 Seminar American History II
-	- HIS 474 Seminar Modern European History
-
-5. **Three** additional history courses
-
-**NOTE:** *With departmental approval, successful completion of the ACM Newberry Seminar: Research in the Humanities Program off-campus study experience may be used to satisfy #4 above.*
-
-
-### History Minor
-
-**One** of the following combinations:
-
-- HIS 115 History of Europe to 1500
-- HIS 125 History of Europe Since 1500
-- **One** course in United States history
-- **One** course in Asian history
-- **Two** additional history courses approved by the department
-
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **or**
-
-- HIS 145 History of United States to 1865
-- HIS 155 History of United States since 1865
-- **One** course in European history
-- **One** course in Asian history
-- **Two** additional history courses approved by the department
+	- **One** course in European history
+	- **One** course in Asian history
+	- **Two** additional history courses approved by the department
 
 ### Courses in History by Content Area
 
@@ -2854,7 +2849,7 @@ A major in history requires a minimum cumulative 2.0 GPA in all courses counted 
         - HIS 444 Independent Study  
         - HIS 494 Internship in History  
 
-### Courses in History
+### Courses in History  
  **HIS 115 History of Europe to 1500**    
   The development of Western civilization from the earliest times to 1500, with primary emphasis on the culture and thought of the Ancient, Medieval, and Renaissance eras.  
  **HIS 125 History of Europe Since 1500**  
@@ -2957,7 +2952,6 @@ crises through a small research project that is developed by written assignments
   An intensive reading and research seminar on selected topics in 19th- and 20th-century European political, diplomatic, and intellectual history. Prerequisite: The Historian’s Craft (HIS-205) and junior standing.  
  **HIS 494 Internship in History**  
   Part-time work experience for one term in a history-related field supervised by a faculty member of the department in cooperation with the Internship Specialist. A minimum of 140 hours on-site experience is required. S/U basis only. This course does not satisfy any of the requirements for a major or minor in history. Prerequisites: junior standing and consent of department chair.  
-
 
 
 
