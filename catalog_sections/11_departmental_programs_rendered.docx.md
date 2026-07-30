@@ -2960,15 +2960,16 @@ Singleton (Administrative Coordinator)
 
 The interdisciplinary science major provides a broad background in the Natural Sciences. The major is suitable for students interested in pre-professional programs such as medicine, dentistry, and engineering, or careers in the health sciences, neuroscience, data analysis, teaching, writing, and other areas that could be augmented with study in the natural sciences. Students interested in pursuing the Interdisciplinary Science major should contact the program coordinator.
 
-### General Science Major
+### Interdisciplinary Science Major
 
 A major in interdisciplinary science requires a minimum cumulative 2.0 GPA in all courses counted toward the major.
 
 Students earning a major in the Natural Sciences are not eligible for the Interdisciplinary Science major. 
 
 A major in interdisciplinary science requires a minimum of eleven course credits from the natural science areas of biology, chemistry, mathematics, and physics. At least five of these course credits must be above the introductory level and:
+
   1. **Five** course credits in one of the four natural science areas  
-  2. **Four** course credits in a second natural science field
+  2. **Four** course credits in a second natural science field  
   3. **Two** course credits in a third natural science field  
   4. Satisfactory completion of assessment requirement  
 
