@@ -3006,7 +3006,6 @@ Supervised work or volunteer experience related to a student’s career interest
 Students majoring in economics have two options: the **ECONOMICS** major (see p. 96) and the **INTERNATIONAL ECONOMICS** major. The international economics major is designed to allow students who are interested in international studies to explore issues of development, growth, and international finance, using the tools of economic analysis. Because of significant overlap in the economics and the international economics requirements, only one of the two majors may be elected by a student. Students majoring in economics or international economics may not minor in either economics or international economics.
 
 ### International Economics Major  
-
 1. ECO 175 Principles of Macroeconomics  
 2. ECO 215 Prin Microeconomics  
 3. ECO 315 Intermediate Macroeconomic Theory  
@@ -3026,7 +3025,6 @@ Students majoring in economics have two options: the **ECONOMICS** major (see p.
 
 
 ### International Economics Minor  
-
 1. ECO 175 Principles of Macroeconomics  
 2. ECO 215 Prin Microeconomics  
 3. ECO 336 Divergent Economic Growth  
