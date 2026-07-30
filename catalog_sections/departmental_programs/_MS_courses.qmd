@@ -1,0 +1,76 @@
+## Museum Studies (Minor Only)  
+Rogers (Administrative Coordinator)  
+
+The Museum Studies minor is designed to educate and train students in the basic tenets of museum-related work that is applicable to traditional museums of all kinds (art, cultural, thematic, science, etc.), archaeological sites, auction and appraisal houses, historic homes, historical societies, and commercial galleries.
+
+If pursuing another major or minor in a related discipline (Art, Art History, Business, History, Public Relations), you can only double count two courses. 
+
+A Museum Studies minor may also complete an Art major or minor or Art History minor, but only two courses may count toward both the major and the minors.
+
+### Museum Studies Minor (MS)  
+1.	{{< var c.ms101.long >}}  
+2.	{{< var c.ms105.long >}}  
+3.	{{< var c.ms283.long >}}  
+4.	**One credit** from the following:  
+  	{{< var c.ms201.long >}} (0.5 credit)  
+  	{{< var c.ms203.long >}} (0.5 credit)  
+  	{{< var c.ms205.long >}} (0.5 credit)  
+  	{{< var c.ms215.long >}} (0.5 credit)  
+  	{{< var c.art_ms235.long >}} (0.5 credit)  
+  	{{< var c.ms220.long >}} (0.5 credit)  
+  	{{< var c.ms225.long >}} (0.5 credit)  
+  	{{< var c.ms395.long >}} (0.5 or 1 credit)  
+5.	**One** of the following:  
+  	{{< var c.aam107.long >}}   
+  	{{< var c.ant116.long >}}  
+  	{{< var c.ant125.long >}}  
+  	Any 100-level ART course  
+  	{{< var c.arh106.long >}}  
+  	{{< var c.arh128.long >}}  
+  	{{< var c.arh307.long >}}  
+  	{{< var c.bus125.long >}}  
+  	{{< var c.bus250.long >}}  
+  	{{< var c.bus285.long >}}  
+  	{{< var c.bus330.long >}}  
+  	{{< var c.bus460.long >}}  
+  	{{< var c.bus461.long >}}  
+  	{{< var c.com151.long >}}  
+  	{{< var c.com161.long >}}  
+  	{{< var c.com231.long >}}  
+  	{{< var c.com322.long >}}  
+  	{{< var c.com327.long >}}  
+  	{{< var c.com377.long >}}  
+  	{{< var c.ds100.long >}}  
+  	{{< var c.ds230.long >}}  
+  	Any HIS course  
+  	{{< var c.is116.long >}}  
+  	{{< var c.pr205.long >}}  
+6.	{{< var c.ms494.long >}} or {{< var c.ant208.long >}}   
+
+### Courses in Museum Studies
+100-level courses are open to any student and may offer the opportunity to explore two or more areas of art making in a studio environment.
+
+ **{{< var c.ms101.long >}}**  
+{{< var c.ms101.desc >}}  
+ **{{< var c.ms105.long >}}**  
+{{< var c.ms105.desc >}}  
+ **{{< var c.ms201.long >}}**  
+{{< var c.ms201.desc >}}  
+ **{{< var c.ms203.long >}}**  
+{{< var c.ms203.desc >}}  
+ **{{< var c.ms205.long >}}**  
+{{< var c.ms205.desc >}}  
+ **{{< var c.ms215.long >}}**  
+{{< var c.ms215.desc >}}  
+ **{{< var c.ms220.long >}}**  
+{{< var c.ms220.desc >}}  
+ **{{< var c.ms225.long >}}**  
+{{< var c.ms225.desc >}}  
+ **{{< var c.ms235.long >}}**  
+{{< var c.ms235.desc >}}  
+ **{{< var c.ms283.long >}}**  
+{{< var c.ms283.desc >}}  
+ **{{< var c.ms395.long >}}**  
+{{< var c.ms395.desc >}}  
+ **{{< var c.ms494.long >}}**  
+{{< var c.ms494.desc >}}  
