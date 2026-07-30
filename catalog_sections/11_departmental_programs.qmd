@@ -56,7 +56,7 @@
 
 {{< include departmental_programs/_HIS_courses.qmd >}}
 
-{{< include departmental_programs/_GenSci_courses.qmd >}}
+{{< include departmental_programs/_IntSci_courses.qmd >}}
 
 {{< include departmental_programs/_INT_courses.qmd >}}
 
