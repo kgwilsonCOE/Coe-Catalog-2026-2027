@@ -2955,38 +2955,22 @@ crises through a small research project that is developed by written assignments
 
 
 
-## General Science {#sec-general-science}
+## Interdisciplinary Science
 Singleton (Administrative Coordinator) 
 
-The General Science major is of particular value to students who desire pre-professional preparation in medicine and related fields, as well as those planning to teach in natural science areas at the secondary level. Pre-engineering students frequently use this concentration in 3-2 plans. 
+The interdisciplinary science major provides a broad background in the Natural Sciences. The major is suitable for students interested in pre-professional programs such as medicine, dentistry, and engineering, or careers in the health sciences, neuroscience, data analysis, teaching, writing, and other areas that could be augmented with study in the natural sciences. Students interested in pursuing the Interdisciplinary Science major should contact the program coordinator.
 
 ### General Science Major
-A major in general science requires a minimum cumulative 2.0 GPA in all courses counted toward the major.
-Students choosing a collateral major in the natural sciences or Neuroscience may not select the major in General Science. 
 
-Students earning more than one major in the natural sciences or a major and a minor in the natural sciences are not eligible for the General Science major. 
+A major in interdisciplinary science requires a minimum cumulative 2.0 GPA in all courses counted toward the major.
 
-A major in general science requires a minimum of thirteen course credits from the natural science areas of biology, chemistry, mathematics, and physics. At least seven of these 13 course credits must be above the introductory level and at least two course credits must be in biology.
+Students earning a major in the Natural Sciences are not eligible for the Interdisciplinary Science major. 
 
-1. **Six** course credits in one of the four natural science areas
-2. **Five** course credits in a second natural science field (or mathematics through MTH 265 Linear Algebra)
-3. **Two** course credits in a third natural science field 
-
-Satisfactory completion of comprehensive requirements in each of the major areas. 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+A major in interdisciplinary science requires a minimum of eleven course credits from the natural science areas of biology, chemistry, mathematics, and physics. At least five of these course credits must be above the introductory level and:
+  1. **Five** course credits in one of the four natural science areas  
+  2. **Four** course credits in a second natural science field
+  3. **Two** course credits in a third natural science field  
+  4. Satisfactory completion of assessment requirement  
 
 
 ## Interdisciplinary Studies {#sec-interdisciplinary-studies} 
