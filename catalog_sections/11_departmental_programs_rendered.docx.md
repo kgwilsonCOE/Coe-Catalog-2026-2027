@@ -2630,233 +2630,6 @@ Concurrent completion of any of the majors for a B.A. degree listed on p. 21 of 
 
 
 
-## Film Studies {#sec-film-studies}
-Cohen (Co-Coordinator), Lausch, Rogers (Co-Coordinator).
-
-The film studies major is an interdisciplinary major that allows a student to focus on the particular aspect of film studies that interests her or him most – for example, film writing, cinema studies, or digital production.
-
-### Film Studies Major
-A major in film requires a minimum cumulative 2.0 GPA in all courses counted toward the major. A major in film studies requires ten courses taken from each of the three disciplines represented in the major.  
-1. ART 150 Time Based Media  
-2. FLM 105 /FLM 105L Introduction to Film and Laboratory  
-3. FLM 200 /FLM 200L Film Analysis and Laboratory (WE)  
-4. FLM 225 /FLM 225L Film History and Laboratory (WE)  
-5. FLM 464 Seminar in Film II: and FLM 474 Senior Seminar II in Film & Senior  
-6. **Five** courses chosen from the following, in consultation with the Film Studies administrative coordinator.  At least two of the courses must be completed at the 300 level or above, and no more than two courses may be selected with the same prefix.  
-	
->ART 145 Digital Studio  
-	ART 155 Photography: Light Writing  
-	ART 325 Contemporary Photographic Genres  
-	ART 361 Documentary  
-	ART 370 Video Art and Production  
-	COM 151 Introduction to New Media Studies  
-	COM 157 Introduction to Media Analysis  
-	COM 161 Visual Rhetoric  
-	COM 337 Persuasion  
-	COM 341 Digital Storytelling  
-	COM 357 Sex, Race, & Gender in Media  
-	CRW 255 Playwriting Workshop I or THE 255 Playwriting Workshop I  
-	CRW 350 Screenwriting  
-	FLM 250 Film Topics  
-	FLM 350 Advanced Topics in Film  
-	FLM 442 Independent Study in Film  
-	FLM 494 Internship in Film  
-	MU 140 Film Music  
-	MU 195 Music Production  
-	RHE 137 Creative Nonfiction U.S.-Pluralism  
-	RHE 146 Creative Nonfiction:Global Perspect  
-	RHE 200 Rhetorical Theory and Practice  
-	RHE 255 The Essay  
-	RHE 257 Environmental Rhetoric  
-	THE 130 Technical Production I  
-	THE 140 Design for the Stage  
-	THE 220 Lighting Design  
-	THE 290 Directing I  
-
-
-### Film Studies Minor
-A minor in film studies requires six courses chosen in consultation with the Film Studies administrative coordinator.  
-1. ART 150 Time Based Media  
-2. FLM 105 /FLM 105L Introduction to Film and Laboratory  
-3. FLM 200 /FLM 200L Film Analysis and Laboratory (WE)  
-4. FLM 225 /FLM 225L Film History and Laboratory (WE)  
-5. **One** of the following:  
-	
->ART 145 Digital Studio  
-	ART 155 Photography: Light Writing  
-	ART 325 Contemporary Photographic Genres  
-	ART 361 Documentary  
-	ART 370 Video Art and Production  
-	COM 151 Introduction to New Media Studies  
-	COM 157 Introduction to Media Analysis  
-	COM 161 Visual Rhetoric  
-	CRW 255 Playwriting Workshop I or THE 255 Playwriting Workshop I  
-	MU 140 Film Music  
-	MU 195 Music Production  
-	RHE 137 Creative Nonfiction U.S.-Pluralism  
-	RHE 146 Creative Nonfiction:Global Perspect  
-	RHE 200 Rhetorical Theory and Practice  
-	RHE 255 The Essay  
-	RHE 257 Environmental Rhetoric  
-	THE 130 Technical Production I  
-	THE 140 Design for the Stage  
-	THE 220 Lighting Design  
-	THE 290 Directing I  
-6. **One** of the following:  
-	
->CRW 350 Screenwriting  
-	COM 337 Persuasion  
-	COM 341 Digital Storytelling  
-	COM 357 Sex, Race, & Gender in Media  
-	FLM 350 Advanced Topics in Film  
-	FLM 442 Independent Study in Film  
-	FLM 494 Internship in Film  
-
-
-### Courses in Film Studies
- **FLM 105 /FLM 105L Introduction to Film and Laboratory**  
-  Provides an historical understanding of film art as well as a basic critical perspective. This course surveys basic technical elements of film as well as major genres and cultural themes. Students view a wide spectrum of film and are introduced to the special vocabulary associated with film. Three class meetings and one three-hour lab (0.0 course credit) each week. Lab is P/NP basis only.   
- **FLM 200 /FLM 200L Film Analysis and Laboratory (WE)**  
-  Provides practice in the application of major film theories. Subject areas include auteur theory, genre theory, image and montage, narrative form, and digital technologies. Three class meetings and one three-hour lab (0.0 course credit) each week. Lab is P/NP basis only. Prerequisite: Introduction to Film (FLM-105) or consent of the Film Studies administrative coordinator.   
- **FLM 225 Film History**  
-  Familiarizes students with the history of film from the beginning to the present. Additional viewing time outside of class is required.   
- **FLM 250 Film Topics**  
-  Includes a brief introduction to film analysis, but focuses on a specific topic such as: adaptations, a genre, a period, an individual director, a studio. May be repeated, with consent of instructor, provided the topics are substantially different.   
- **FLM 350 Advanced Topics in Film**  
-  Advanced study of a selected topic or method in cinematic production. Example topics: Documentary, Interactive Multimedia, Motion Graphics, Advanced Editing, Producing, and Directing. May be taken more than once for credit, provided the topics are substantially different. Prerequisities: FLM-105 Introduction to Film and ART-170 Time-Based Art I.   
- **FLM 442 Independent Study in Film**  
-  Independent Study in Film Independent work on a selected project under the direction of a faculty member of the department. Prerequisites: Previous or concurrent enrollment in Movement (ART 170), Introduction to Film (FLM 105), Film Analysis (FLM 200), Film History (FLM 225). (Offered by arrangement)   
- **FLM 464 Seminar in Film II:**  
-  Emphasis is on preparation of work toward the senior capstone project. Only film majors are admitted to this course. Prerequisite: successful completion of Senior Seminar I (FLM-444).   
- **FLM 474 Senior Seminar II in Film & Senior**  
-  Emphasis is on preparation of work toward the senior capstone project. Only fillm majors are admitted to this course. Prerequisite: successful completion of Senior Seminar I (FLM-454).   
- **FLM 494 Internship in Film**  
-  An internship with a focus on film production. A minimum of 140 hours on-site experience is required. S/U basis only. Prerequisite: junior standing and consent of the Film Studies administrative coordinator.   
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## French & Francophone Studies {#sec-french-and-francophone-studies}
-Janca-Aji
-
-The French & Francophone Studies program is an intercultural and interdisciplinary program featuring courses in language, cultural history, literature and cinema, translation and interpretation, and pre-professional studies. Students are strongly encouraged to pursue opportunities for immersive and experiential learning through study abroad, May Term courses, service learning, and community-based projects and to explore ways to incorporate French in and with other major(s).
-
-### French & Francophone Studies Major
-A grade of "C" (2.0) or higher must be earned in all courses counted toward a major in French & Francophone Studies. Students complete eight credits of 300- to 400-level courses in French. FRE 315 Oral & Written Com Skills in French is required. Up to three credits may be earned by successfully completing a study abroad program in France or a francophone country that is approved by the College and the department. Up to one credit may be earned from a list of approved courses taught in English. One credit from a course taught in French must be taken in the senior year. FRE 499 Exit Exam and Interview is required during the final term before graduation.
- 
-### French & Francophone Studies Minor
-A grade of "C" (2.0) or higher must be earned in all courses counted toward a minor in French & Francophone Studies. Students complete a minimum of four credits of 300- to 400-level courses in French. FRE 315 Oral & Written Com Skills in Frenchis required. Up to one credit may be earned from a list of approved courses taught in English. FRE 499 Exit Exam and Interview is required during the final term before graduation.
-
-### Interdisciplinary French & Francophone Studies Major
-A grade of "C" (2.0) or higher must be earned in all courses counted toward a major in Interdisciplinary French & Francophone Studies. Students complete 1) **four** credits of courses taught in French at any level, including FRE 315 Oral & Written Com Skills in French, 2) a departmentally approved term-long study abroad experience in France or a Francophone country, and 3) **four** credits from courses, taught in either French or English, from the list of approved courses which include at least two different prefixes and demonstrate thematic coherence. Courses not on this list may count for credit with approval of the program coordinator. FRE 499 Exit Exam and Interview is required during the final term before graduation. 
-
-### Interdisciplinary French & Francophone Studies Minor
-A grade of "C" (2.0) or higher must be earned in all courses counted toward a minor in Interdisciplinary French & Francophone Studies. Students complete 1) **four** credits of courses taught in French at any level, including FRE 315 Oral & Written Com Skills in French, and 2) **three** credits from courses, taught in either French or English, from the list of approved courses which include at least two different prefixes and demonstrate thematic coherence. Courses not on this list may count for credit with approval of the program coordinator. FRE 499 Exit Exam and Interview is required during the final term before graduation FRE 499 Exit Exam and Interview. 
-
-
-### Courses Taught in English that can be used for credit in French & Francophone Studies
-
-- ARH 201 Art of the Middle Ages
-- ARH 218 The World of Renaissance Art
-- ARH 231 Romanticism, Realism, Impressionism
-- ARH 307 Modern and Contemporary Art
-- COM 236 Intercultural Communication
-- ENG 146 Intro Postcolonial Literature
-- FRE 145 French Literature in Translation
-- FRE 146 French Literature Translation:NWP
-- FRE 148 French Literature Translation:DWP
-- FRE 158 France & Francophone World
-- HIS 238 Modern France
-- HIS 248 The French Revolution
-- HIS 272 History of Medieval Europe
-- HIS 288 Renaissance & Reformation
-- HIS 355 19th Century Europe
-- HIS 365 20th Century Europe
-- HIS 372 Early Modern Europe
-- PHL 230 Medieval Philosophy
-- PHL 240 Early Modern Philosophy
-- PHL 255 Existentialism
-- PHL 305 Contemporary Continental Philosophy
-- PHL 345 Philosophy of Language
-- POL 298 European Politics
-- REL 148 Islam
-- REL 178 Christianity
-
-
-### Courses in French
- **FRE 115 Elementary French I**  
-  Designed for students with no previous knowledge of French. In the first term, emphasis is placed on oral practice and exposure to aspects of contemporary French culture. Activities in class are designed to develop the student's proficiency in understanding, speaking, writing, and reading the French language. In the second term, these skills are developed further in the context of class discussion and short compositions. Note: FRE-115 is not open to students with one or more full years of French in secondary school without consent of the instructor in consultation with the student's advisor.   
- **FRE 125 Elementary French II**  
-  Designed for students with no previous knowledge of French. In the first term, emphasis is placed on oral practice and exposure to aspects of contemporary French culture. Activities in class are designed to develop the student's proficiency in understanding, speaking, writing, and reading the French language. In the second term, these skills are developed further in the context of class discussion and short compositions. Note: FRE-115 is not open to students with one or more full years of French in secondary school without consent of the instructor in consultation with the student's advisor.  
- **FRE 145 French Literature in Translation**  
-  Reading, in translation, of a selection of works centering on a theme, genre, time period, or author. Students preparing a French major or minor must write a paper in French. Taught in English.  
- **FRE 146 French Literature Translation:NWP**  
-  Reading, in translation, of a selection of works centering on a theme, genre, time period, or author. Selected works focus on francophone writers from Africa, Asia, or the Caribbean. Students preparing a French & Francophone major or minor are required to complete selected assignments in French. Taught in English. (0.5 course credit)  
- **FRE 148 French Literature Translation:DWP**  
-  Same as French Literature in Translation (FRE-145) except selected works focus on diverse Western perspectives: women’s writing, gay and lesbian literature, or Quebeçois literature.  
- **FRE 158 France & Francophone World**  
-  An interdisciplinary survey of topics and issues central to an understanding of contemporary France:social, cultural, political, and economic. Films and speakers may be included in the format of this course. Taught in English.  
- **FRE 199 May Term in the Francophone World**  
-  Explores the history, culture, and arts in a site within the francophone world. Sites and topics vary by term. May count toward a major or minor if completed in French. Prerequisite: consent of instructor. (Offered May Term only)  
- **FRE 235 Intermediate French**  
-  Reviews French grammar and vocabulary thoroughly in the context of an introduction to French and Francophone culture. Includes short readings and compositions, films, discussions, and immersion activities to improve language skills. Designed for students who have completed two semesters of
-French at Coe or with 2-4 years of high school French. Prerequisite: placement, Elementary French II (FRE-125) or consent of instructor.  
- **FRE 315 Oral & Written Com Skills in French**  
-  Continues the development of linguistic proficiency from Intermediate French with particular emphasis on the
-particular ways in which native speakers of French express themselves. The course includes oral presentations and
-readings as well as creation of a podcast and a portfolio of original texts. Prerequisite: Intermediate French II (FRE235) or consent of instructor.  
- **FRE 335 Introduction to French Literature**  
-  Close reading and critical analysis of different genres of literary texts through discussion, performance, and imitation. Students learn to use literary theory, to write, revise, and edit longer papers, and to develop their own creative voices in French. Prerequisite: French Composition and Conversation (FRE-315) or consent of instructor.  
- **FRE 339 French for Health Care**  
-  Prepares students for using French in health and wellness contexts. Students learn essential vocabulary, improve written and oral communication skills, examine cultural differences, develop skills in translation and medical interpretation, and complete an independent project based on professional interests. May involve community engagement. Can be taken by arrangement. Prerequisite: Oral and Written Communication Skills (FRE-315) or consent of instructor.  
- **FRE 340 French & Fracophone Cinema (WE)**  
-  Surveys some of the major genres, directors, and films of French and francophone cinema from the Lumière brothers to the present, as well as discussions of French film culture and cinema’s relations to history, literature, and other forms of visual and media arts. Students produce their own short films in French. Prerequisite: Oral and Written Communication Skills (FRE-315) or consent of instructor.  
- **FRE 345 French Cultural History**  
-  Investigates the interrelated developments of French language, history, thought, and the arts to provide a solid foundation for the study of literature and culture. Films, performances, and a trip to a major art museum are required aspects of the course. Prerequisite: Oral and Written Communication Skills (FRE-315) or consent of instructor.  
- **FRE 394 Directed Learning  in French**  
-  Examines a particular aspect of literature or media studies in French unavailable through the regular sequence of courses offered. Periodic conferences and papers are required. May be taken more than once for credit for a maximum of 2.0 credits. Prerequisite: Two 300-level French & Francophone courses or consent of instructor.  
- **FRE 400 Advanced Language Skills**  
-  Focuses on improving linguistic skills and deepening understanding of how French is used in a variety of contexts and media through intensive practice. Topics vary from term to term. May be taken more than once for credit for a maximum of 2.0 credits. Prerequisite: Oral and Written Communication Skills (FRE-315) or consent of instructor. (0.5 course credit)  
- **FRE 444 Ind Study-French**  
-  Independent investigation of a selected project in French under the direction of a faculty member of the department. May be taken for an X status grade with consent of instructor prior to registration. Prerequisite: consent of department chair.  
- **FRE 446 Francophone Voices**  
-  Studies the history of “la francophone” in terms of France's colonial experiments, and literary legacies, and current issues of immigration and multiculturalism. Includes novels and films from France, Cameroon, Senegal, Canada, Morocco, and Martinique. Prerequisite: Two 300-level French & Francophone courses or consent of instructor.  
- **FRE 452 Translation & Interpretation Wrkshp**  
-  Features the intercultural, linguistic, critical, and ethical implications of the practices of translation and interpretation and provides extensive practice in workshops and community settings. Students learn to evaluate the quality of published translations, contribute to a group literary translation project, complete individual projects, and work with local community organizations needing help with communications from and into French. Prerequisite: Two 300-level French & Francophone courses or consent of instructor.  
- **FRE 494 Internship in French**  
-  Exploration of a career area related to French. Application and supervision through the Internship Specialist. A minimum of 140 hours on-site experience is required. S/U basis only. This course does not satisfy any of the requirements for a major in French. Prerequisites: junior standing and consent of department chair.  
- **FRE 495 Top: French & Francophone Studies**  
-  Examines specific themes, genres, periods, regions, or time periods. Approach and content vary from term to term as determined by the instructor. Topics include: Immigration and Multiculturalism, Contemporary African Literature and Cinema in French, Québecois Voices, Literary Subversions and Masquerades, Contemporary Women Writers in French, and Food, Culture, and Identity. May be taken more than once for credit for a maximum of 2.0 credits. Prerequisite: Two 300-level French & Francophone courses or consent of instructor. (May be offered for 0.5-1.0 course credits)  
- **FRE 499 Exit Exam and Interview**  
-  Evalutates the student's progress in French and experinece of the program. To be completed with faculty in French during the last semester before graduation. P/NP basis only. Prerequisite: consent of instructor. (0.0 course credit)   
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Gender And Sexuality Studies (Minor Only) {#sec-gender-and-sexuality-studies}
 Janca-Aji (Administrative Coordinator).
 
@@ -2909,64 +2682,6 @@ A minor in gender studies requires a minimum cumulative 2.0 GPA in all courses c
   Focuses on specific authors, events, or issues in feminist, queer, and masculinity studies. May be taken more than once, provided the topics are substantially different. May be done as an independent study and/or community-based project with consent of the administrative coordinator. Prerequisite: Introduction to Gender and Sexuality Studies (WE) (GS-107) or consent of instructor.   
 **NOTE:** *Students are encouraged to complete GS 327 Thry&Mthds/Gender &Sexuality Stdy before enrolling in GS 387 Topics: Gender & Sexuality Studies. *
 
-
-
-
-
-
-
-
-
-
-
-
-
-## General Science {#sec-general-science}
-Singleton (Administrative Coordinator) 
-
-The General Science major is of particular value to students who desire pre-professional preparation in medicine and related fields, as well as those planning to teach in natural science areas at the secondary level. Pre-engineering students frequently use this concentration in 3-2 plans. 
-
-### General Science Major
-A major in general science requires a minimum cumulative 2.0 GPA in all courses counted toward the major.
-Students choosing a collateral major in the natural sciences or Neuroscience may not select the major in General Science. 
-
-Students earning more than one major in the natural sciences or a major and a minor in the natural sciences are not eligible for the General Science major. 
-
-A major in general science requires a minimum of thirteen course credits from the natural science areas of biology, chemistry, mathematics, and physics. At least seven of these 13 course credits must be above the introductory level and at least two course credits must be in biology.
-
-1. **Six** course credits in one of the four natural science areas
-2. **Five** course credits in a second natural science field (or mathematics through MTH 265 Linear Algebra)
-3. **Two** course credits in a third natural science field 
-
-Satisfactory completion of comprehensive requirements in each of the major areas. 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## Greek (Courses Only) {#sec-greek}
-Langseth.
-
-### Courses in Greek
- **CLA 155 Latin/Greek Origins Med Terminology**  
-  Examines the origins of contemporary medical terminology, in part by studying the development of a distinct technical vocabulary, with historical roots in the Greco-Roman, Arabic, and Modern-European worlds, which developed as physicians discovered distinct ways of communicating both with their patients and with each other.   
- **GRK 115 Basic Greek**  
-  An intensive examination and analysis of Greek grammar and syntax. Selected readings from works of the koine or Classical tradition. Combination of drill work, lecture, and discussion. Prerequisite: no prior instruction in Greek or up to two terms of secondary school Greek and consent of instructor.  
- **GRK 125 Selected Readings in Ancient Greek**  
-  Review of basic grammar and syntax and examination of more advanced grammar and syntax. In-depth readings from authors selected from the koine or Classical tradition. Combination of drill work, lecture, and discussion. Prerequisite: Basic Greek (GRK-115) or two or more terms of secondary school Greek and consent of instructor.  
- **GRK 284/384 Topics in Greek**  
-  Close textual reading and analysis of major Greek writers in the koine or Classical tradition. Concern with stylistic differences, translating facility, and Greek culture. Combination of lecture, discussion, and translating. May be taken more than once for credit, provided the topics are substantially different. Prerequisite: Selected Readings in Ancient Greek (GRK-125) or four or more terms of secondary school Greek and consent of instructor.   
 
 
 
@@ -3257,6 +2972,40 @@ crises through a small research project that is developed by written assignments
 
 
 
+## General Science {#sec-general-science}
+Singleton (Administrative Coordinator) 
+
+The General Science major is of particular value to students who desire pre-professional preparation in medicine and related fields, as well as those planning to teach in natural science areas at the secondary level. Pre-engineering students frequently use this concentration in 3-2 plans. 
+
+### General Science Major
+A major in general science requires a minimum cumulative 2.0 GPA in all courses counted toward the major.
+Students choosing a collateral major in the natural sciences or Neuroscience may not select the major in General Science. 
+
+Students earning more than one major in the natural sciences or a major and a minor in the natural sciences are not eligible for the General Science major. 
+
+A major in general science requires a minimum of thirteen course credits from the natural science areas of biology, chemistry, mathematics, and physics. At least seven of these 13 course credits must be above the introductory level and at least two course credits must be in biology.
+
+1. **Six** course credits in one of the four natural science areas
+2. **Five** course credits in a second natural science field (or mathematics through MTH 265 Linear Algebra)
+3. **Two** course credits in a third natural science field 
+
+Satisfactory completion of comprehensive requirements in each of the major areas. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Interdisciplinary Studies {#sec-interdisciplinary-studies} 
 
 The interdisciplinary major is a rigorous academic program in which the individual student assumes primary responsibility for designing her or his own academic program. Since the interdisciplinary major is structured by the student to serve individual needs, the primary courses selected for the major invariably cross traditional departmental boundaries. In all instances, the interdisciplinary major must display internal topical coherence. Assisting the student in developing a coherent interdisciplinary major will be the supervising faculty member, the student’s academic advisor (if the advisor is not the supervising faculty member), faculty from those departments in which the student is taking primary courses, and the Academic Policies Committee. This committee is responsible for approving student-initiated majors and for offering, where necessary, constructive advice on student proposals. Further guidelines for interdisciplinary majors may be obtained from the Office of the Registrar. The decision to undertake and to seek approval of an interdisciplinary major should be made after the student has had sufficient consultation with the appropriate persons within the College. Normally, this decision is made in the sophomore year, but in no case is an interdisciplinary major approved after the student has embarked upon the final eight courses leading to graduation. Application for an interdisciplinary major must contain the following: 1) a list of the nine to 11 primary courses which constitute the major; 2) a list of secondary or supportive courses which are tangentially related to the major; and 3) a three- to four-page typewritten statement of the rationale for the proposal, indicating, among other things, the internal coherence of the major. 
@@ -3271,54 +3020,6 @@ The interdisciplinary major is a rigorous academic program in which the individu
 ### Courses in Interdisciplinary Studies
  **INT 494 Internship**  
   Supervised work or volunteer experience related to a student’s career interests. A minimum of 140 hours on-site or remote work experience is required. Authorization and evaluation of the course credit for the internship is determined by the department through which the student is completing the internship. P/NP basis only. With departmental approval, credit may be applied to a major only with consent of department chair. Prerequisites: consent of the Internship Faculty Advisor  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## International Business {#sec-international-business}
-
-Students majoring in business administration have two options: the **BUSINESS ADMINISTRATION** major (see @sec-business-administration-and-economics) and the **INTERNATIONAL BUSINESS** major. The international business major is designed to prepare students for specific challenges related to operating an organization in an international context. Because of significant overlap in the business administration and the international business requirements, only one of the two majors may be elected by a student.  
-
-### International Business Major
-A major in international business requires a minimum cumulative 2.0 GPA in all courses counted toward the major.
-
-1. ACC 171 Principles of Accounting I
-2. ECO 175 Principles of Macroeconomics
-3. ECO 215 Prin Microeconomics
-4. BUS 190 Statistical Analysis
-5. **One** of the following:
-	- BUS 250 Principles of Management
-	- BUS 300 Human Resource Management
-
-6. BUS 315 Business Law I
-7. BUS 446 International Business Management
-8. **One** of the following:
-	- BUS 466 Adv Top Mrktg:non-west persp
-	- ECO 336 Divergent Economic Growth
-	- ECO 436 Econ Development
-	- ECO 446 International Econ
-
-9. ECO 495 International Finance
-10. Two courses in world language numbered 115 or above
-11. One of the following:
-	- A semester abroad
-	- A May Term abroad
-	- A capstone project in international business, supervised by a member of the business faculty
-
-
-
-
-
 
 
 
@@ -3703,59 +3404,6 @@ NOTE: Students are encouraged to complete Advanced Weight Training (PE-103/-104)
 
 
 
-## Latin (Courses Only) {#sec-latin}
-Langseth.
-
-### Courses in Latin
- **CLA 155 Latin/Greek Origins Med Terminology**  
-  Examines the origins of contemporary medical terminology, in part by studying the development of a distinct technical vocabulary, with historical roots in the Greco-Roman, Arabic, and Modern-European worlds, which developed as physicians discovered distinct ways of communicating both with their patients and with each other.  
- **LTN 115 Basic Latin**  
-  An intensive examination and analysis of Latin grammar and syntax. Selected readings from the great literary works of the Republic and Empire. A combination of lecture, drill work, and discussion. Prerequisite: no prior instruction in Latin or fewer than two terms of secondary school Latin and consent of instructor.  
- **LTN 125 Selected Readings in Latin**  
-  Review of basic grammar and syntax and examination of more advanced grammar and syntax. In-depth readings from selected authors. Combination of lecture, drill work, and class discussion. Prerequisite: Basic Latin (LTN-115) or two or more terms of secondary school Latin and consent of instructor.  
- **LTN 284/384 Topics in Latin**  
-  Close textual reading and analysis of major Roman writers. Concern with stylistic differences, translating facility, and Roman culture. Combination of lecture, discussion, and translating. Prerequisite: selected Readings in Latin (LTN125) or four or more terms of secondary school Latin and consent of instructor.  
-
-
-
-
-
-
-## Literature {#sec-literature}
-Sodeman (Administrative Coordinator). 
-
-The following requirements are designed to provide a framework within which the student can shape a program to suit individual interests: 
-
-1. ENG 301 The Art of Literary Research
-2. **One** of the following:
-	- LIT 464 Seminar in World Literature
-	- A course by arrangement chosen in consultation with Literature Administrative Coordinator
-3. **Two** world language courses in the same language, intermediate or advanced, taken at Coe College with permission of Literature Administrative Coordinator.  
-4. **At least** one literature course taught in a world language
-5. **Six** courses to be chosen in consultation with the Literature Administrative Coordinator as indicated from the two lists below.  No more than three from the English department can be counted in the six courses. 
-
-	a) **At least** four courses from the following list: 
-		- courses in literature in translation
-		- courses in English and American literature and in creative writing offered by the English department 
-		- literature courses taught in a world language
-		- linguistics courses offered by the English or world language departments
-		- Independent Study
-
-	b) **One or more** courses from the following list of core courses to bring the total number of elective courses to six:
-		- AAM 137 African American Literature or ENG 137 African American Literature
-		- ENG 110 Ancient Mythology
-		- ENG 207 Gender & Literature: US Pluralism
-
-### Senior Seminar Course
- **LIT 464 Seminar in World Literature**  
-  Required of all literature majors in the senior year. While the subject changes from year to year, the seminar explores how literature from different countries relates to other human activities and disciplines. Thus, the emphasis may be on a historical period (literature and politics in the Renaissance); on an interdisciplinary topic (literature and Freudian analysis); or on a cross-cultural mix (literature, games and play). When the number of senior majors is too small to justify offering the seminar, other arrangements are made for majors to satisfy this requirement: either independent study or participation in an English department seminar, with the stipulation that the term paper be on a topic in comparative literature.   
-
-
-
-
-
-
-
 ## Mathematical Sciences {#sec-mathematical-sciences}
 Cross (Chair, Fall), Herron, Hostetler, Hughes, Miller, Stobb, White (Chair, Spring). 
 
@@ -3852,35 +3500,83 @@ A major in mathematics requires a minimum cumulative 2.0 GPA in all courses coun
   Investigation of a career area related to the student’s interest in mathematics supervised by a faculty member of the department in cooperation with the Internship Specialist. A minimum of 140 hours on-site experience is required. S/U basis only. This course does not satisfy any of the requirements for a major or minor in mathematics. Prerequisites: junior standing and consent of supervising instructor. (Offered by arrangement)  
 
 
-## Molecular Biology (Collateral Major) {#sec-molecular-biology}
-Leonardo (Administrative Coordinator).
+## Museum Studies (Minor Only)  
+Rogers (Administrative Coordinator)  
 
-This major might be considered by students interested in finding technical positions in academia or industry after graduation or those planning to pursue a graduate program in molecular biology, cell biology, or microbiology. 
+The Museum Studies minor is designed to educate and train students in the basic tenets of museum-related work that is applicable to traditional museums of all kinds (art, cultural, thematic, science, etc.), archaeological sites, auction and appraisal houses, historic homes, historical societies, and commercial galleries.
 
-### Collateral Major in Molecular Biology
-A major in molecular biology requires a minimum cumulative 2.0 GPA in all courses counted toward the major.
+If pursuing another major or minor in a related discipline (Art, Art History, Business, History, Public Relations), you can only double count two courses. 
 
-Concurrent completion of a primary major in biology is required (see @sec-biology). Students choosing a collateral major in Molecular Biology may not select the collateral major in Biochemistry. 
+A Museum Studies minor may also complete an Art major or minor or Art History minor, but only two courses may count toward both the major and the minors.
 
-1. CHM 221 Organic Chemistry I
-2. CHM 321 Organic Chemistry II
-3. CHM 322 Organic Laboratory
-4. BIO 345/345L Techniques in Molecular Biology and Laboratory
-5. BIO 405 Current Topics in Molecular Biology
-6. One of the following:
-	- CHM 431/431L Biochemistry and Laboratory
-	- CHM 432/432L Protein Biochemistry and Laboratory
-7. One of the following sequences:
-	- BIO 325/325L Microbiology (WE) and Laboratory
-	- BIO 415/415L Developmental Biology and Laboratory
-	- BIO 435/435L Cell Physiology and Laboratory
-	- BIO 455/455L Molecular Neurobiology and Laboratory
+### Museum Studies Minor (MS)  
+1.	MS 101 Intro to Museum Studies  
+2.	MS 105 History of Museums  
+3.	MS 283 Arts Administration  
+4.	**One credit** from the following:  
+  	MS 201 Curating a College Collection (0.5 credit)  
+  	MS 203 Collection Mgmt & Registration (0.5 credit)  
+  	MS 205 Exhibition Planning & Museum Audien (0.5 credit)  
+  	MS 215 Exhibition Installation & Lighting (0.5 credit)  
+  	+++MISSING INFO: c.art_ms235.long +++ (0.5 credit)  
+  	MS 220 Marketing the Museum (0.5 credit)  
+  	MS 225 Archives Care, Mgmt, & Best Practic (0.5 credit)  
+  	MS 395 Topics in Museum Studies (0.5 or 1 credit)  
+5.	**One** of the following:  
+  	AAM 107 Intro to African American Studies   
+  	ANT 116 Cultural Anthropology  
+  	ANT 125 Art & Archaeology Classical World  
+  	Any 100-level ART course  
+  	ARH 106 World Art  
+  	ARH 128 Introduction to Art History  
+  	ARH 307 Modern and Contemporary Art  
+  	BUS 125 Computers in Business  
+  	BUS 250 Principles of Management  
+  	BUS 285 Computer Appl:Adv Top  
+  	BUS 330 Principles of Marketing  
+  	BUS 460 Advertising  
+  	BUS 461 Marketing Decision Making/Analysis  
+  	COM 151 Introduction to New Media Studies  
+  	COM 161 Visual Rhetoric  
+  	COM 231 Communication in Teams (WE)  
+  	COM 322 Prof Communication & Writing (WE)  
+  	COM 327 Organizational Communication (WE)  
+  	COM 377 Language, Power, and Social Change  
+  	DS 100 Introduction to Data Science  
+  	DS 230 Data-Centric Computing  
+  	Any HIS course  
+  	IS 116 Intro to International Studies  
+  	PR 205 Public Relations  
+6.	MS 494 Museum Studies Internship or ANT 208 Archaeological Field School   
 
-Strongly recommended:
-	
-- One of the following sequences:
-	- PHY 165/165L Basic Physics I & Laboratory and PHY 175/175L Basic Physics II & Laboratory
-	- PHY 185/185L General Physics I & Laboratory and PHY 195/195L General Physics II & Laboratory
+### Courses in Museum Studies
+100-level courses are open to any student and may offer the opportunity to explore two or more areas of art making in a studio environment.
+
+ **MS 101 Intro to Museum Studies**  
+Highlights the multi-faceted world of museum studies, as well as the numerous careers in museums (of various types), commercial galleries, historic homes and sites, auction houses, archives, and more. Features a series of guest lecturers who work with different entities in the Eastern Iowa area. These experts offer valuable insight to the numerous occupational choices–and their historical contexts–under the category of Museum Studies.  
+ **MS 105 History of Museums**  
+Reviews the history of museums. Evidence shows that humans have been collecting objects for millennia, and there are many reasons why, ranging from functional to aesthetic to displaying power, wealth, knowledge, and prestige. The evolution of museums from private collections to public institutions is investigated in depth.  
+ **MS 201 Curating a College Collection**  
+Implements the full experience of curatorial work. Students will research Coe’s Permanent Art Collection in order to craft an exhibition. They will write exhibition proposals, didactic panels, wall labels, extended wall labels, and more. Prerequisite: MS-101 Introduction to Museum Studies, MS-105 History of Museum Studies, or consent of instructor.MS-201 Curating a College Collection  
+ **MS 203 Collection Mgmt & Registration**  
+Introduces the organizational practices of art/museum collections. This includes work with databases as well as the best practices for handling artworks and artifacts, for storage and maintenance, and for preservation of materials. Prerequisite: MS-101 Introduction to Museum Studies, MS-105 History of Museum Studies, or consent of instructor.  
+ **MS 205 Exhibition Planning & Museum Audien**  
+Encourages students to design innovative and engaging exhibitions that enhance audience experiences. Using previously-curated exhibition plans, students map gallery installations using a variety of methods, such as traditional two-dimensional layouts, three dimensional models, and digital software. An additional attention is given to audience reception and the research surrounding memory and museum experiences. Prerequisites: two ART- courses (each 1.0 course credit), or MS-101 Introduction to Museum Studies, or MS-105 History of Museum Studies, or consent of instructor. (0.5 course credit)  
+ **MS 215 Exhibition Installation & Lighting**  
+Challenges students to actually install an art exhibition. This includes in-depth instruction on mapping, measuring, and physically installing objects in a gallery setting. In addition to lighting design, students also learn various installation techniques for two- and three-dimensional artwork, video and time-based media, and full gallery installations. This is an essential course for anyone pursuing work as a museum preparator. Prerequisites: two ART- courses (each 1.0 course credit), or MS-101 Introduction to Museum Studies, or MS-105 History of Museum Studies, or consent of instructor. (0.5 course credit)  
+ **MS 220 Marketing the Museum**  
+Directs students to analyze and implement best practices for museum advertising and public relations. Additionally, students must think about building donor and community relationships. This is an essential course for anyone pursuing work in museum marketing. Prerequisite: MS-101 Introduction to Museum Studies, MS-105 History of Museum Studies, or consent of instructor.  
+ **MS 225 Archives Care, Mgmt, & Best Practic**  
+Features in-depth, hands-on training with archival material, in addition to a brief academic history of libraries and archives. Projects involve work with Coe’s own George T. Henry College Archives or a local museum or historical institution. Prerequisite: MS-101 Introduction to Museum Studies, MS-105 History of Museum Studies, or consent of instructor.  
+ **MS 235 Arts Advocacy**  
+See also Art (ART-235)
+Introduces students to arts advocacy, providing tools to cultivate, promote, sustain, and support the arts. Students will develop and implement arts advocacy programming. This course meets weekly for the full term. Prerequisites: two ART- courses (each 1.0 course credit), or MS-101 Introduction to Museum Studies, or MS-105 History of Museum Studies, or consent of instructor. (0.5 course credit)  
+ **MS 283 Arts Administration**  
+Implements the skills and guiding principles of managing arts-related organizations, in particular non-profits. Through collaborative efforts, students learn about project development and implementation, focusing on goal-setting initiatives, financial planning, marketing and advertising, viewership and participation, and audience awareness. Current issues and challenges facing nonprofit arts organizations will be addressed as well. Cross listed with MU-283 and THE-283.  
+ **MS 395 Topics in Museum Studies**  
+Examines a topic or theme pertaining to the field of museum studies, such the economics of museums and public institutions, deaccessioning and repatriation, technology in the museum, and controversies facing museums today. Depending on the course material and intended assignments, the course can be taken for 0.5 credits or 1 credit. Prerequisite: MS-101 Introduction to Museum Studies, MS-105 History of Museum Studies, or consent of instructor.  
+ **MS 494 Museum Studies Internship**  
+Focuses on an area of interest related to the Museum Studies minor. Requires placement within a museum or museum-related area that is approved by a faculty member associated with the minor. A minimum of 140 hours of on-site experience is required. P/NP basis only. Prerequisites: declared Museum Studies minor, junior standing, and consent of program director.  
 
 
 ## Music {#sec-music}
@@ -4588,52 +4284,6 @@ Examines human sexuality from the psychosocial, biophysiological, and cultural p
 
 
 
-## Organizational Science (Collateral Major) {#sec-organizational-science} 
-
-Farrell (Administrative Coordinator)
-
-The Organizational Science major is a collateral and interdisciplinary program of study designed to acquaint students with human behavior in organizations from both theoretical and applied perspectives. The program aims to prepare students to carry out various human resources, organizational development, customer service, and institutional research functions in a variety of organizational settings. It also prepares students for graduate study in the fields of Industrial/Organizational (I/O) Psychology, Human Resources, Quantitative Methods, and other similar fields. Required courses in quantitative methods form the core of the major, complemented by required and elective coursework on relevant topics within the disciplines of Psychology and Business Administration that are central to the field. An internship or research experience is also required. 
-
-### Collateral Major in Organizational Science
-
-A major in organizational science requires a minimum cumulative 2.0 GPA in all courses counted toward the major.
- 
-Concurrent completion of a primary major in psychology is required. 
- 
-1. **All** of the following quantitative/methodological core courses:
-	- BUS 340 Applied Regression Analysis
-	- PSY 475 Testing & Measurement	
-2. **All** of the following organizational core courses: 
-	- BUS 300 Human Resource Management
-	- BUS 315 Business Law I
-	- PSY 245 Organizational Psychology
-	- PSY 465 Industrial Psychology
-
-3. **Four** elective courses to be chosen as indicated from the two lists below. 
- 
-	a. **At least two** of the following courses:
-		- BUS 250 Principles of Management
-		- BUS 375 Business Ethics
-		- BUS 387 Adv Top:Human Res Mgt
-		- BUS 395 Organizational Behavior
-		- BUS 410 Business Law II 
-		- BUS 437 Strategic Compensation
-		- BUS 457 Employment and Discrimination Law
-		- BUS 464 Seminar in Management
-
-	b. **No more than two** of the following courses:
-		- PSY 255 Social Psychology
-		- PSY 315 Learning & Behavior
-		- PSY 355/355L Personality & Laboratory (WE)
-		- PSY 464 Seminar in Psychology (if topic is appropriate)
-	
-4. **One** of the following, subject to prior approval by the Organizational Science administrative coordinator:
-	- BUS 454 Research in Business (with business administration departmental approval)
-	- BUS 494 Internship in Business (with business administration departmental approval)
-	- PSY 455 Directed Research Experience 
-	- PSY 494 Internship in Psychology
-
-
 ## Philosophy 
 
 Hoover, Lemos.
@@ -4754,12 +4404,6 @@ See also REL 206 Buddhist Thought , @sec-religion
   Requires students majoring in philosophy to submit 10–15 pages of finished philosophical prose, and present their work orally to students and faculty. Although the Colloquium is usually taken during Spring Term of the senior year, it is open to all juniors and seniors with appropriate background in philosophy. Satisfactory completion of the Colloquium is required for graduation with a major in philosophy. P/NP basis only. (0.0 credits)  
  **PHL 494 Internship in Philosophy**  
   Involves the exploration of a career area related to the student’s interest in philosophy supervised by a faculty member of the department in cooperation with the Internship Specialist. A minimum of 140 hours on-site experience is required. P/NP basis only. This course does not satisfy any of the requirements for a major in philosophy. Prerequisites: declared major in philosophy, junior standing, and consent of department chair.  
-
-
-## Physical Education (See Kinesiology, @sec-kinesiology)
-
-
-
 
 
 ## Physics 
@@ -5430,124 +5074,6 @@ Recommended beginning courses for those contemplating a major in religion are: R
   Exploration of a career area related to the student’s interest in religion supervised by a Religion faculty member in cooperation with the Internship Specialist. A minimum of 140 hours on-site experience is required. P/NP basis only. This course does not satisfy any of the requirements for a major in Religion. Prerequisites: declared major in Religion, junior standing, and consent of department chair.  
 
 
-## Rhetoric {#sec-rhetoric}
-Carr (Chair), Donofrio, Harmsen, J. Nesmith, Opayemi, Spikes 
-
-The Rhetoric Department offers a major and a minor in both **Communication Studies** (see @sec-communication-studies ) and **Writing** (see @sec-writing ) and is responsible for offering courses in the study and practice of academic prose, non-fiction writing, journalism, and communication studies.  
-
-## Writing
-The writing major (within the Rhetoric department) is designed to help students become skilled, reflective writers capable of composing texts in a variety of genres, responding effectively to diverse rhetorical situations. 
-
-#### Writing Major
-A major in Writing requires a cumulative 2.0 GPA in all courses counted toward the major.
-
-1. RHE 200 Rhetorical Theory and Practice
-
-2. **One** of the following:
-   - RHE 225 Journalism/Media Wtg Wksp 
-   - RHE 255 The Essay 
-
-3. **One** of the following:
-	- RHE 377 Cultural Studies
-	- COM 382 ResearchMethods:Rhetorical/Critical **or** RHE 382 Research Methods:Rhetorical/Critica
-
-4. **Six** credits, including any course with an RHE prefix not already fulfilling another requirement, or any of the courses from the list below. No more than two courses with the CRW or COM prefix may count toward the major.
-
-	- COM 241 Multimedia Journalism
-	- COM 341 Digital Storytelling
-	- COM 361 Communication & Social Change
-	- COM 362 U.S. Public Address
-	- COM 382 ResearchMethods:Rhetorical/Critical or RHE 382 Research Methods:Rhetorical/Critica (if not used to fulfill requirement #3)
-	- COM-462 Seminar in Public Discourse (WE)
-	- CRW 115 Exploring Creative Writing
-	- CRW 255 Playwriting Workshop I
-	- CRW 280 Poetry Workshop I
-	- CRW 290 Fiction Workshop I
-	- CRW 355 Playwriting Workshop 2
-	- CRW 380 Poetry Workshop II
-	- CRW 390 Fiction Workshop II
-
-5. **One** of the following:
-	- RHE 415 How Writers Write (If not used to satisfy requirement #4)
-	- RHE 425 AdvTop Writing & Rhetorical Studies (if not used to satisfy requirement #4)
-	- RHE 444 Independent Study in Writing (WE)
-	- An Honors Thesis 
-
-6. A portfolio of works completed in the major (minimum 3, maximum 4), preceded by a preface that synthesizes major threads/themes of learning, and reflects on programmatic learning outcomes and on what takeaways from the major the student anticipates being most important as they prepare for their post-baccalaureate life. The portfolio should be submitted by the end of the term prior to the student’s intended graduation date, unless circumstances suggest it should be submitted later (confer with advisor and department chair).
-
-#### Writing Minor
-A minor in Writing requires five credits, including RHE 200 Rhetorical Theory and Practice and one RHE course numbered 300 or above. Any course with an RHE prefix or chosen from the list below may count toward the five credits; no more than two courses with CRW or COM prefix may count toward the minor. A cumulative 2.0 GPA is required in all courses counted toward the minor.
-
-- COM 241 Multimedia Journalism
-- COM 341 Digital Storytelling
-- COM 361 Communication & Social Change
-- COM 362 U.S. Public Address
-- COM 382 ResearchMethods:Rhetorical/Critical **or** RHE 382 Research Methods:Rhetorical/Critica
-- COM-462 Seminar in Public Discourse (WE)
-- CRW 115 Exploring Creative Writing
-- CRW 255 Playwriting Workshop I
-- CRW 280 Poetry Workshop I
-- CRW 290 Fiction Workshop I
-- CRW 355 Playwriting Workshop 2
-- CRW 380 Poetry Workshop II
-- CRW 390 Fiction Workshop II
-
-### Courses in Rhetoric {#sec-courses-in-rhetoric}  
- **RHE 100 Directed Summer Reading**  
-  Provides incoming students an opportunity to practice the academic reading and writing skills necessary for successful college work. Students read three books, prepare written responses to each book, and discuss the assignments with a faculty member during a conference in the first four weeks of the Fall Term. S/U basis only. (0.3 course credit)  
- **RHE 112 Intro to Writing Center Theory**  
-  Introduces foundations of writing center theory and pedagogy. Designed for Writing Center consultants who are concurrently beginning work at the writing center. Instruction takes place in weekly group meetings and individual conferences. Offered fall semesters only. (0.3 course credit)  
- **RHE 135 Writers Colony**  
-  An intensive writing workshop taught off campus; students engage in individual and collaborative writing projects. (Offered May Experiential Term only)  
- **RHE 137 Creative Nonfiction U.S.-Pluralism**  
-  Introduces the field of creative nonfiction and examines how authors have portrayed and interpreted U.S.-based economic, ethnic, racial, social, political, and cultural tensions through a diverse blend of nonfiction genres. Students compose their own texts in creative nonfiction genres such as journals, essays, short memoirs, literary journalism, and personal narratives.  
- **RHE 146 Creative Nonfiction:Global Perspect**  
-  Introduces students to the field of creative nonfiction and the use of personal narrative to explore and represent social and cultural issues. Course readings center international writers. Writing assignments encourage students to examine their own personal and cultural experiences.  
- **RHE 175 Writers Studio**  
-  A small-group workshop to help students develop basic writing, revising, and editing skills. May be taken for credit twice. Note: No more than 1.0 credit may be earned by enrolling in RHE-175 and RHE-375. (0.5 course credit)  
- **RHE 200 Rhetorical Theory and Practice**  
-  Explores the forms and functions of written and spoken language, including the study of classical rhetoric (Plato, Aristotle, Quintilian) and recent developments in rhetorical theory.  
- **RHE 210 Journalism Practicum**  
-  For Cosmos staff members. Introduction to college newspaper production, with discussions on professionalism, news gathering, ethics, advertising, layout, and computer skills. May be repeated each term a student serves on the Cosmos staff. Advanced students assist with instructing beginners. To receive credit, students complete a term of service to the Cosmos and participate in the workshops at the level agreed upon among the instructor, the editor-in-chief, and the staff member. S/U basis only. A maximum of one credit may be applied to a writing minor and no more than one credit may count toward graduation. Credit for Journalism Practicum is regarded as internship credit . (0.2 course credit)  
- **RHE 225 Journalism/Media Wtg Wksp**  
-  Introduces and analyzes several forms of writing for media in a digital age. In addition to print format, students create and analyze interactive and web-based texts while acquiring a systematic approach to compositions in a variety of media.  
- **RHE 230 Grammar & Style Workshop**  
-  Examines various grammatical principles that provide structure to language and explores the stylistic choices available to writers. Focuses on the rhetorical use of grammar and style to affect meaning, express power relations, and persuade readers. Analysis of published writers and extensive practice in writing helps students develop stylistic versatility and effectiveness.  
- **RHE 255 The Essay**  
-  Practice in writing a variety of essay forms in non-fiction prose. Students read and discuss essayists chosen to represent a range of prose styles and subjects. Students also practice writing, workshopping, and revising nonfiction essays.  
- **RHE 257 Environmental Rhetoric**  
-  Examines how authors and organizations have attempted to define and influence the political, economic, social, and ethical debates on key environmental issues with particular attention to the birth and progress of global environmental movements. Students engage in close reading and analysis of a range of arguments and messaging pertaining to such movements.  
- **RHE 265 Professional Writing**  
-  Planning, drafting, revising, and presenting documents for business and professional audiences; focus on effective writing and document design. Students compose a variety of texts—resumés, memos, letters, manuals, public relations materials, and/or reports—working both independently and collaboratively; students also give at least one oral presentation, based on a major writing assignment.  
- **RHE 275 Advanced Writers Studio**  
-  A small group, multi-genre workshop for experienced writers. May be taken more than once for credit for a maximum of 1.0 credit. No more than 1.0 credit may be earned by enrolling in RHE-175 and RHE-275. (0.5 course credit)  
- **RHE 284 Topics in Writing and Rhetoric**  
-  Offers selected topics on specific concerns, problems, or trends in writing and rhetoric. Content varies as determined by instructor. May be taken more than once for credit, provided topics are distinct.  
- **RHE 285 Technical Writing & Info Design**  
-  Introduction to the effective communication of scientific and technical information for both specialist and non-expert audiences. Instruction in audience analysis, writing processes, research strategies, integration of graphics and visual information, and the designing, composing, revising, editing, and assessment of technical documents.  
- **RHE 312 Writing Center Theory & Practice**  
-  Explores current topics in writing center research. Students plan and complete a project informed by research and share with writing center peers. Offered fall and spring terms. May be taken more than once for credit for a maximum of 0.9 credits. Prerequisite: Introduction to Writing Center Theory & Practice (RHE-112) (0.3 course credit)  
- **RHE 345 Writing Wilderness**  
-  An immersive writing workshop in which students write about their wilderness travel experiences in original prose and poetry. The focus of the student work will be the intersection of self and place. The class considers the idea of wilderness—as a concept, a place, a political designation, and a state of mind—through the lens of diverse environmental writers, theorists and poets across generations. Representative authors include Sigurd Olson, Annie Dillard, Terry Tempest Williams, Lorine Niedecker, Kimberly Blaeser, William Cronon, Robin Wall Kimmerer and Drew Lanham. Students in the class gain experience, confidence, and proficiency in wilderness travel and ethics.
-(Offered summers at the Wilderness Field Station)  
- **RHE 377 Cultural Studies**  
-  An exploration of American culture as a series of “texts” to be read, analyzed, and interpreted from a variety of rhetorical perspectives. Subjects for analysis may include media, art, architecture, lifestyles, entertainment, music, film, theatre, and a wide range of literary genres.  
- **RHE 382 Research Methods:Rhetorical/Critica**  
-  Explores rhetorical/critical research methodologies. Students gain experience conducting research in the discipline, honing their analytical skills, and improving their communication competencies. Prerequisite: Rhetorical Theory & Practice (RHE-200).  
- **RHE 394 Drtd Learning in Writing & Rhetoric**  
-  Completion of specialized study under the direction of a faculty member. Registration by consent of instructor and after submission of a written project proposal to the rhetoric department. May be taken more than once for credit with consent of department chair. Prerequisite: RHE-200 Rhetorical Theory and Practice, consent of instructor.  
- **RHE 415 How Writers Write**  
-  Focuses on established and emergent theories about writing from the disciplines of rhetoric and writing studies. Students will apply relevant theory and/or research in a self-study. Students will also undertake and independent writing project of their own design, to be included with the self-study and other documents in a portfolio of polished work. Prerequisites: RHE-200 Rhetorical Theory & Practice, and either RHE-377 Cultural Studies or COM-382/RHE-382 Research Methods: Rhetorical/Critical  
- **RHE 425 AdvTop Writing & Rhetorical Studies**  
-  Exploration of a topic in writing and rhetorical studies. May be taken more than once for credit with consent of department chair. Exploration of a topic in writing and rhetorical studies. May be taken more than once for credit with consent of department chair. Prerequisites: RHE-200 Rhetorical Theory & Practice and either RHE-377 Cultural Studies or COM-382/RHE-382 Research Methods: Rhetorical/Critical  
- **RHE 444 Independent Study in Writing (WE)**  
-  Independent projects in writing and rhetoric, culminating in a substantial artifact such as a thesis or a work/collection of works suitable for publication. May be taken more than once for credit for a maximum of 2.0 credits. A maximum of one course credit may count toward a writing major or minor. P/NP basis only. May be taken for an X status grade with consent of instructor prior to registration. Prerequisites: senior standing, written consent of instructor and departmental petition form. (0.5 or 1.0 course credit)  
- **RHE 490 Publications Practicum**  
-  A student may receive practicum credit while holding the position and performing the duties of the main editor of: The Cosmos, The Acorn, Colere, or The Pearl, or a comparable publication sponsored by the rhetoric department. Students must arrange with a supervising faculty member the amount of credit and a practicum agreement specifying skill development goals and the projects to be undertaken for the development of those skills. S/U basis only. No more than 2.0 course credits may be applied to graduation requirements. A maximum of one course credit may be applied to a writing major or minor. (0.5 or 1.0 course credit per term)  
- **RHE 494 Internship in Writing**    
-  An internship with a focus on writing supervised by a faculty member of the department. A minimum of 140 hours on-site experience is required. S/U basis only. A maximum of one credit may count toward a major or minor in communication studies or writing with the consent of department chair. Prerequisites: junior standing and consent of department chair.  
-
-
 ## Secondary Education (Minor Only)
 See Education , @sec-education 
 
@@ -6106,43 +5632,3 @@ See also CRW 455 Playwriting Workshop 3 , @sec-courses-in-creative-writing
  **THE 494 Internship in Theatre Arts**  
   An experience in professional or community theatre under the direction of an on-site supervisor in cooperation with a faculty member of the department and the Internship Specialist. A minimum of 140 hours on-site experience is required. P/NP basis only. One internship credit may be used to satisfy the requirements for a major in theatre arts. Prerequisites: junior standing, declared major in Theatre Arts, and consent of department chair.  
 
-
-
-## Workshops (Courses Only)
-
-Hughes, Rogers.
-
-Workshops (0.25 and 0.5 course credit) are designed to allow hands-on, experiential learning in a practice-based context.  WKS courses can be interdisciplinary explorations, or offer opportunities to learn, refine, or apply a skill set within a specific discipline. 
-
- **WKS 201 Workshop: Studio Lighting/Portrait**  
-  An introduction to studio lighting for photography. Following a review of the history of the photographic portrait, students learn the basics of studio lighting for expressive portraits. (0.5 course credit).  
- **WKS 202 Workshop: Encaustic Painting**  
-  An introduction to encaustic painting. Encaustic, one of the oldest painting mediums, is pigment suspended in wax. Projects help students learn the technical process and explore the expressive potential of the medium. (0.5 course credit).  
- **WKS 203 Workshop: Egg Tempera Painting**  
-  An introduction to egg tempera painting. Egg tempera was the most common painting medium before the introduction of oil paint. Projects help students learn the technical process and explore the expressive potential of the medium. (0.5 course credit).  
- **WKS 204 Workshop: Digital Toolbox**  
-  An introduction to Adobe Photoshop as an art-making tool through a series of self-directed creative projects (not tutorials). Students learn through hands on experience, guided with interactive demonstrations and assignments. (0.5 course credit).  
- **WKS 211 Workshop: Design Thinking Project**  
-  Learn to solve real world problems using design thinking processes. (0.5 course credit).  
- **WKS 212 Workshop: 3D Modeling & Output**  
-  An introduction to 3D modeling software. Course culminates in outputting the final project by means of a 3D printer or other means appropriate to the project. (0.5 course credit).  
- **WKS 213 Workshop: Vector Graphics**  
-  An introduction to vector graphics programs such as Adobe Illustrator as art-making tools though a series of self-directed creative projects (not tutorials). Students learn through hands on experience, guided with interactive demonstrations and assignments. (0.5 course credit).  
- **WKS 214 Workshop: Stop Motion**  
-  An introduction to stop-motion animation as an art-making tool, through a series of self-directed creative projects (not tutorials). Students learn through hands on experience, guided with interactive demonstration and assignments. (0.5 course credit).  
- **WKS 221 Workshop: Woodshop**  
-  An overview of proper and safe use of all woodshop tools. Basic maintenance and care of equipment and tools are also addressed. (0.25 course credit)  
- **WKS 241 Workshop: Topics**  
-  Investigates specific topics and/or tools in art-making. (0.5 course credit).  
- **WKS 251 Workshop: Sound**  
-  An introduction to sound as an art medium, using recording devices, software and installation, through a series of self-directed creative projects (not tutorials). Students learn through hands on experience, guided with interactive demonstrations and assignments. Prerequisite: Digital Art (ART-145), or Time-Based Media (ART-150). (0.5 course credit)  
- **WKS 252 Workshop: Motion Graphics**  
-  An introduction to digital kinetic graphics programs, specifically Adobe AfterEffects among others, as art-making tools, through a series of self-directed creative projects (not tutorials). Students learn through hands on experience, guided with interactive demonstrations and assignments. Prerequisite: Digital Art (ART-145), or Time-Based Media (ART-150), or Workshop: Vector Graphics (WKS-213). (0.5 course credit)  
- **WKS 253 Workshop: Competitions**  
-  This 7-week workshop is designed to prepare artists for submission, be that galleries, grants, festivals or graduate schools. Learn about what makes submissions attractive and improve your submission materials, including artist resumes, proposals, statements, etc. To be most successful, students should have a project in mind or already near completion. Prequisite: at least two ART- courses or consent of instructor.  
- **WKS 291 Workshop: Advanced Topics**  
-  This course will investigate specific topics and/or tools in art-making. Prerequisite: at least two ART- courses or consent of instructor. (0.5 course credit).  
-
-
-## Writing {#sec-writing}
-See Rhetoric, @sec-rhetoric
