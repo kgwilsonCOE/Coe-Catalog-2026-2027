@@ -3518,7 +3518,7 @@ A Museum Studies minor may also complete an Art major or minor or Art History mi
   	MS 203 Collection Mgmt & Registration (0.5 credit)  
   	MS 205 Exhibition Planning & Museum Audien (0.5 credit)  
   	MS 215 Exhibition Installation & Lighting (0.5 credit)  
-  	+++MISSING INFO: c.art_ms235.long +++ (0.5 credit)  
+  	ART/MS 235 Arts Advocacy (0.5 credit)  
   	MS 220 Marketing the Museum (0.5 credit)  
   	MS 225 Archives Care, Mgmt, & Best Practic (0.5 credit)  
   	MS 395 Topics in Museum Studies (0.5 or 1 credit)  
