@@ -1,7 +1,7 @@
-## Japanese (Courses Only) {#sec-japanese}
-Potter.
+## Japanese (Courses Only)  
+Potter  
 
-### Courses in Japanese
+### Courses in Japanese  
  **{{< var c.jpn106.long >}}**  
   {{< var c.jpn106.desc >}}  
  **{{< var c.jpn115.long >}}**  
@@ -14,9 +14,3 @@ Potter.
   {{< var c.jpn225.desc >}}  
  **{{< var c.jpn305.long >}}**  
   {{< var c.jpn305.desc >}}  
-
-
-
-
-
-
