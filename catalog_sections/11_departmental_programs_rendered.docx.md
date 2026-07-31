@@ -3033,55 +3033,38 @@ Students majoring in economics have two options: the **ECONOMICS** major (see p.
 6. **One** additional Economics course numbered 200 or higher   
 
 
-## International Studies {#sec-international-studies}
-Chaimov (Administrative Coordinator).
+## International Studies
+Janca (Administrative Coordinator).
 
 ### International Studies Major
 A major in international studies, in any track, requires a minimum cumulative 2.0 GPA in all courses counted toward the major.
 
-### International Studies Core Courses (required of students completing a major in international studies): 
-1. IS 116 Intro to International Studies
-2. ANT 116 Cultural Anthropology
-3. POL 258 World Politics
-4. ECO 175 Principles of Macroeconomics
-5. **Two** world language courses, numbered 125 or above in Spanish or French, 115 or above in another language. 
+#### International Studies Core Courses (required of students completing a major in international studies):  
+1. IS 116 Intro to International Studies  
+2. ANT 116 Cultural Anthropology  
+3. POL 258 World Politics  
+4. ECO 175 Principles of Macroeconomics  
+5. **Two** world language courses, numbered 125 or above in Spanish, 115 or above in another language. 
 6. A term-long study abroad experience, subject to prior approval by the International Studies program committee.
 7. IS 464 International Studies Colloquium
 
 **NOTE:** *International Studies majors select one of the following tracks: The Global South, International Relations, or Global Cultural Studies.  (Students who plan to pursue a graduate program that requires a strong foundation in economics should consider the International Economics major offered by the Business and Economics Department.)*
 
-### International Studies Major — The Global South track
-The Global South examines the characteristics of regions in what has come to be called the “Global South,” especially Latin America, Africa, and Asia.  It investigates how the evolution of these regions relates to social, political and economic systems.  Students are introduced to a variety of disciplinary and theoretical approaches to the study of international development; graduates better understand the history and legacy of colonialism, the conditions that create or resolve poverty, and relations between the Global South and North.
+#### International Studies Major — The Global South track  
+The Global South examines the characteristics of regions in what has come to be called the “Global South,” especially Latin America, Africa, and Asia.  It investigates how the evolution of these regions relates to social, political and economic systems.  Students are introduced to a variety of disciplinary and theoretical approaches to the study of international development; graduates better understand the history and legacy of colonialism, the conditions that create or resolve poverty, and relations between the Global South and North.  
 
-1. **Seven** international studies core courses (See above.)
-2. ECO 215 Prin Microeconomics
-3. **Two** courses to be chosen as indicated from the two lists below. 
-
-	a. **One** of the following:
-		- ECO 436 Econ Development
-
-		**or**
-
-		Subject to prior approval by the International Studies administrative coordinator:
-
-		- ECO 336 Divergent Economic Growth
-		- ECO 446 International Econ
-
-	b. **One** of the following:
-		- POL 386 International Development
-
-		**or**
-
+1. **Seven** international studies core courses  
+2. ECO 215 Prin Microeconomics  
+3. **Two** courses to be chosen as indicated from the two lists below.  
+	a. **One** of the following:  
+		- ECO 436 Econ Development **or**  
 		Subject to prior approval by the International Studies administrative coordinator:  
-
-		- POL 310 International Organizations
-
-4. **Two or more** additional courses from either the courses under #3 or any of the following, subject to prior approval by the International Studies administrative coordinator.  (Not more than one of these two courses can be from political science and not more than one of these two courses can be from economics.).  At least one course must be completed at the 300 level or above. 
-    	
-	- ANT 286/486 Topics in Anthropology (WE)
+		- ECO 336 Divergent Economic Growth  
+		- ECO 446 International Econ  
+	b. One course selected in consultation with the International Studies administrative coordinator (priority given to upper-level POL- courses)  
+4. **Two or more** additional courses from either the courses under #3 or any of the following, subject to prior approval by the International Studies administrative coordinator.  (Not more than one of these two courses can be from political science and not more than one of these two courses can be from economics.).  At least one course must be completed at the 300 level or above.  
 	- ASC 186 Modern South Asia
 	- ENG 146 Intro Postcolonial Literature
-	- GS 136 Gender in Non-Western World
 	- HIS 246 History of Modern China
 	- HIS 268 Latin America
 	- HIS 286 Modern Middle East
@@ -3091,83 +3074,68 @@ The Global South examines the characteristics of regions in what has come to be 
 	- POL 276 African Politics
 	- POL 286 Asian Politics
 
-### International Studies Major — International Relations track
+#### International Studies Major — International Relations track
 International Relations combines theoretical approaches to and empirical knowledge of state and non-state actors, power, and international structures. 
 
-1. **Seven** international studies core courses (see @sec-courses-in-IS}
-2. POL 108 Introduction to Politics
-3. POL 310 International Organizations
-4. **Three** courses to be chosen as indicated from the two lists below. No more than two of these three courses can be completed in the Political Science department.
+1. **Seven** international studies core courses  
+2. POL 108 Introduction to Politics  
+3. POL 310 International Organizations  
+4. **Three** courses to be chosen as indicated from the two lists below. No more than two of these three courses can be completed in the Political Science department.  
+	a. **One** of the following:  
+		- ASC 186 Modern South Asia  
+		- HIS 216 History of Modern Korea (WE)  
+		- HIS 217 American War in Vietnam  
+		- HIS 246 History of Modern China  
+		- HIS 256 History of Modern Japan  
+		- HIS 268 Latin America  
+		- POL 266 Latin American Politics  
+		- POL 276 African Politics  
+		- POL 286 Asian Politics  
+		- POL 298 European Politics  
+	b. **Two** of the following:  
+		- ECO 446 International Econ  
+		- HIS 286 Modern Middle East  
+		- HIS 335 Recent American History II  
+		- HIS 395 United States Diplomatic History  
+		- IS 315 Topics in International Studies (when appropriate)  
+		- IS 316 Top in Internl Stds:Non-West Persp (when appropriate)  
+		- POL 305 Terrorism  
+		- POL 365 American Foreign Policy  
 
-	a. **One** of the following:
-		- ASC 186 Modern South Asia
-		- HIS 216 History of Modern Korea (WE)
-		- HIS 217 American War in Vietnam
-		- HIS 246 History of Modern China
-		- HIS 256 History of Modern Japan
-		- POL 266 Latin American Politics
-		- POL 276 African Politics
-		- POL 286 Asian Politics
-		- POL 296 Topics Pol Sci: Non-West Persp
+#### International Studies Major — Contemporary European Studies  
+The Contemporary European Studies track emphasizes the study of cultural commonalities and differences in Europe since the mid-19th century. 
 
-	b. **Two** of the following:
-		- ANT 286/486 Topics in Anthropology (WE) (when appropriate)
-		- ECO 446 International Econ
-		- ECO 495 International Finance
-		- HIS 286 Modern Middle East
-		- HIS 335 Recent American History II
-		- HIS 395 United States Diplomatic History
-		- IS 315 Topics in International Studies (when appropriate)
-		- IS 316 Top in Internl Stds:Non-West Persp (when appropriate)
-		- POL 305 Terrorism
-		- POL 365 American Foreign Policy
-		- POL 386 International Development
-		- POL 398 Religion & World Politics
+**Contemporary European Studies**  
+1. Seven international studies core courses  
+2. HIS 365 20th Century Europe  
+3. POL 298 European Politics  
+4. **Three** of the following, two of which must be numbered 300 or above.  At least two academic disciplines must be represented.  
+	- ARH 248 Baroque, Rococo, and Neoclassicism  
+	- ARH 307 Modern and Contemporary Art  
+	- ENG 393 Study in Mod/Contmp British Fiction  
+	- HIS 238 Modern France  
+	- HIS 278 History of the Holocaust  
+	- HIS 292 History of Modern England  
+	- IS 315 Topics in International Studies (when appropriate)  
+	- REL 138 Modern Judaism  
+	- REL 148 Islam  
+	- REL 178 Christianity  
+	- THE 238 History of Theatre and Drama II  
+	- A course approved by the International Studies administrative coordinator  
 
-### International Studies Major — Contemporary European Studies
-The Contemporary European Studies track emphasizes the study of cultural commonalities and differences in Europe since the mid-19th century.
-
-**Contemporary European Studies**
-
-1. Seven international studies core courses (see @sec-courses-in-IS)
-2. HIS 365 20th Century Europe
-3. POL 298 European Politics
-4. **Three** of the following, two of which must be numbered 300 or above.  At least two academic disciplines must be represented.
-	- ARH 248 Baroque, Rococo, and Neoclassicism
-	- ARH 307 Modern and Contemporary Art
-	- ENG 393 Study in Mod/Contmp British Fiction
-	- FRE 158 France & Francophone World
-	- FRE 340 French & Fracophone Cinema (WE)
-	- HIS 238 Modern France
-	- HIS 278 History of the Holocaust
-	- HIS 292 History of Modern England
-	- IS 315 Topics in International Studies (when appropriate)
-	- MU 458 Music History & Literature III
-	- REL 138 Modern Judaism
-	- REL 148 Islam
-	- REL 178 Christianity
-	- THE 238 History of Theatre and Drama II
-	- A course approved by the International Studies administrative coordinator
-
-
-### Courses in International Studies {#sec-courses-in-IS}
+### Courses in International Studies  
  **IS 116 Intro to International Studies**  
 	A range of case studies introduces students to the nomenclature and analytical approaches of international studies. Focus areas include migration and human geography; global economics, trade, and development; global governance; media and culture across borders. Global health, the environment, and gender issues are also included.   
  **IS 126 Human Rights Burmese Migrant**  
 	Offers the opportunity during a May-Term residency at a school on the border of Thailand and Myanmar to gain an understanding of the lives of Burmese youth who live as educational migrants in Thailand. Through teacher/ pupil interactions and tutoring students learn about the conditions that drive Burmese children from their homeland to seek an education in a foreign country and about the challenges these children face far from home. Students also gain insight into the rewards and pitfalls of international humnitarian work. Prerequisite: consent of instructor. (Offered May Experiential Term only).   
+ **IS 199 May Experiential Term in the Franco**  
+	Explores the history, culture, and arts in a site within the francophone world. Sites and topics vary by term. May count toward a major or minor if completed in French. Prerequisite: consent of instructor. (Offered May Experiential Term only)   
  **IS 315 Topics in International Studies**  
 	A study of a selected topic or theme in international studies. Topics vary and may include interdisciplinary approaches to human migration, transitional justice, human rights. May be taken more than once for credit, provided the topics are substantially different. Prerequisite: Introduction to International Studies (IS-116) or consent of instructor.   
  **IS 316 Top in Internl Stds:Non-West Persp**  
 	Same as Topics in International Studies (IS-315) except selected works focus on Non-Western Perspectives.   
  **IS 464 International Studies Colloquium**  
 	Synthesizes learning from major courses with a blend of cross-disciplinary readings, career exploration, and an independently designed community-based project. The Colloquium is usually taken during Spring Term of the senior year. Satisfactory completion of the Colloquium is required for graduation with a major in international studies. P/NP basis only. Prerequisite: consent of instructor. (0.5 course credit)   
-
-
-
-
-
-
-
 
 
 
