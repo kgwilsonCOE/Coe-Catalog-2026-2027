@@ -1,7 +1,7 @@
-## Japanese (Courses Only) {#sec-japanese}
-Potter.
+## Japanese (Courses Only)  
+Potter  
 
-### Courses in Japanese
+### Courses in Japanese  
  **JPN 106 Images Foreign Culture**  
   A course dealing with the picture of human activity and values given in foreign short stores, novels, films, and other works of art, as well as in historical documents and the like. It celebrates and explores the special character of a national or ethnic identity. Topics vary from year to year. Taught in English.  
  **JPN 115 Elementary Japanese I**  
@@ -14,9 +14,3 @@ Potter.
   Reading and discussion of selected Japanese texts, with continued work on grammatical structures. Increased emphasis on kanji. Prerequisite: Intermediate Japanese I (JPN-215) or consent of instructor.  
  **JPN 305 Topics in Japanese Language**  
   An advanced study of the Japanese language. May be taken more than once. Prerequisite: Intermediate Japanese II (JPN-225) or consent of instructor.  
-
-
-
-
-
-
