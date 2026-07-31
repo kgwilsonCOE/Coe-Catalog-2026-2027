@@ -1,95 +1,133 @@
-## Kinesiology {#sec-kinesiology}
-Atwater, Brendes, Chandler, R. Christensen, Galbraith, Gee, Griffith, LeFevre, Libby, Martin, Molinari, Parks, Prunty, Rice, Roberts, E. Rodgers, Rydze (Chair), Snyder, Tiedt, Walter, Woodin.
+## Kinesiology  
+Chandler, Kirkpatrick, Libby (Chair), Rydze  
 
-The kinesiology department’s program enables students to earn a major in physical education for teacher certification, a coaching endorsement, a coaching authorization, and a teacher health certification endorsement. Students may also pursue a track that focuses on health and human performance. 
+The kinesiology department’s program enables students to earn a major in Kinesiology with a concentration in physical education for teacher certification, fitness development-strength & conditioning, fitness development-health & wellness, or Pre-Health Professions. In Addition, students may complete coursework to fulfill the state of Iowa Board of Educational Examiners requirements for a coaching endorsement, coaching authorization, and a teacher health certification endorsement.  
 
-### Kinesiology Major 
-A major in Kinesiology requires a minimum cumulative 2.0 GPA in all courses counted toward the major.
+### Kinesiology Major  
+A major in Kinesiology requires a minimum cumulative 2.0 GPA in all courses counted toward the major.  
 
-### Secondary Education Emphasis in Physical Education
-1. {{< var c.bio155.long >}}
-2. **One** of the following:
-	- {{< var c.bio103.long >}}
-	- {{< var c.bio215.long >}} **AND** {{< var c.bio225.long >}}
+### Concentrations in Kinesiology  
 
-3. {{< var c.kin105.long >}}
-4. {{< var c.kin165.long >}}
-5. {{< var c.kin175.long >}}
-6. {{< var c.kin225.long >}}
-7. {{< var c.kin347.long >}}
-8. {{< var c.kin365.long >}}
-9. {{< var c.kin415.long >}}
-10. {{< var c.kin440.long >}}
-11. {{< var c.kin442.long >}}
-12. {{< var c.kin495.long >}}
+Students completing a major in Kinesiology may elect to also complete a concentration of courses within a specific discipline in the major. Courses taken to fulfill requirements in the Kinesiology major may be used to also fulfill requirements in an area of concentration. Students may declare only one concentration. Concentrations are offered in nutrition. To complete a concentration a student must meet the following requirements:  
+1.	Completion of a major in Kinesiology  
+2.	Completion of six additional courses in which a cumulative 2.0 GPA must be earned. At least three of the six courses must be completed at Coe.  
 
-### Kinesiology Major — Fitness Development
-1. {{< var c.bio155.long >}}
-2. **One** of the following:
-	- {{< var c.bio103.long >}}
-	- {{< var c.bio215.long >}} **AND** {{< var c.bio225.long >}}
+#### Kinesiology Major — Pre-Health Professions 
+1.	{{< var c.bio155.long >}}  
+2.	{{< var c.bio215_215l.long >}}  
+3.	{{< var c.bio225.long >}}  
+4.	{{< var c.kin105.long >}}  
+5.	{{< var c.kin115.long >}}  
+6.	{{< var c.kin275.long >}}  
+7.	{{< var c.kin365.long >}}  
+8.	{{< var c.kin442.long >}}  
+9.	{{< var c.kin495.long >}}  
 
-3. {{< var c.kin105.long >}}
-4. {{< var c.kin115.long >}}
-5. {{< var c.kin175.long >}}
-6. {{< var c.kin365.long >}}
-7. {{< var c.kin440.long >}}
-8. {{< var c.kin442.long >}}
-9. **All** of the following courses in the **Strength and Conditioning Group**: 
-	- {{< var c.kin103.long >}} or {{< var c.kin104.long >}} Advanced Weight Training
-	- {{< var c.kin103.long >}} or {{< var c.kin104.long >}} Movement Training
-	- {{< var c.kin185.long >}} 
-	- {{< var c.kin385.long >}} 
-	- {{< var c.kin405.long >}}
-	- {{< var c.kin495.long >}}
+**All** of the following courses in the Pre-Health Professions Group  
+	- KIN-110 Emergency Life Skills (0.5 credit)  
+	- KIN-310 Athletic Injury Evaluation  
+	- KIN-410 Athletic Injury Treatment & Rehabilitation  
+
+*Students interested in the Pre-Health Professions track are strongly encouraged to meet with the Kinesiology faculty for informal advising as soon as they have chosen this major. Additional coursework may be needed for those students pursuing graduated work in Physical Therapy, Athletic Training or Occupational Therapy.*
+
+#### Kinesiology Major — Fitness Development  
+1. {{< var c.bio155.long >}}  
+2. **One** of the following:  
+	- {{< var c.bio103_103l.long >}}  
+	- {{< var c.bio215.long >}} **and** {{< var c.bio225.long >}}  
+3. {{< var c.kin105.long >}}  
+4. {{< var c.kin115.long >}}  
+5. {{< var c.kin275.long >}}  
+6. {{< var c.kin365.long >}}  
+7. {{< var c.kin440.long >}}  
+8. {{< var c.kin442.long >}}  
+9. {{< var c.kin449.long >}}  
+10. **All** of the following courses in the **Strength and Conditioning Group**: 
+	- {{< var c.kin103.long >}} **or** {{< var c.kin104.long >}} Advanced Weight Training  
+	- {{< var c.kin103.long >}} **or** {{< var c.kin104.long >}} Movement Training  
+	- {{< var c.kin185.long >}}  
+	- {{< var c.kin385.long >}}  
+	- {{< var c.kin405.long >}}  
 
 		**or**
 
-	**All** of the following courses in the **Health and Wellness Group**: 
-	- {{< var c.kin125.long >}}
-	- {{< var c.kin135.long >}}
-	- {{< var c.kin155.long >}}
+	**All** of the following courses in the **Health and Wellness Group**:  
+	- {{< var c.kin125.long >}}  
+	- {{< var c.kin135.long >}}  
+	- {{< var c.kin255.long >}}  
 
-### State of Iowa Coaching Endorsement (#55, K-12) 
-1. Teaching certification in an academic area 
-2. {{< var c.kin175.long >}}
-3. {{< var c.kin201.long >}}
+#### Kinesiology Major — Physical Education  
 
-The Coaching Endorsement (#55, K-12) may be granted to any student with teacher certification completing a major in kinesiology and by taking {{< var c.kin205.long >}} **OR** {{< var c.kin201.long >}}.
+##### Secondary Education Emphasis in Physical Education  
+1. {{< var c.bio155.long >}}  
+2. **One** of the following:  
+	- {{< var c.bio103_103l.long >}}  
+	- {{< var c.bio215.long >}} **and** {{< var c.bio225.long >}}  
+3. {{< var c.kin105.long >}}  
+4. {{< var c.kin165.long >}}  
+5. {{< var c.kin225.long >}}   
+6. {{< var c.kin275.long >}}  
+7. {{< var c.kin347.long >}}  
+8. {{< var c.kin365.long >}}  
+9. {{< var c.kin415.long >}}  
+10. {{< var c.kin440.long >}}  
+11. {{< var c.kin442.long >}}  
+12. {{< var c.kin495.long >}}  
 
-### State of Iowa Coaching Authorization
-1. {{< var c.kin175.long >}}
-2. {{< var c.kin201.long >}}
+##### Elementary Education Emphasis in Physical Education
+1. {{< var c.bio155.long >}}  
+2. **One** of the following:  
+	- {{< var c.bio103.long >}}  
+	- {{< var c.bio215.long >}} **and** {{< var c.bio225.long >}}  
+3. {{< var c.kin105.long >}}  
+4. {{< var c.kin165.long >}}  
+5. {{< var c.kin225.long >}}   
+6. {{< var c.kin275.long >}}  
+7. {{< var c.kin347.long >}}  
+8. {{< var c.kin315.long >}}  
+9. {{< var c.kin440.long >}}  
+10. {{< var c.kin442.long >}}  
 
-### State of Iowa Health Certification Endorsement
-1. {{< var c.kin115.long >}}
-2. {{< var c.kin125.long >}}
-3. {{< var c.kin135.long >}}
-4. {{< var c.kin155.long >}}
-5. {{< var c.kin175.long >}}
-6. **One** of the following:
-	- {{< var c.nur137.long >}}
-	- {{< var c.nur297.long >}}
-	- {{< var c.soc207.long >}}
+For additional educational requirements, K-12 Licensure, see p. 120; for Secondary Licensure, see p. 121.  
 
-### Kinesiology Major — Athletic Training 
-1. {{< var c.bio155.long >}}
-2. {{< var c.bio215_215l.long >}}
-3. {{< var c.bio225.long >}}
-4. {{< var c.kin105.long >}}
-5. {{< var c.kin115.long >}}
-6. {{< var c.kin175.long >}}
-7. {{< var c.kin365.long >}}
-8. {{< var c.kin442.long >}}
-9. {{< var c.kin495.long >}}
+#### Nutrition Concentration
+1.	{{< var c.bio145_145l.long >}}  
+2.	{{< var c.chm121_121l.long >}}  
+3.	{{< var c.chm122_122l.long >}}  
+4.	**Three** of the following through an online partnership with Rize Education:
+	- {{< var c.kin220.long >}}   
+	- {{< var c.kin325.long >}}   
+	- {{< var c.kin330.long >}}   
+	- {{< var c.kin430.long >}}   
+	- {{< var c.kin435.long >}}   
 
-**All** of the following courses in the Athletic Training Group 
+*Students interested in a Nutrition Concentration in the Kinesiology department are strongly encouraged to meet with the Kinesiology faculty for informal advising as soon as they have chosen this major. Additional coursework may be needed for those students interested in pursuing graduate study in Nutrition or Dietetics.*
 
-- {{< var c.kin110.long >}}
-- {{< var c.kin210.long >}}
-- {{< var c.kin410.long >}}
+The Nutrition concentration is offered online through a consortium of accredited colleges and universities. All courses within the program are delivered by faculty employed by partner institutions in the consortium, with technology and administrative support provided by Rize Education. Oversight of courses offered through the consortium are reviewed and approved by Coe College. Students register through Coe College and receive academic credit from Coe College.
 
-*Students interested in the Athletic Training Group track are strongly encouraged to meet with the Kinesiology faculty for informal advising as soon as they have chosen this major. Additional coursework may be needed for those students pursuing a licensure in Athletic Training. *
+#### State of Iowa Coaching Endorsement (#55, K-12)  
+1. Teaching certification in an academic area  
+2. {{< var c.kin110.long >}}  
+3. {{< var c.kin201.long >}}  
+4. {{< var c.kin275.long >}}  
+
+The Coaching Endorsement (#55, K-12) may be granted to any student with teacher certification completing a major in kinesiology and by taking Emergency Life Skills (KIN-110) and either Theory of Coaching (KIN-205) **or** Fundamentals of Coaching (KIN 201). 
+
+#### State of Iowa Coaching Authorization
+1. {{< var c.kin110.long >}}  
+2. {{< var c.kin201.long >}}  
+3. {{< var c.kin275.long >}}  
+
+#### State of Iowa Health Certification Endorsement  
+1. {{< var c.kin115.long >}}  
+2. {{< var c.kin125.long >}}  
+3. {{< var c.kin135.long >}}  
+4. {{< var c.kin255.long >}}  
+5. {{< var c.kin275.long >}}  
+6. **One** of the following:  
+	- {{< var c.gs107.long >}}  
+	- {{< var c.kin202.long >}}  
+	- {{< var c.soc207.long >}}  
 
 ### Courses in Kinesiology
  **{{< var c.kin100_102_103_104.long >}}**  
@@ -108,12 +146,8 @@ The Coaching Endorsement (#55, K-12) may be granted to any student with teacher 
   {{< var c.kin125.desc >}}  
  **{{< var c.kin135.long >}}**  
   {{< var c.kin135.desc >}}  
- **{{< var c.kin155.long >}}**  
-  {{< var c.kin155.desc >}}  
  **{{< var c.kin165.long >}}**  
   {{< var c.kin165.desc >}}  
- **{{< var c.kin175.long >}}**  
-  {{< var c.kin175.desc >}}  
  **{{< var c.kin185.long >}}**  
   {{< var c.kin185.desc >}}  
  **{{< var c.kin201.long >}}**  
@@ -122,27 +156,41 @@ The Coaching Endorsement (#55, K-12) may be granted to any student with teacher 
   {{< var c.kin202.desc >}}  
  **{{< var c.kin205.long >}}**  
   {{< var c.kin205.desc >}}  
- **{{< var c.kin210.long >}}**  
-  {{< var c.kin210.desc >}}  
  **{{< var c.kin215.long >}}**  
   {{< var c.kin215.desc >}}  
+ **{{< var c.kin220.long >}}**  
+  {{< var c.kin220.desc >}}  
  **{{< var c.kin225.long >}}**  
   {{< var c.kin225.desc >}}  
+ **{{< var c.kin255.long >}}**  
+  {{< var c.kin255.desc >}}  
+ **{{< var c.kin275.long >}}**  
+  {{< var c.kin275.desc >}}  
+ **{{< var c.kin310.long >}}**  
+  {{< var c.kin310.desc >}}  
  **{{< var c.kin315.long >}}**  
   {{< var c.kin315.desc >}}  
+ **{{< var c.kin325.long >}}**  
+  {{< var c.kin325.desc >}}  
+ **{{< var c.kin330.long >}}**  
+  {{< var c.kin330.desc >}}  
  **{{< var c.kin347.long >}}**  
   {{< var c.kin347.desc >}}  
  **{{< var c.kin365.long >}}**  
   {{< var c.kin365.desc >}}  
  **{{< var c.kin385.long >}}**  
   {{< var c.kin385.desc >}}  
-**NOTE:**  *Students are encouraged to complete Advanced Weight Training (PE-103/-104) and Movement Training (PE-103/-104) before enrolling in KIN-385.*  
+**NOTE:**  *Students are encouraged to complete Advanced Weight Training (KIN-103/-104) and Movement Training (KIN-103/-104) before enrolling in KIN-385.*  
  **{{< var c.kin405.long >}}**  
   {{< var c.kin405.desc >}}  
  **{{< var c.kin410.long >}}**  
   {{< var c.kin410.desc >}}  
  **{{< var c.kin415.long >}}**  
   {{< var c.kin415.desc >}}  
+ **{{< var c.kin430.long >}}**  
+  {{< var c.kin430.desc >}}  
+ **{{< var c.kin435.long >}}**  
+  {{< var c.kin435.desc >}}  
  **{{< var c.kin440.long >}}**  
   {{< var c.kin440.desc >}}  
  **{{< var c.kin442.long >}}**  
@@ -153,8 +201,4 @@ The Coaching Endorsement (#55, K-12) may be granted to any student with teacher 
   {{< var c.kin494.desc >}}  
  **{{< var c.kin495.long >}}**  
   {{< var c.kin495.desc >}}  
-
-
-
-
 
