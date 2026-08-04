@@ -1,13 +1,6 @@
 ---
 unnumbered: true
 number-sections: false
-format:
-  html:
-    title: "CATALOG HOMEPAGE"
-  pdf: 
-    title: " "
-  docx: 
-    title: " "
 ---
 
 ::: {.content-visible when-format="pdf"}
@@ -17,7 +10,7 @@ format:
 
 ::: {.content-visible when-format="html"}
 
-<h1>Catalog Homepage</h1>
+# CATALOG {.nonumber .unlisted}
 
 Search for courses, view degree requirements, or explore academic regulations using the search bar above or the sidebar navigation.
 
