@@ -20,7 +20,6 @@ book:
     background: rgb(211 144 47)
     border: true
   chapters:
-    - index.qmd
     - part: "INTRODUCTORY RESOURCES"
       chapters:
       - catalog_sections/00_preface.qmd
