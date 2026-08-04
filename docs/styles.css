@@ -1,5 +1,14 @@
-/* nuke sidebar chapter numbers across the entire website */
+/* 1. reset sidebar chapter numbers across the entire website */
 .sidebar .chapter-number,
 .sidebar-navigation .chapter-number {
   display: none !important;
+}
+
+/* 2. reset the hanging indent and padding artifacts */
+.sidebar a.sidebar-link,
+.sidebar .sidebar-item-text,
+.sidebar .chapter-title {
+  padding-left: 0 !important;
+  text-indent: 0 !important;
+  margin-left: 0 !important;
 }
