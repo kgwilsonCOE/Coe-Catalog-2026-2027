@@ -1,8 +1,6 @@
-# Welcome to the Course Catalog {.unnumbered .unlisted}
-
 ::: {.content-visible when-format="html"}
 
-# Welcome to the Course Catalog
+# Welcome to the Course Catalog {.unnumbered .unlisted}
 
 Search for courses, view degree requirements, or explore academic regulations using the search bar above or the sidebar navigation.
 
