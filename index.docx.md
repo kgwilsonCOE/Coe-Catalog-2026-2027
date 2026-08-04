@@ -1,7 +1,7 @@
 ---
 format:
   html:
-    title: "Catalog Homepage"
+    title: "CATALOG HOMEPAGE"
   pdf: 
     title: " "
   docx: 
@@ -10,7 +10,7 @@ format:
 
 ::: {.content-visible when-format="html"}
 
-# Welcome to the Course Catalog {.unnumbered .unlisted}
+<h1>Welcome to the Course Catalog</h1>
 
 Search for courses, view degree requirements, or explore academic regulations using the search bar above or the sidebar navigation.
 
@@ -19,7 +19,7 @@ Search for courses, view degree requirements, or explore academic regulations us
 Press `/` or click the search icon in the top navigation bar to instantly search courses by department, course title, or keyword.
 :::
 
-## Key Sections
+<h2>Key Sections</h2>
 
 ::: {.grid}
 
