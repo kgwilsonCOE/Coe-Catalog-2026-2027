@@ -17,14 +17,6 @@ format:
 
 ::: {.content-visible when-format="html"}
 
-<style>
-/* remove the chapter number span for index.html in the sidebar */
-.sidebar-link .chapter-number,
-.chapter-number {
-  display: none !important;
-}
-</style>
-
 <h1>Catalog Homepage</h1>
 
 Search for courses, view degree requirements, or explore academic regulations using the search bar above or the sidebar navigation.

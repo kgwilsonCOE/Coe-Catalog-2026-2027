@@ -1,0 +1,5 @@
+/* nuke sidebar chapter numbers across the entire website */
+.sidebar .chapter-number,
+.sidebar-navigation .chapter-number {
+  display: none !important;
+}
