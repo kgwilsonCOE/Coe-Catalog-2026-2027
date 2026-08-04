@@ -1,4 +1,5 @@
 ---
+unnumbered: true
 number-sections: false
 format:
   html:
@@ -8,6 +9,11 @@ format:
   docx: 
     title: " "
 ---
+
+::: {.content-visible when-format="pdf"}
+\thispagestyle{empty}
+\addtocounter{page}{-1}
+:::
 
 ::: {.content-visible when-format="html"}
 
