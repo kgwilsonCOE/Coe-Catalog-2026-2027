@@ -1,6 +1,4 @@
----
-title: "Academic Catalog 2026-2027"
----
+# Welcome to the Course Catalog {.unnumbered .unlisted}
 
 ::: {.content-visible when-format="html"}
 
@@ -10,7 +8,7 @@ Search for courses, view degree requirements, or explore academic regulations us
 
 ::: {.callout-note icon=false}
 ## Quick Search Tip
-Press `/` or click the search icon in the top navigation bar to instantly search courses by department code (e.g., `MTH`, `CS`), course title, or keyword.
+Press `/` or click the search icon in the top navigation bar to instantly search courses by department, course title, or keyword.
 :::
 
 ## Key Sections
@@ -38,22 +36,5 @@ Need an official offline copy for archives, transfer evaluation, or visa applica
 :::
 
 :::
-
-:::
-
-
-
-
-::: {.content-visible unless-format="html"}
-
-# Official Academic Catalog 2026-2027
-
-**Coe College**  
-1220 First Avenue NE  
-Cedar Rapids, Iowa 52402  
-
-### Institutional Governance & Accreditation
-This catalog contains official academic policies, course descriptions, and degree requirements for the 2026-2027 academic year.
-
 
 :::
