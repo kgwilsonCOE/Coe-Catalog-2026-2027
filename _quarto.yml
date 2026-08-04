@@ -21,6 +21,7 @@ book:
     border: true
   chapters:
     - index.qmd
+    - catalog_sections/00_preface.qmd
     - part: "INTRODUCTORY RESOURCES"
       chapters:
       - catalog_sections/01_mission_rendered.qmd
