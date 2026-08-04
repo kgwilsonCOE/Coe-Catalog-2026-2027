@@ -1,6 +1,5 @@
 ---
 unnumbered: true
-number-sections: false
 format:
   html:
     title: "CATALOG HOMEPAGE"
