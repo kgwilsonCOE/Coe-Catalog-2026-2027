@@ -1,7 +1,7 @@
 ---
 format:
   html:
-    title: "Catalog Homepage"
+    title: "CATALOG HOMEPAGE"
 ---
 
 ::: {.content-visible when-format="pdf"}
