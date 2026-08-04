@@ -1,6 +1,7 @@
 ---
-unnumbered: true
-number-sections: false
+format:
+  html:
+    title: "Catalog Homepage"
 ---
 
 ::: {.content-visible when-format="pdf"}
@@ -8,18 +9,20 @@ number-sections: false
 \addtocounter{page}{-1}
 :::
 
+
+
 ::: {.content-visible when-format="html"}
 
-# CATALOG {.nonumber .unlisted}
+<h1>Welcome to YOUR Catalog</h1>
 
 Search for courses, view degree requirements, or explore academic regulations using the search bar above or the sidebar navigation.
 
-::: {.callout-note icon=false}
 
+::: {.callout-note icon=false}
 <h2>Quick Search Tip</h2>
 Press `/` or click the search icon in the top navigation bar to instantly search courses by department, course title, or keyword.
-
 :::
+
 
 <h2>Key Sections</h2>
 
