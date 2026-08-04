@@ -15,8 +15,10 @@ format:
 Search for courses, view degree requirements, or explore academic regulations using the search bar above or the sidebar navigation.
 
 ::: {.callout-note icon=false}
-## Quick Search Tip
+
+<h2>Quick Search Tip</h2>
 Press `/` or click the search icon in the top navigation bar to instantly search courses by department, course title, or keyword.
+
 :::
 
 <h2>Key Sections</h2>
