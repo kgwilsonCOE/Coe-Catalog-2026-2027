@@ -84,6 +84,22 @@
 \newcommand{\pandocbounded}[1]{#1}
 \newcounter{none}
 \makeatletter
+\@ifpackageloaded{tcolorbox}{}{\usepackage[skins,breakable]{tcolorbox}}
+\@ifpackageloaded{fontawesome5}{}{\usepackage{fontawesome5}}
+\definecolor{quarto-callout-color}{HTML}{909090}
+\definecolor{quarto-callout-note-color}{HTML}{0758E5}
+\definecolor{quarto-callout-important-color}{HTML}{CC1914}
+\definecolor{quarto-callout-warning-color}{HTML}{EB9113}
+\definecolor{quarto-callout-tip-color}{HTML}{00A047}
+\definecolor{quarto-callout-caution-color}{HTML}{FC5300}
+\definecolor{quarto-callout-color-frame}{HTML}{acacac}
+\definecolor{quarto-callout-note-color-frame}{HTML}{4582ec}
+\definecolor{quarto-callout-important-color-frame}{HTML}{d9534f}
+\definecolor{quarto-callout-warning-color-frame}{HTML}{f0ad4e}
+\definecolor{quarto-callout-tip-color-frame}{HTML}{02b875}
+\definecolor{quarto-callout-caution-color-frame}{HTML}{fd7e14}
+\makeatother
+\makeatletter
 \@ifpackageloaded{bookmark}{}{\usepackage{bookmark}}
 \makeatother
 \makeatletter
@@ -152,6 +168,25 @@
 \tableofcontents
 }
 \mainmatter
+\bookmarksetup{startatroot}
+
+\chapter{Academic Catalog 2026-2027}\label{academic-catalog-2026-2027}
+
+\bookmarksetup{startatroot}
+
+\chapter{Official Academic Catalog
+2026-2027}\label{official-academic-catalog-2026-2027}
+
+\textbf{Coe College}\\
+1220 First Avenue NE\\
+Cedar Rapids, Iowa 52402
+
+\subsection{Institutional Governance \&
+Accreditation}\label{institutional-governance-accreditation}
+
+This catalog contains official academic policies, course descriptions,
+and degree requirements for the 2026-2027 academic year.
+
 \bookmarksetup{startatroot}
 
 \chapter*{PREFACE}\label{preface}
