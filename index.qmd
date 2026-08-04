@@ -9,6 +9,11 @@ format:
     title: " "
 ---
 
+::: {.content-visible when-format="pdf"}
+\thispagestyle{empty}
+\addtocounter{page}{-1}
+:::
+
 ::: {.content-visible when-format="html"}
 
 <h1>Welcome to the Course Catalog</h1>
