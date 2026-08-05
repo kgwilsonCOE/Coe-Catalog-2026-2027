@@ -67,10 +67,10 @@ format:
   html:
     theme: cosmo
     mainfont: "Garamond"
-    back-to-top-navigation: true
     smooth-scroll: true
     toc: true
     toc-depth: 3
+    include-after-body: back-to-top.html
   docx:
     mainfont: "Garamond"
     keep-md: true
