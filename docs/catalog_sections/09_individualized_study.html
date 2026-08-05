@@ -365,6 +365,16 @@ ul.task-list li input[type="checkbox"] {
 </section>
 
 </main> <!-- /main -->
+<button id="quarto-back-to-top" onclick="window.scrollTo({top: 0, behavior: 'smooth'});" aria-label="back to top" style="display:none; position:fixed; bottom:20px; right:20px; z-index:99; padding:8px 12px; background:#003366; color:#fff; border:none; border-radius:4px; cursor:pointer;">
+  ↑ back to top
+</button>
+
+<script>
+  const bttBtn = document.getElementById('quarto-back-to-top');
+  window.addEventListener('scroll', () => {
+    bttBtn.style.display = (window.scrollY > 400) ? 'block' : 'none';
+  });
+</script>
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";
