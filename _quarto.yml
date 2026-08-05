@@ -68,6 +68,7 @@ format:
     theme: cosmo
     mainfont: "Garamond"
     back-to-top-navigation: true
+    smooth-scroll: true
     toc: true
     toc-depth: 3
   docx:
