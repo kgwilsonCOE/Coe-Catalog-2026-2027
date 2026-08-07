@@ -84,6 +84,22 @@
 \newcommand{\pandocbounded}[1]{#1}
 \newcounter{none}
 \makeatletter
+\@ifpackageloaded{tcolorbox}{}{\usepackage[skins,breakable]{tcolorbox}}
+\@ifpackageloaded{fontawesome5}{}{\usepackage{fontawesome5}}
+\definecolor{quarto-callout-color}{HTML}{909090}
+\definecolor{quarto-callout-note-color}{HTML}{0758E5}
+\definecolor{quarto-callout-important-color}{HTML}{CC1914}
+\definecolor{quarto-callout-warning-color}{HTML}{EB9113}
+\definecolor{quarto-callout-tip-color}{HTML}{00A047}
+\definecolor{quarto-callout-caution-color}{HTML}{FC5300}
+\definecolor{quarto-callout-color-frame}{HTML}{acacac}
+\definecolor{quarto-callout-note-color-frame}{HTML}{4582ec}
+\definecolor{quarto-callout-important-color-frame}{HTML}{d9534f}
+\definecolor{quarto-callout-warning-color-frame}{HTML}{f0ad4e}
+\definecolor{quarto-callout-tip-color-frame}{HTML}{02b875}
+\definecolor{quarto-callout-caution-color-frame}{HTML}{fd7e14}
+\makeatother
+\makeatletter
 \@ifpackageloaded{bookmark}{}{\usepackage{bookmark}}
 \makeatother
 \makeatletter
@@ -154,9 +170,14 @@
 \mainmatter
 \bookmarksetup{startatroot}
 
-\chapter*{PREFACE}\label{preface}
+\chapter{}\label{section}
 
-\markboth{PREFACE}{PREFACE}
+\thispagestyle{empty}
+\addtocounter{page}{-1}
+
+\part{INTRODUCTORY RESOURCES}
+
+\chapter{PREFACE}\label{preface}
 
 \section*{Non-Discrimination}\label{non-discrimination}
 
@@ -226,8 +247,6 @@ necessary or desirable, including course and program cancellations.
 Responsibility for understanding and meeting graduation requirements as
 stated in the Coe College Catalog rests entirely with the student.
 Faculty advisors and the Registrar will assist in every way possible.
-
-\part{INTRODUCTORY RESOURCES}
 
 \chapter{MISSION STATEMENT OF THE
 COLLEGE}\label{sec-mission-statement-of-college}

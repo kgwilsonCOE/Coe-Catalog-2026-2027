@@ -15,14 +15,15 @@ book:
   page-footer: "*Coe College Catalog (2026-2027)*"
   sidebar:
     search: true
-    collapse-level: 1
+    collapse-level: 2
     style: "docked"
-    background: rgb(211 144 47)
+    background: rgb(215 154 66)
     border: true
   chapters:
     - index.qmd
     - part: "INTRODUCTORY RESOURCES"
       chapters:
+      - catalog_sections/00_preface.qmd
       - catalog_sections/01_mission_rendered.qmd
       - catalog_sections/02_fast_facts_rendered.qmd
     - part: "ACADEMIC RESOURCES"
@@ -66,8 +67,11 @@ format:
   html:
     theme: cosmo
     mainfont: "Garamond"
+    fontcolor: "#000000"
+    smooth-scroll: true
     toc: true
     toc-depth: 3
+    include-after-body: back-to-top.html
   docx:
     mainfont: "Garamond"
     keep-md: true
