@@ -17,7 +17,7 @@ book:
     search: true
     collapse-level: 2
     style: "docked"
-    background: rgb(211 144 47)
+    background: rgb(215 154 66)
     border: true
   chapters:
     - index.qmd

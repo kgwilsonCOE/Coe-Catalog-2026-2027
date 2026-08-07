@@ -1,4 +1,4 @@
-# PREFACE {.unnumbered .unlisted}
+# PREFACE 
 
 ## Non-Discrimination {.unnumbered .unlisted}  
 Coe College does not discriminate on the basis of race, color, ethnicity, age, religion, national origin, sexual orientation, gender identity, sex, marital status, disability, or status as a U.S. Veteran.  All students have equal access to the facilities, financial aid, and programs of the College. 
