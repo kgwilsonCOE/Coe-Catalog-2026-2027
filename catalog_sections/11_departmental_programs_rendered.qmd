@@ -3365,77 +3365,105 @@ NOTE: Students are encouraged to complete Advanced Weight Training (PE-103/-104)
 
 
 ## Mathematical Sciences {#sec-mathematical-sciences}
-Cross (Chair, Fall), Herron, Hostetler, Hughes, Miller, Stobb, White (Chair, Spring). 
+Cross, Hughes (Chair), Miller, Saha, Stobb, White
 
-The department of mathematical sciences offers a complete range of courses, with majors and minors available in COMPUTER SCIENCE, DATA SCIENCE and MATHEMATICS, as well as courses in statistics for additional breadth. The department adheres to its belief that the mathematical sciences and the habits of mind that they engender are components of a fine liberal arts education.
+The department of mathematical sciences offers a complete range of courses, with majors and minors available in **COMPUTER SCIENCE**, **DATA SCIENCE**, and **MATHEMATICS**, as well as a minor in **APPLIED MATHEMATICS** and courses in statistics for additional breadth. The department adheres to its belief that the mathematical sciences and the habits of mind that they engender are components of a fine liberal arts education.
 
 ### Mathematics Major
 A major in mathematics requires a minimum cumulative 2.0 GPA in all courses counted toward the major.
 
-1. MTH 135 Calculus I
-2. MTH 145 Calculus II
-3. MTH 215 Foundations of Advanced Mathematics
-4. MTH 255 Calculus III
-5. MTH 265 Linear Algebra
-6. MTH 385 Modern Algebra I
-7. CS 125 Computer Science I
-8. **One** of the following:
-	- MTH 415 Real Analysis I
-	- MTH 445 Complex Analysis
-9. **Three** of the following:
-	- STA 315 Mathematical Probability
-	- STA 325 Mathematical Statistics
-	- MTH 305 Advanced Geometry
-	- MTH 325 Differential Equations WE
-	- MTH 395 Modern Algebra II
-	- MTH 415 Real Analysis I (if not used to satisfy #8)
-	- MTH 425 Real Analysis II
-	- MTH 444 Independent Study
-	- MTH 445 Complex Analysis (if not used to satisfy #8)
-	- MTH 455 Mathematical Modeling
-	- MTH 463 Set Theory & Toplogy
-	- MTH 484 Special Topics
+1. MTH 135 Calculus I  
+2. MTH 145 Calculus II  
+3. MTH 165 Computational Linear Algebra  
+4. MTH 215 Foundations of Advanced Mathematics  
+5. MTH 255 Calculus III  
+6. CS 110 Introduction to Programming  
+7. **One** Algebra course:  
+	- MTH 365 Abstract Linear Algebra  
+	- MTH 385 Modern Algebra I  
+8. **One** Analysis course:  
+	- MTH 415 Real Analysis I  
+	- MTH 445 Complex Analysis  
+9. **Three** of the following:  
+	- STA 315 Mathematical Probability  
+	- STA 325 Mathematical Statistics  
+	- MTH 305 Advanced Geometry  
+	- MTH 325 Differential Equations WE  
+	- MTH 365 Abstract Linear Algebra  
+	- MTH 385 Modern Algebra I  
+	- MTH 395 Modern Algebra II  
+	- MTH 415 Real Analysis I (if not used to satisfy #8)  
+	- MTH 425 Real Analysis II  
+	- MTH 444 Independent Study  
+	- MTH 445 Complex Analysis (if not used to satisfy #8)  
+	- MTH 455 Mathematical Modeling  
+	- MTH 463 Set Theory & Toplogy  
+	- MTH 484 Special Topics  
 
-**NOTE:** *A course in statistics and a course in geometry are required for the Iowa teaching endorsement in mathematics at either the elementary or secondary school level. Students planning to teach should consult with faculty in the education department. *
+**NOTE**: *A course in statistics and a course in geometry are required for the Iowa teaching endorsement in mathematics at either the elementary or secondary school level. Students planning to teach should consult with faculty in the education department.*  
 
-### Mathematics Minor
-1. MTH 135 Calculus I
-2. MTH 145 Calculus II
-3. MTH 215 Foundations of Advanced Mathematics
-4. **Three** of the following:
-	- STA 315 Mathematical Probability
-	- STA 325 Mathematical Statistics
-	- MTH 255 Calculus III
-	- MTH 265 Linear Algebra
-	- MTH 305 Advanced Geometry
-	- MTH 325 Differential Equations WE
-	- MTH 385 Modern Algebra I
-	- MTH 395 Modern Algebra II
-	- MTH 415 Real Analysis I 
-	- MTH 425 Real Analysis II
-	- MTH 444 Independent Study
-	- MTH 445 Complex Analysis 
-	- MTH 455 Mathematical Modeling
-	- MTH 463 Set Theory & Toplogy
-	- MTH 484 Special Topics
+### Mathematics Minor  
+Students choosing a minor in Mathematics may not select a minor in Applied Mathematics.  
 
-### Courses in Mathematics
+1. MTH 135 Calculus I  
+2. MTH 145 Calculus II  
+3. MTH 165 Computational Linear Algebra  
+4. MTH 215 Foundations of Advanced Mathematics  
+5. **Two** of the following:  
+	- STA 315 Mathematical Probability  
+	- STA 325 Mathematical Statistics  
+	- MTH 255 Calculus III  
+	- MTH 305 Advanced Geometry  
+	- MTH 325 Differential Equations WE  
+	- MTH 365 Abstract Linear Algebra  
+	- MTH 385 Modern Algebra I  
+	- MTH 395 Modern Algebra II  
+	- MTH 415 Real Analysis I   
+	- MTH 425 Real Analysis II  
+	- MTH 444 Independent Study  
+	- MTH 445 Complex Analysis  
+	- MTH 455 Mathematical Modeling  
+	- MTH 463 Set Theory & Toplogy  
+	- MTH 484 Special Topics  
+
+### Applied Mathematics Minor
+Students choosing a minor in Applied Mathematics may not select a minor in Mathematics.
+
+1. MTH 135 Calculus I  
+2. MTH 145 Calculus II  
+3. MTH 165 Computational Linear Algebra  
+4. CS 110 Introduction to Programming  
+5. **Two** of the following:  
+	- STA 315 Mathematical Probability  
+	- STA 325 Mathematical Statistics  
+	- MTH 255 Calculus III  
+	- MTH 325 Differential Equations WE  
+	- MTH 444 Independent Study  
+	- MTH 445 Complex Analysis  
+	- MTH 484 Special Topics  
+	- ECO 375 Econometrics  
+
+### Courses in Mathematics  
  **MTH 105 Math for Social Justice**  
   An introduction to contemporary mathematical thinking with emphasis on its connections to society. Logical thinking and the ability to read critically are interwoven with elementary mathematical skills. The course concentrates on discussions about mathematics—about its nature, its content, and its applications to a variety of topics, such as management science, network science, finance, data, statistics, probability, fairness, apportionment, voting theory, and social choice. This course is appropriate for a varied audience. This course does not satisfy any of the requirements for a major or minor in the mathematical sciences. Prerequisite: Some ability in arithmetic, geometry, and elementary algebra.  
  **MTH 135 Calculus I**  
   An introduction to the concepts of limits, continuity, differentiation of elementary functions, applications, definite and indefinite integrals, and the Fundamental Theorem. Prerequisite: three years of secondary school mathematics or consent of instructor.  
  **MTH 145 Calculus II**  
   Further study of the techniques of differentiation and integration, the calculus of exponential, logarithmic and trigonometric functions, sequences, series, and applications. Prerequisite: Calculus I (MTH-135) or consent of instructor.  
+ **MTH 155 Calculus for Engineers**  
+  Introduces fundamental concepts of calculus including limits, derivatives, fundamental theorem of calculus, integration and power series, with a focus on solving engineering problems, including those involving kinematics, mechanics, optimization, moments, work, statics.  
+ **MTH 165 Computational Linear Algebra**  
+  Explores elementary concepts in linear algebra with applications using a computational approach. Topics include matrix computations, Gaussian elimination, determinants, vector spaces, subspaces, bases and dimension, inner product spaces, orthogonality, least squares, linear transformations, eigenvalues and eigenvectors, and matrix factorizations.  
  **MTH 215 Foundations of Advanced Mathematics**  
   A survey of material common to all advanced study of mathematics, including elements of formal logic, axiomatic set theory, induction, relations, functions, cardinality, and various other topics in discrete mathematics. This course is specifically intended to serve both as a transition to upper-division mathematics courses and also as a survey of some areas of mathematics important for future teachers of mathematics and related fields. Prerequisite: Calculus I (MTH-135) or Computational Linear Algebra (MTH-165) or consent of instructor.  
  **MTH 255 Calculus III**  
   Further study of curves, surfaces, power series, partial derivatives, iterated and multiple integrals, and an introduction to differential and integral vector calculus. Prerequisite: Calculus II (MTH-145) or consent of instructor.  
- **MTH 265 Linear Algebra**  
-  A study of the elementary concepts of vector spaces, including matrix algebra, basis and dimension, inner products, linear transformations. Prerequisites: Calculus II (MTH-145) and Foundations of Advanced Math (MTH-215) or consent of instructor.  
  **MTH 305 Advanced Geometry**  
   A course designed to give the student an introduction to the modern approaches to geometry at an advanced level. Topics include foundations, Euclidean, projective, and non-Euclidean geometries. Prerequisites: Calculus II (MTH-145) and Foundations of Advanced Math (MTH-215), or consent of instructor.  
  **MTH 325 Differential Equations WE**  
   The theory, solution, techniques, and applications of elementary types of ordinary differential equations. Prerequisite: Calculus II (MTH-145) or consent of instructor.  
+ **MTH 365 Abstract Linear Algebra**  
+  A proof-based study of concepts of abstract vector spaces, including matrix algebra, subspaces, bases and dimension, inner product spaces, linear transformations, eigenvalues and eigenvectors, and matrix factorizations. Prerequisites: Computational Linear Algebra (MTH-165) and Foundations of Advanced Math (WE) (MTH-215), or consent of instructor.  
  **MTH 385 Modern Algebra I**  
   A rigorous introduction to advanced algebra. Topics include mappings, operations, groups, rings, fields, integral domains, and homomorphisms. Prerequisite: Computational Linear Algebra (MTH-165) and Foundations of Advanced Math (MTH-215), or consent of instructor.  
  **MTH 395 Modern Algebra II**  
