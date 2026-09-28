@@ -3909,42 +3909,42 @@ Nursing students have additional fees while enrolled in the nursing program. Mor
 
 In order to successfully complete a course and be promoted to successive courses, students must:
 	
-- Achieve a minimum grade of C (2.0) in all nursing courses; a grade of C- (1.7) or lower requires the student to repeat the course  
-- Achieve a cumulative average of 72% on all exams in a given course  
+	* Achieve a minimum grade of C (2.0) in all nursing courses; a grade of C- (1.7) or lower requires the student to repeat the course  
+	* Achieve a cumulative average of 72% on all exams in a given course  
 
 Candidates for the **Bachelor of Science in Nursing** degree must satisfactorily complete:  
 1. The general education requirements  
 2. **Eight** required supporting courses:  
-	- Biology  
-		-  BIO 100 Human Biology ***OR*** BIO 145 Cellular & Molecular Biology (Nursing students are not required to take the lab associated with either BIO-100 or BIO-145)  
-		-  BIO 195/195L Introduction to Microbiology and Laboratory  
-		-  BIO 215/215L Human Anatomy and Laboratory  
-		-  BIO 225 Human Physiology  
-	- Chemistry  
-		-  CHM 111/111L Introduction to Organic and Biological Chemistry and Laboratory  
-	- Psychology  
-		-  PSY 100 Introductory Psychology  
-	- Sociology  
-		-  SOC 107 Introductory Sociology  
-	- Statistics  
-		-  PSY 300 Stat Methods and Data Analysis ***OR***  
-		-  STA 100 Statistical Reasoning I-Foundations (7 weeks) **and** STA 110 Stats IIA: Inferential Reasoning  
+	* Biology  
+		* BIO 100 Human Biology ***OR*** BIO 145 Cellular & Molecular Biology (Nursing students are not required to take the lab associated with either BIO-100 or BIO-145)  
+		* BIO 195/195L Introduction to Microbiology and Laboratory  
+		* BIO 215/215L Human Anatomy and Laboratory  
+		* BIO 225 Human Physiology  
+	* Chemistry  
+		* CHM 111/111L Introduction to Organic and Biological Chemistry and Laboratory  
+	* Psychology  
+		* PSY 100 Introductory Psychology  
+	* Sociology  
+		* SOC 107 Introductory Sociology  
+	* Statistics  
+		* PSY 300 Stat Methods and Data Analysis ***OR***  
+		* STA 100 Statistical Reasoning I-Foundations (7 weeks) **and** STA 110 Stats IIA: Inferential Reasoning  
 3. NUR 100 Nursing Issues (0.2 course credit) (Pre-nursing students must enroll each term of the first year.) Course graded P/NP and students must receive a P to be considered for admission to the nursing program. This course may be waived for transfer students, late nursing major declaration, or early entry nursing admission.)  
 4. NUR 200 Nursing Issues II (0.2 course credit) (Pre-nursing students must enroll each term of the sophomore year.) This course may be waived for transfer students. Course graded P/NP and students must receive a P to be considered for admission to the nursing program. This course may be waived for transfer students, late nursing major declaration, or early entry nursing admission.  
 5. **Nine** non-clinical theory course credits:  
-	-	NUR 300 Art & Science of Nursing  
-	-	NUR 305 Information Literacy & Management  
-	-	NUR 315/315L/315C Pathophysiology and Assessment  
-	-	NUR 345 Mental Health Nursing
-	-	NUR 355/355L/355C Introductory Concepts in Nursing  
-	-	NUR 360 Pharmacological Principles  
-	-	NUR 375 Legal & Ethical Issues in Nursing  
-	-	NUR 415/415L/415C Advanced Concepts in Nursing  
-	-	NUR 425 Nursing Research  
-	-	NUR 430 Community & Population Oriented Nur  
-	-	NUR 431 Wellness in Aging & Chronicity  
-	-	NUR 455/455C Leadership and Contemporary Issues in Nursing (WE)  
-	-	NUR 495 Maternal Newborn Nursing  
+	* NUR 300 Art & Science of Nursing  
+	* NUR 305 Information Literacy & Management  
+	* NUR 315/315L/315C Pathophysiology and Assessment  
+	* NUR 345 Mental Health Nursing  
+	* NUR 355/355L/355C Introductory Concepts in Nursing  
+	* NUR 360 Pharmacological Principles  
+	* NUR 375 Legal & Ethical Issues in Nursing  
+	* NUR 415/415L/415C Advanced Concepts in Nursing  
+	* NUR 425 Nursing Research  
+	* NUR 430 Community & Population Oriented Nur  
+	* NUR 431 Wellness in Aging & Chronicity  
+	* NUR 455/455C Leadership and Contemporary Issues in Nursing (WE)  
+	* NUR 495 Maternal Newborn Nursing  
 6. Complete all required supporting courses and nursing courses with no one specific course repeated more than once and with no more than two different courses repeated due to earning less than a C. This rule applies to courses taken at Coe and other institutions. Actual grades from transferring courses are required to make an admittance determination.  
 
 The Nursing Department implements standardized assessment tests throughout the nursing program to assist in preparing students for the NCLEX-RN licensure exam. Additional details will be provided in the affected course syllabi.  
