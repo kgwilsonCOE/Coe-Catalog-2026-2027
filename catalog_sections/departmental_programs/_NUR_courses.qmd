@@ -1,73 +1,69 @@
-## Nursing
+## Nursing  
+Crockett, Crook-Lockwood, Mulford, Siems (Chair)  
 
-Bursch (Chair), Dehner, Guthrie, Kittrell, Siems, Umbarger-Mackey 
+A description of policies unique to the nursing department is in the Nursing Student Handbook. Copies of the handbook are available in the Nursing Department Office, Stuart Hall 415, and online.  
 
-A description of policies unique to the nursing department is in the *Nursing Department Student Policies Manual*. Copies of the manual are available in the Nursing Department Office, Stuart Hall 415, and online.
-
-## The Bachelor of Science in Nursing Program
+### The Bachelor of Science in Nursing Program
 
 The baccalaureate nursing program is designed to prepare students for practice as professional nurses in a variety of settings. The upper division nursing courses draw upon broad and diverse knowledge gained from the liberal arts foundation to support the educational outcomes. 
 
 Clinical experiences in the program include working with clients across the age span in a wide spectrum of practice sites. Nurse preceptors are utilized at clinical sites to provide the maximum amount of individual supervision and educational opportunity to students. Coe College nursing faculty provide clinical expertise and education by overseeing student clinical experiences, evaluating and promoting preceptor performance, and engaging in ongoing dialogue with students regarding the application of theory into practice. 
 
-Graduates of the Bachelor of Science in Nursing degree program are eligible to take the state board licensing examination for Registered Nurses. They are also eligible for admission to graduate programs in nursing and to advanced nurse practitioner programs. The Coe College nursing program is approved by the Iowa Board of Nursing and accredited by the Commission on Collegiate Nursing Education (CCNE). 
+Graduates of the Bachelor of Science in Nursing degree program are eligible to take the state board licensing examination for Registered Nurses. The baccalaureate degree program in nursing at Coe College is accredited by the Commission on Collegiate Nursing Education (http://www.ccneaccreditation.org) and is approved by the Iowa Board of Nursing.
 
-Coe College offers two paths to enter the nursing program.  Standard entry is for sophomore level (or higher) college students and direct entry is for selected high school seniors.  Details for both plans are found in the *Nursing Department Student Policies Manual*.  Copies of the manual are available in the Nursing Department Office.  At the end of the sophomore year, a student must possess valid licensure, e.g. Licensed Practical Nurse (LPN) or Certified Nursing Assistant (Direct Care Worker). A student with a revoked license from any state will NOT be admitted into the nursing program. In addition, a clinical component may not be taken by a person: a) who had been denied licensure by the State Board of Nursing, b) whose licensure is currently suspended, surrendered or revoked in any United States jurisdiction, c) whose licensure/ registration is currently suspended, surrendered or revoked in another country due to disciplinary action.
+Coe College offers two paths to enter the nursing program. Standard entry is for sophomore level (or higher) college students and direct entry is for selected high school seniors. Details for both plans are found in the Nursing Student Handbook. Transfer students will be considered and advised on an individual basis. Prior to admission to the nursing program, all students must earn a cumulative GPA of at least a 2.70. Additionally, students must possess a valid Licensed Practice Nurse (LPN) license or proof of valid Certified Nursing Assistant (CNA) certification or equivalent. A clinical component may not be taken by a person: a) who had been denied licensure by the State Board of Nursing, b) whose licensure is currently suspended, surrendered or revoked in any United States jurisdiction, c) whose licensure/registration is currently suspended, surrendered or revoked in another country due to disciplinary action. Students are required to complete a criminal background check prior to program entry. Students should self-disclose offenses, as applicable, prior to starting the nursing program and while enrolled in the program.  Mandatory Clinical Information (MCI) must be submitted and approved prior to starting the nursing program; more information is available in the Nursing Student Handbook.
 
-The nursing department Admission, Promotion, and Retention committee reviews applications and selects candidates who are best qualified to meet the standards of the nursing profession. Admission to the BSN degree program is competitive. Those applicants who appear to be the most qualified will be admitted. Standard and direct entry students are expected to maintain the eligibility requirements as outlined in the *Nursing Department Student Policies Manual*. 
+The nursing department Admission, Promotion, and Retention committee reviews applications and selects and admits candidates who are best qualified to meet the standards of the nursing profession. Admission to the BSN degree program is competitive. Standard and direct entry students are expected to maintain the eligibility requirements as outlined in the Nursing Student Handbook. 
+
+Nursing students have additional fees while enrolled in the nursing program. More information is available in the Comprehensive Fees list on the Coe website.
 
 ### Departmental Notes: 
 
 In order to successfully complete a course and be promoted to successive courses, students must:
 	
-- Achieve a minimum grade of C (2.0) in all nursing courses; a grade of C- (1.7) or lower requires the student to repeat the course.
-- Achieve a cumulative average of 72% on all exams in a given course.
+- Achieve a minimum grade of C (2.0) in all nursing courses; a grade of C- (1.7) or lower requires the student to repeat the course  
+- Achieve a cumulative average of 72% on all exams in a given course  
 
-Candidates for the **Bachelor of Science in Nursing** degree must satisfactorily complete: 
+Candidates for the **Bachelor of Science in Nursing** degree must satisfactorily complete:  
+1. The general education requirements (see @sec-general-education-courses )  
+2. **Eight** required supporting courses:  
+	- Biology  
+		-  {{< var c.bio100.long >}} ***OR*** {{< var c.bio145.long >}} (Nursing students are not required to take the lab associated with either BIO-100 or BIO-145)  
+		-  {{< var c.bio195_195l.long >}}  
+		-  {{< var c.bio215_215l.long >}}  
+		-  {{< var c.bio225.long >}}  
+	- Chemistry  
+		-  {{< var c.chm111_111l.long >}}  
+	- Psychology  
+		-  {{< var c.psy100.long >}}  
+	- Sociology  
+		-  {{< var c.soc107.long >}}  
+	- Statistics  
+		-  {{< var c.psy300.long >}} ***OR***  
+		-  {{< var c.sta100.long >}} (7 weeks) **and** {{< var c.sta110.long >}}  
+3. {{< var c.nur100.long >}} (0.2 course credit) (Pre-nursing students must enroll each term of the first year.) Course graded P/NP and students must receive a P to be considered for admission to the nursing program. This course may be waived for transfer students, late nursing major declaration, or early entry nursing admission.)  
+4. {{< var c.nur200.long >}} (0.2 course credit) (Pre-nursing students must enroll each term of the sophomore year.) This course may be waived for transfer students. Course graded P/NP and students must receive a P to be considered for admission to the nursing program. This course may be waived for transfer students, late nursing major declaration, or early entry nursing admission.  
+5. **Nine** non-clinical theory course credits:  
+	- {{< var c.nur300.long >}}  
+	- {{< var c.nur305.long >}}  
+	- {{< var c.nur315_315l_315c.long >}}  
+	- {{< var c.nur345.long >}}
+	- {{< var c.nur355_355l_355c.long >}}  
+	- {{< var c.nur360.long >}}  
+	- {{< var c.nur375.long >}}  
+	- {{< var c.nur415_415l_415c.long >}}  
+	- {{< var c.nur425.long >}}  
+	- {{< var c.nur430.long >}}  
+	- {{< var c.nur431.long >}}  
+	- {{< var c.nur455_455l_455c.long >}}  
+	- {{< var c.nur495.long >}}  
+6. Complete all required supporting courses and nursing courses with no one specific course repeated more than once and with no more than two different courses repeated due to earning less than a C. This rule applies to courses taken at Coe and other institutions. Actual grades from transferring courses are required to make an admittance determination.  
 
-1. The general education requirements (see @sec-general-education-courses ).
+The Nursing Department implements standardized assessment tests throughout the nursing program to assist in preparing students for the NCLEX-RN licensure exam. Additional details will be provided in the affected course syllabi.  
 
-2. **Eight** required supporting courses:
+Prior to graduation, students will complete a review course for the NCLEX-RN licensure exam arranged by nursing department faculty and will complete the Comprehensive ATI Predictor Exam.  More information on this can be found within the Nursing Student Handbook.  
 
-   |   
-:-|-:
-Biology |	{{< var c.bio145.long >}} 
-&nbsp; |	{{< var c.bio195.long >}}
-&nbsp; |	{{< var c.bio215_215l.long >}}
-&nbsp; |	{{< var c.bio225.long >}}
-Chemistry |	{{< var c.chm111_111l.long >}}
-Psychology |	{{< var c.psy100.long >}}
-Sociology |	{{< var c.soc107.long >}}
-Statistics |	{{< var c.psy300.long >}} **or**
-&nbsp; |	{{< var c.sta100.long >}} (7 weeks) **and** {{< var c.sta110.long >}}
-
-3. {{< var c.nur100.long >}} (0.2 course credit) (Pre-nursing students must enroll each term of the first year.  A maximum of two seminars may be counted for credit toward graduation.)
-
-4. {{< var c.nur200.long >}} (0.2 course credit) (Pre-nursing students must enroll each term of the sophomore year. A maximum of two seminars may be counted for credit toward graduation.)
-
-5. **Nine** non-clinical theory course credits: 
-	- {{< var c.nur300.long >}} 
-	- {{< var c.nur305.long >}}
-	- {{< var c.nur345_345l.long >}}
-	- {{< var c.nur360.long >}}
-	- {{< var c.nur375.long >}}
-	- {{< var c.nur425.long >}}
-	- {{< var c.nur430.long >}}
-	- {{< var c.nur431.long >}}
-	- {{< var c.nur495.long >}}
-
-6. **Four** two-course-credit clinical courses: 
-	- {{< var c.nur315_315l.long >}}
-	- {{< var c.nur355_355l.long >}}
-	- {{< var c.nur415_415l.long >}}
-	- {{< var c.nur455_455l.long >}}
-
-7. A formal NCLEX review course (at the student’s expense)
-
-8. All required supporting courses and required nursing courses listed above, with no one specific course repeated more than once and with no more than two different courses repeated.
-
-
-### Courses in Nursing
+### Courses in Nursing  
 
  **{{< var c.nur100.long >}}**  
   {{< var c.nur100.desc >}}  
@@ -114,6 +110,5 @@ See also {{< var c.psy137.long >}} , @sec-psychology
   {{< var c.nur494.desc >}}  
  **{{< var c.nur495.long >}}**  
   {{< var c.nur495.desc >}}  
-
 
 
