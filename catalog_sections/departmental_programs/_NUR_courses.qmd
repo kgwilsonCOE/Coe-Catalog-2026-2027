@@ -19,8 +19,7 @@ Nursing students have additional fees while enrolled in the nursing program. Mor
 
 ### Departmental Notes: 
 
-In order to successfully complete a course and be promoted to successive courses, students must:
-	
+In order to successfully complete a course and be promoted to successive courses, students must:  
 	* Achieve a minimum grade of C (2.0) in all nursing courses; a grade of C- (1.7) or lower requires the student to repeat the course  
 	* Achieve a cumulative average of 72% on all exams in a given course  
 
