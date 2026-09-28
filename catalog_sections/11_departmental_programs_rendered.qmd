@@ -3917,21 +3917,26 @@ Candidates for the **Bachelor of Science in Nursing** degree must satisfactorily
 2. **Eight** required supporting courses:  
 	
 	* Biology  
+		
 		* BIO 100 Human Biology ***OR*** BIO 145 Cellular & Molecular Biology (Nursing students are not required to take the lab associated with either BIO-100 or BIO-145)  
 		* BIO 195/195L Introduction to Microbiology and Laboratory  
 		* BIO 215/215L Human Anatomy and Laboratory  
 		* BIO 225 Human Physiology  
 	
 	* Chemistry  
+		
 		* CHM 111/111L Introduction to Organic and Biological Chemistry and Laboratory  
 	
 	* Psychology  
+		
 		* PSY 100 Introductory Psychology  
 	
 	* Sociology  
+		
 		* SOC 107 Introductory Sociology  
 	
 	* Statistics  
+		
 		* PSY 300 Stat Methods and Data Analysis ***OR***  
 		* STA 100 Statistical Reasoning I-Foundations (7 weeks) **and** STA 110 Stats IIA: Inferential Reasoning  
 
