@@ -29,21 +29,26 @@ Candidates for the **Bachelor of Science in Nursing** degree must satisfactorily
 2. **Eight** required supporting courses:  
 	
 	* Biology  
+		
 		* {{< var c.bio100.long >}} ***OR*** {{< var c.bio145.long >}} (Nursing students are not required to take the lab associated with either BIO-100 or BIO-145)  
 		* {{< var c.bio195_195l.long >}}  
 		* {{< var c.bio215_215l.long >}}  
 		* {{< var c.bio225.long >}}  
 	
 	* Chemistry  
+		
 		* {{< var c.chm111_111l.long >}}  
 	
 	* Psychology  
+		
 		* {{< var c.psy100.long >}}  
 	
 	* Sociology  
+		
 		* {{< var c.soc107.long >}}  
 	
 	* Statistics  
+		
 		* {{< var c.psy300.long >}} ***OR***  
 		* {{< var c.sta100.long >}} (7 weeks) **and** {{< var c.sta110.long >}}  
 
