@@ -1,42 +1,40 @@
 ## Neuroscience (Collateral Major) {#sec-neuroscience}
-Baker (Administrative Coordinator) 
+Storer (Administrative Coordinator)  
 
-Concurrent completion of a primary major in biology, chemistry, or psychology is required.  A minimum of six course credits must be taken that do not count toward the student’s primary major. 
+Concurrent completion of a primary major in biology, chemistry, or psychology is required.  A minimum of six course credits must be taken that do not count toward the student’s primary major.   
 
-### Collateral Major in Neuroscience 
-1. BIO 145/145L Cellular and Molecular Biology and Laboratory (WE)
-2. BIO 155/155L Organismal and Ecological Biology and Laboratory (WE)
-3. BIO 375/375L Integrated Human Physiology and Laboratory
-4. CHM 121/121L General Chemistry I and Laboratory
-5. CHM 122/122L General Chemistry II and Laboratory
-6. PSY 100 Introductory Psychology
-7. PSY 250 Biopsychology
-8. PSY 350 Drugs & Behavior
-9. PSY 450 Behavioral Neuroscience
-10. **Four** courses chosen from the lists below.  Unless explicitly listed, associated laboratories are recommended, but not required. 
-	a. Biology 
-		- BIO 202 Topics in Evolution
-		- BIO 215 Human Anatomy
-		- BIO 235 Genetics
-		- BIO 285/285L Animal Behavior and Lab
-		- BIO 345/345L Techniques in Molecular Biology and Laboratory
-		- BIO 415 Developmental Biology
-		- BIO 435 Cell Physiology
-		- BIO 455/455L Molecular Neurobiology and Laboratory
-	b. Chemistry
-		- CHM 211/211L Analytical Chemistry and Laboratory (WE)
-		- CHM 221 Organic Chemistry I
-		- CHM 321 Organic Chemistry II
-		- CHM 421 Advanced Organic Chemistry
-		- CHM 431/431L Biochemistry and Laboratory
-		- CHM 432 Protein Biochemistry
-	c. Philosophy
-		- PHL 245 Minds, Brains, and Robots
-	d. Psychology
-		- PSY 205 Developmental Psychology
-		- PSY 235 Abnormal Psychology
-		- PSY 315 Learning & Behavior
-		- PSY 325/325L Health Psychology and Laboratory (WE)
-		- PSY 455 Directed Research Experience (when research topic is appropriate, as determined by the neuroscience administrative coordinator)
-		- PSY 464 Seminar in Psychology (when seminar topic is appropriate, as determined by the neuroscience administrative coordinator)
+### Collateral Major in Neuroscience  
+1. BIO 145/145L Cellular and Molecular Biology and Laboratory (WE)  
+2. BIO 155/155L Organismal and Ecological Biology and Laboratory (WE)  
+3. BIO 375/375L Integrated Human Physiology and Laboratory ***OR*** BIO 355/355L Animal Physiology and Laboratory  
+4. CHM 121/121L General Chemistry I and Laboratory  
+5. CHM 122/122L General Chemistry II and Laboratory  
+6. PSY 100 Introductory Psychology  
+7. PSY 250 Biopsychology  
+8. PSY 350 Drugs & Behavior  
+9. PSY 450 Behavioral Neuroscience  
+10. **Four** courses chosen from the lists below.  Unless explicitly listed, associated laboratories are recommended, but not required.  
+	a. Biology  
+		- BIO 202 Topics in Evolution  
+		- BIO 215 Human Anatomy ***OR*** BIO 315 Integrated Human Anatomy  
+		- BIO 235 Genetics  
+		- BIO 285/285L Animal Behavior and Lab  
+		- BIO 345/345L Techniques in Molecular Biology and Laboratory  
+		- BIO 415 Developmental Biology  
+		- BIO 435 Cell Physiology  
+		- BIO 455/455L Molecular Neurobiology and Laboratory  
+	b. Chemistry  
+		- CHM 211/211L Analytical Chemistry and Laboratory (WE)  
+		- CHM 221 Organic Chemistry I  
+		- CHM 321 Organic Chemistry II  
+		- CHM 421 Advanced Organic Chemistry  
+		- CHM 431/431L Biochemistry and Laboratory  
+		- CHM 432 Protein Biochemistry  
+	c. Psychology  
+		- PSY 205 Developmental Psychology  
+		- PSY 235 Abnormal Psychology  
+		- PSY 270 Learning and Behavior  
+		- PSY 335/335L Sensation and Perception and Laboratory (WE)  
+		- PSY 454 Directed Research Experience (when research topic is appropriate, as determined by the neuroscience administrative coordinator)  
+		- PSY 464 Seminar in Psychology (when seminar topic is appropriate, as determined by the neuroscience administrative coordinator)  
 
