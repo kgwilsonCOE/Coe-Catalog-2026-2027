@@ -3886,76 +3886,72 @@ Concurrent completion of a primary major in biology, chemistry, or psychology is
 
 
 
-## Nursing
+## Nursing  
+Crockett, Crook-Lockwood, Mulford, Siems (Chair)  
 
-Bursch (Chair), Dehner, Guthrie, Kittrell, Siems, Umbarger-Mackey 
+A description of policies unique to the nursing department is in the Nursing Student Handbook. Copies of the handbook are available in the Nursing Department Office, Stuart Hall 415, and online.  
 
-A description of policies unique to the nursing department is in the *Nursing Department Student Policies Manual*. Copies of the manual are available in the Nursing Department Office, Stuart Hall 415, and online.
-
-## The Bachelor of Science in Nursing Program
+### The Bachelor of Science in Nursing Program
 
 The baccalaureate nursing program is designed to prepare students for practice as professional nurses in a variety of settings. The upper division nursing courses draw upon broad and diverse knowledge gained from the liberal arts foundation to support the educational outcomes. 
 
 Clinical experiences in the program include working with clients across the age span in a wide spectrum of practice sites. Nurse preceptors are utilized at clinical sites to provide the maximum amount of individual supervision and educational opportunity to students. Coe College nursing faculty provide clinical expertise and education by overseeing student clinical experiences, evaluating and promoting preceptor performance, and engaging in ongoing dialogue with students regarding the application of theory into practice. 
 
-Graduates of the Bachelor of Science in Nursing degree program are eligible to take the state board licensing examination for Registered Nurses. They are also eligible for admission to graduate programs in nursing and to advanced nurse practitioner programs. The Coe College nursing program is approved by the Iowa Board of Nursing and accredited by the Commission on Collegiate Nursing Education (CCNE). 
+Graduates of the Bachelor of Science in Nursing degree program are eligible to take the state board licensing examination for Registered Nurses. The baccalaureate degree program in nursing at Coe College is accredited by the Commission on Collegiate Nursing Education (http://www.ccneaccreditation.org) and is approved by the Iowa Board of Nursing.
 
-Coe College offers two paths to enter the nursing program.  Standard entry is for sophomore level (or higher) college students and direct entry is for selected high school seniors.  Details for both plans are found in the *Nursing Department Student Policies Manual*.  Copies of the manual are available in the Nursing Department Office.  At the end of the sophomore year, a student must possess valid licensure, e.g. Licensed Practical Nurse (LPN) or Certified Nursing Assistant (Direct Care Worker). A student with a revoked license from any state will NOT be admitted into the nursing program. In addition, a clinical component may not be taken by a person: a) who had been denied licensure by the State Board of Nursing, b) whose licensure is currently suspended, surrendered or revoked in any United States jurisdiction, c) whose licensure/ registration is currently suspended, surrendered or revoked in another country due to disciplinary action.
+Coe College offers two paths to enter the nursing program. Standard entry is for sophomore level (or higher) college students and direct entry is for selected high school seniors. Details for both plans are found in the Nursing Student Handbook. Transfer students will be considered and advised on an individual basis. Prior to admission to the nursing program, all students must earn a cumulative GPA of at least a 2.70. Additionally, students must possess a valid Licensed Practice Nurse (LPN) license or proof of valid Certified Nursing Assistant (CNA) certification or equivalent. A clinical component may not be taken by a person: a) who had been denied licensure by the State Board of Nursing, b) whose licensure is currently suspended, surrendered or revoked in any United States jurisdiction, c) whose licensure/registration is currently suspended, surrendered or revoked in another country due to disciplinary action. Students are required to complete a criminal background check prior to program entry. Students should self-disclose offenses, as applicable, prior to starting the nursing program and while enrolled in the program.  Mandatory Clinical Information (MCI) must be submitted and approved prior to starting the nursing program; more information is available in the Nursing Student Handbook.
 
-The nursing department Admission, Promotion, and Retention committee reviews applications and selects candidates who are best qualified to meet the standards of the nursing profession. Admission to the BSN degree program is competitive. Those applicants who appear to be the most qualified will be admitted. Standard and direct entry students are expected to maintain the eligibility requirements as outlined in the *Nursing Department Student Policies Manual*. 
+The nursing department Admission, Promotion, and Retention committee reviews applications and selects and admits candidates who are best qualified to meet the standards of the nursing profession. Admission to the BSN degree program is competitive. Standard and direct entry students are expected to maintain the eligibility requirements as outlined in the Nursing Student Handbook. 
+
+Nursing students have additional fees while enrolled in the nursing program. More information is available in the Comprehensive Fees list on the Coe website.
 
 ### Departmental Notes: 
 
 In order to successfully complete a course and be promoted to successive courses, students must:
 	
-- Achieve a minimum grade of C (2.0) in all nursing courses; a grade of C- (1.7) or lower requires the student to repeat the course.
-- Achieve a cumulative average of 72% on all exams in a given course.
+- Achieve a minimum grade of C (2.0) in all nursing courses; a grade of C- (1.7) or lower requires the student to repeat the course  
+- Achieve a cumulative average of 72% on all exams in a given course  
 
-Candidates for the **Bachelor of Science in Nursing** degree must satisfactorily complete: 
+Candidates for the **Bachelor of Science in Nursing** degree must satisfactorily complete:  
+1. The general education requirements (see @sec-general-education-courses )  
+2. **Eight** required supporting courses:  
+	- Biology  
+		-  BIO 100 Human Biology ***OR*** BIO 145 Cellular & Molecular Biology (Nursing students are not required to take the lab associated with either BIO-100 or BIO-145)  
+		-  +++MISSING INFO: c.bio195_195l.long +++  
+		-  BIO 215/215L Human Anatomy and Laboratory  
+		-  BIO 225 Human Physiology  
+	- Chemistry  
+		-  CHM 111/111L Introduction to Organic and Biological Chemistry and Laboratory  
+	- Psychology  
+		-  PSY 100 Introductory Psychology  
+	- Sociology  
+		-  SOC 107 Introductory Sociology  
+	- Statistics  
+		-  PSY 300 Stat Methods and Data Analysis ***OR***  
+		-  STA 100 Statistical Reasoning I-Foundations (7 weeks) **and** STA 110 Stats IIA: Inferential Reasoning  
+3. NUR 100 Nursing Issues (0.2 course credit) (Pre-nursing students must enroll each term of the first year.) Course graded P/NP and students must receive a P to be considered for admission to the nursing program. This course may be waived for transfer students, late nursing major declaration, or early entry nursing admission.)  
+4. NUR 200 Nursing Issues II (0.2 course credit) (Pre-nursing students must enroll each term of the sophomore year.) This course may be waived for transfer students. Course graded P/NP and students must receive a P to be considered for admission to the nursing program. This course may be waived for transfer students, late nursing major declaration, or early entry nursing admission.  
+5. **Nine** non-clinical theory course credits:  
+	- NUR 300 Art & Science of Nursing  
+	- NUR 305 Information Literacy & Management  
+	- NUR 315/315L/315C Pathophysiology and Assessment  
+	- NUR 345 Mental Health Nursing
+	- NUR 355/355L/355C Introductory Concepts in Nursing  
+	- NUR 360 Pharmacological Principles  
+	- NUR 375 Legal & Ethical Issues in Nursing  
+	- NUR 415/415L/415C Advanced Concepts in Nursing  
+	- NUR 425 Nursing Research  
+	- NUR 430 Community & Population Oriented Nur  
+	- NUR 431 Wellness in Aging & Chronicity  
+	- +++MISSING INFO: c.nur455_455l_455c.long +++  
+	- NUR 495 Maternal Newborn Nursing  
+6. Complete all required supporting courses and nursing courses with no one specific course repeated more than once and with no more than two different courses repeated due to earning less than a C. This rule applies to courses taken at Coe and other institutions. Actual grades from transferring courses are required to make an admittance determination.  
 
-1. The general education requirements (see @sec-general-education-courses ).
+The Nursing Department implements standardized assessment tests throughout the nursing program to assist in preparing students for the NCLEX-RN licensure exam. Additional details will be provided in the affected course syllabi.  
 
-2. **Eight** required supporting courses:
+Prior to graduation, students will complete a review course for the NCLEX-RN licensure exam arranged by nursing department faculty and will complete the Comprehensive ATI Predictor Exam.  More information on this can be found within the Nursing Student Handbook.  
 
-   |   
-:-|-:
-Biology |	BIO 145 Cellular & Molecular Biology 
-&nbsp; |	BIO 195 Introduction to Microbiology
-&nbsp; |	BIO 215/215L Human Anatomy and Laboratory
-&nbsp; |	BIO 225 Human Physiology
-Chemistry |	CHM 111/111L Introduction to Organic and Biological Chemistry and Laboratory
-Psychology |	PSY 100 Introductory Psychology
-Sociology |	SOC 107 Introductory Sociology
-Statistics |	PSY 300 Stat Methods and Data Analysis **or**
-&nbsp; |	STA 100 Statistical Reasoning I-Foundations (7 weeks) **and** STA 110 Stats IIA: Inferential Reasoning
-
-3. NUR 100 Nursing Issues (0.2 course credit) (Pre-nursing students must enroll each term of the first year.  A maximum of two seminars may be counted for credit toward graduation.)
-
-4. NUR 200 Nursing Issues II (0.2 course credit) (Pre-nursing students must enroll each term of the sophomore year. A maximum of two seminars may be counted for credit toward graduation.)
-
-5. **Nine** non-clinical theory course credits: 
-	- NUR 300 Art & Science of Nursing 
-	- NUR 305 Information Literacy & Management
-	- NUR 345/345L Mental Health Nursing and Laboratory
-	- NUR 360 Pharmacological Principles
-	- NUR 375 Legal & Ethical Issues in Nursing
-	- NUR 425 Nursing Research
-	- NUR 430 Community & Population Oriented Nur
-	- NUR 431 Wellness in Aging & Chronicity
-	- NUR 495 Maternal Newborn Nursing
-
-6. **Four** two-course-credit clinical courses: 
-	- NUR 315/315L Pathophysiology and Assessment/Clinical Application
-	- NUR 355/355L Introductory Concepts in Nursing/Clinical Application
-	- NUR 415/415L Advanced Concepts in Nursing/Clinical Application
-	- NUR 455/455L Leadership and Contemporary Issues in Nursing/Clinical Application (WE)
-
-7. A formal NCLEX review course (at the student’s expense)
-
-8. All required supporting courses and required nursing courses listed above, with no one specific course repeated more than once and with no more than two different courses repeated.
-
-
-### Courses in Nursing
+### Courses in Nursing  
 
  **NUR 100 Nursing Issues**  
   An introduction to the nursing degree program. The seminar provides an opportunity for pre-nursing students to interact with nursing students and faculty to explore the process of becoming a nurse. Topics include professional role development and current issues in clinical nursing practice. Pre-nursing students must enroll each term. May be taken more than once for credit for a maximum of 0.4 credit. Prerequisite: first-year student. (0.2 course credit)  
@@ -4003,7 +3999,6 @@ Examines human sexuality from the psychosocial, biophysiological, and cultural p
   A clinical practicum on an inpatient health care unit supervised by a faculty member of the department and a professionally prepared R.N. preceptor. A minimum of 140 hours on-site experience is required. P/NP basis only. Prerequisite: Introductory Concepts in Nursing (NUR-355/-355L/-355C) and consent of department chair.  
  **NUR 495 Maternal Newborn Nursing**  
   Analyzes previously learned nursing knowledge and skills to provide safe, holistic patient-centered care for diverse individuals and families during normal and high-risk pregnancy, labor, delivery, and the postpartum-neonatal period of life. Includes concepts and issues in reproductive health of men and women using a developmental framework. Surgical, dietary, and pharmacological management are integrated. Clinical component includes patient simulation experiences. Prerequisite: admission into the Bachelor of Science Nursing Program; Advanced Concepts in Nursing (NUR-415/-415L/415C), and Nursing Research (WE) (NUR-425).  
-
 
 
 
