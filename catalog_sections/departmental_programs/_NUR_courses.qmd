@@ -25,7 +25,7 @@ In order to successfully complete a course and be promoted to successive courses
 - Achieve a cumulative average of 72% on all exams in a given course  
 
 Candidates for the **Bachelor of Science in Nursing** degree must satisfactorily complete:  
-1. The general education requirements (see @sec-general-education-courses )  
+1. The general education requirements  
 2. **Eight** required supporting courses:  
 	- Biology  
 		-  {{< var c.bio100.long >}} ***OR*** {{< var c.bio145.long >}} (Nursing students are not required to take the lab associated with either BIO-100 or BIO-145)  
@@ -44,19 +44,19 @@ Candidates for the **Bachelor of Science in Nursing** degree must satisfactorily
 3. {{< var c.nur100.long >}} (0.2 course credit) (Pre-nursing students must enroll each term of the first year.) Course graded P/NP and students must receive a P to be considered for admission to the nursing program. This course may be waived for transfer students, late nursing major declaration, or early entry nursing admission.)  
 4. {{< var c.nur200.long >}} (0.2 course credit) (Pre-nursing students must enroll each term of the sophomore year.) This course may be waived for transfer students. Course graded P/NP and students must receive a P to be considered for admission to the nursing program. This course may be waived for transfer students, late nursing major declaration, or early entry nursing admission.  
 5. **Nine** non-clinical theory course credits:  
-	- {{< var c.nur300.long >}}  
-	- {{< var c.nur305.long >}}  
-	- {{< var c.nur315_315l_315c.long >}}  
-	- {{< var c.nur345.long >}}
-	- {{< var c.nur355_355l_355c.long >}}  
-	- {{< var c.nur360.long >}}  
-	- {{< var c.nur375.long >}}  
-	- {{< var c.nur415_415l_415c.long >}}  
-	- {{< var c.nur425.long >}}  
-	- {{< var c.nur430.long >}}  
-	- {{< var c.nur431.long >}}  
-	- {{< var c.nur455_455l_455c.long >}}  
-	- {{< var c.nur495.long >}}  
+	-	{{< var c.nur300.long >}}  
+	-	{{< var c.nur305.long >}}  
+	-	{{< var c.nur315_315l_315c.long >}}  
+	-	{{< var c.nur345.long >}}
+	-	{{< var c.nur355_355l_355c.long >}}  
+	-	{{< var c.nur360.long >}}  
+	-	{{< var c.nur375.long >}}  
+	-	{{< var c.nur415_415l_415c.long >}}  
+	-	{{< var c.nur425.long >}}  
+	-	{{< var c.nur430.long >}}  
+	-	{{< var c.nur431.long >}}  
+	-	{{< var c.nur455_455c.long >}}  
+	-	{{< var c.nur495.long >}}  
 6. Complete all required supporting courses and nursing courses with no one specific course repeated more than once and with no more than two different courses repeated due to earning less than a C. This rule applies to courses taken at Coe and other institutions. Actual grades from transferring courses are required to make an admittance determination.  
 
 The Nursing Department implements standardized assessment tests throughout the nursing program to assist in preparing students for the NCLEX-RN licensure exam. Additional details will be provided in the affected course syllabi.  
