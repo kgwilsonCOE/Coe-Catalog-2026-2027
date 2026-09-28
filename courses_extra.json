@@ -735,6 +735,13 @@
 	    "namelink": "", 
 	    "namelinklong": ""
 	}, 	
+	"bio195_195l": {
+	    "short": "'BIO 195/195L'",
+	    "long": "'BIO 195/195L Introduction to Microbiology and Laboratory'",
+	    "desc": "Studies elementary level principles of microbiology. Special attention is given to the medical aspect of the subject. Three lectures per week. Designed for students with allied health career interests. This course does not satisfy any of the requirements for a major in biology. Prerequisite: Human Biology (BIO-100) or Cellular and Molecular Biology (BIO-145))", 
+	    "namelink": "", 
+	    "namelinklong": ""
+	}, 	
 	"art_ms235": {
 	    "short": "'ART/MS 235'",
 	    "long": "'ART/MS 235 Arts Advocacy'",
