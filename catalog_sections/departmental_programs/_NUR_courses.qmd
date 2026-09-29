@@ -25,6 +25,7 @@ In order to successfully complete a course and be promoted to successive courses
 * Achieve a cumulative average of 72% on all exams in a given course  
 
 Candidates for the **Bachelor of Science in Nursing** degree must satisfactorily complete:  
+
 1. The general education requirements  
 2. **Eight** required supporting courses:  
 	* Biology  		
