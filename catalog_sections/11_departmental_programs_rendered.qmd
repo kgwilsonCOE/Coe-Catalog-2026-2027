@@ -4362,59 +4362,44 @@ See description, @washington-term
 See description, @washington-term  
 
 
-## Psychology {#sec-psychology}
-Baker, Brown, Castillo, Chihak, Farrell (Chair, Fall), Kelly (Chair, Spring), Lee, Recker, Stephenson
+## Psychology {#sec-psychology}  
+Brown, Castillo, Chihak, Farrell, Lee (Chair), Recker  
 
 Psychology is the scientific study of behavior and mental processes—the basis for both a field of scientific knowledge and of professional application. Both required and elective courses in psychology are grounded in the scientific approach. As an important tool for the understanding of both theory and data, the study of basic statistical and methodological concepts is included among courses required of all students majoring in psychology.  
 
-In addition to a major in **Psychology**, the College also offers collateral majors in **Neuroscience** (see @sec-neuroscience ) and **Organizational Science** (see @sec-organizational-science ). 
+In addition to a major in **PSYCHOLOGY**, the College also offers a collateral major in **NEUROSCIENCE** and a concentration in **ORGANIZATIONAL SCIENCE**.  
 
-### Secondary Education Certification in Psychology
-Students seeking certification to teach psychology at the secondary level are strongly encouraged to speak with an advisor in Education as early as possible in their program of studies. 
+### Secondary Education Certification in Psychology  
+Students seeking certification to teach psychology at the secondary level are strongly encouraged to speak with an advisor in Education as early as possible in their program of studies.  
 
-### Psychology Major 
-A major in Psychology requires a cumulative 2.0 GPA in all courses counted toward the major.
+### Psychology Major  
+A major in Psychology requires a cumulative 2.0 GPA in all courses counted toward the major.  
 
-1. PSY 100 Introductory Psychology
+1. PSY 100 Introductory Psychology  
+2. PSY 200 Research Methods   
+3. PSY 295 Applied Career Development in Psych  
+4. PSY 300 Stat Methods and Data Analysis  
+5. **One**of the following:  
+	* PSY 454 Directed Research Experience  
+	* PSY 494 Internship in Psychology   
+6. **One** of the following:  
+	* PSY 205 Developmental Psychology  
+	* PSY 235 Abnormal Psychology  
+7. **One** of the following:  
+	* PSY 215 Multicultural Psychology  
+	* PSY 245 Organizational Psychology  
+	* PSY 255 Social Psychology  
+8. **One** of the following:  
+	* PSY 250 Biopsychology  
+	* PSY 260 Cognitive Psychology  
+	* PSY 270 Learning and Behavior  
+9. **One** of the following:  
+	* PSY 325/325L Health Psychology and Laboratory (WE)  
+	* PSY 335/335L Sensation and Perception and Laboratory (WE)  
+	* PSY 355/355L Personality & Laboratory (WE)  
+10. **Two** additional courses in psychology, one of which must be 300 level or above.
 
-2. PSY 200 Research Methods
- 
-3. PSY 215 Multicultural Psychology (7 weeks) (0.5 credits)
 
-4. PSY 295 Applied Career Development in Psych 
-
-5. PSY 300 Stat Methods and Data Analysis 
- 
-6. PSY 464 Seminar in Psychology 
-
-7. **One**of the following:
-	* PSY 455 Directed Research Experience 
-	* PSY 494 Internship in Psychology 
-
-8. **One** of the following:
-	* PSY 205 Developmental Psychology 
-	* PSY 235 Abnormal Psychology 
-
-9. **One** of the following:
-	* PSY 245 Organizational Psychology 
-	* PSY 255 Social Psychology 
-
-10. **One** of the following:
-	* PSY 205 Developmental Psychology 
-	* PSY 260 Cognitive Psychology 
- 
-11. **One** of the following:
-	* PSY 325/325L Health Psychology and Laboratory (WE)
-	* PSY 335/335L Sensation and Perception and Laboratory (WE)
-	* PSY 355/355L Personality & Laboratory (WE)
-
-12. **One** of the following:
-	* PSY 315 Learning & Behavior
-	* PSY 350 Drugs & Behavior
-	* PSY 415 Counseling Psychology
-	* PSY 450 Behavioral Neuroscience
-	* PSY 465 Industrial Psychology
-	* PSY 475 Testing & Measurement
 
 ### Courses in Psychology
 
