@@ -4075,52 +4075,73 @@ The various courses numbered PHL-105 are different versions of the same course. 
   Involves the exploration of a career area related to the student’s interest in philosophy supervised by a faculty member of the department in cooperation with the Internship Specialist. A minimum of 140 hours on-site experience is required. P/NP basis only. This course does not satisfy any of the requirements for a major in philosophy. Prerequisites: declared major in philosophy, junior standing, and consent of department chair.  
 
 
-## Physics 
-Affatigato (Chair), Akgun, Baehr, Bragatto, Duru, Feller, Wetzel
+## Physics  
+Affatigato, Akgun (Administrative Coordinator, Engineering Physics), Baehr, Duru (Chair), Li, Wetzel, Wheaton  
 
-The physics department serves a variety of students with a balanced program, giving equal emphasis to the needs of the technically and the non-technically oriented. 
+The physics department serves a variety of students with a balanced program, giving equal emphasis to the needs of the technically and the non-technically oriented.  
 
-### Physics Major
+### BACHELOR OF ARTS: Physics Major  
+A major in physics requires a minimum cumulative 2.0 GPA in all courses counted toward the major.  
 
-A major in physics requires a minimum cumulative 2.0 GPA in all courses counted toward the major.
-
-1. PHY 185/185L General Physics I & Laboratory
- 
-2. PHY 195/195L General Physics II & Laboratory 
-
-3. PHY 231 Math Mthds Physicists & Engineers 
-
-4. PHY 235/235L Modern Physics & Laboratory (WE) 
-
-5. PHY 265 Electromagnetism 
-
-6. **Two** of the following courses:
-	- PHY 275 Classical Mechanics
-	- PHY 315 Thermodynamics & Stat Mech
-	- PHY 335 Quantum Mechanics
-	- PHY 425 Solid State Physics
-
-7. **Four** additional physics courses, all of which must be numbered 150 or above.
-
-8.	Comprehensive evaluation
-	Satisfactory completion of written and oral examinations
+1. PHY 185/185L General Physics I & Laboratory   
+2. PHY 195/195L General Physics II & Laboratory  
+3. PHY 231 Math Mthds Physicists & Engineers  
+4. PHY 235 Modern Physics **and** PHY 236 Advanced Laboratory 1  
+5. PHY 265 Electromagnetism  
+6. **Two** of the following courses:  
+	- PHY 275 Classical Mechanics  
+	- PHY 315 Thermodynamics & Stat Mech  
+	- PHY 335 Quantum Mechanics  
+	- PHY 425 Solid State Physics  
+7. **Four** additional physics or engineering physics full-credit courses, all of which must be numbered 150 or above.  
+8.	Comprehensive evaluation  
+	- Satisfactory completion of written and oral examinations  
 
 ***Recommended:***  
-	- CS 125 Computer Science I  
+	- CS 110 Introduction to Programming  
 	- CHM 121/121L General Chemistry I and Laboratory  
 
 ### Physics Minor
 A minor in Physics requires a cumulative 2.0 GPA in all courses counted toward the major.
 
-1. PHY 185/185L General Physics I & Laboratory or PHY 165/165L Basic Physics I & Laboratory
+1. PHY 185/185L General Physics I & Laboratory **or** PHY 165/165L Basic Physics I & Laboratory  
+2. PHY 195/195L General Physics II & Laboratory **or** PHY 175/175L Basic Physics II & Laboratory  
+3. PHY 235 Modern Physics **or** PHY 236 Advanced Laboratory 1  
+4. PHY 265 Electromagnetism  
+5. **Two** additional physics courses approved by the department, both of which must be numbered 150 and above.  
 
-2. PHY 195/195L General Physics II & Laboratory or PHY 175/175L Basic Physics II & Laboratory
+### Bachelor of Science in Engineering Program  
+The B.S.E. degree in Engineering Physics requires a minimum cumulative 2.0 GPA in all courses counted towards the major.  
 
-3. PHY 235/235L Modern Physics & Laboratory (WE)
+Students completing the B.S.E. in Engineering Physics cannot minor in Physics and cannot earn a B.A. degree with a major in physics.  
 
-4. PHY 265 Electromagnetism 
+Candidates for the BACHELOR OF SCIENCE IN ENGINEERING degree with an area of study in engineering physics must successfully complete  
 
-5. **Two** additional physics course approved by the department, both of which must be numbered 150 and above. 
+1.	ENR 101 Introduction to Engineering Design  
+2.	ENR 101L Engineering Design Laboratory  
+3.	ENR 145 Comput Mthds for Physicist & Engin  
+4.	PHY 185/185L General Physics I & Laboratory  
+5.	PHY 195/195L General Physics II & Laboratory  
+6.	MTH 155 Calculus for Engineers **or** MTH 135 Calculus I **and** MTH 145 Calculus II  
+7.	CHM 121/121L General Chemistry I and Laboratory  
+8.	PHY 231 Math Mthds Physicists & Engineers  
+9.	PHY 235 Modern Physics  
+10.	+++MISSING INFO: c.phy245_245l.long +++  
+11.	PHY 246 Advanced Laboratory 2 (WE)  
+12.	PHY 265 Electromagnetism  
+13.	+++MISSING INFO: c.enr325_325l.long +++  
+14.	ENR 405 Senior Design 1  
+15.	ENR 415 Senior Design 2  
+16.	**Four** of the following:  
+	- ENR 221 Materials Science Engineering 1  
+	- ENR 321 Materials Science Engineering 2  
+	- ENR 355 Robotics and Sensors  
+	- PHY 275 Classical Mechanics  
+	- PHY 311 Renewable Energy (WE)  
+	- PHY 315 Thermodynamics & Stat Mech  
+17.	**One** of the following:  
+	- CHM 122/122L General Chemistry II and Laboratory  
+	- One full-credit Physics or Engineering Physics course which must be numbered 150 and above. 
 
 ### Courses in Physics 
  **PHY 105 Physics: An Historical Approach**  
