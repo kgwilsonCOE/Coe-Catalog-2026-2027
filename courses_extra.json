@@ -755,6 +755,20 @@
 	    "desc": "Examines human sexuality from the psychosocial, biophysiological, and cultural perspective. Topics include, but are not limited to, cultural and historical influences on our current understanding and attitudes toward the human sexual experience; the development of gender roles as they impact upon political, work, and social relationships; cultural aspects of sexuality including intimacy, courtship, marriage, and procreation; and sexuality during developmental changes and alterations in health such as infertility, pregnancy, abortion, cancer, AIDS, and others. Prerequisite: sophomore standing.",
 	    "namelink": "", 
 	    "namelinklong": ""
+	}, 	
+	"phy245_245l": {
+	    "short": "'PHY 245/245L'",
+	    "long": "'PHY-245/-245L Principles of Analog Electronics and Laboratory'",
+	    "desc": "Covers analog devices and components used in electronic circuits and devices, including their applications. Focus on direct current (DC) and single-phase alternating current (AC) circuits, transient analysis of RC, RL, and RLC circuits in sinusoidal steady-state. The topics cover the current and charge relationships, Ohm’s Law, resistors, inductors, capacitors, equivalent resistance and impedance, Kirchoff’s Laws, Thevenin and Norton equivalent circuits, superposition and source transformation, power and energy, maximum power transfer, first-order transient response, algebra of complex numbers, phasor representation, time domain and frequency domain concepts, and ideal transformers. Prerequisite: General Physics II and laboratory (PHY-195/-195L) or consent of instructor.",
+	    "namelink": "", 
+	    "namelinklong": ""
+	}, 	
+	"enr325_325l": {
+	    "short": "'ENR 325/325L'",
+	    "long": "'ENR-325/325L Principles of Digital Electronics and Laboratory'",
+	    "desc": "Introduces digital devices used in modern electronics. Topics covered include logic gates, flip-flops, timers, counters, multiplexing, analog-to-digital and digital-to-analog devices. Emphasis is on constructing, analyzing, verifying, and troubleshooting digital circuits using appropriate techniques and test equipment. Prerequisite: Principles of Analog Electronics and Laboratory (PHY-245/245L).",
+	    "namelink": "", 
+	    "namelinklong": ""
     }
   }
 }
