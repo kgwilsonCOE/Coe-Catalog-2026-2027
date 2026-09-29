@@ -1,56 +1,41 @@
-## Psychology {#sec-psychology}
-Baker, Brown, Castillo, Chihak, Farrell (Chair, Fall), Kelly (Chair, Spring), Lee, Recker, Stephenson
+## Psychology {#sec-psychology}  
+Brown, Castillo, Chihak, Farrell, Lee (Chair), Recker  
 
 Psychology is the scientific study of behavior and mental processes—the basis for both a field of scientific knowledge and of professional application. Both required and elective courses in psychology are grounded in the scientific approach. As an important tool for the understanding of both theory and data, the study of basic statistical and methodological concepts is included among courses required of all students majoring in psychology.  
 
-In addition to a major in **Psychology**, the College also offers collateral majors in **Neuroscience** (see @sec-neuroscience ) and **Organizational Science** (see @sec-organizational-science ). 
+In addition to a major in **PSYCHOLOGY**, the College also offers a collateral major in **NEUROSCIENCE** and a concentration in **ORGANIZATIONAL SCIENCE**.  
 
-### Secondary Education Certification in Psychology
-Students seeking certification to teach psychology at the secondary level are strongly encouraged to speak with an advisor in Education as early as possible in their program of studies. 
+### Secondary Education Certification in Psychology  
+Students seeking certification to teach psychology at the secondary level are strongly encouraged to speak with an advisor in Education as early as possible in their program of studies.  
 
-### Psychology Major 
-A major in Psychology requires a cumulative 2.0 GPA in all courses counted toward the major.
+### Psychology Major  
+A major in Psychology requires a cumulative 2.0 GPA in all courses counted toward the major.  
 
-1. {{< var c.psy100.long >}}
+1. {{< var c.psy100.long >}}  
+2. {{< var c.psy200.long >}}   
+3. {{< var c.psy295.long >}}  
+4. {{< var c.psy300.long >}}  
+5. **One**of the following:  
+	* {{< var c.psy454.long >}}  
+	* {{< var c.psy494.long >}}   
+6. **One** of the following:  
+	* {{< var c.psy205.long >}}  
+	* {{< var c.psy235.long >}}  
+7. **One** of the following:  
+	* {{< var c.psy215.long >}}  
+	* {{< var c.psy245.long >}}  
+	* {{< var c.psy255.long >}}  
+8. **One** of the following:  
+	* {{< var c.psy250.long >}}  
+	* {{< var c.psy260.long >}}  
+	* {{< var c.psy270.long >}}  
+9. **One** of the following:  
+	* {{< var c.psy325_325l.long >}}  
+	* {{< var c.psy335_335l.long >}}  
+	* {{< var c.psy355_355l.long >}}  
+10. **Two** additional courses in psychology, one of which must be 300 level or above.
 
-2. {{< var c.psy200.long >}}
- 
-3. {{< var c.psy215.long >}} (7 weeks) (0.5 credits)
 
-4. {{< var c.psy295.long >}} 
-
-5. {{< var c.psy300.long >}} 
- 
-6. {{< var c.psy464.long >}} 
-
-7. **One**of the following:
-	* {{< var c.psy455.long >}} 
-	* {{< var c.psy494.long >}} 
-
-8. **One** of the following:
-	* {{< var c.psy205.long >}} 
-	* {{< var c.psy235.long >}} 
-
-9. **One** of the following:
-	* {{< var c.psy245.long >}} 
-	* {{< var c.psy255.long >}} 
-
-10. **One** of the following:
-	* {{< var c.psy205.long >}} 
-	* {{< var c.psy260.long >}} 
- 
-11. **One** of the following:
-	* {{< var c.psy325_325l.long >}}
-	* {{< var c.psy335_335l.long >}}
-	* {{< var c.psy355_355l.long >}}
-
-12. **One** of the following:
-	* {{< var c.psy315.long >}}
-	* {{< var c.psy350.long >}}
-	* {{< var c.psy415.long >}}
-	* {{< var c.psy450.long >}}
-	* {{< var c.psy465.long >}}
-	* {{< var c.psy475.long >}}
 
 ### Courses in Psychology
 
