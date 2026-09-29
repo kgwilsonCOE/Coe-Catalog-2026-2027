@@ -1,99 +1,74 @@
 ## Political Science
-Barrow, Lanegran (Chair), B. Nesmith.
+Lanegran (Chair), Snyder  
 
-The department of political science emphasizes the breadth of political science and presents politics as a worldwide phenomenon. The department nurtures active and responsible habits of citizenship, encouraging service learning and the development of political values, while offering students a variety of opportunities to study politics outside the classroom.
+The department of political science emphasizes the breadth of political science and presents politics as a worldwide phenomenon. The department nurtures active and responsible habits of citizenship, encouraging service learning and the development of political values, while offering students a variety of opportunities to study politics outside the classroom.  
 
 ### Political Science Major
 A major in political science requires a cumulative 2.0 GPA in all courses counted toward the major.
 
 A major in political science requires ten courses, including at least three 300- or 400-level courses. 
 
-1. {{< var c.pol108.long >}}
- 
-2. {{< var c.pol115.long >}}
-
-3. **One** political theory course:
-	- {{< var c.pol405.long >}}
-	- {{< var c.pol435.long >}}
-	- {{< var c.pol445.long >}} 
-
+1. {{< var c.pol108.long >}}   
+2. {{< var c.pol115.long >}}  
+3. {{< var c.pol244.long >}}  
 4. **One** additional American government course:
-	- {{< var c.pol207.long >}} 
-	- {{< var c.pol245.long >}}
-	- {{< var c.pol277.long >}}
-	- {{< var c.pol325.long >}}
-	- {{< var c.pol345.long >}}
-	- {{< var c.pol350.long >}}
-
-5. **Two** comparative or international politics courses:
-	- {{< var c.pol248.long >}}
-	- {{< var c.pol258.long >}}
-	- {{< var c.pol266.long >}}
-	- {{< var c.pol276.long >}}
-	- {{< var c.pol286.long >}}
-	- {{< var c.pol298.long >}}
-	- {{< var c.pol305.long >}}
+	- {{< var c.pol245.long >}}  
+	- {{< var c.pol277.long >}}  
+	- {{< var c.pol325.long >}}  
+	- {{< var c.pol345.long >}}  
+	- {{< var c.pol350.long >}}  
+5. **Two** comparative or international politics courses:  
+	- {{< var c.pol258.long >}}  
+	- {{< var c.pol266.long >}}  
+	- {{< var c.pol276.long >}}  
+	- {{< var c.pol286.long >}}  
+	- {{< var c.pol298.long >}}  
+	- {{< var c.pol305.long >}}  
 	- {{< var c.pol310.long >}}         
-	- {{< var c.pol365.long >}}
-	- {{< var c.pol386.long >}}
-	- {{< var c.pol398.long >}}
+	- {{< var c.pol365.long >}}  
+6. **Four** additional political science courses  
 
-6. **Four** additional political science courses
+Satisfactory work in Topics in Political Science (POL-284/-296) may be used, with consent of department chair, to satisfy any departmental requirement.  
 
-Satisfactory work in Topics in Political Science (POL-284/-296) may be used, with consent of department chair, to satisfy any departmental requirement. 
-
-### Political Science Minor
-
-A minor in political science requires six courses, including at least two 300- or 400-level courses. 
+### Political Science Minor  
+A minor in political science requires six courses, including at least **one** 300- or 400-level course.  
 
 1. {{< var c.pol108.long >}}
-
 2. {{< var c.pol115.long >}}
-
-3. **One** political theory course:
-	- {{< var c.pol405.long >}}
-	- {{< var c.pol435.long >}}
-	- {{< var c.pol445.long >}}
- 	 
-4. **One** additional American government course: 
-	- {{< var c.pol207.long >}} 
-	- {{< var c.pol245.long >}}
-	- {{< var c.pol277.long >}}
-	- {{< var c.pol325.long >}}
-	- {{< var c.pol345.long >}}
-	- {{< var c.pol350.long >}}
-
-5. **One** comparative or international politics course:
-	- {{< var c.pol248.long >}}
-	- {{< var c.pol258.long >}}
-	- {{< var c.pol266.long >}}
-	- {{< var c.pol276.long >}}
-	- {{< var c.pol286.long >}}
-	- {{< var c.pol298.long >}}
-	- {{< var c.pol305.long >}}
-	- {{< var c.pol310.long >}}
-	- {{< var c.pol365.long >}}
-	- {{< var c.pol386.long >}}
-	- {{< var c.pol398.long >}}
-		
-6. **One** additional political science course
+3. {{< var c.pol244.long >}}  
+4. **One** additional American government course:
+	- {{< var c.pol245.long >}}  
+	- {{< var c.pol277.long >}}  
+	- {{< var c.pol325.long >}}  
+	- {{< var c.pol345.long >}}  
+	- {{< var c.pol350.long >}}  
+5. **One** comparative or international politics courses:  
+	- {{< var c.pol258.long >}}  
+	- {{< var c.pol266.long >}}  
+	- {{< var c.pol276.long >}}  
+	- {{< var c.pol286.long >}}  
+	- {{< var c.pol298.long >}}  
+	- {{< var c.pol305.long >}}  
+	- {{< var c.pol310.long >}}         
+	- {{< var c.pol365.long >}}  
+6. **One** additional political science course  
 
 Satisfactory work in Topics in Political Science (POL-284/-296) may be used, with consent of department chair, to satisfy any departmental requirement. 
 
-### Courses in Political Science
+### Courses in Political Science  
 
+ **{{< var c.pol107.long >}}**  
+  {{< var c.pol107.desc >}}  
  **{{< var c.pol108.long >}}**  
   {{< var c.pol108.desc >}}  
  **{{< var c.pol115.long >}}**  
   {{< var c.pol115.desc >}}  
- **{{< var c.pol207.long >}}**  
-  {{< var c.pol207.desc >}}  
  **{{< var c.pol210.long >}}**  
   {{< var c.pol210.desc >}}  
+ **{{< var c.pol244.long >}}**  
+  {{< var c.pol244.desc >}}  
  **{{< var c.pol245.long >}}**  
   {{< var c.pol245.desc >}}  
- **{{< var c.pol248.long >}}**  
-  {{< var c.pol248.desc >}}  
  **{{< var c.pol258.long >}}**  
   {{< var c.pol258.desc >}}  
  **{{< var c.pol266.long >}}**  
@@ -126,10 +101,6 @@ Satisfactory work in Topics in Political Science (POL-284/-296) may be used, wit
   {{< var c.pol365.desc >}}  
  **{{< var c.pol375.long >}}**  
   {{< var c.pol375.desc >}}  
- **{{< var c.pol386.long >}}**  
-  {{< var c.pol386.desc >}}  
- **{{< var c.pol398.long >}}**  
-  {{< var c.pol398.desc >}}  
  **{{< var c.pol405.long >}}**  
   {{< var c.pol405.desc >}}  
  **{{< var c.pol435.long >}}**  
@@ -140,6 +111,7 @@ Satisfactory work in Topics in Political Science (POL-284/-296) may be used, wit
   {{< var c.pol445.desc >}}  
  **{{< var c.pol494.long >}}**  
   {{< var c.pol494.desc >}}  
+
  **{{< var c.wsh284.long >}}**  
 See description, @washington-term  
  **{{< var c.wsh286.long >}}**  
