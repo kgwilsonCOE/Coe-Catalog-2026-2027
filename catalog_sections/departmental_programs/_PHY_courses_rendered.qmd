@@ -66,41 +66,39 @@ Candidates for the BACHELOR OF SCIENCE IN ENGINEERING degree with an area of stu
 	- CHM 122/122L General Chemistry II and Laboratory  
 	- One full-credit Physics or Engineering Physics course which must be numbered 150 and above. 
 
-### Courses in Physics 
+### Courses in Physics  
+ **PHY 104 From the Big Bang to First Humans**  
+  Studies the history of the evolving Universe starting with the Big Bang all the way to the first humans on the Earth. The conditions in the first moments of the Universe, formation of matter and forces, formation of galaxies, stars and planets, emergence of life on Earth, the evolution of life from the first organisms to the humans, along with very basic science to understand all these phenomena, are covered.  
  **PHY 105 Physics: An Historical Approach**  
   Introduces important developments in physics from the time of Aristotle to the 20th century. Special attention is given to significant conceptual developments and major technological advances. Readings are selected from writings of some of the major figures in the history of physics, as well as modern commentators. The class experience includes reenactments of some historically significant experiments. This course satisfies the non-lab science course requirement.  
  **PHY 114/114L Modern Astronomy & Laboratory**  
   Introduces the objects and phenomena found in the universe, including the solar system, planets, moons, comets, meteors, the sun, stars, birth and death of stars, neutron stars, pulsars, black holes, galaxies, quasars, and cosmological evolution. Laboratory activities required. Lab is P/NP basis only. This course satisfies the general education laboratory science requirement. Prerequisite: competence in algebra.  
  **PHY 121 Everyday Physics**  
   Covers the principle of physics we use in our daily life. Examples from everyday experience are used to explain the fundamental principles of linear and rotational motion, momentum, forces, energy, as well as electricity, magnetism, and medical applications.  
- **PHY 155/155L Electronics & Laboratory**  
-  Introduce to beginners basic ideas of current, voltage, resistance; Ohm’s law and DC circuit analysis; the diode, the transistor amplifier, oscillators; integrated circuits. Much construction of circuits. Includes one two-hour, (0.0 course credit) laboratory weekly. Lab is P/NP basis only. This course satisfies the general education laboratory science requirement. Prerequisite: competence in algebra  
  **PHY 161 Energy: Science and Technology**  
   Covers physics and technology of energy generation, consumption, and conservation. Covers a wide range of energy sources, including fossil fuels, hydropower, solar energy, wind energy, bioenergy, and nuclear energy. Surveys the efficiencies and environmental impacts of energy use in transportation, manufacturing, and buildings.  
  **PHY 165/165L Basic Physics I & Laboratory**  
   An algebra-based survey course in the basic principles of mechanics, dynamics, energy, momentum and rotational motion. One (0.0 course credit) laboratory per week, held jointly with General Physics laboratories, is a required part of this course. Lab is P/NP basis only. This course satisfies the general education laboratory science requirement. Previous experience in algebra recommended.  
  **PHY 175/175L Basic Physics II & Laboratory**  
   An algebra-based survey course in the basic principles of thermodynamics, electrostatics, magnetism, circuits, light, and optics. One (0.0 course credit) laboratory per week, held jointly with General Physics laboratories, is a required part of this course. Lab is P/NP basis only. This course satisfies the general education laboratory science requirement. Prerequisite: Basic Physics I & Laboratory (PHY-165/-165L), or consent of instructor.  
- **PHY 181 Materials Science I**  
-  Introduces the relationship of atomic arrangement with microscopic and macroscopic material properties using fundamental of physics and chemistry. Covers the crystalline and amorphous structures, the defects and grain boundaries. The emphasis is placed on relating the chemical composition, structure, and the material properties.  
  **PHY 185/185L General Physics I & Laboratory**  
   A calculus-based introduction to mechanics to serve as a basis for advanced courses in physics. Kinematics, dynamics, energy, momentum, rotational motion and fluid mechanics are covered. One (0.0 course credit) laboratory per week, held jointly with Basic Physics laboratories, is a required part of this course. Lab is P/NP basis only. Previous experience in calculus recommended.   
  **PHY 195/195L General Physics II & Laboratory**  
   A calculus-based introduction to thermodynamics, electrostatics, magnetism, circuits, light, and optics. One (0.0 course credit) laboratory per week, held jointly with Basic Physics laboratories, is a required part of this course. Lab is P/NP basis only. Prerequisites: General Physics I & Laboratory (PHY-185/-185L) or consent of instructor.   
- **PHY 201 Materials Science 2**  
-  Incorporates the time dependent phenomena in solids: phase transformation, crystal nucleation and growth. Strong focus is placed on the phase diagrams and the technical methods on instrumental analysis of solid materials. Common material properties presented with focus on practical measurements: mechanical, thermal, optical, magnetic, and electrical properties. Prerequisite: Materials Science 1 (PHY-181) or consent of instructor.  
  **PHY 211 Glass Science**  
   Introduces the physics and chemistry behind the formation and study of glassy materials. The course covers glass making, glass structure and surfaces, property characterization, a wide array of industrial and scientific applications, as well as modern experimental techniques. It is especially suitable in preparation for glass research, and for students interested in a possible career in materials research and/or condensed matter physics. Prerequisite: General Physics II & Laboratory (PHY-195/-195L), or consent of instructor.  
- **PHY 221 Computational Physics**  
-  Survey of the computational methods used by physicists. Students learn basics of Linux systems, C++, shell scripting, and data analysis tools, such as MATLAB and ROOT. Some Monte Carlo applications for biophysics, particle and medical physics, as well as material science are introduced. Prerequisite: Consent of instructor.  
  **PHY 231 Math Mthds Physicists & Engineers**  
   Studies areas of mathematics that are of fundamental importance in the physical sciences. Topics include vector calculus, eigenvalue problems, curvilinear coordinates, Fourier analysis, introduction to complex variables and differential equations. Topics include complex variables, Fourier analysis, eigenvalue problems, and vector calculus. Includes one computer laboratory session per week. Previous experience in calculus is recommended. Prerequisite: Calculus II (MTH-145), or Calculus for Engineers and Physicists (ENR 125).  
  **PHY 235 Modern Physics**  
   Introduces quantum phenomena, including the wave-particle duality, atomic models, special theory of relativity, Schrodinger’s equation and its applications to certain potentials. Corequisite: Advanced Laboratory 1 (PHY-236). Prerequisites: General Physics II & Laboratory (PHY-195/-195L) or consent of instructor.  
- **PHY 235L Advanced Lab 1**  
-  Introductory study of the phenomena, techniques, and models of modern physics including quantum phenomena, special relativity physics, and their interpretive models. Laboratory activities required. Prerequisites: Calculus II (MTH-145) and General Physics II & Laboratory (PHY-195/-195L) or consent of instructor.  
+ **PHY 236 Advanced Laboratory 1**  
+  PHY-236 Advanced Laboratory 1 (WE) Introduces laboratory measurement techniques as applied to modern physics experiments. Experiments from optics and atomic physics. A writing intensive course with laboratory and computer design projects based on applications of modern physics and atomic physics. Corequisite: Modern Physics (PHY-235). (0.5 course credit)  
  **PHY 241 Introduction to Astrophysics**  
   Covers the fundamental concepts in astrophysics: The tools of astronomy, celestial mechanics, interaction of light and matter, telescopes, nature of the stars and their classifications. Other topics include the general overview of the solar system, and the binary systems. Prerequisite: General Physics II & Laboratory (PHY-195/-195L) or consent of instructor.  
+ **+++MISSING INFO: c.phy245_245l.long +++**  
+  +++MISSING INFO: c.phy245_245l.desc +++  
+ **PHY 246 Advanced Laboratory 2 (WE)**  
+  Continuation of Advanced Laboratory 1. A writing-intensive course that expands the laboratory experiments to nuclear and particle physics, such as Gamma Ray Spectroscopy, Nuclear Magnetic Resonance, Muon Lifetime, and Nuclear radiation. Prerequisite: Modern Physics (PHY-235) and Advanced Laboratory 1 (PHY-236). (0.5 course credits)  
  **PHY 251 Stars & Galaxies**  
   Focuses on the star formation and evolution, as well as the galactic evolution. The formation of the solar system and its implications, the degenerate remnants, and the Milky Way galaxy are covered. Prerequisite: General Physics II & Laboratory (PHY-195/-195L) or consent of instructor.  
  **PHY 255/355 Introduction to Physics Research I–II**  
@@ -121,8 +119,6 @@ Candidates for the BACHELOR OF SCIENCE IN ENGINEERING degree with an area of stu
   Introduces the formal treatment of quantum mechanics. This course covers the Schrodinger wave equation, the Dirac Braket notation, operator formalism, spin and angular momentum, the wave equation in one and three dimensions, and perturbation theory. Prerequisite: Modern Physics (PHY-235) and Advanced Lab 1 (PHY-236).  
  **PHY 341 Space Plasma Physics**  
   Focuses on the behavior of plasma in space environment. Covers the plasma parameters, waves, the planetary atmospheres, ionospheres, and magnetospheres. Prerequisite: Introduction to Astrophysics (PHY-241) or consent of instructor.  
- **PHY 411 Robotics & Advanced Electronics**  
-  Covers both software and hardware techniques in physics. The software portion includes sophisticated operations datasets, such as Fourier transforms, nonlinear fits, residual analysis, statistical and characterization. Most of the course is dedicated to advanced electronics, microcontrollers, and computer-control of data acquisition. This hardware portion starts with discussions of operational amplifiers, bandpass filters, transducers, and other advanced analog electronic concepts. The course then moves on to the use of microcontrollers to acquire data and to perform actions in response to the inputs. Stepping and servo motors, sensors, and other input/output devices are some of the topics that are covered during this stage. Project-based work is an important part of the course. Prerequisite: General Physics II & Laboratory (PHY-195/-195L), Electronics (PHY-155) and some background in programming are also recommended.  
  **PHY 425 Solid State Physics**  
   Studies the structure and properties of crystalline and amorphous solids. The main topics include crystal structure and quantized vibrations (phonons); electronic band structure and its relation to electrical, thermal, and optical behavior; semiconductors and superconductors. Prerequisite: Modern Physics (PHY-235), Advanced Lab 1 (PHY-236), and Mathematical Methods for Physicists (PHY-231); or consent of instructor.  
  **PHY 441 Relativity and Cosmology**  
@@ -139,5 +135,27 @@ Candidates for the BACHELOR OF SCIENCE IN ENGINEERING degree with an area of stu
   Covers several instructional modules. The content corresponds to material usually covered in the second-semester of an advanced, year-long course. Core modules include quantum mechanics (e.g., Bell’s theorem) and electromagnetism (e.g., stress tensor). The four remaining modules are chosen from topics that include optics, fluid dynamics, experimental techniques, nuclear physics, geophysics, advanced classical mechanics, waves, statistical mechanics, and atomic physics. Prerequisite: Quantum Mechanics (PHY-335) and Electromagnetism (PHY-265), or consent of instructor.  
  **PHY 494 Internship in Physics**  
   Investigates an area of interest through field placement supervised by a faculty member of the department. A minimum of 140 hours on-site experience is required. P/NP basis only. This course does not satisfy any of the requirements for a major in physics. Prerequisites: completion of a physics minor or junior standing and consent of department chair.  
- **OCC 365 Oak Ridge Science Semester**  
-See description, @sec-ACM-and-international-programs
+
+### Courses in Engineering Physics  
+
+ **ENR 101 Introduction to Engineering Design**  
+  Provides first-year engineering students with an introduction to how to solve open-ended problems in a hands-on manner using critical thinking and workplace skills. Students are expected to work in multidisciplinary teams to learn through doing, with an emphasis on defining and diagnosing the problem through a holistic lens of technology, people, and culture. Course also covers engineering ethics, and requires successfully completing a team design project. Oral and written presentations are required.  
+ **ENR 101L Engineering Design Laboratory**  
+  Introduces the concepts of engineering design. Topics include 2-dimensional and 3-dimensional drawings, CAD software, 3D printing, and hands-on sessions on building 3D models with various materials, introduction to power tools, and wood machine shop. Corequisite: Introduction to Engineering Design (ENR-101) or DS-130 Innovation by Design is required. (0.5 course credit)  
+ **ENR 145 Comput Mthds for Physicist & Engin**  
+  Computational Physics Methods for Physicists & Engineers
+Designed to be a survey of the computational methods used by physicists. Students learn basics of Linux systems, Python, Jupyter Notebook, Github, shell scripting, and data analysis tools, such as MATLAB and ROOT. The students will learn and apply simulation tools and electronic interfaces to their design projects. This course is project-based and requires intensive individual participation in prototyping.  
+ **ENR 221 Materials Science Engineering 1**  
+  ENR-221 Materials Science Engineering 1 Introduces the relationship of atomic arrangement with microscopic and macroscopic material properties using fundamentals of physics and chemistry. Covers the crystalline and amorphous structures, the defects and grain boundaries, phase diagrams and time-dependency of phase transformation. The emphasis is placed on understanding the different aspects of atomic arrangement and how to analyze them. As an essential component of the class, students will learn how to work with different analysis techniques available in our laboratories and develop a project involving the characterization of an unknown material.  
+ **ENR 321 Materials Science Engineering 2**  
+  ENR-321 Materials Science Engineering 2 
+Continuation of Materials Science Engineering 1, this course will follow up by studying the relationship between structure and property, as well as introducing processing methods. Examples of these relationships are mechanical, optical, magnetic, electrical, and thermal properties. As an essential component for the class, students will work in groups to analyze and develop solutions for case studies involving challenges faced by the industry, applying concepts of design thinking. Prerequisite: Materials Science Engineering 1 (ENR-221) or consent of instructor.  
+ **+++MISSING INFO: c.enr325_325l.long +++**  
+  +++MISSING INFO: c.enr325_325l.desc +++  
+ **ENR 355 Robotics and Sensors**  
+  Introduces the basics of robotics and automation; mechanical design, principles of motion and kinematics for automated devices. The students will complete projects while learning about the system requirements identification, sensor, and microcontroller integration. The course exposes students to the current research in robotics research such as autonomous vehicles, assistant robots, and field robots for extreme conditions. Prerequisite: Electromagnetism (PHY-265).  
+ **ENR 405 Senior Design 1**  
+  Introduces final project work. The class is divided into two parts. In the first portion, the students will learn effective team organization, team planning, time management, literature research methods, record keeping, technical writing, professional ethics and development, among other skills required to be an effective engineer in the classroom. In parallel, the students will be developing, under the supervision of a mentor, their project in which they will design a project and execute all steps. Prerequisites: Computational Methods in Physics and Engineering (ENR-145) and senior standing.  
+ **ENR 415 Senior Design 2**  
+  Continues the work of Senior Design I. At the end of Senior Design 2 students are expected to finalize their project. The course focuses on the development of the scientific project and culmination of a written report and an oral presentation. The course also includes visits to regional research and manufacturing facilities. Prerequisite: Senior Design 1 (ENR-405).  
+
