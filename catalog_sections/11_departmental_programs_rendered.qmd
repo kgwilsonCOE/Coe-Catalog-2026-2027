@@ -4126,10 +4126,10 @@ Candidates for the BACHELOR OF SCIENCE IN ENGINEERING degree with an area of stu
 7.	CHM 121/121L General Chemistry I and Laboratory  
 8.	PHY 231 Math Mthds Physicists & Engineers  
 9.	PHY 235 Modern Physics  
-10.	+++MISSING INFO: c.phy245_245l.long +++  
+10.	PHY-245/-245L Principles of Analog Electronics and Laboratory  
 11.	PHY 246 Advanced Laboratory 2 (WE)  
 12.	PHY 265 Electromagnetism  
-13.	+++MISSING INFO: c.enr325_325l.long +++  
+13.	ENR-325/325L Principles of Digital Electronics and Laboratory  
 14.	ENR 405 Senior Design 1  
 15.	ENR 415 Senior Design 2  
 16.	**Four** of the following:  
@@ -4172,8 +4172,8 @@ Candidates for the BACHELOR OF SCIENCE IN ENGINEERING degree with an area of stu
   PHY-236 Advanced Laboratory 1 (WE) Introduces laboratory measurement techniques as applied to modern physics experiments. Experiments from optics and atomic physics. A writing intensive course with laboratory and computer design projects based on applications of modern physics and atomic physics. Corequisite: Modern Physics (PHY-235). (0.5 course credit)  
  **PHY 241 Introduction to Astrophysics**  
   Covers the fundamental concepts in astrophysics: The tools of astronomy, celestial mechanics, interaction of light and matter, telescopes, nature of the stars and their classifications. Other topics include the general overview of the solar system, and the binary systems. Prerequisite: General Physics II & Laboratory (PHY-195/-195L) or consent of instructor.  
- **+++MISSING INFO: c.phy245_245l.long +++**  
-  +++MISSING INFO: c.phy245_245l.desc +++  
+ **PHY-245/-245L Principles of Analog Electronics and Laboratory**  
+  Covers analog devices and components used in electronic circuits and devices, including their applications. Focus on direct current (DC) and single-phase alternating current (AC) circuits, transient analysis of RC, RL, and RLC circuits in sinusoidal steady-state. The topics cover the current and charge relationships, Ohm’s Law, resistors, inductors, capacitors, equivalent resistance and impedance, Kirchoff’s Laws, Thevenin and Norton equivalent circuits, superposition and source transformation, power and energy, maximum power transfer, first-order transient response, algebra of complex numbers, phasor representation, time domain and frequency domain concepts, and ideal transformers. Prerequisite: General Physics II and laboratory (PHY-195/-195L) or consent of instructor.  
  **PHY 246 Advanced Laboratory 2 (WE)**  
   Continuation of Advanced Laboratory 1. A writing-intensive course that expands the laboratory experiments to nuclear and particle physics, such as Gamma Ray Spectroscopy, Nuclear Magnetic Resonance, Muon Lifetime, and Nuclear radiation. Prerequisite: Modern Physics (PHY-235) and Advanced Laboratory 1 (PHY-236). (0.5 course credits)  
  **PHY 251 Stars & Galaxies**  
@@ -4227,8 +4227,8 @@ Designed to be a survey of the computational methods used by physicists. Student
  **ENR 321 Materials Science Engineering 2**  
   ENR-321 Materials Science Engineering 2 
 Continuation of Materials Science Engineering 1, this course will follow up by studying the relationship between structure and property, as well as introducing processing methods. Examples of these relationships are mechanical, optical, magnetic, electrical, and thermal properties. As an essential component for the class, students will work in groups to analyze and develop solutions for case studies involving challenges faced by the industry, applying concepts of design thinking. Prerequisite: Materials Science Engineering 1 (ENR-221) or consent of instructor.  
- **+++MISSING INFO: c.enr325_325l.long +++**  
-  +++MISSING INFO: c.enr325_325l.desc +++  
+ **ENR-325/325L Principles of Digital Electronics and Laboratory**  
+  Introduces digital devices used in modern electronics. Topics covered include logic gates, flip-flops, timers, counters, multiplexing, analog-to-digital and digital-to-analog devices. Emphasis is on constructing, analyzing, verifying, and troubleshooting digital circuits using appropriate techniques and test equipment. Prerequisite: Principles of Analog Electronics and Laboratory (PHY-245/245L).  
  **ENR 355 Robotics and Sensors**  
   Introduces the basics of robotics and automation; mechanical design, principles of motion and kinematics for automated devices. The students will complete projects while learning about the system requirements identification, sensor, and microcontroller integration. The course exposes students to the current research in robotics research such as autonomous vehicles, assistant robots, and field robots for extreme conditions. Prerequisite: Electromagnetism (PHY-265).  
  **ENR 405 Senior Design 1**  
