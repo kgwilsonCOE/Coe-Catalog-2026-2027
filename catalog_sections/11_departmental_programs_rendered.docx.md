@@ -4239,101 +4239,76 @@ Continuation of Materials Science Engineering 1, this course will follow up by s
 
 
 ## Political Science
-Barrow, Lanegran (Chair), B. Nesmith.
+Lanegran (Chair), Snyder  
 
-The department of political science emphasizes the breadth of political science and presents politics as a worldwide phenomenon. The department nurtures active and responsible habits of citizenship, encouraging service learning and the development of political values, while offering students a variety of opportunities to study politics outside the classroom.
+The department of political science emphasizes the breadth of political science and presents politics as a worldwide phenomenon. The department nurtures active and responsible habits of citizenship, encouraging service learning and the development of political values, while offering students a variety of opportunities to study politics outside the classroom.  
 
 ### Political Science Major
 A major in political science requires a cumulative 2.0 GPA in all courses counted toward the major.
 
 A major in political science requires ten courses, including at least three 300- or 400-level courses. 
 
-1. POL 108 Introduction to Politics
- 
-2. POL 115 American National Gov & Pol
-
-3. **One** political theory course:
-	- POL 405 Contemporary Political Theory
-	- POL 435 Ancient & Medieval Pol Thry
-	- POL 445 Modern Political Theory 
-
+1. POL 108 Introduction to Politics   
+2. POL 115 American National Gov & Pol  
+3. POL 244 Research Methods in Political Scien  
 4. **One** additional American government course:
-	- POL 207 Religion & American Politics 
-	- POL 245 Political Parties & Elections
-	- POL 277 Women & Poltics in US
-	- POL 325 The American Congress
-	- POL 345 American Presidency
-	- POL 350 US Social Policy Process
-
-5. **Two** comparative or international politics courses:
-	- POL 248 Political Violence and the Violent
-	- POL 258 World Politics
-	- POL 266 Latin American Politics
-	- POL 276 African Politics
-	- POL 286 Asian Politics
-	- POL 298 European Politics
-	- POL 305 Terrorism
+	- POL 245 Political Parties & Elections  
+	- POL 277 Women & Poltics in US  
+	- POL 325 The American Congress  
+	- POL 345 American Presidency  
+	- POL 350 US Social Policy Process  
+5. **Two** comparative or international politics courses:  
+	- POL 258 World Politics  
+	- POL 266 Latin American Politics  
+	- POL 276 African Politics  
+	- POL 286 Asian Politics  
+	- POL 298 European Politics  
+	- POL 305 Terrorism  
 	- POL 310 International Organizations         
-	- POL 365 American Foreign Policy
-	- POL 386 International Development
-	- POL 398 Religion & World Politics
+	- POL 365 American Foreign Policy  
+6. **Four** additional political science courses  
 
-6. **Four** additional political science courses
+Satisfactory work in Topics in Political Science (POL-284/-296) may be used, with consent of department chair, to satisfy any departmental requirement.  
 
-Satisfactory work in Topics in Political Science (POL-284/-296) may be used, with consent of department chair, to satisfy any departmental requirement. 
-
-### Political Science Minor
-
-A minor in political science requires six courses, including at least two 300- or 400-level courses. 
+### Political Science Minor  
+A minor in political science requires six courses, including at least **one** 300- or 400-level course.  
 
 1. POL 108 Introduction to Politics
-
 2. POL 115 American National Gov & Pol
-
-3. **One** political theory course:
-	- POL 405 Contemporary Political Theory
-	- POL 435 Ancient & Medieval Pol Thry
-	- POL 445 Modern Political Theory
- 	 
-4. **One** additional American government course: 
-	- POL 207 Religion & American Politics 
-	- POL 245 Political Parties & Elections
-	- POL 277 Women & Poltics in US
-	- POL 325 The American Congress
-	- POL 345 American Presidency
-	- POL 350 US Social Policy Process
-
-5. **One** comparative or international politics course:
-	- POL 248 Political Violence and the Violent
-	- POL 258 World Politics
-	- POL 266 Latin American Politics
-	- POL 276 African Politics
-	- POL 286 Asian Politics
-	- POL 298 European Politics
-	- POL 305 Terrorism
-	- POL 310 International Organizations
-	- POL 365 American Foreign Policy
-	- POL 386 International Development
-	- POL 398 Religion & World Politics
-		
-6. **One** additional political science course
+3. POL 244 Research Methods in Political Scien  
+4. **One** additional American government course:
+	- POL 245 Political Parties & Elections  
+	- POL 277 Women & Poltics in US  
+	- POL 325 The American Congress  
+	- POL 345 American Presidency  
+	- POL 350 US Social Policy Process  
+5. **One** comparative or international politics courses:  
+	- POL 258 World Politics  
+	- POL 266 Latin American Politics  
+	- POL 276 African Politics  
+	- POL 286 Asian Politics  
+	- POL 298 European Politics  
+	- POL 305 Terrorism  
+	- POL 310 International Organizations         
+	- POL 365 American Foreign Policy  
+6. **One** additional political science course  
 
 Satisfactory work in Topics in Political Science (POL-284/-296) may be used, with consent of department chair, to satisfy any departmental requirement. 
 
-### Courses in Political Science
+### Courses in Political Science  
 
+ **POL 107 Environmental Justice**  
+  Investigates issues of environmental ethics, Ojibwe culture and the nature of wilderness in the wilderness region known by the Ojibwe as the Arrowhead, the Boundary Waters Canoe Area Wilderness and Quetico Provincial Park. The course raises questions about the history of environmental preservation, environmental law-making at the grassroots, race relations, different models of economic development, environmental and social justice, and the role of Ojibwe communities and government in wilderness preservation. Offered summers at the Wilderness Field Station.  
  **POL 108 Introduction to Politics**  
   Compares societies and states across regions, cultures, and time spans, in an attempt to understand what governments have in common, how they differ, and why. Includes such specific topics as democracy and fascism, nationalism, human rights, post-communist states, and post-cold war international politics. Challenges students to look beyond the day’s headlines, learn from other peoples’ politics, and develop political self-awareness.  
  **POL 115 American National Gov & Pol**  
   Constitutional, institutional, and political dimensions, and principal contemporary problems of the government of the United States.  
- **POL 207 Religion & American Politics**  
-  Examines several points of tension at the intersection of the religious and political spheres. Explores the connections between religious movements and political beliefs in American history, evolving understandings of the Constitution’s religious freedom clauses, and the complicating effects on politics of America’s increasing religious and cultural diversity.  
  **POL 210 Environmental Politics**  
   Brings multiple perspectives to bear and provides a solid foundation for understanding the politics and complexities of environmental issues. Examines actors and issues in environmental policy-making at various levels of government, from the local to the national to the global. Analyzes the reasons for and hindrances to collective action. Students will acquire some tools of “practical politics,” including political communications. No prerequisites, but Introduction to Politics (POL-108) is recommended.  
+ **POL 244 Research Methods in Political Scien**  
+  Surveys quantitative and qualitative methods of inquiry in political science. The course will cover the formulation of research questions, theories, and hypotheses, as well as the concepts of measurement, inference, causality, and ethical and normative issues in social science research. Methods of inquiry covered will include survey research, experiments, regression analysis, archival research, and in-depth interviews. Students learn how to conduct original analyses of quantitative data using the statistical computing software R. Prerequisite: sophomore standing or consent of instructor.  
  **POL 245 Political Parties & Elections**  
   The development and nature of political parties; state, local, and national party organizations; parties in government; voting behavior; campaigns and nominations. The course includes an introduction to election data sets and original research using quantitative research methods. Prerequisite: American National Government and Politics (POL-115) or consent of instructor. (Offered alternate years)  
- **POL 248 Political Violence and the Violent**  
-  Focuses on politically motivated violence by and against states, groups, and individuals, with attention to theories that explain the persistence of such violence. Examines such phenomena as traditional warfare, guerrilla warfare, coups d’état, rebellions, torture, and terrorism and the people, politics, ideals, and ideologies behind them. Prerequisite: Introduction to Politics (POL-108) or consent of the instructor. (Offered alternate years)  
  **POL 258 World Politics**  
   Survey of the basic factors of international politics, including the character of the state system and international economic relations, the role of force, the role of diplomacy and negotiation, and an examination of the formulation of foreign policy within domestic political systems.  
  **POL 266 Latin American Politics**  
@@ -4366,10 +4341,6 @@ Satisfactory work in Topics in Political Science (POL-284/-296) may be used, wit
   Examination of the institutional setting in which foreign policy is formulated, the political dynamics of policy formulation, and case studies of American foreign policy since World War II. Prerequisite: Introduction to Politics (POL-108) or consent of instructor. (Offered alternate years)  
  **POL 375 Constitution & Individual Liberties**  
   Examination of original court opinions and political writings focusing upon the procedural contents of due process, equal protection under the law, post-Civil War amendments, and civil rights legislation, with special emphasis upon freedoms of religion and expression. Prerequisite: junior standing or consent of instructor. (Offered alternate years)  
- **POL 386 International Development**  
-  Addresses controversies in international development, such as what is to be developed, for whom, and whether development means Westernization. Topics include how we measure development; foreign aid and debt; the roles of the World Bank, International Monetary Fund and USAID, as well as non-governmental organizations; and conflicting theories of development. Readings and discussions also touch on pressing ethical issues, most basically whether citizens have any moral responsibility to people who live beyond the nation’s borders. Prerequisite: Introduction to Politics (POL-108) or consent of instructor. (Offered alternate years)  
- **POL 398 Religion & World Politics**  
-  Seminar addressing such issues as the ways in which religion enters world politics (and vice versa), when and where religion has been a force for peacemaking or for conflict, and why religion is so often ignored or misunderstood by Western foreign policy theorists and practitioners. Includes student research projects. Prerequisite: Introduction to Politics (POL-108) or consent of instructor. (Offered alternate years)  
  **POL 405 Contemporary Political Theory**  
   Survey and argumentative analysis of the ideas of major political thinkers since 1900. Selections are made from such authors as Hannah Arendt, John Dewey, Sigmund Freud, Martin Luther King Jr., Robert Nozick, John Rawls, and Jean-Paul Sartre. Prerequisites: Introduction to Politics (POL-108) and junior standing, or consent of instructor.  
  **POL 435 Ancient & Medieval Pol Thry**  
@@ -4380,6 +4351,7 @@ Satisfactory work in Topics in Political Science (POL-284/-296) may be used, wit
   Historical survey and argumentative analysis of the ideas of the most important political thinkers from the 16th to the 19th centuries. Selections are made from such authors as Machiavelli, Hobbes, Locke, Rousseau, Marx, and Mill. Prerequisites: Introduction to Politics (POL-108) and junior standing, or consent of instructor.  
  **POL 494 Internship in Political Science**  
   Substantial work or participation in an office, organization, or activity concerned with government and politics, such as a congressional, federal, state, or local government office, a political campaign, or an active interest group. A minimum of 140 hours on-site experience is required. S/U basis only. One course credit toward a political science major for successful completion, unless The Washington Experience (WSH-494) is completed for credit toward a major. Prerequisite: consent of department chair.  
+
  **WSH 284 Topics in Washington DC**  
 See description, @washington-term  
  **WSH 286 Topics in Washington, D.C:NWP**  
