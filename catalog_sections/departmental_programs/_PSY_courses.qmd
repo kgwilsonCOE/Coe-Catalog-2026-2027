@@ -35,7 +35,19 @@ A major in Psychology requires a cumulative 2.0 GPA in all courses counted towar
 	* {{< var c.psy355_355l.long >}}  
 10. **Two** additional courses in psychology, one of which must be 300 level or above.
 
+### Organizational Science Concentration in Psychology  
+Students completing a major in Psychology may elect to also complete a concentration in Organizational Science. This concentration is designed to acquaint students with human behavior in organizations from both theoretical and applied perspectives. It aims to prepare students to carry out various human resources, organizational development, customer service, and institutional research functions in a variety of organizational settings. It also prepares students for graduate study in the fields of Industrial/Organizational (I/O) Psychology, Human Resources, and other similar fields.  
 
+To complete the Organizational Science concentration, students must meet the following requirements. Courses taken to fulfill the Psychology major may be used to also fulfill requirements in the Organizational Science concentration.  
+
+1.	Completion of a major in Psychology 
+2.	Completion of the following **six** courses in which a cumulative 2.0 GPA must be earned. At least three of the six courses must be completed at Coe:
+	* {{< var c.psy245.long >}}  
+	* {{< var c.psy255.long >}}  
+	* {{< var c.psy355_355l.long >}}  
+	* {{< var c.psy465.long >}}  
+	* {{< var c.bus300.long >}}  
+	* {{< var c.bus315.long >}}  
 
 ### Courses in Psychology
 
@@ -61,21 +73,21 @@ A major in Psychology requires a cumulative 2.0 GPA in all courses counted towar
   {{< var c.psy255.desc >}}  
  **{{< var c.psy260.long >}}**  
   {{< var c.psy260.desc >}}  
+ **{{< var c.psy270.long >}}**  
+  {{< var c.psy270.desc >}}  
  **{{< var c.psy295.long >}}**  
   {{< var c.psy295.desc >}}  
  **{{< var c.psy300.long >}}**  
   {{< var c.psy300.desc >}}  
- **{{< var c.psy315.long >}}**  
-  {{< var c.psy315.desc >}}  
- **{{< var c.psy325.long >}}**  
+ **{{< var c.psy325_325l.long >}}**  
   {{< var c.psy325.desc >}}  
- **{{< var c.psy335.long >}}**  
+ **{{< var c.psy335_335l.long >}}**  
   {{< var c.psy335.desc >}}  
  **{{< var c.psy350.long >}}**  
   {{< var c.psy350.desc >}}  
  **{{< var c.psy354.long >}}**  
   {{< var c.psy354.desc >}}  
- **{{< var c.psy355.long >}}**  
+ **{{< var c.psy355_355l.long >}}**  
   {{< var c.psy355.desc >}}  
  **{{< var c.psy415.long >}}**  
   {{< var c.psy415.desc >}}  
@@ -83,13 +95,11 @@ A major in Psychology requires a cumulative 2.0 GPA in all courses counted towar
   {{< var c.psy444.desc >}}  
  **{{< var c.psy450.long >}}**  
   {{< var c.psy450.desc >}}  
- **{{< var c.psy455.long >}}**  
-  {{< var c.psy455.desc >}}  
+ **{{< var c.psy454.long >}}**  
+  {{< var c.psy454.desc >}}  
  **{{< var c.psy464.long >}}**  
   {{< var c.psy464.desc >}}  
  **{{< var c.psy465.long >}}**  
   {{< var c.psy465.desc >}}  
- **{{< var c.psy475.long >}}**  
-  {{< var c.psy475.desc >}}  
  **{{< var c.psy494.long >}}**  
   {{< var c.psy494.desc >}}  
