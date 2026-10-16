@@ -1,52 +1,26 @@
-## Religion {#sec-religion}
-Chaplin, Hatchell (Chair), Kensky. 
+## Religion {#sec-religion}  
+Hatchell (Chair)  
 
-The philosophy and religion department offer courses designed to lead students to reflect on their views concerning fundamental issues in life and thought. Since both the philosophical and religious traditions have had a central place in and an enormous influence upon the development of human culture, any student seeking a liberal education, whatever the major discipline, will profit from the departmental offerings. 
-
-### Religion Major 
-A grade of “C” (2.0) or higher must be earned in all courses counted toward a major in religion. 
-
-1. **One** of the following:
-	* {{< var c.rel101.long >}}
-	* {{< var c.rel103.long >}}
-
-2. {{< var c.rel106.long >}}
-
-3. {{< var c.rel108.long >}}
-
-4. **One** of the following:
-	* {{< var c.rel105.long >}}
-	* {{< var c.rel115.long >}} 
-
-5. **One** of the following:
-	* {{< var c.rel116.long >}} 
-	* {{< var c.rel136.long >}} 
-	* {{< var c.rel196.long >}} 
-
-6. **Five** additional religion courses, at least three of which are numbered 300 or above 
+The Philosophy and Religion Department offers courses designed for students to engage with human thought and practice through the study of important texts and historical evidence as well as recent and contemporary writings. Philosophy and Religion courses help students encounter the diversity of human ideas and religious practice in ways that are thoughtful, respectful, and accurate. Students will grow in their abilities to read texts, construct arguments from evidence, think critically, and communicate accurately and with nuance. Any student seeking a liberal education, whatever the major discipline, will profit from the departmental offerings.  
 
 ### Religion Minor 
 
-1. **One** of the following:
-	* {{< var c.rel106.long >}}
-	* {{< var c.rel108.long >}}
+1.	Any five courses in Religion  
 
-2. **Four** additional religion courses 
+### Courses in Religion by Content Area  
+Special attention should be given to the numerical ordering of the courses listed below:  
 
-### Courses in Religion by Content Area 
-Special attention should be given to the numerical ordering of the courses listed below: 
+1. Courses numbered between 100 and 199 include general introductions to religion ({{< var c.rel101.long >}} , {{< var c.rel103.long >}} , {{< var c.rel106.long >}} , and {{< var c.rel108.long >}} as well as introductory courses focused on specific traditions.  
 
-1. Courses numbered between 100 and 199 include general introductions to religion ({{< var c.rel101.long >}} , {{< var c.rel103.long >}} , {{< var c.rel106.long >}} , and {{< var c.rel108.long >}} as well as introductory courses focused on specific traditions.
+2. Courses numbered 200-299 are topical courses especially suitable for sophomore level and above.  
 
-2. Courses numbered 200-299 are topical courses especially suitable for sophomore level and above.
+3. Courses numbered 300-399 are advanced courses with prerequisites.  
 
-3. Courses numbered 300-399 are advanced courses with prerequisites. 
+Recommended beginning courses for those contemplating a major in religion are: {{< var c.rel101.long >}} , {{< var c.rel103.long >}} , {{< var c.rel106.long >}} , or {{< var c.rel108.long >}}m. However, other courses numbered below 200 are also suitable introductory courses.  
 
-Recommended beginning courses for those contemplating a major in religion are: {{< var c.rel101.long >}} , {{< var c.rel103.long >}} , {{< var c.rel106.long >}} , or {{< var c.rel108.long >}}m. However, other courses numbered below 200 are also suitable introductory courses.
+:::: {.columns}  
 
-:::: {.columns}
-
-::: {.column width="45%"}
+::: {.column width="45%"}  
 * **Survey courses**	
 	- {{< var c.rel101.long >}}
 	- {{< var c.rel103.long >}}
@@ -86,52 +60,13 @@ Recommended beginning courses for those contemplating a major in religion are: {
 	- {{< var c.rel296.long >}}
 	- {{< var c.rel338.long >}}
 	- {{< var c.rel385.long >}}
-	- {{< var c.rel386.long >}}
+	- {{< var c.rel394.long >}}
 	- {{< var c.rel394.long >}}
 	- {{< var c.rel444.long >}}
 	- {{< var c.rel494.long >}} 
 :::
 
-::::
 
-* **Survey courses**	
-	- {{< var c.rel101.long >}}
-	- {{< var c.rel103.long >}}
-	- {{< var c.rel106.long >}}
-	- {{< var c.rel108.long >}}
-
-* **Individual traditions**
-	- {{< var c.rel116.long >}}
-	- {{< var c.rel128.long >}}
-	- {{< var c.rel136.long >}}
-	- {{< var c.rel138.long >}}
-	- {{< var c.rel148.long >}}
-	- {{< var c.rel178.long >}}
-	- {{< var c.rel196.long >}}
-	- {{< var c.rel206.long >}}
-	- {{< var c.rel215.long >}}
-	- {{< var c.rel226.long >}}
-	- {{< var c.rel236.long >}}
-	- {{< var c.rel336.long >}}
- 
-* **Judeo-Christian scriptures**
-	- {{< var c.rel105.long >}}
-	- {{< var c.rel115.long >}}
-	- {{< var c.rel310.long >}}
-	- {{< var c.rel330.long >}}
-	- {{< var c.rel365.long >}}
-
-* **Topical courses**
-	- {{< var c.rel217.long >}}
-	- {{< var c.rel295.long >}}
-	- {{< var c.rel296.long >}}
-	- {{< var c.rel338.long >}}
-	- {{< var c.rel385.long >}}
-	- {{< var c.rel386.long >}}
-	- {{< var c.rel394.long >}}
-	- {{< var c.rel444.long >}}
-	- {{< var c.rel494.long >}} 
- 
 ### Courses in Religion
  **{{< var c.rel101.long >}}**  
   {{< var c.rel101.desc >}}  
@@ -161,6 +96,8 @@ Recommended beginning courses for those contemplating a major in religion are: {
   {{< var c.rel196.desc >}}  
  **{{< var c.rel206.long >}}**  
   {{< var c.rel206.desc >}}  
+ **{{< var c.rel207.long >}}**  
+  {{< var c.rel207.desc >}}  
  **{{< var c.rel215.long >}}**  
   {{< var c.rel215.desc >}}  
  **{{< var c.rel217.long >}}**  
@@ -169,12 +106,16 @@ Recommended beginning courses for those contemplating a major in religion are: {
   {{< var c.rel226.desc >}}  
  **{{< var c.rel236.long >}}**  
   {{< var c.rel236.desc >}}  
+ **{{< var c.rel246.long >}}**  
+  {{< var c.rel246.desc >}}  
  **{{< var c.rel295.long >}}**  
   {{< var c.rel295.desc >}}  
  **{{< var c.rel296.long >}}**  
   {{< var c.rel296.desc >}}  
  **{{< var c.rel310.long >}}**  
   {{< var c.rel310.desc >}}  
+ **{{< var c.rel328.long >}}**  
+  {{< var c.rel328.desc >}}  
  **{{< var c.rel330.long >}}**  
   {{< var c.rel330.desc >}}  
  **{{< var c.rel336.long >}}**  
@@ -185,10 +126,10 @@ Recommended beginning courses for those contemplating a major in religion are: {
   {{< var c.rel365.desc >}}  
  **{{< var c.rel385.long >}}**  
   {{< var c.rel385.desc >}}  
- **{{< var c.rel386.long >}}**  
-  {{< var c.rel386.desc >}}  
  **{{< var c.rel394.long >}}**  
   {{< var c.rel394.desc >}}  
+ **{{< var c.rel396.long >}}**  
+  {{< var c.rel396.desc >}}  
  **{{< var c.rel444.long >}}**  
   {{< var c.rel444.desc >}}  
  **{{< var c.rel494.long >}}**  
