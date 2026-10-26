@@ -4700,6 +4700,7 @@ Through interdisciplinary engagement, the SCJ program demonstrates for students 
 
 ### Social & Criminal Justice Major  
 A major in Social & Criminal Justice requires a cumulative 2.0 GPA in all courses counted toward the major.  
+
 	1. SCJ 101 Intro to Social & Criminal Justice  
 	2. SCJ 202 Police and Society  
 	3. SCJ 203 Collateral Consequences of Correcti  
