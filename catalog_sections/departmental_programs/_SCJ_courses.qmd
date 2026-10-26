@@ -8,43 +8,43 @@ Through interdisciplinary engagement, the SCJ program demonstrates for students 
 ### Social & Criminal Justice Major  
 A major in Social & Criminal Justice requires a cumulative 2.0 GPA in all courses counted toward the major.  
 
-	1. {{< var c.scj101.long >}}  
-	2. {{< var c.scj202.long >}}  
-	3. {{< var c.scj203.long >}}  
-	4. {{< var c.soc235.long >}}  
-	5. **One** of the following (Philosophy of Law):  
-		* {{< var c.phl265.long >}}  
-		* {{< var c.phl285.long >}}  
-		* {{< var c.phl315.long >}}  
-	6. {{< var c.soc351.long >}}   
-	7. **One** of the following (Statistical Reasoning):  
-		* {{< var c.sta100.long >}} (7 weeks) **and** {{< var c.sta110.long >}} (7 weeks)  
-		* {{< var c.psy300.long >}}  
-	8. **Three** courses, chosen from the following, in consultation with the student’s advisor and/or the Social & Criminal Justice administrative coordinator. No more than two courses may be selected from the same prefix.
-		* {{< var c.com137.long >}}  
-		* {{< var c.edu187.long >}}  
-		* {{< var c.eng127.long >}}  
-		* {{< var c.gs107.long >}}  
-		* {{< var c.his257.long >}}  
-		* {{< var c.his297.long >}}  
-		* {{< var c.his347.long >}}  
-		* {{< var c.phl128.long >}}  
-		* {{< var c.pol185.long >}}  
-		* {{< var c.pol350.long >}}  
-		* {{< var c.pol375.long >}}  
-		* {{< var c.psy235.long >}}  
-		* {{< var c.psy255.long >}}  
-		* {{< var c.rel217.long >}}  
-		* {{< var c.scj190.long >}}  
-		* {{< var c.scj220.long >}}  
-		* {{< var c.scj301.long >}}  
-		* {{< var c.scj390.long >}}  
-		* {{< var c.scj444.long >}}  
-		* {{< var c.scj494.long >}}  
-		* {{< var c.soc247.long >}}  
-		* {{< var c.soc355.long >}}  
-		* {{< var c.wsh464.long >}}  
-		* A course approved by the Social & Criminal Justice administrative coordinator  
+1. {{< var c.scj101.long >}}  
+2. {{< var c.scj202.long >}}  
+3. {{< var c.scj203.long >}}  
+4. {{< var c.soc235.long >}}  
+5. **One** of the following (Philosophy of Law):  
+	* {{< var c.phl265.long >}}  
+	* {{< var c.phl285.long >}}  
+	* {{< var c.phl315.long >}}  
+6. {{< var c.soc351.long >}}   
+7. **One** of the following (Statistical Reasoning):  
+	* {{< var c.sta100.long >}} (7 weeks) **and** {{< var c.sta110.long >}} (7 weeks)  
+	* {{< var c.psy300.long >}}  
+8. **Three** courses, chosen from the following, in consultation with the student’s advisor and/or the Social & Criminal Justice administrative coordinator. No more than two courses may be selected from the same prefix.
+	* {{< var c.com137.long >}}  
+	* {{< var c.edu187.long >}}  
+	* {{< var c.eng127.long >}}  
+	* {{< var c.gs107.long >}}  
+	* {{< var c.his257.long >}}  
+	* {{< var c.his297.long >}}  
+	* {{< var c.his347.long >}}  
+	* {{< var c.phl128.long >}}  
+	* {{< var c.pol185.long >}}  
+	* {{< var c.pol350.long >}}  
+	* {{< var c.pol375.long >}}  
+	* {{< var c.psy235.long >}}  
+	* {{< var c.psy255.long >}}  
+	* {{< var c.rel217.long >}}  
+	* {{< var c.scj190.long >}}  
+	* {{< var c.scj220.long >}}  
+	* {{< var c.scj301.long >}}  
+	* {{< var c.scj390.long >}}  
+	* {{< var c.scj444.long >}}  
+	* {{< var c.scj494.long >}}  
+	* {{< var c.soc247.long >}}  
+	* {{< var c.soc355.long >}}  
+	* {{< var c.wsh464.long >}}  
+	* A course approved by the Social & Criminal Justice administrative coordinator  
 
 ### Courses Social & Criminal Justice  
 
