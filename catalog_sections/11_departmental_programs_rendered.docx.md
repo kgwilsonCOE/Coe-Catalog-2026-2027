@@ -4870,8 +4870,8 @@ The Spanish Studies major requires: 1) successful completion of four courses bey
   Prepares students who have had some limited experience in Spanish to enter Intermediate Spanish SPA-215 the following term. It provides a complete review of college level elementary Spanish vocabulary, grammar, and oral and written communication. This course is appropriate for students with one recent year of secondary school Spanish or two years if there are significant gaps in learning or if some time has elapsed since their earlier study of Spanish. Prerequisite: appropriate Spanish Placement exam results or consent of instructor.  
  **SPA 148 Spanish Literature in Translation**  
   Focuses on reading and analysis of selected works by major Hispanic authors, centering on a theme, author, time period, or genre. The content varies from term to term. Students pursuing a major or minor in Spanish must write a paper in Spanish. Taught in English.  
- **+++MISSING INFO: c.spa215_225.long +++**  
-  +++MISSING INFO: c.spa215_225.desc +++  
+ **SPA 215/225 Intermediate Spanish I and II **  
+  Follows and builds upon the skills and proficiencies acquired in Continuation of Elementary Spanish, with particular emphasis on oral practice and a review of grammatical structures. Prerequisite: Elementary Spanish II (SPA-125), Spanish Review and Preparation (SPA-135), appropriate Spanish Placement exam results or consent of instructor.  
  **SPA 258 Spanish Lang Learn in Spain**  
   Features immersive leaning of Spanish in the context of a study abroad course supervised by a Coe faculty member. It includes three hours of daily instruction in Spanish with an additional hour studying the culture and traditions of the country. Prerequisite: consent of instructor. (Offered May Experiential Term only)  
  **SPA 315 Spanish Composition & Conversation**  
@@ -4928,10 +4928,10 @@ course. Prerequisite: Introduction to Hispanic Literature (SPA-345) or Hispanic 
   Explores the varying perceptions of life, history, culture, traditions, and customs in Spain and Latin America across time and space through the accounts of travel narratives through interdisciplinary perspectives. Prerequisite: Introduction to Hispanic Literature (SPA-345) or Hispanic Life and Culture (SPA-336 / SPA-338).  
  **SPA 464 Capstone in Spanish**  
   Serves as the final requirement designed for Spanish majors who are graduating seniors. Students will polish a research paper written for any of the advanced classes in a previous semester. They will demonstrate the skills acquired throughout the major, such as: critical reading and writing, textual analysis, and original thinking regarding a historical and cultural topic related to Latin America and/or Spain. At the end of the course, students should present their research work on a conference-like panel open to the public. (Offered every spring)  
- **+++MISSING INFO: c.spa475_485.long +++**  
-  +++MISSING INFO: c.spa475_485.desc +++  
- **+++MISSING INFO: c.spa476_486.long +++**  
-  +++MISSING INFO: c.spa476_486.desc +++  
+ **SPA 475/485 Topics in Hispanic Literature (WE)**  
+  Centers on a particular theme, author, region, time period, or genre of Hispanic literature. Approach and content vary from term to term as determined by the instructor. May be taken more than once, provided the topics are substantially different.  Prerequisite: Introduction to Hispanic Literature (WE) (SPA-345) or Hispanic Life and Culture (SPA-336/ SPA-338).  
+ **SPA 476/486 Topics in Hispanic Society and Culture (WE)**  
+  Centers on a particular theme, author, region, time period, or genre of Hispanic culture and society. May be taken more than once, provided the topics are substantially different. Prerequisite: Consent of instructor.  
  **SPA 494 Internship in Spanish**  
   Allows students to explore a career area related to Spanish. Application and supervision through the Internship Specialist. A minimum of 140 hours on-site experience is required. P/NP basis only. This course does not satisfy any of the requirements for a major or minor in Spanish. Prerequisites: junior standing and consent of department chair.  
 
