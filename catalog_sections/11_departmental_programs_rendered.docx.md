@@ -4765,45 +4765,33 @@ emphasis on the U.S. context, surveying some of the most common and well-known c
 
 
 ## Sociology
-L. Barnett, Boguslaw, Fairbanks (Chair, Fall), K. Rodgers (Chair, Spring).
+Barnett (Chair, Fall), Boguslaw, Fairbanks, Rodgers (Chair, Spring)  
 
-The sociology department, which also offers a minor in anthropology, offers a rigorous curriculum in support of Coe’s mission of providing students with a high-quality liberal arts education and preparing students intellectually, professionally, and socially to lead productive and satisfying lives in the global society of the 21^st^ century. The department serves this mission through an integrated series of courses designed to promote students’ awareness and understanding 21^st^ century social problems, including the enduring presence of social inequality.
+The sociology department offers a rigorous curriculum in support of Coe’s mission of providing students with a high-quality liberal arts education and preparing students intellectually, professionally, and socially to lead productive and satisfying lives in the global society of the 21st century. The department serves this mission through an integrated series of courses designed to promote students’ awareness and understanding of 21st-century social problems, including the enduring presence of social inequality.  
 
 ### Sociology Major
 A major in Sociology requires a cumulative 2.0 GPA in all courses counted toward the major.
 
-1. SOC 107 Introductory Sociology 
+1. SOC 107 Introductory Sociology  
+2. SOC 235 Methods of Sociological Research   
+3. SOC 450 Sociological Theory   
+4. SOC 464 Sociology Capstone  
+5. **Five** additional sociology courses, including at least one course numbered 400–449   
+6. **One** of the following:  
+	* STA 100 Statistical Reasoning I-Foundations (7weeks) and STA 110 Stats IIA: Inferential Reasoning (7 weeks)  
+	* STA 100 Statistical Reasoning I-Foundations (7weeks) and STA 130 Stats IIB: Experimental Design (7 weeks)  
 
-2. SOC 235 Methods of Sociological Research
- 
-3. SOC 450 Sociological Theory
- 
-4. SOC 464 Sociology Capstone 
-
-5. **Five** additional sociology courses, including at least one course numbered 400–449 (not including SOC-444 Independent Study, which does not count towards the major)
-
-6. **One** of the following:
-	- STA 100 Statistical Reasoning I-Foundations (7weeks) and STA 110 Stats IIA: Inferential Reasoning (7 weeks)
-	- STA 100 Statistical Reasoning I-Foundations (7weeks) and STA 130 Stats IIB: Experimental Design (7 weeks)
-
-### Sociology Minor
-1. SOC 107 Introductory Sociology
- 
-2. SOC 235 Methods of Sociological Research 
-
-3. SOC 450 Sociological Theory
-
-4. **Three** additional sociology courses, including at least one course numbered 400–449 (not including SOC 444 Independent Study , which does not count towards the major)
+### Sociology Minor  
+1. SOC 107 Introductory Sociology   
+2. SOC 235 Methods of Sociological Research  
+3. SOC 450 Sociological Theory  
+4. **Three** additional sociology courses, including at least one course numbered 400–449  
 
 The following courses do not satisfy any of the requirements for a major or minor in sociology:
 
-- SOC 275 Directed Readings in Sociology
-- SOC 365 Research Participation I or SOC 375 Research Participation II
-- SOC 444 Independent Study
-- SOC 494 Internship in Sociology
-- SOC 499 Summer Internship in Sociology
+	* SOC 494 Internship in Sociology
 
-### Courses in Sociology 
+### Courses in Sociology  
 
  **SOC 107 Introductory Sociology**  
   Is an introduction to sociology, the scientific study of human social behavior. The course explores the place of the discipline in the social sciences and the interplay of theory and empirical evidence in building an understanding of society, and it provides exposure to a wide range of research topics and results from different areas of study in the field.  
@@ -4811,8 +4799,9 @@ The following courses do not satisfy any of the requirements for a major or mino
   Focuses on the Sociological analysis of the family as a major social institution. Topics covered may include, but are not limited to: the various ways in which “families” are defined, and the different forms that families take; the relationship of family life to social processes such as socialization, stratification, and globalization, and the role of families in the interdependent network of social institutions. Prerequisite: Introductory Sociology (SOC-107)  
  **SOC 217 Sociology of Religion**  
   Introduces sociological perspectives on religion and its role in society. Examines the ways in which religion affects—and is affected by—the social context in which it occurs. Although The primary emphasis is on religion in the contemporary United States, though considerable cross-cultural and historical material is may be included as well. The concept of secularization (that both the public and private impact of religion decline as societies modernize) is examined in light of empirical evidence. Examines topics such as religious pluralism, religion and politics, social change, new religious movements, and how religion interacts with other social structures. Prerequisite: Introductory Sociology (SOC-107)  
- **SOC 226 Gender and Globalizaton**  
-  Examines processes of globalization through a gendered lens. Focus on the ways global issues such as labor, intimacy, poverty, pop culture, and environmental degradation affect people of different genders in various ways. Also notes how people respond to the forces of globalization and addresses the effects of globalization on the lives of people in the non-Western world. Prerequisite: Introductory Sociology (SOC-107), or consent of instructor.  
+ **SOC 227 Sociology of Sexuality**  
+  SOC-227 Sociology of Sexuality
+Examines how social contexts in the United States shape sexual practices and identities. Emphasis is on the socially constructed nature of sex and sexuality. Topics covered may include, but are not limited to: interconnections of gender, race, and sexuality; the role of sexuality in various social institutions such as religion, education, and the criminal legal system; and systematic inequalities related to sexuality and gender identity. Prerequisite: Introductory Sociology (SOC-107)  
  **SOC 235 Methods of Sociological Research**  
   Explores various strategies social researchers employ to gather information and test hypotheses about the social world. Topics include data collection, sampling, conceptualization and measurement, and both qualitative and quantitative methods of analysis. Prerequisite: Introductory Sociology (SOC-107) or Introduction to Social and Criminal Justice (SCJ-101)  
  **SOC 236 Topics in Sociology NWP**  
@@ -4824,10 +4813,12 @@ The following courses do not satisfy any of the requirements for a major or mino
 Prerequisite: Introductory Sociology (SOC 107).  
  **SOC 247 Sociology of Race**  
   Examines the role that racial identity and racial inequality play in the contemporary United States. Explores the historical creation of race and racial categories. Focus is on application of theory to better understand the ways that race operates at both the interpersonal and institutional level. Prerequisite: Introductory Sociology (SOC-107)  
- **SOC 275 Directed Readings in Sociology**  
-  Study of major literature on a selected topic in sociology directed by a sociology department faculty member. This course does not satisfy any of the requirements for a major or minor in sociology. Prerequisites: declared sociology major, minor, or elementary education emphasis, sophomore standing, or consent of department.  
- **SOC 328 Urban Sociology**  
-  Analysis of cities as they affect social behavior, and the study of the urban form as it is produced and modified by wider changes in the world economy. Emphasis is theoretical, historical, and comparative. Problems addressed include restructuring, poverty, and underdevelopment. Prerequisites: Introductory Sociology (SOC-107), sophomore standing or consent of instructor.  
+ **SOC 257 Sociology of Health & Medicine**  
+  Explores the intersections of social structure and process with health, healthcare, and medicine. Topics include but are not limited to social determinants of health, healthcare systems and inequalities, and the social construction of health and illness. Examines how social factors, such as race & ethnicity, class, gender, sexual orientation, and others shape health and healthcare experiences and how health and medical systems reproduce and reinforce social inequalities. Prerequisite: SOC-107 Introductory Sociology.  
+ **SOC 286 Global and Transnational Sociology**  
+  Examines social structures and practices in a global and transnational perspective. Students are introduced to sociological frameworks to analyze social life within and across national borders. Topics may include, but are not limited to, state formation, nations and nationalism, globalization, peace and conflict, migration, social movements, and inequality. Prerequisite: Introductory Sociology (SOC-107).  
+ **SOC 326 Gender and Globalization**  
+  Examines processes of globalization through a gendered lens. Focus on the ways global issues such as labor, intimacy, poverty, pop culture, and environmental degradation affect people of different genders in various ways. Also explores how people respond to the forces of globalization and addresses the effects of globalization on the lives of people in the non-Western world. Prerequisite: Introductory Sociology (SOC-107).  
  **SOC 338 Political Sociology**  
   Examines the interconnections between politics and society. Emphasis is on the relationship between the state and social structures of capatalist societies. Theoretical, historical, and comparative materials are considered. Topics may include polititcal power, the polititcs of the welfare state, policy-making, and political participation.
 Prerequisite: Introductory Sociology (SOC 107)  
@@ -4835,13 +4826,6 @@ Prerequisite: Introductory Sociology (SOC 107)
   Examines the social meaning of criminal behavior. Looks at the relationship between crime and society—in particular, how the production and distribution of economic, political, and cultural resources shape the construction of “law” and “crime”. Includes a comparison of different types of crime, criminals, and victims, as well as at efforts to understand and control them. Prerequisite: Introductory Sociology (SOC-107)  
  **SOC 355 Sociology of Deviance**  
   Examines deviance through sociological theory, focusing on how norms are constructed, challenged, and enforced and how definitions of deviance shape, and are shaped by, social organization and inequality Prerequisite: Introductory Sociology (SOC-107)  
- **SOC 365 Research Participation I**  
-  Individual or group investigation with a sociology department faculty member on a research topic or topics of mutual interest. The student must obtain approval for a specific project and make necessary arrangements prior to the term of registration for the course. This course does not satisfy any of the requirements for a major or minor in sociology. Prerequisites: Introductory Sociology (SOC-107) and consent of instructor. (Offered by arrangement)  
- **SOC 375 Research Participation II**  
-  A continuation of Research Participation I. The student must obtain approval for a specific project and make necessary arrangements prior to the term of registration for the course. This course does not satisfy any of the requirements for a major or minor in sociology. Prerequisites: Research Participation I (SOC-365) and consent of instructor. (Offered by arrangement)  
- **SOC 417 Sociology of Sex & Sexuality**  
-  Examines how social contexts in the United States shape sexuality. Gender is a significant theme throughout the course, with a focus on topics such as past and current research about sexual behavior and identities; the social construction of sexual orientations; connections among thnicity, race, and sexulaity; domestic and international sex work; sexual violence. 
-Prerequisite: Methods of Sociological Research (SOC 235) or consent of instructor.  
  **SOC 425 Social Change**  
   Theories of change applied to substantive areas (for example, modernization, economic development or restructuring, social values, and social definitions), selected by the instructor. The course addresses the differential experiences of the consequences of change among various social groups. Prerequisite: Methods of Social Research (SOC-235)  
  **SOC 435 Advanced Topics in Sociology**  
@@ -4856,7 +4840,6 @@ Prerequisite: Methods of Sociological Research (SOC 235) or consent of instructo
   Focuses on exploring a contemporary social problem or issue using sociological concepts, theories, and methodologies learned in previous sociology courses. Additional emphasis on vocational and career exploration. Prerequisite: Sociological Theory (WE) (SOC-450), and senior standing  
  **SOC 494 Internship in Sociology**  
   A field placement with a career-related organization. A minimum of 140 hours on-site experience is required. P/NP basis only. This course does not satisfy any of the requirements for a major or minor in sociology. Prerequisite: declared major in sociology, junior standing, and consent of department chair.  
-
 
 
 ## Spanish/Spanish Studies
