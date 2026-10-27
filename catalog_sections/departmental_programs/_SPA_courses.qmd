@@ -1,25 +1,22 @@
-## Spanish/Spanish Studies
+## Spanish/Spanish Studies  
+Muñoz Pérez, Rodríguez Moreno (Program Coordinator)  
 
-Peach, Muñoz Pérez, Rodríguez Moreno (Program Coordinator).
+### Spanish Major  
+A grade of “C” (2.0) or higher must be earned in all courses counted toward a major in Spanish.  
 
-### Spanish Major 
-A grade of “C” (2.0) or higher must be earned in all courses counted toward a major in Spanish. 
+Students who major in Spanish complete a minimum of eight courses in Spanish beyond {{< var c.spa225.long >}}, though one class in translation (e.g., {{< var c.spa148.long >}}, {{< var c.spa457.long >}}, {{< var c.eng357.long >}}, or other) may be taken as one of the eight. {{< var c.spa115_125.long >}}, {{< var c.spa135.long >}}, {{< var c.spa215.long >}}, and {{< var c.spa225.long >}} are regarded as skill-building courses, and do not count toward the major in Spanish. Spanish students are urged to substitute study abroad in a program approved by the College and the department for up to three courses for the major. Either {{< var c.spa345.long >}}, {{< var c.spa336.long >}}, or {{< var c.spa338.long >}} must be taken as part of the eight credits.
 
-Students who major in Spanish complete a minimum of eight courses in Spanish beyond {{< var c.spa225.long >}} , though {{< var c.spa148.long >}} may be taken as one of the eight. {{< var c.spa115.long >}} , {{< var c.spa125.long >}} , {{< var c.spa135.long >}} , {{< var c.spa215.long >}} , and {{< var c.spa225.long >}} are regarded as skill-building courses, and do not count toward the major in Spanish. Spanish students are urged to substitute study abroad in a program approved by the College and the department for up to three courses for the major. One Hispanic literature course (SPA-336 or above) must be taken in the senior year. 
+Students selecting Spanish as a second teaching field should complete a minimum of four Spanish courses numbered 315 or above. Any advanced courses taken for the second teaching field should include {{< var c.spa315.long >}}. 
 
-{{< var c.spa464.long >}} is required during the final spring term before graduation. Students selecting Spanish as a second teaching field should complete a minimum of four Spanish courses numbered 315 or above. Any advanced courses taken for the second teaching field should include {{< var c.spa315.long >}} . 
+### Spanish Minor  
+A grade of “C” (2.0) or higher must be earned in all courses counted toward a minor in Spanish.  
 
-### Spanish Minor
+The minor in Spanish’ requires the completion of four courses beyond {{< var c.spa225.long >}}, though with the consent of department chair, one class in translation (e.g., {{< var c.spa148.long >}}, {{< var c.spa457.long >}}, {{< var c.eng357.long >}}, or other) may be taken as one of the four. {{< var c.spa115_125.long >}}, {{< var c.spa135.long >}}, {{< var c.spa215.long >}}, and {{< var c.spa225.long >}} are regarded as skill-building courses, and do not count toward the minor in Spanish. Either {{< var c.spa345.long >}}, {{< var c.spa336.long >}}, or {{< var c.spa338.long >}} must be taken as part of the four credits.  
 
-A grade of “C” (2.0) or higher must be earned in all courses counted toward a minor in Spanish. 
+### Spanish Studies Major  
+A grade of “C” (2.0) or higher must be earned in all courses counted toward a major in Spanish Studies.  
 
-The minor in Spanish requires the completion of four courses beyond {{< var c.spa225.long >}} , though with the consent of department chair, {{< var c.spa148.long >}} may be taken as one of the four. {{< var c.spa115.long >}} , {{< var c.spa125.long >}} , {{< var c.spa135.long >}} , {{< var c.spa215.long >}} , and {{< var c.spa225.long >}} are regarded as skill-building courses, and do not count toward the minor in Spanish. 
-
-### Spanish Studies Major
- 
-A grade of “C” (2.0) or higher must be earned in all courses counted toward a major in Spanish Studies. 
-
-The Spanish Studies major requires: 1) successful completion of four courses beyond {{< var c.spa225.long >}} , with {{< var c.spa336.long >}} or {{< var c.spa338.long >}} recommended as one of the four; and 2) successful completion of a departmentally approved list of five courses proposed by the student which exhibits both internal coherence and relevance to the coursework in Spanish. Typically, application to the department for the approval of the interdisciplinary elected courses is to be made no later than the Spring Term of the junior year. {{< var c.spa115.long >}} , {{< var c.spa125.long >}} , {{< var c.spa135.long >}}, {{< var c.spa215.long >}} , and {{< var c.spa225.long >}} are regarded as skill-building courses, and do not count toward the major in Spanish Studies.
+The Spanish Studies major requires: 1) successful completion of four courses beyond {{< var c.spa225.long >}}, with {{< var c.spa336.long >}} or {{< var c.spa338.long >}} recommended as one of the four; and 2) successful completion of a departmentally approved list of five courses proposed by the student which exhibits both internal coherence and relevance to the course work in Spanish. Typically, application to the department for the approval of the interdisciplinary elected courses is to be made no later than the Spring Term of the junior year. {{< var c.spa115_125.long >}}, {{< var c.spa135.long >}}, {{< var c.spa215.long >}}, and {{< var c.spa225.long >}} are regarded as skill-building courses, and do not count toward the major in Spanish Studies.  
 
 ### Courses in Spanish
  **{{< var c.spa115_125.long >}}**  
@@ -30,8 +27,8 @@ The Spanish Studies major requires: 1) successful completion of four courses bey
   {{< var c.spa135.desc >}}  
  **{{< var c.spa148.long >}}**  
   {{< var c.spa148.desc >}}  
- **{{< var c.spa215.long >}}**  
-  {{< var c.spa215.desc >}}  
+ **{{< var c.spa215_225.long >}}**  
+  {{< var c.spa215_225.desc >}}  
  **{{< var c.spa258.long >}}**  
   {{< var c.spa258.desc >}}  
  **{{< var c.spa315.long >}}**  
@@ -80,11 +77,11 @@ The Spanish Studies major requires: 1) successful completion of four courses bey
   {{< var c.spa457.desc >}}  
  **{{< var c.spa458.long >}}**  
   {{< var c.spa458.desc >}}  
- **{{< var c.spa475.long >}}**  
-  {{< var c.spa475.desc >}}  
- **{{< var c.spa476.long >}}**  
-  {{< var c.spa476.desc >}}  
  **{{< var c.spa464.long >}}**  
   {{< var c.spa464.desc >}}  
+ **{{< var c.spa475_485.long >}}**  
+  {{< var c.spa475_485.desc >}}  
+ **{{< var c.spa476_486.long >}}**  
+  {{< var c.spa476_486.desc >}}  
  **{{< var c.spa494.long >}}**  
   {{< var c.spa494.desc >}}  
