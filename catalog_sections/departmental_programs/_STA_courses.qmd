@@ -1,8 +1,7 @@
-## Statistics (Courses Only)
+## Statistics (Courses Only)  
+Cross   
 
-Cross. 
-
-### Courses in Statistics 
+### Courses in Statistics  
 
  **{{< var c.sta100.long >}}**  
   {{< var c.sta100.desc >}}  
@@ -16,5 +15,3 @@ Cross.
   {{< var c.sta315.desc >}}  
  **{{< var c.sta325.long >}}**  
   {{< var c.sta325.desc >}}  
-
-
