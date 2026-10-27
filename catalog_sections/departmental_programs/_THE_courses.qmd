@@ -1,39 +1,64 @@
-## Theatre Arts
+## Theatre Arts  
+Ganfield (Co-Chair), Rezabek, Schmidt (Co-Chair)  
 
-D. Barnett, Charipar, Ganfield, Hahn, Rezabek, Schmidt, Steffens, Wolverton (Chair)
+Mission Statement  
 
-The Theatre Arts program is designed to provide a balance between academic and experiential learning for all interested students. The goal is to offer opportunities for student participation in all aspects of theatre, on stage and in the classroom, and to enrich the cultural and academic life of the College. 
+The mission of Coe’s Theatre Department is to provide hands-on training in theatre making (in classes, labs and productions) with a collaborative process that builds community, fosters global awareness and examines the complexities of diverse human narratives.  
 
-The program accommodates both majors and minors through courses focused on theatrical history, theory and literature, as well as through training in acting, directing, design, and theatrical production. This foundation prepares students for graduate study and for any field that values high-level communication skills, as well as for careers in theatre as teachers, artists, technicians, or managers. 
+The Theatre Arts major, minor and emphases are based in experiential learning encompassing diverse aspects of theatre that include the examination of the human condition through creative expression, collaboration, verbal and visual communication, problem-solving and design thinking.  The practicum is completed with either a theatre internship, NY Term Internship or Independent Study. Because of significant overlap in the Theatre Arts major and the Theatre Arts majors with emphasis, only one major may be earned.  
 
-As a means of helping students prepare for graduate study and/or a professional career, all majors are required to present an audition piece or a portfolio for annual review beginning in their second year. The senior seminar provides a capstone experience, giving students an opportunity to reflect on their development as theatre artists, and to examine theatre as a collaborative art form. 
+For the campus community at large, as audience members or as occasional participants, the program offers a wide range of drama selected both to educate and to entertain.  
 
-For the campus community at large, as audience members or as occasional participants, the program offers a wide range of drama selected both to educate and to entertain. 
+### Theatre Arts Major  
+A major in Theatre Arts requires a cumulative 2.0 GPA in all courses counted toward the major.  
 
-### Theatre Arts Major {#sec-theatre-arts-major}
+A Theatre Major consists of the core courses 1–6 and an additional **four** THE course credits with at least **three** at the 200 level or above.  
 
-A major in Theatre Arts requires a cumulative 2.0 GPA in all courses counted toward the major.
+1. {{< var c.the100.long >}}  
+2. {{< var c.the130.long >}}  
+3. {{< var c.the140.long >}}  
+4. {{< var c.the150.long >}}  
+5.  {{< var c.the102.long >}}  (0.25 course credit each) (may be taken twice to replace one {{< var c.the112.long >}} for a total one full credit of technical theatre experience)  
+	**or**  
+	{{< var c.the112.long >}} (0.50 course credit each) (may be taken twice for one full credit or in combination with {{< var c.the102.long >}} taken twice for one full credit)   
+6. {{< var c.the185.long >}}  
+7. **Four** of the following:
+	* {{< var c.the162.long >}}  
+	* {{< var c.the220.long >}}  
+	* {{< var c.the255.long >}}  
+	* {{< var c.the283.long >}}  
+	* {{< var c.the288.long >}}  
+	* {{< var c.the355.long >}}  
+	* {{< var c.the444.long >}}  
+	* {{< var c.the455.long >}}  
+	* {{< var c.the486.long >}}  
+	* {{< var c.the494.long >}}  
+	* {{< var c.nyt250.long >}}  
+	* {{< var c.spa455.long >}}  
+	* {{< var c.the161.long >}}  
 
-**Theatre Arts Core Courses** (required of all students majoring in theatre arts):
+### Theatre Arts Minor  
+The minor in Theatre Arts consists of any **six** full-credit-equivalent course credits selected from the following:  
 
-1. {{< var c.the102.long >}} 
-
-2. {{< var c.the130.long >}}
- 
-3. {{< var c.the140.long >}} 
-
-4. {{< var c.the150.long >}} 
-
-5. {{< var c.the228.long >}}
- 
-6. {{< var c.the238.long >}} 
-
-7. {{< var c.the290.long >}} 
-
-8. {{< var c.the464.long >}} 
-
-### Theatre Arts Minor 
-The minor in Theatre Arts consists of six course credits of Theatre Arts. 
+* {{< var c.the100.long >}}  
+* {{< var c.the102.long >}} (0.25 course credit each) (may be taken twice to replace one {{< var c.the112.long >}} for a total of one full credit of technical theatre experience)  
+* {{< var c.the112.long >}} (0.50 course credit each) (may be taken twice for one full credit or in combination with {{< var c.the102.long >}} taken twice for one full credit)  
+* {{< var c.the130.long >}}  
+* {{< var c.the140.long >}}  
+* {{< var c.the150.long >}}  
+* {{< var c.the162.long >}}  
+* {{< var c.the185.long >}} (may be taken once for minor credit)  
+* {{< var c.the220.long >}}  
+* {{< var c.the255.long >}}  
+* {{< var c.the283.long >}}  
+* {{< var c.the288.long >}}  
+* {{< var c.the355.long >}}  
+* {{< var c.the444.long >}}  
+* {{< var c.the455.long >}}  
+* {{< var c.the486.long >}}  
+* {{< var c.the494.long >}}  
+* {{< var c.spa455.long >}}  
+* {{< var c.the161.long >}}  
 
 Theatre Arts students select one of the following **emphases**: general, acting, directing, musical theatre, and technical theatre/design.
 
