@@ -8,8 +8,8 @@ See Sports Management Concentration in Business, @sec-sports-management-concentr
   {{< var c.smt100.desc >}}  
  **{{< var c.smt300.long >}}**  
   {{< var c.smt300.desc >}}  
- **{{< var c.smt454.long >}}**  
-  {{< var c.smt454.desc >}}  
+ **{{< var c.smt450.long >}}**  
+  {{< var c.smt450.desc >}}  
  **{{< var c.smt494.long >}}**  
   {{< var c.smt494.desc >}}  
 
