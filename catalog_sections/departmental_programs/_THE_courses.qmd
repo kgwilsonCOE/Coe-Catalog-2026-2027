@@ -131,7 +131,7 @@ Theatre Major areas of emphasis are designed to allow students to align a core o
 4.	{{< var c.the150.long >}}  
 5.	{{< var c.the185.long >}} (taken twice in performance role)  
 6.	{{< var c.the494.long >}}  
-	**or**
+	**or**  
 	{{< var c.nyt250.long >}}  
 7.	At least **two** additional full credit course equivalents in consultation with advisor from the following list:  
 	* {{< var c.eng111.long >}}  
