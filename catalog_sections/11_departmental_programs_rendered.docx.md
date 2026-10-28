@@ -5035,95 +5035,95 @@ The minor in Theatre Arts consists of any **six** full-credit-equivalent course 
 * SPA 455 Spanish Drama  
 * THE 161 Afro-Latin Dance  
 
-Theatre Arts students select one of the following **emphases**: general, acting, directing, musical theatre, and technical theatre/design.
+### Theatre Major Areas of Emphasis  
+Theatre Major areas of emphasis are designed to allow students to align a core of study in theatre arts with interdisciplinary coursework in other disciplines to create career pathways in the following areas.  
 
-**General**
+#### Secondary Education Endorsement in Theatre Arts  
 
-1. **Eight** core courses (see @sec-theatre-arts-major )
+1.	THE 100 Introduction to Theatre  
+2.	ENG 111 Intro to Lit:Art of Rdng & Writing  
+3.	THE 102 Theatre Production Lab  (0.25 course credit each) (may be taken twice to replace one THE 112 Production Experience for a total one full credit of technical theatre experience)  
+	**or**  
+	THE 112 Production Experience (0.50 course credit each) (may be taken twice for one full credit or in combination with THE 102 Theatre Production Lab taken twice for one full credit)  
+4.	COM 125 Fundamentals of Public Speaking  
+5.	THE 130 Technical Production I  
+6.	THE 140 Design for the Stage  
+7.	THE 150 Acting I  
+8.	THE 185 Production and Performance (One required, may be taken again as elective)  
+9.	ENG 382 Shakespeare:Comedies/Romances  
+	**or**  
+	ENG 383 Shakespeare:Tragedies & Histories  
+10.	At least **three** of the following selected in consultation with advisor:  
+	* THE 162 Stage Make-Up  
+	* THE 185 Production and Performance  
+	* THE 255 Playwriting Workshop I  
+	* THE 288 History of Dress  
+	* THE 355 Playwriting Workshop 2   
+	* THE 444 Ind Study-Theatre  
+	* THE 455 Playwriting Workshop 3  
+	* THE 486 Spc Top Theatre or Film: NWP  
+	* THE 494 Internship in Theatre Arts  
 
-2. **Three** additional course credits of Theatre Arts, chosen with departmental approval. 
+#### Theatre Arts Management Emphasis  
 
-**Acting**
+1.	THE 100 Introduction to Theatre  
+2.	THE 102 Theatre Production Lab  (0.25 course credit each) (may be taken twice to replace one THE 112 Production Experience for a total one full credit of technical theatre experience)  
+	**or**  
+	THE 112 Production Experience (0.50 course credit each) (may be taken twice for one full credit or in combination with THE 102 Theatre Production Lab taken twice for one full credit)  
+3.	THE 130 Technical Production I  
+4.	THE 140 Design for the Stage  
+5.	THE 150 Acting I  
+6.	THE 185 Production and Performance (at least once as stage manager)  
+7.	THE 283 Arts Administration  
+8.	THE 494 Internship in Theatre Arts  
+	**or**  
+	NYT 250 Fine Arts in New York City  
+9.	**Two** additional theatre courses 200 level or above:  
+	* THE 220 Lighting Design  
+	* THE 255 Playwriting Workshop I  
+	* THE 288 History of Dress  
+	* THE 355 Playwriting Workshop 2  
+	* THE 444 Ind Study-Theatre  
+	* THE 455 Playwriting Workshop 3  
+	* THE 486 Spc Top Theatre or Film: NWP  
+	* THE 494 Internship in Theatre Arts (if not used to satisfy #8)  
+	* NYT 250 Fine Arts in New York City (if not used to satisfy #8)  
+10.	At least **two** additional full course credit equivalents selected in consultation with advisor from the list:  
+	* BUS 125 Computers in Business  
+	* PR 205 Public Relations  
+	* BUS 250 Principles of Management  
+	* COM 322 Prof Communication & Writing (WE)  
+	* BUS 280 Business Websites (0.50 course credit)  
+	* BUS 281 Social Media in Business (0.50 course credit)  
+	* BUS 300 Human Resource Management  
+	* BUS 330 Principles of Marketing  
 
-1. **Eight** core courses (see @sec-theatre-arts-major )
+#### Performing Arts Emphasis  
 
-2. THE 170 Voice & Diction 
- 
-3. THE 250 Acting II 
-
-4. **One** of the following:
-	- THE 160 Movement for the Stage 
-	- THE 260 Acting for the Camera 
-	- THE 270 Musical Theatre Acting 
-	- THE 350 Advanced Acting:Shakespeare
- 
-*Strongly recommended:*
-
-- Any dance course (DAN-101 through DAN-152)
-- THE 162 Stage Make-Up 
-- THE 452 Advanced Projects in Acting 
-- PHL 105 Introduction to Philosophy: 
-- PSY 100 Introductory Psychology 
-
-**Directing**
-
-1. **Eight** core courses (see @sec-theatre-arts-major )
-
-2. THE 250 Acting II 
-
-3. THE 390 Directing II  WE 
-
-4. **One** additional course in acting or design
-
-*Strongly recommended:*
-	- ARH 118 History of Western Architecture 
-	- COM 237 Interpersonal Communication
-	- THE 220 Lighting Design  
-	- THE 242 Scene Design 
-	- THE 280 Costume Design 
-	- THE 350 Advanced Acting:Shakespeare 
-	- THE 462 Advanced Projects in Directing
-	- Any other art history course 
-
-**Musical Theatre**
-
-1. **Eight** core courses (See @sec-theatre-arts-major )
-
-2. MU 109 Theory of Music I 
-
-3. THE 170 Voice & Diction 
-
-4. THE 270 Musical Theatre Acting 
-
-5. **Four** terms of MUA 202V Voice (0.6 cc) 
-
-6. **One** additional course credit in practical musical theatre chosen from a combination of the following:
-	- MUA 130V MusicalTheatreProductionExperience (0.5 cc)
-	- MUA 131V Song Interpretation Workshop (0.2 cc)
-	- A musical theatre internship approved by the Music or Theatre Arts department
-
-7. **Six** seven-week dance courses (DAN-101 through DAN-142) (0.2 cc)
-
-**Technical Theatre/Design** 
-
-1. **Eight** core courses (see @sec-theatre-arts-major )
-
-2. **Three*** of the following: 
-	- THE 220 Lighting Design 
-	- THE 230 Technical Production II 
-	- THE 232 Computer Aided Drafting and Design 
-	- THE 242 Scene Design 
-	- THE 280 Costume Design
-	- THE 288 History of Dress 
-
-*Strongly recommended:* 
-	- ARH 118 History of Western Architecture 
-	- Any other Art History course 
-	- ART 115 Drawing 
-	- ART 145 Digital Studio 
-	- ART 364 The Human Form 
-	- PHY 155 Electronics and PHY 155L Electronics Lab  
-	- THE 442 Adv Proj-Design/Tech Production 
+1.	THE 100 Introduction to Theatre  
+2.	THE 130 Technical Production I  
+3.	THE 140 Design for the Stage  
+4.	THE 150 Acting I  
+5.	THE 185 Production and Performance (taken twice in performance role)  
+6.	THE 494 Internship in Theatre Arts  
+	**or**
+	NYT 250 Fine Arts in New York City  
+7.	At least **two** additional full credit course equivalents in consultation with advisor from the following list:  
+	* ENG 111 Intro to Lit:Art of Rdng & Writing  
+	* ENG 382 Shakespeare:Comedies/Romances  
+	* ENG 383 Shakespeare:Tragedies & Histories  
+	* THE 162 Stage Make-Up  
+	* THE 255 Playwriting Workshop I  
+	* THE 288 History of Dress  
+	* THE 355 Playwriting Workshop 2  
+	* THE 444 Ind Study-Theatre  
+	* THE 455 Playwriting Workshop 3  
+	* THE 486 Spc Top Theatre or Film: NWP  
+	* THE 494 Internship in Theatre Arts  
+	* NYT 250 Fine Arts in New York City  
+	* SPA 455 Spanish Drama  
+	* THE 161 Afro-Latin Dance  
+8.	**Four** MUA- vocal ensemble or vocal lessons full credit equivalent experiences  
 
 ### Courses in Theatre Arts {#sec-courses-in-theatre-arts}
 
@@ -5139,12 +5139,12 @@ Theatre Arts students select one of the following **emphases**: general, acting,
   An introduction to the technical aspects of theatre production. Topics covered include safety, mechanical drawing, stage carpentry, craft techniques, stage lighting and electricity, costume construction, scene painting, and production organization. Class includes lecture-demonstration and practical application. Additional time outside of class is necessary to complete projects. (Offered Fall Term)  
  **THE 140 Design for the Stage**  
   Examines the design process for all aspects of theatre design (costume, scenery, and lighting). Specific topics include the design elements, script analysis, research, basic drawing, basic drafting, and presentation techniques. A series of projects and readings introduce students to the basic language of visual story telling. Additional time outside of class is necessary to complete projects. (Offered Spring Term)  
- **THE 145 Viewpoints Ensemble Work**  
-  A course designed to provide students with a comprehensive understanding of Viewpoints Technique for actors. Viewpoints is a "philosophy translated into a technique for training performers, building ensemble and creating movement for the stage." Students working within a group dynamic learn to access acutely their centers of awareness and intensify their ability to work in the "here and now." Hands-on training is supplemented by readings, quizzes and journal writing. (Offered Fall Term, alternate years)  
  **THE 150 Acting I**  
   Stanislavsky-based, comprehensive introduction to the elements of acting for the stage. Through theatre games, improvisations, exercises, and partnered work on scenes grounded in realism, students learn to identify and personalize a character’s “objectives” and the “obstacles” that stand in the way of attaining them, and to engage themselves (via voice, body, mind, and spirit) in specific “actions” undertaken in pursuit of those identified goals. Emphasis is placed on “interactive” skills and on character-specific listening. Additional rehearsal time outside of class is required.  
  **THE 160 Movement for the Stage**  
   Designed to help students learn the effective use of the body as a component of the acting process. Physical expression in movement and gesture is developed by way of in-class exercises and improvisations, leading to the solo and collaborative creation of movement pieces for performance. Skills of concentration, breath control, partner awareness, and physical characterization are also fostered in this work.  
+ **THE 161 Afro-Latin Dance**  
+  Focuses on dances developed in the Americas as a result of the process of transculturation of African people brought into these lands. Afro-Latin dances are reviewed in relation to conceptions of community and the sacred, identity as well as migratory issues. This class is strongly interdisciplinary. The course includes a significant practical component, allowing students to acquire the footwork, fundamental steps, and sequences, alongside the historical context of several Afro-Latin dances: Dominican merengue and bachata, Latinx salsa, Argentine tango, Colombian cumbia, and Brazilian samba. No dance experience is required.  
  **THE 162 Stage Make-Up**  
   The theory and practice of designing and creating make-up for the stage actor. Lecture/demonstration plus laboratory experience.  
  **THE 170 Voice & Diction**  
@@ -5155,8 +5155,6 @@ Theatre Arts students select one of the following **emphases**: general, acting,
   A study of the equipment, mechanics, and theories used by lighting designers to produce lighting for theatre, dance, concerts, and architecture. Specific topics include design research and conceptualization, color, angle, cueing, and methods of presentation (sketches, storyboards, light plots, and associated paperwork). Class includes lecture/demonstration and practical application. Additional time outside of class is necessary to complete projects. Prerequisites: Design for the Stage (THE-140) and Technical Production I (THE-130) or consent of instructor. (Offered Spring Term, alternate years)  
  **THE 228 History of Theatre and Drama I**  
   A writing intensive course that provides students with an overview of World Theatre and Drama from cultures where oral traditions were the dominant forms of communication through and including those wherein the written word presented a new paradigm. The course provides a practical investigation of current critical discourses that examine dramatic literature and performance traditions from around the world. (Offered Fall Term in rotation with History of Theatre and Drama II (THE-238))  
- **THE 230 Technical Production II**  
-  A full-term study of the techniques and practical applications in a specific area of technical theatre. Possible course topics include stage management, drafting, sketching and rendering, scene painting, millinery, costume crafts, or fabric design. Prerequisite: Technical Production I (THE-130) or consent of instructor. (Offered by arrangement)  
  **THE 232 Computer Aided Drafting and Design**  
   An introduction to the use of the computer as a drafting and design tool. Using theatre-related examples and projects, students create two- and three-dimensional drawings. Further work involves 3-D modeling and creating perspective images of virtual stage settings. Class includes lecture/demonstration and laboratory. Additional time outside of class is necessary to complete projects. (Offered Spring Term, alternate years)  
  **THE 238 History of Theatre and Drama II**  
@@ -5175,6 +5173,9 @@ See MU 270 Musical Theatre Acting , @sec-courses-in-music
   A performance-based studio course focusing on the development of basic skills necessary for musical theatre performance. Students become familiar with the specialized requirements necessary for the merging of singing with dramatic action. Periodic performance projects (solos, duets, and ensemble numbers—some including dialogue) are supplemented by student research projects. The course is also designed to introduce students to a wide-ranging repertoire of available audition material. Additional rehearsal time outside of class is required.  
  **THE 280 Costume Design**  
   A study of the aesthetic, historical, and technical aspects of costume design. Projects emphasize research, character analysis, figure drawing, textile selection, and rendering. Class includes lecture-demonstration and practical application. Additional time outside of class is necessary to complete projects. Prerequisites: Technical Production I (THE-130) and Design for the Stage (THE-140) or consent of instructor.  
+ **THE 283 Arts Administration**  
+  MS-283 Arts Administration
+Implements the skills and guiding principles of managing arts-related organizations, in particular non-profits. Through collaborative efforts, students learn about project development and implementation, focusing on goal-setting initiatives, financial planning, marketing and advertising, viewership and participation, and audience awareness. Current issues and challenges facing nonprofit arts organizations will be addressed as well. Cross listed with MS-283 and MU-283.  
  **THE 288 History of Dress**  
   Traces the history of dress from ancient to modern times, with a special emphasis on dress as it relates to gender roles, social issues, cultural practices and beliefs, politics, and economic patterns within an historical context.  
  **THE 290 Directing I**  
