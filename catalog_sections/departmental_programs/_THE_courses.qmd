@@ -60,95 +60,95 @@ The minor in Theatre Arts consists of any **six** full-credit-equivalent course 
 * {{< var c.spa455.long >}}  
 * {{< var c.the161.long >}}  
 
-Theatre Arts students select one of the following **emphases**: general, acting, directing, musical theatre, and technical theatre/design.
+### Theatre Major Areas of Emphasis  
+Theatre Major areas of emphasis are designed to allow students to align a core of study in theatre arts with interdisciplinary coursework in other disciplines to create career pathways in the following areas.  
 
-**General**
+#### Secondary Education Endorsement in Theatre Arts  
 
-1. **Eight** core courses (see @sec-theatre-arts-major )
+1.	{{< var c.the100.long >}}  
+2.	{{< var c.eng111.long >}}  
+3.	{{< var c.the102.long >}}  (0.25 course credit each) (may be taken twice to replace one {{< var c.the112.long >}} for a total one full credit of technical theatre experience)  
+	**or**  
+	{{< var c.the112.long >}} (0.50 course credit each) (may be taken twice for one full credit or in combination with {{< var c.the102.long >}} taken twice for one full credit)  
+4.	{{< var c.com125.long >}}  
+5.	{{< var c.the130.long >}}  
+6.	{{< var c.the140.long >}}  
+7.	{{< var c.the150.long >}}  
+8.	{{< var c.the185.long >}} (One required, may be taken again as elective)  
+9.	{{< var c.eng382.long >}}  
+	**or**  
+	{{< var c.eng383.long >}}  
+10.	At least **three** of the following selected in consultation with advisor:  
+	* {{< var c.the162.long >}}  
+	* {{< var c.the185.long >}}  
+	* {{< var c.the255.long >}}  
+	* {{< var c.the288.long >}}  
+	* {{< var c.the355.long >}}   
+	* {{< var c.the444.long >}}  
+	* {{< var c.the455.long >}}  
+	* {{< var c.the486.long >}}  
+	* {{< var c.the494.long >}}  
 
-2. **Three** additional course credits of Theatre Arts, chosen with departmental approval. 
+#### Theatre Arts Management Emphasis  
 
-**Acting**
+1.	{{< var c.the100.long >}}  
+2.	{{< var c.the102.long >}}  (0.25 course credit each) (may be taken twice to replace one {{< var c.the112.long >}} for a total one full credit of technical theatre experience)  
+	**or**  
+	{{< var c.the112.long >}} (0.50 course credit each) (may be taken twice for one full credit or in combination with {{< var c.the102.long >}} taken twice for one full credit)  
+3.	{{< var c.the130.long >}}  
+4.	{{< var c.the140.long >}}  
+5.	{{< var c.the150.long >}}  
+6.	{{< var c.the185.long >}} (at least once as stage manager)  
+7.	{{< var c.the283.long >}}  
+8.	{{< var c.the494.long >}}  
+	**or**  
+	{{< var c.nyt250.long >}}  
+9.	**Two** additional theatre courses 200 level or above:  
+	* {{< var c.the220.long >}}  
+	* {{< var c.the255.long >}}  
+	* {{< var c.the288.long >}}  
+	* {{< var c.the355.long >}}  
+	* {{< var c.the444.long >}}  
+	* {{< var c.the455.long >}}  
+	* {{< var c.the486.long >}}  
+	* {{< var c.the494.long >}} (if not used to satisfy #8)  
+	* {{< var c.nyt250.long >}} (if not used to satisfy #8)  
+10.	At least **two** additional full course credit equivalents selected in consultation with advisor from the list:  
+	* {{< var c.bus125.long >}}  
+	* {{< var c.pr205.long >}}  
+	* {{< var c.bus250.long >}}  
+	* {{< var c.com322.long >}}  
+	* {{< var c.bus280.long >}} (0.50 course credit)  
+	* {{< var c.bus281.long >}} (0.50 course credit)  
+	* {{< var c.bus300.long >}}  
+	* {{< var c.bus330.long >}}  
 
-1. **Eight** core courses (see @sec-theatre-arts-major )
+#### Performing Arts Emphasis  
 
-2. {{< var c.the170.long >}} 
- 
-3. {{< var c.the250.long >}} 
-
-4. **One** of the following:
-	- {{< var c.the160.long >}} 
-	- {{< var c.the260.long >}} 
-	- {{< var c.the270.long >}} 
-	- {{< var c.the350.long >}}
- 
-*Strongly recommended:*
-
-- Any dance course (DAN-101 through DAN-152)
-- {{< var c.the162.long >}} 
-- {{< var c.the452.long >}} 
-- {{< var c.phl105.long >}} 
-- {{< var c.psy100.long >}} 
-
-**Directing**
-
-1. **Eight** core courses (see @sec-theatre-arts-major )
-
-2. {{< var c.the250.long >}} 
-
-3. {{< var c.the390.long >}} 
-
-4. **One** additional course in acting or design
-
-*Strongly recommended:*
-	- {{< var c.arh118.long >}} 
-	- {{< var c.com237.long >}}
-	- {{< var c.the220.long >}}  
-	- {{< var c.the242.long >}} 
-	- {{< var c.the280.long >}} 
-	- {{< var c.the350.long >}} 
-	- {{< var c.the462.long >}}
-	- Any other art history course 
-
-**Musical Theatre**
-
-1. **Eight** core courses (See @sec-theatre-arts-major )
-
-2. {{< var c.mu109.long >}} 
-
-3. {{< var c.the170.long >}} 
-
-4. {{< var c.the270.long >}} 
-
-5. **Four** terms of {{< var c.mua202v.long >}} (0.6 cc) 
-
-6. **One** additional course credit in practical musical theatre chosen from a combination of the following:
-	- {{< var c.mua130v.long >}} (0.5 cc)
-	- {{< var c.mua131v.long >}} (0.2 cc)
-	- A musical theatre internship approved by the Music or Theatre Arts department
-
-7. **Six** seven-week dance courses (DAN-101 through DAN-142) (0.2 cc)
-
-**Technical Theatre/Design** 
-
-1. **Eight** core courses (see @sec-theatre-arts-major )
-
-2. **Three*** of the following: 
-	- {{< var c.the220.long >}} 
-	- {{< var c.the230.long >}} 
-	- {{< var c.the232.long >}} 
-	- {{< var c.the242.long >}} 
-	- {{< var c.the280.long >}}
-	- {{< var c.the288.long >}} 
-
-*Strongly recommended:* 
-	- {{< var c.arh118.long >}} 
-	- Any other Art History course 
-	- {{< var c.art115.long >}} 
-	- {{< var c.art145.long >}} 
-	- {{< var c.art364.long >}} 
-	- {{< var c.phy155.long >}} and {{< var c.phy155l.long >}}  
-	- {{< var c.the442.long >}} 
+1.	{{< var c.the100.long >}}  
+2.	{{< var c.the130.long >}}  
+3.	{{< var c.the140.long >}}  
+4.	{{< var c.the150.long >}}  
+5.	{{< var c.the185.long >}} (taken twice in performance role)  
+6.	{{< var c.the494.long >}}  
+	**or**
+	{{< var c.nyt250.long >}}  
+7.	At least **two** additional full credit course equivalents in consultation with advisor from the following list:  
+	* {{< var c.eng111.long >}}  
+	* {{< var c.eng382.long >}}  
+	* {{< var c.eng383.long >}}  
+	* {{< var c.the162.long >}}  
+	* {{< var c.the255.long >}}  
+	* {{< var c.the288.long >}}  
+	* {{< var c.the355.long >}}  
+	* {{< var c.the444.long >}}  
+	* {{< var c.the455.long >}}  
+	* {{< var c.the486.long >}}  
+	* {{< var c.the494.long >}}  
+	* {{< var c.nyt250.long >}}  
+	* {{< var c.spa455.long >}}  
+	* {{< var c.the161.long >}}  
+8.	**Four** MUA- vocal ensemble or vocal lessons full credit equivalent experiences  
 
 ### Courses in Theatre Arts {#sec-courses-in-theatre-arts}
 
@@ -164,12 +164,12 @@ Theatre Arts students select one of the following **emphases**: general, acting,
   {{< var c.the130.desc >}}  
  **{{< var c.the140.long >}}**  
   {{< var c.the140.desc >}}  
- **{{< var c.the145.long >}}**  
-  {{< var c.the145.desc >}}  
  **{{< var c.the150.long >}}**  
   {{< var c.the150.desc >}}  
  **{{< var c.the160.long >}}**  
   {{< var c.the160.desc >}}  
+ **{{< var c.the161.long >}}**  
+  {{< var c.the161.desc >}}  
  **{{< var c.the162.long >}}**  
   {{< var c.the162.desc >}}  
  **{{< var c.the170.long >}}**  
@@ -180,8 +180,6 @@ Theatre Arts students select one of the following **emphases**: general, acting,
   {{< var c.the220.desc >}}  
  **{{< var c.the228.long >}}**  
   {{< var c.the228.desc >}}  
- **{{< var c.the230.long >}}**  
-  {{< var c.the230.desc >}}  
  **{{< var c.the232.long >}}**  
   {{< var c.the232.desc >}}  
  **{{< var c.the238.long >}}**  
@@ -200,6 +198,8 @@ See {{< var c.mu270.long >}} , @sec-courses-in-music
   {{< var c.the270.desc >}}  
  **{{< var c.the280.long >}}**  
   {{< var c.the280.desc >}}  
+ **{{< var c.the283.long >}}**  
+  {{< var c.the283.desc >}}  
  **{{< var c.the288.long >}}**  
   {{< var c.the288.desc >}}  
  **{{< var c.the290.long >}}**  
