@@ -8,20 +8,28 @@ Coe College offers academic and competitive scholarships to recognize the talent
 
 ### **Trustee Scholarships and Heritage Awards**  
 Academic scholarships and awards are based on high school academic record and test scores (ACT or SAT), if desired by the student.  Consideration may be given to leadership abilities, letters of recommendation, and/or community involvement, as well. Additional information can be obtained from the Office of Admission.  
+
 ### **Legacy Award**  
 Awards are available to children or grandchildren of Coe alumni.  
+
 ### **Sibling Award**  
 Awards are available to siblings of current students or siblings of Coe alumni.  
+
 ### **Transfer Scholarships**  
 Transfer students who have at least a 3.0 GPA may qualify for academic and talent-based scholarships. Students may be eligible to compete for full and partial scholarships.  
+
 ### **Visual and Performing Arts Scholarships**  
 Students with outstanding ability in art, music or theatre may compete for a scholarship. These scholarships are available to participating students.  
+
 ### **Merit Recognition Award**  
 Full-tuition Merit Recognition Awards are designated for students who hold finalist standing with the National Merit Scholarship Corporation in the National Merit Scholarship Program.  
+
 ### **Global Leadership Scholarship**   
 The Global Leadership Scholarship will be given to one student who demonstrates high academic achievement and financial need. This award is equal to the full-time tuition of the recipient’s entry year and renewed yearly at the same rate.  
+
 ### **Williston Jones Full-Tuition Scholarships**  
 Several full-and partial-tuition scholarships will be awarded. Finalists are invited to interview or audition on campus.  
+
 ### **The Impact Award**  
 The Coe College community values the ability each student has to make an impact on campus. This award recognizes this relationship the student has with the campus community. Eligible students are notified of the requirements to receive this award upon admission to the College.  
 
