@@ -2,45 +2,44 @@
 
 **COE COLLEGE** is a private, four-year co-educational liberal arts college that was founded in 1851 and is historically affiliated with the Presbyterian Church (U.S.A.), yet is ecumenical in practice and outlook. 
 
-### LOCATION
+## LOCATION
 
 Coe is located just 225 miles west of Chicago in Iowa’s second largest city, Cedar Rapids (metropolitan population 140,000). The city is easily accessible by the interstate highway system, bus services and several airlines.    
 
-### CAMPUS
+## CAMPUS
 
 Situated on 65 acres in the center of the metropolitan area, the campus is urban but enclosed, with 30 buildings occupying an attractive landscape.  
 
-### ENROLLMENT
+## ENROLLMENT
 
 The student body of approximately 1,200 students represents most states and around 15 foreign countries. All students are required to live on campus unless they are residents of Cedar Rapids. 
 
-### LIBRARY
+## LIBRARY
 
 Stewart Memorial Library is in the very center of the main campus. It contains over 500,000 volumes and 16,000 pieces of media, and subscribes to 3,500 print and online periodical subscriptions providing access to over 100 databases. Coe’s library offers students a variety of research assistance, study areas, a small theater, preview room, a media editing room, and a 3D printer and laser cutter. The Library houses the Learning Commons and the College’s permanent art collection.
 
-### ACCREDITATION
+## ACCREDITATION
 
 Coe College is accredited by the Higher Learning Commission (hlcommission.org), an institutional accreditation agency recognized by the U.S. Department of Education.  Coe College’s Bachelor of Music program is accredited by the National Association of Schools of Music; its education program is accredited by the Iowa Department of Education, and the baccalaureate degree program in nursing at Coe College is accredited by the Commission on Collegiate Nursing Education (http://www.ccneaccreditation.org) and is approved by the Iowa Board of Nursing.  Coe College’s chemistry program is certified by the American Chemical Society. Copies of accrediting and approval statements are available online at https://www.coe.edu/why-coe/consumer-information.
 
-### MEMBERSHIPS
+## MEMBERSHIPS
 
 Coe is a charter member of the Associated Colleges of the Midwest, whose other members are: Beloit College, Carleton College, Colorado College, Cornell College, Grinnell College, Knox College, Lake Forest College, Lawrence University, Luther College, Macalester College, Monmouth College, Ripon College, and St. Olaf College. Other memberships include: Phi Beta Kappa, Phi Kappa Phi, the National Association of Independent Colleges and Universities, the American Association of Colleges and Universities, Council on Undergraduate Research, the Association of Presbyterian Colleges and Universities, the American Rivers Conference, and the National Collegiate Athletic Association. 
 
-### ACADEMIC PROGRAM
+## ACADEMIC PROGRAM
 
 Academic areas of study are offered in managerial or public accounting, African American studies, art, Asian studies, biology, business administration, chemistry, communication studies, computer science, creative writing, data science, economics, elementary education, engineering physics (B.S.E.), English, history, interdisciplinary science, interdisciplinary studies, international economics, international studies, kinesiology, mathematics, music, nursing (B.S.N.), philosophy, physics, political science, psychology, social & criminal justice, sociology, Spanish, Spanish studies, and theatre arts. Collateral majors are also available in biochemistry, environmental studies, neuroscience, and public relations. Coe also offers licensure programs in primary and secondary education.  
 
-### EXTRA-CURRICULAR ACTIVITIES
+## EXTRA-CURRICULAR ACTIVITIES
 
 Students can participate in 11 men’s and 11 women’s NCAA Division III varsity athletic teams, 5 coed varsity athletic teams, 8 club sports, 7 nationally affiliated men’s and women’s social fraternities, and more than 65 student organizations including but not limited to student government, newspaper, intramural sports, departmental clubs, and residence hall activities. Various vocal and instrumental ensembles are available for course credit. 
 
-### FINANCIAL ASSISTANCE
+## FINANCIAL ASSISTANCE
 
 Coe College provides comprehensive need-based and merit-based financial aid programs designed to help qualified students attend Coe regardless of their family financial situation. These assistance programs are based on the premise that students and parents should pay for college to the extent that they are able. Need-based financial aid is used to help make up the difference between the cost of college and what a family can afford. Review the Coe College Financial Aid Handbook for more information.
 
 
-
-### HISTORY OF COE COLLEGE {#sec-history-of-coe-college} 
+## HISTORY OF COE COLLEGE {#sec-history-of-coe-college} 
 
 Coe College claims the shortest name of any American institution of higher education, but the school has actually carried five titles through its history. When the Rev. Williston Jones founded the college in 1851, he called it The School for the Prophets. Cedar Rapids’ first resident minister opened the parlor of his home to a group of young men with the goal of educating them for the ministry to serve churches in the Midwest. Two years later, while Jones was canvassing churches in the East for money to send three of his students to Eastern seminaries, a Catskills farmer named Daniel Coe stepped forward with a pledge of $1,500 and urged Jones to start his own college in the frontier town of Cedar Rapids. Legend has it that the $1,500 raised by Coe was brought west from New York, sewn into the petticoat of a lady visitor traveling by stagecoach to Iowa. Coe gave this generous gift with the stipulation that the proposed institute should be “made available for the education of females as well as males.”  Accordingly, Coe was coeducational from its founding.
 
