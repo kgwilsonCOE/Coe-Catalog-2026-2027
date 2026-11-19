@@ -1,6 +1,6 @@
 # 2026–2027 RESIDENTIAL ACADEMIC CALENDAR {#sec-academic-calendar}
 
-### FALL TERM 2026
+## FALL TERM 2026
 
    |   
 :-|---:
@@ -13,7 +13,7 @@ December 11 |	Last Day of Fall Term
 December 14–17 |	Final Exams
 
 
-### SPRING TERM 2027
+## SPRING TERM 2027
 
    |   
 :-|---:
@@ -28,7 +28,7 @@ May 8 |	Honors Convocation \/ Baccalaureate
 May 9 |	Commencement  
 
 
-### MAY EXPERIENTIAL TERM 2027
+## MAY EXPERIENTIAL TERM 2027
 
    |   
 :-|---:
@@ -38,7 +38,7 @@ June 4 |	Last Day of May Experiential Term
 June 5 |	Residence Halls Close
 
 
-### SUMMER TERM 2027*
+## SUMMER TERM 2027*
     
    |    
 :-|---:
